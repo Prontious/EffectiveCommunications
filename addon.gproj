@@ -1,0 +1,8 @@
+GameProject {
+ ID "EffectiveCommunications"
+ GUID "65A5204B50D03C1C"
+ TITLE "Effective Communications"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
