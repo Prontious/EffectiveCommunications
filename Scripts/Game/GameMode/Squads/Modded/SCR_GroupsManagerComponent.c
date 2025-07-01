@@ -3,7 +3,7 @@
 modded class SCR_GroupsManagerComponent
 {
     // Define our custom maximum number of squads.
-    private const int MAX_SQUADS_LIMIT = 1;
+    private const int MAX_SQUADS_LIMIT = 2;
 
     //------------------------------------------------------------------------------------------------
     override bool CanCreateNewGroup(notnull Faction newGroupFaction)
@@ -21,12 +21,6 @@ modded class SCR_GroupsManagerComponent
 
         // This rule must be enforced by the server. We let clients think they can create
         // a group, but the server will have the final say and reject the request.
-        RplComponent rpl = RplComponent.Cast(GetOwner().FindComponent(RplComponent));
-        if (rpl && rpl.IsProxy())
-        {
-            Print("[SCR_GroupsManagerComponent_Modded] Running on client (proxy). Allowing creation for client-side prediction.");
-            return true;
-        }
 
         // Get a list of all currently existing playable groups.
         array<SCR_AIGroup> allGroups = {};
