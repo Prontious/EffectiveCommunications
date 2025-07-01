@@ -1,56 +1,77 @@
-// EffectiveCommunications/Scripts/Game/Components/VoNComponent_Modded.c
-
 modded class SCR_VONController
 {
-	
-	//------------------------------------------------------------------------------------------------
-	//! VON activation
-	//! \param[in] entry which is being activated
-	//! \param[in] transmitType type of entry to be activated 
-	//! \return true if activation was successful, false otherwise 
- 	override protected bool ActivateVON(notnull SCR_VONEntry entry, EVONTransmitType transmitType = EVONTransmitType.NONE)
+	override protected bool ActivateVON(notnull SCR_VONEntry entry, EVONTransmitType transmitType = EVONTransmitType.NONE)
 	{
-		
 		int localPlayerId = SCR_PlayerController.GetLocalPlayerId();
-		// We only care about blocking radio transmissions, not direct speech. 
-		if (transmitType == EVONTransmitType.LONG_RANGE)
+
+		PrintFormat("[Modded VON] ActivateVON called by Player ID: %1 with Transmit Type: %2", localPlayerId, transmitType);
+
+		// Core restriction block
+		if (transmitType == EVONTransmitType.LONG_RANGE || transmitType == EVONTransmitType.CHANNEL || transmitType == EVONTransmitType.NONE)
 		{
-			// In Enforce Script, we interact with systems through components.
-			// First, get the component that manages the local player's group status.[1]
 			SCR_PlayerControllerGroupComponent playerGroupController = SCR_PlayerControllerGroupComponent.GetLocalPlayerControllerGroupComponent();
 			if (!playerGroupController)
 			{
-				Print("[Modded VON] Could not find PlayerControllerGroupComponent. Allowing transmission as a fallback.");
+				PrintFormat("[Modded VON] [Fallback] No PlayerControllerGroupComponent found for Player ID: %1. Allowing transmission.", localPlayerId);
 				return super.ActivateVON(entry, transmitType);
 			}
 
-			// From that component, get the actual group the player is in.
-			// We'll assume the method is GetPlayerGroup() based on the component's purpose.  
 			SCR_GroupsManagerComponent groupsMgr = SCR_GroupsManagerComponent.GetInstance();
-		SCR_AIGroup playerGroup = groupsMgr.GetPlayerGroup(localPlayerId);
+			SCR_AIGroup playerGroup = groupsMgr.GetPlayerGroup(localPlayerId);
+
 			if (!playerGroup)
 			{
-				// Player is not in a group, so they cannot be a leader. 
-				Print("[Modded VON] Player is not in a group. Blocking LONG_RANGE transmission.");
-				return false;
+				PrintFormat("[Modded VON] [Blocked] Player ID: %1 is not in a group. Transmission blocked.", localPlayerId);
+				return false; // Only block this attempt, do not lock VON
 			}
 
-			// Now that we have the group object, we can get the ID of its leader.[2]
-			// The method is likely GetLeaderID() as a counterpart to SetGroupLeader(playerID). 
+			int groupID = playerGroup.GetGroupID();
 			int leaderID = playerGroup.GetLeaderID();
 
-			// If the local player's ID does not match the leader's ID, block the transmission. 
-			if (localPlayerId!= leaderID)
+			PrintFormat("[Modded VON] Player ID: %1 is in Group ID: %2. Group Leader ID: %3", localPlayerId, groupID, leaderID);
+
+			SCR_FactionManager factionMgr = SCR_FactionManager.Cast(GetGame().GetFactionManager());
+			SCR_Faction playerFaction = SCR_Faction.Cast(factionMgr.SGetPlayerFaction(localPlayerId));
+
+			if (!playerFaction)
 			{
-				super.SetVONDisabled(true);
-				Print(string.Format("[Modded VON] Player %1 is not the group leader (Leader is %2). Blocking LONG_RANGE transmission.", localPlayerId, leaderID));
-				return false;
+				PrintFormat("[Modded VON] [Fallback] Could not determine faction for Player ID: %1. Allowing transmission.", localPlayerId);
+				return super.ActivateVON(entry, transmitType);
 			}
-			
-			Print(string.Format("[Modded VON] Player %1 IS the group leader. Allowing LONG_RANGE transmission.", localPlayerId));
+
+			int factionFreq = playerFaction.GetFactionRadioFrequency();
+			PrintFormat("[Modded VON] Player ID: %1 Faction Frequency: %2", localPlayerId, factionFreq);
+
+			SCR_VONEntryRadio radioEntry = SCR_VONEntryRadio.Cast(entry);
+			if (radioEntry)
+			{
+				int currentFreq = radioEntry.GetEntryFrequency();
+
+				PrintFormat("[Modded VON] Player ID: %1 attempting to transmit on Frequency: %2", localPlayerId, currentFreq);
+
+				// Block if player is not leader and is using the platoon frequency
+				if (currentFreq == factionFreq && localPlayerId != leaderID)
+				{
+					PrintFormat("[Modded VON] [Blocked] Player ID: %1 is NOT the group leader (Leader ID: %2). Cannot transmit on platoon frequency: %3", localPlayerId, leaderID, factionFreq);
+					return false; // Only block this attempt, do not lock VON
+				}
+
+				PrintFormat("[Modded VON] [Allowed] Player ID: %1 IS the group leader OR is using a non-platoon frequency. Transmission allowed.", localPlayerId);
+				return super.ActivateVON(entry, transmitType);
+			}
+			else
+			{
+				PrintFormat("[Modded VON] [Fallback] Entry is not a radio entry. Allowing transmission by default.");
+				return super.ActivateVON(entry, transmitType);
+			}
 		}
-		
-		// If the check passes, or for any non-radio transmission, proceed with the original game logic.
+		else if (transmitType == EVONTransmitType.DIRECT)
+		{
+			PrintFormat("[Modded VON] [Allowed] Direct transmission by Player ID: %1.", localPlayerId);
+			return super.ActivateVON(entry, transmitType);
+		}
+
+		PrintFormat("[Modded VON] [Fallback] Unhandled transmit type: %1. Allowing transmission for Player ID: %2", transmitType, localPlayerId);
 		return super.ActivateVON(entry, transmitType);
 	}
-};
+}
