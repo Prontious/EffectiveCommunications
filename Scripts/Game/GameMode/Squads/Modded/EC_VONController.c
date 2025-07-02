@@ -26,7 +26,7 @@ modded class SCR_VONController
 
 			if (!playerGroup)
 			{
-				PrintFormat("[Modded VON] [Blocked] Player ID: %1 is not in a group. Transmission blocked.", localPlayerId);
+				PrintFormat("[Modded VON] [Blocked] Player ID: %1 is not in a group. Transmission blocked .", localPlayerId);
 				return false; // Only block this attempt, do not lock VON
 			}
 
@@ -62,11 +62,17 @@ modded class SCR_VONController
 				// Block if player is not leader and is using the platoon frequency
 				if (currentFreq == factionFreq && localPlayerId != leaderID)
 				{
+
 					PrintFormat("[Modded VON] [Blocked] Player ID: %1 is NOT the group leader (Leader ID: %2). Cannot transmit on platoon frequency: %3", localPlayerId, leaderID, factionFreq);
 					return false; // Only block this attempt, do not lock VON
 				}
+				if (currentFreq == factionFreq) {
+						PrintFormat("[Modded VON] [Allowed] Player ID: %1 is the group leader (Leader ID: %2). Transmission Allowed on: %3", localPlayerId, leaderID, factionFreq);
+					}
+				else
+				{				PrintFormat("[Modded VON] [Allowed] Player ID: %1 is using a non-platoon frequency. Transmission allowed.", localPlayerId);
+}
 
-				PrintFormat("[Modded VON] [Allowed] Player ID: %1 IS the group leader OR is using a non-platoon frequency. Transmission allowed.", localPlayerId);
 				return super.ActivateVON(entry, transmitType);
 			}
 			else
