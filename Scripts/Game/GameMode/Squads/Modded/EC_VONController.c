@@ -17,6 +17,11 @@ modded class SCR_VONController
 			}
 
 			SCR_GroupsManagerComponent groupsMgr = SCR_GroupsManagerComponent.GetInstance();
+			if (!groupsMgr)
+			{
+				PrintFormat("[Modded VON] No Groups Manager Found");
+				return super.ActivateVON(entry, transmitType);
+			}
 			SCR_AIGroup playerGroup = groupsMgr.GetPlayerGroup(localPlayerId);
 
 			if (!playerGroup)
@@ -31,6 +36,11 @@ modded class SCR_VONController
 			PrintFormat("[Modded VON] Player ID: %1 is in Group ID: %2. Group Leader ID: %3", localPlayerId, groupID, leaderID);
 
 			SCR_FactionManager factionMgr = SCR_FactionManager.Cast(GetGame().GetFactionManager());
+			if (!factionMgr)
+			{
+				PrintFormat("[Modded VON] No Faction Manager Found");
+				return super.ActivateVON(entry, transmitType);
+			}
 			SCR_Faction playerFaction = SCR_Faction.Cast(factionMgr.SGetPlayerFaction(localPlayerId));
 
 			if (!playerFaction)
