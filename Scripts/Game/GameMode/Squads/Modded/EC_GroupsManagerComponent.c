@@ -3,7 +3,7 @@
 modded class SCR_GroupsManagerComponent
 {
     // Define our custom maximum number of squads.
-    	[Attribute(defvalue: "2", uiwidget: UIWidgets.Slider, params: "1 16 1", desc: "Maximum number of squads allowed.")]
+    	[Attribute(defvalue: "10", uiwidget: UIWidgets.Slider, params: "1 16 1", desc: "Maximum number of squads allowed.")]
 	protected int m_iMaxSquadsLimit;
 
     //------------------------------------------------------------------------------------------------
