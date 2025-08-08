@@ -60,7 +60,7 @@ modded class SCR_VONController
 				PrintFormat("[Modded VON] Player ID: %1 attempting to transmit on Frequency: %2", localPlayerId, currentFreq);
 
 				// Block if player is not leader and is using the platoon frequency
-				if (currentFreq == factionFreq && localPlayerId != leaderID)
+				if (currentFreq == factionFreq && playerGroupController.IsPlayerLeaderOwnGroup()==false)
 				{
 
 					PrintFormat("[Modded VON] [Blocked] Player ID: %1 is NOT the group leader (Leader ID: %2). Cannot transmit on platoon frequency: %3", localPlayerId, leaderID, factionFreq);
