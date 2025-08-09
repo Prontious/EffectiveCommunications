@@ -23,6 +23,7 @@ modded class SCR_VONController
 				return super.ActivateVON(entry, transmitType);
 			}
 			SCR_AIGroup playerGroup = groupsMgr.GetPlayerGroup(localPlayerId);
+			string groupName = playerGroup ? playerGroup.GetGroupName().toLower() : "No Group";
 
 			if (!playerGroup)
 			{
@@ -51,6 +52,7 @@ modded class SCR_VONController
 
 			int factionFreq = playerFaction.GetFactionRadioFrequency();
 			PrintFormat("[Modded VON] Player ID: %1 Faction Frequency: %2", localPlayerId, factionFreq);
+			array<string> whiteListNames = {"pilots", "aviators","pilot"};
 
 			SCR_VONEntryRadio radioEntry = SCR_VONEntryRadio.Cast(entry);
 			if (radioEntry)
@@ -60,7 +62,7 @@ modded class SCR_VONController
 				PrintFormat("[Modded VON] Player ID: %1 attempting to transmit on Frequency: %2", localPlayerId, currentFreq);
 
 				// Block if player is not leader and is using the platoon frequency
-				if (currentFreq == factionFreq && playerGroupController.IsPlayerLeaderOwnGroup()==false)
+				if (currentFreq == factionFreq && playerGroupController.IsPlayerLeaderOwnGroup()==false && !whiteListNames.Contains(groupName))
 				{
 
 					PrintFormat("[Modded VON] [Blocked] Player ID: %1 is NOT the group leader (Leader ID: %2). Cannot transmit on platoon frequency: %3", localPlayerId, leaderID, factionFreq);
