@@ -18,20 +18,23 @@ jobs:
           ID=T1BmAAAAcAAJ
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
           mkdir -p breviary/source && cd breviary/source
-          curl -sSL "https://www.googleapis.com/books/v1/volumes/$ID" -o volume.json || true
-          cat volume.json | head -100 || true
-          DL=$(jq -r '.accessInfo.pdf.downloadLink // empty' volume.json 2>/dev/null)
-          echo "API link: $DL"
-          curl -sSL -A "$UA" -c cj.txt -b cj.txt "https://books.google.com/books?id=$ID" -o about.html || true
-          [ -z "$DL" ] && DL=$(grep -oE 'https?://books.google[^"]*/books/download/[^"]*output=pdf[^"]*' about.html | head -1 | sed 's/&amp;/\&/g')
-          [ -z "$DL" ] && DL="https://books.google.com/books/download/Breviarium.pdf?id=$ID&output=pdf"
-          echo "Using: $DL"
-          curl -sSL -A "$UA" -c cj.txt -b cj.txt "$DL" -o book.pdf || true
-          file book.pdf; ls -la
-          # ONB fallback info
-          curl -sSL -A "$UA" "https://onb.digital/search/232555" -o onb_search.html || true
-          grep -oE '\+Z[0-9]+' onb_search.html | sort -u > onb_barcodes.txt || true
-          cat onb_barcodes.txt
+          rm -f download_failure.html volume.json onb_barcodes.txt onb_search.html
+          ABOUT="https://books.google.com/books/about/Breviarium_secundum_usum_ordinis_S_Johan.html?id=$ID"
+          curl -sSL -A "$UA" -c cj.txt -b cj.txt "$ABOUT" -o about.html
+          rel=$(grep -oE 'books/download/[^"\\]*output=pdf[^"\\]*sig=[^"\\&]*' about.html | head -1 | sed 's/&amp;/\&/g')
+          echo "signed: $rel"
+          for i in 1 2 3 4; do
+            sleep $((i*i*5))
+            curl -sSL -A "$UA" -e "$ABOUT" -c cj.txt -b cj.txt "https://books.google.com/$rel" -o book.pdf || true
+            file book.pdf | grep -q PDF && break
+          done
+          if ! file book.pdf | grep -q PDF; then
+            mv book.pdf pdf_failure.html
+            curl -sSL -A "$UA" -e "$ABOUT" -c cj.txt -b cj.txt "https://books.google.com/books/download/Breviarium.epub?id=$ID&output=epub" -o book.epub || true
+            file book.epub
+          fi
+          curl -sSL -A "$UA" "https://onb.digital/search/?q=Breviarium%20ordinis%20Johannis%20Hierosolymitani" -o onb_search.html || true
+          grep -oE 'onb.digital/result/[0-9A-F]+' onb_search.html | sort -u | tee onb_results.txt || true
           rm -f cj.txt
       - name: Extract text and split PDF
         run: |
@@ -45,8 +48,9 @@ jobs:
               pdfseparate -f $s -l $e book.pdf /tmp/p-%04d.pdf
               pdfunite $(ls /tmp/p-*.pdf | sort) pdf/pages_$(printf %04d $s)-$(printf %04d $e).pdf; rm /tmp/p-*.pdf; done
             ls -la pdf; rm book.pdf
-          else
-            head -c 3000 book.pdf; mv book.pdf download_failure.html
+          elif [ -f book.epub ] && file book.epub | grep -qi zip; then
+            mkdir -p epub && cd epub && unzip -q ../book.epub && cd .. && rm book.epub
+            ls -R epub | head -50
           fi
       - name: Commit
         run: |
