@@ -1,0 +1,57 @@
+name: Fetch breviary scan
+on:
+  push:
+    branches: [claude/breviary-lauds-translation-jh0n5u]
+    paths: [.github/workflows/fetch-breviary.yml]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils jq >/dev/null
+      - name: Download
+        run: |
+          set -x
+          ID=T1BmAAAAcAAJ
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          mkdir -p breviary/source && cd breviary/source
+          curl -sSL "https://www.googleapis.com/books/v1/volumes/$ID" -o volume.json || true
+          cat volume.json | head -100 || true
+          DL=$(jq -r '.accessInfo.pdf.downloadLink // empty' volume.json 2>/dev/null)
+          echo "API link: $DL"
+          curl -sSL -A "$UA" -c cj.txt -b cj.txt "https://books.google.com/books?id=$ID" -o about.html || true
+          [ -z "$DL" ] && DL=$(grep -oE 'https?://books.google[^"]*/books/download/[^"]*output=pdf[^"]*' about.html | head -1 | sed 's/&amp;/\&/g')
+          [ -z "$DL" ] && DL="https://books.google.com/books/download/Breviarium.pdf?id=$ID&output=pdf"
+          echo "Using: $DL"
+          curl -sSL -A "$UA" -c cj.txt -b cj.txt "$DL" -o book.pdf || true
+          file book.pdf; ls -la
+          # ONB fallback info
+          curl -sSL -A "$UA" "https://onb.digital/search/232555" -o onb_search.html || true
+          grep -oE '\+Z[0-9]+' onb_search.html | sort -u > onb_barcodes.txt || true
+          cat onb_barcodes.txt
+          rm -f cj.txt
+      - name: Extract text and split PDF
+        run: |
+          cd breviary/source
+          if file book.pdf | grep -q PDF; then
+            pdfinfo book.pdf | tee pdfinfo.txt
+            pdftotext -layout book.pdf book.txt
+            N=$(pdfinfo book.pdf | awk '/^Pages/{print $2}')
+            mkdir -p pdf
+            for s in $(seq 1 100 $N); do e=$((s+99)); [ $e -gt $N ] && e=$N
+              pdfseparate -f $s -l $e book.pdf /tmp/p-%04d.pdf
+              pdfunite $(ls /tmp/p-*.pdf | sort) pdf/pages_$(printf %04d $s)-$(printf %04d $e).pdf; rm /tmp/p-*.pdf; done
+            ls -la pdf; rm book.pdf
+          else
+            head -c 3000 book.pdf; mv book.pdf download_failure.html
+          fi
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add breviary/source
+          git commit -m "Fetch breviary scan (T1BmAAAAcAAJ) via Actions" || exit 0
+          git push
