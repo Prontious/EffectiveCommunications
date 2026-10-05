@@ -178,3 +178,4 @@
 - 511: Sun XXV (Cum sublevasset oculos; Excita…tuorum fidelium voluntates) → done. COMMEMORATION OF THE RESURRECTION (Sunday before Advent, semidouble, 'secundum usum ecclesie dominici sepulchri') 1st Vespers on 511b; Lauds on 512
 - 512–513: COMMEMORATION OF RESURRECTION LAUDS → done (Easter ants; cap Christus resurgens; hymn Sermone blando; Bened. Sedit angelus ad sepulchrum; collect Deus qui per unigenitum)
 - 514: end of Commemoration hours; memorials of Resurrection until Advent; EXPLICIT TEMPORALE. PROPER OF SEASON COMPLETE. NEXT: sanctorale from p.515
+- 515–519: DEDICATION OF A CHURCH (double) LAUDS → 06-dedication.md (ants Domum tuam…; cap Vidi civitatem; hymn Hoc in templo; Bened. Mane surgens Iacob; collect Deus qui invisibiliter)
