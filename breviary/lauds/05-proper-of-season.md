@@ -5346,3 +5346,103 @@ week, as after Low Sunday; the ferial pattern is the same (see above).
 > tend to where the glorious author of this day's solemnity has entered, and that we may
 > reach by our way of life the place to which we travel by faith. Through the same [Christ
 > our Lord].
+
+---
+
+## The Ascension of the Lord (scan p. 418)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Ascendens Christus in altum,
+> alleluia. ℟. Captivam duxit *[captivitatem, alleluia]*.
+>
+> In laudibus. *Antiphona.* Viri Galilei, quid aspicitis in celum? Hic Iesus, qui assumptus
+> est a vobis in celum, sic veniet, alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Cumque intuerentur in celum euntem illum, dixerunt, alleluia. *Psalmus*
+> Iubilate.
+>
+> *Antiphona.* Elevatis manibus ferebatur in celum, et benedixit eis, alleluia. *Psalmus*
+> Deus deus meus.
+>
+> *Antiphona.* Exaltate regem regum, et hymnum dicite Deo, alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Videntibus illis elevatus est, et nubes suscepit eum in celo, alleluia.
+> *Psalmus* Laudate.
+>
+> *Capitulum.* Primum quidem sermonem *[feci de omnibus, o Theophile …]*.
+>
+> *Hymnus* Tu Christe nostrum *[gaudium]*. ℣. Elevata est magnificentia tua, alleluia. ℟.
+> Super celos, Deus, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Ascendo ad patrem meum et patrem vestrum, Deum meum et Deum
+> vestrum, alleluia.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut qui hodierna die unigenitum tuum
+> redemptorem nostrum ad celos ascendisse credimus, ipsi quoque mente in celestibus
+> habitemus. Per eundem.
+>
+> *Ad primam antiphona* Viri Galilei …
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Christ, ascending on high,
+> alleluia. ℟. Led captivity captive, alleluia. (cf. Eph 4:8; Ps 67:19)
+>
+> **At Lauds.** *Antiphon:* Ye men of Galilee, why stand you looking up to heaven? This
+> Jesus, who is taken up from you into heaven, shall so come, alleluia. (Acts 1:11) *Psalm
+> 92* The Lord hath reigned.
+>
+> *Antiphon:* And while they were looking up to heaven as he went, they said, alleluia.
+> (cf. Acts 1:10) *Psalm 99* Shout with joy.
+>
+> *Antiphon:* With hands lifted up he was carried into heaven, and he blessed them,
+> alleluia. (cf. Lk 24:50–51) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Exalt the King of kings, and sing a hymn to God, alleluia. *Canticle* Bless
+> [the Lord].
+>
+> *Antiphon:* While they looked on, he was lifted up, and a cloud received him in heaven,
+> alleluia. (cf. Acts 1:9) *Psalm 148* Praise.
+>
+> *Chapter:* The former treatise [I made, O Theophilus, of all things that Jesus began to do
+> and to teach …] (Acts 1:1).
+>
+> *Hymn* O Christ, our [joy] *[the Vespers hymn printed on scan p. 415, cued]*. ℣. Thy
+> magnificence is exalted, alleluia. ℟. Above the heavens, O God, alleluia. (cf. Ps 8:2)
+>
+> *Antiphon at the Benedictus:* I ascend to my Father and your Father, to my God and your
+> God, alleluia. (Jn 20:17)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who believe that on this day thine
+> only-begotten Son, our Redeemer, ascended into heaven, may ourselves also dwell in mind
+> among heavenly things. Through the same.
+>
+> *At Prime, the antiphon* Ye men of Galilee …
+
+### *Tu Christe nostrum gaudium* (as printed at first Vespers, scan p. 415)
+
+> Tu Christe nostrum gaudium, / manens olympo premium, / mundi regis qui fabricam, /
+> mundana vincens gaudia.
+> Hinc te precantes quesumus, / ignosce culpis omnibus, / et corda sursum subleva / ad te
+> superna gratia,
+> Ut cum repente ceperis / clarere nube iudicis, / penas repellas debitas, / reddas coronas
+> perditas.
+> Tu esto nostrum gaudium, / qui es futurus premium; / sit nostra in te gloria / per cuncta
+> semper secula.
+> Gloria tibi, Domine, / qui scandis supra sydera, / cum patre et sancto spiritu, / in
+> sempiterna secula. Amen.
+
+> O Christ, our joy, our reward abiding in heaven, thou who rulest the fabric of the world,
+> surpassing all worldly joys:
+> Therefore, praying to thee, we beseech thee: pardon all our faults, and lift up our hearts
+> to thee by grace from on high,
+> So that when thou suddenly beginst to shine out on the cloud as judge, thou mayest put
+> away the punishments we deserve and give back the crowns we had lost.
+> Be thou our joy, who art to be our reward; let our glory be in thee through all ages for
+> ever.
+> Glory to thee, O Lord, who climbest above the stars, with the Father and the Holy Spirit,
+> for ever and ever. Amen.
+
+*Note.* At Vespers the book prints this hymn as the second part (*divisio*) of *Eterne rex
+altissime*; Lauds cues it by its first line.

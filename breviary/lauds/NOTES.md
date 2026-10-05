@@ -142,3 +142,4 @@
 - 411–412: ROGATION SUNDAY LAUDS (Bened. Usque modo non petistis; collect Deus a quo bona cued) → done. 412b: Rogation Monday Matins begins
 - 413: ROGATION MONDAY LAUDS (cap. Confitemini alterutrum; Bened. Quis vestrum habebit amicum; collect Presta…in afflictione nostra) → done; suffrages omitted until after Corpus Christi octave
 - 414–415: ROGATION TUE (Exivi a patre; Deus qui nos conspicis in tot perturbationibus) + WED/VIGIL OF ASCENSION (Clarifica me pater; Presta…omnipotens pater ut nostre mentis) → done. 415: 1st Vespers Ascension (double; hymn Eterne rex altissime — Vespers)
+- 416–418: ASCENSION LAUDS → done (ants Viri Galilei…; cap. Primum quidem sermonem; hymn Tu Christe nostrum gaudium (text from p.415); Bened. Ascendo ad patrem; collect Concede…hodierna die unigenitum)
