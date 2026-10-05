@@ -226,3 +226,4 @@
 - 633: SS NEREUS/ACHILLEUS/PANCRAS 12 May; ST BERNARDINE 20 May; ST URBAN 25 May; ST NICOMEDES 1 Jun; SS MARCELLINUS & PETER 2 Jun; ST CLAUDIUS 6 Jun (all Common; collects where given) → done
 - 634: SS MEDARD & GILDARD 8 Jun; SS PRIMUS & FELICIAN 9 Jun; ST BARNABAS 11 Jun (semidouble; Common apostles; collect Ecclesiam tuam…Barnabe) → done
 - 636: SS BASILIDES etc. 12 Jun; ST ANTHONY OF PADUA 13 Jun; ST ELISHA PROPHET 14 Jun ('montis Carmeli incolam'); SS VITUS, MODESTUS & CRESCENTIA 15 Jun; SS CYRICUS & JULITTA 16 Jun; SS MARK & MARCELLIAN 18 Jun; SS GERVASE & PROTASE 19 Jun → done
+- 637–644: NATIVITY OF ST JOHN BAPTIST 24 Jun (double, solemn octave) LAUDS → done (ants Elisabeth Zacharie…; cap Audite insule; hymn O nimis felix; Bened. Apertum est os Zacharie; collect Deus qui presentem diem)

@@ -2497,3 +2497,82 @@ headquarters before it moved to Rhodes in 1310.
 > *Collect:* O God, who gladdenest us with the yearly solemnity of thy holy martyrs Gervase and
 > Protase: mercifully grant that we may be kindled by the example of those in whose merits we
 > rejoice. Through [our] Lord.
+
+### The Nativity of St John the Baptist — 24 June (scan pp. 643–644)
+
+A double with a solemn octave: the patronal feast of the Order of St John. Its Lauds are the same
+texts that the weekday votive office of St John borrows ([section 4](04-weekday-votive-offices.md)),
+here in their proper setting.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Fuit homo missus a Deo, alleluia. ℟. Cui
+> nomen erat Iohannes, alleluia.
+>
+> In laudibus. *Antiphona.* Elisabeth Zacharie magnum virum genuit, Iohannem Baptistam, precursorem
+> Domini. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Innuebant patri eius quem vellet vocari eum; et scripsit dicens: Iohannes est nomen
+> eius. *Psalmus* Iubilate.
+>
+> *Antiphona.* Iohannes vocabitur nomen eius, et in nativitate eius multi gaudebunt. *Psalmus* Deus
+> deus.
+>
+> *Antiphona.* Iohannes est nomen eius; vinum et siceram non bibet, et multi in nativitate eius
+> gaudebunt. *Psalmus* Benedicite.
+>
+> *Antiphona.* Inter natos mulierum non surrexit maior Iohanne Baptista. *Psalmus* Laudate Dominum.
+>
+> *Capitulum.* Audite, insule, et attendite, populi de longe: Dominus ab utero vocavit me; de ventre
+> matris mee recordatus est nominis mei.
+>
+> *Hymnus* O nimis *[felix meritique celsi]*. ℣. Magna est gloria *[eius in salutari tuo]*.
+>
+> *Ad* Benedictus *antiphona.* Apertum est os Zacharie, et prophetavit dicens: Benedictus Deus
+> Israel.
+>
+> *Oratio.* Deus, qui presentem diem honorabilem nobis in beati Iohannis nativitate fecisti, da
+> populis tuis spiritualium gratiam gaudiorum, et omnium fidelium mentes dirige in viam salutis
+> eterne. Per Dominum.
+>
+> *Ad primam et ad alias horas antiphone de laudibus; cetera ut in festis duplicibus.* … *Et nota
+> quod per has octavas fiunt octave solemnes.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* There was a man sent from God,
+> alleluia. ℟. Whose name was John, alleluia. (Jn 1:6)
+>
+> **At Lauds.** *Antiphon:* Elizabeth, wife of Zachary, bore a great man, John the Baptist, the
+> forerunner of the Lord. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* They made signs to his father, how he would have him called; and he wrote, saying: John
+> is his name. (Lk 1:62–63) *Psalm 99* Shout with joy.
+>
+> *Antiphon:* His name shall be called John, and many shall rejoice at his birth. (cf. Lk 1:13–14)
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* John is his name; he shall drink no wine nor strong drink, and many shall rejoice at his
+> birth. (cf. Lk 1:14–15) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Among those born of women there has not risen a greater than John the Baptist.
+> (Mt 11:11) *Psalm 148* Praise the Lord.
+>
+> *Chapter:* Listen, O islands, and hearken, ye peoples from afar: the Lord has called me from the
+> womb; from my mother's body he has remembered my name. (Is 49:1)
+>
+> *Hymn* O blessed beyond measure *[the hymn printed in full in section 4]*. ℣. Great is [his] glory
+> [in thy salvation].
+>
+> *Antiphon at the Benedictus:* The mouth of Zachary was opened, and he prophesied, saying: Blessed be
+> the God of Israel. (cf. Lk 1:64, 67–68)
+>
+> *Collect:* O God, who hast made this day honourable for us by the birth of blessed John: grant thy
+> peoples the grace of spiritual joys, and direct the minds of all the faithful into the way of
+> eternal salvation. Through [our] Lord.
+>
+> *At Prime and the other hours, the antiphons of Lauds; the rest as on double feasts.* … *And note
+> that this octave is kept as a solemn octave.*
+
+*Note.* The chapter *Audite insule* ("Listen, O islands") had a particular aptness for an Order
+whose convent stood on the island of Rhodes.
