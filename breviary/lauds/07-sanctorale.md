@@ -878,3 +878,102 @@ His Lauds follow on the next page.
 
 *Note.* The Lauds hymn is the rhymed responsory of Matins (*Christi miles preciosus*, scan
 p. 561) recast in hymn form, followed by the doxology *Gloria et honor Deo*.
+
+### St Timothy, Bishop and Martyr — 24 January (scan p. 562)
+
+> *Sancti Thimothei episcopi et martyris, ix lectiones; omnia ut in communi unius martyris et
+> episcopi, cum oratione propria.*
+>
+> *Oratio.* Infirmitatem nostram respice, omnipotens Deus, et quia pondus proprie actionis
+> gravat, beati Thimothei martyris tui atque pontificis intercessio gloriosa nos protegat.
+
+> *St Timothy, bishop and martyr: nine lessons; everything as in the Common of one martyr and
+> bishop, with the proper collect.*
+>
+> *Collect:* Look upon our weakness, almighty God, and because the weight of our own deeds
+> bears us down, may the glorious intercession of blessed Timothy, thy martyr and bishop,
+> protect us.
+
+### The Conversion of St Paul — 25 January (scan pp. 562–565)
+
+A semidouble, with proper antiphons at Lauds; the chapter, hymn and versicle come from the
+Common of Apostles.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Dedisti hereditatem *[timentibus
+> nomen tuum, Domine]*.
+>
+> In laudibus. *Antiphona.* A Christo de celo vocatus et in terram prostratus, ex persecutore
+> effectus est vas electionis. *Psalmus* Dominus regnavit. *[*℣. Prostratus est
+> sevissimus persecutor, et erectus est fidelissimus predicator.*]*
+>
+> *Antiphona.* Ingressus Paulus in synagogas predicabat Iudeis Iesum, affirmans quia hic est
+> Christus. *Psalmus* Iubilate. *[*℣. Stupebant autem omnes qui eum audiebant.*]*
+>
+> *Antiphona.* Saulus autem magis convalescebat in Christo, et confundebat Iudeos. *Psalmus*
+> Deus deus. *[*℣. Affirmans quia hic est Christus filius Dei vivi.*]*
+>
+> *Antiphona.* Tu es vas electionis, sancte Paule apostole, predicator veritatis in universo
+> mundo. *Psalmus* Benedicite omnia. *[*℣. Per quem omnes gentes cognoverunt gratiam Dei.*]*
+>
+> *Antiphona.* Magnus sanctus Paulus, vas electionis, vere digne est glorificandus, qui et
+> meruit thronum duodecimum possidere. *Psalmus* Laudate Dominum. *[*℣. In regeneratione, cum
+> sederit filius hominis in sede maiestatis sue.*]*
+>
+> *Capitulum* Non vos me elegistis *[sed ego elegi vos …]*. *Hymnus,* ℣. *ut in communi
+> apostolorum.*
+>
+> *Ad* Benedictus *antiphona.* Vos qui secuti estis me sedebitis super sedes, iudicantes
+> duodecim tribus Israel, dicit Dominus. ℣. In regeneratione, cum sederit filius hominis in
+> sede maiestatis sue.
+>
+> *Oratio.* Deus, qui universum mundum beati Pauli apostoli predicatione docuisti, da nobis,
+> quesumus, ut qui eius conversionem colimus, per eius ad te exempla gradiamur. Per Dominum.
+>
+> *Memoria de sancto Preiecto. Antiphona* Nisi granum *[frumenti …]*. ℣. Magna est gloria.
+> *Oratio* Beati Preiecti *[martyris tui, quesumus, Domine, interventio gloriosa nos commendet
+> …]*.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Thou hast given an inheritance [to
+> those that fear thy name, O Lord].
+>
+> **At Lauds.** *Antiphon:* Called by Christ from heaven and thrown to the ground, from a
+> persecutor he was made a chosen vessel. *Psalm 92* The Lord hath reigned. *[With the verse:*
+> The fiercest persecutor was cast down, and the most faithful preacher was raised up.*]*
+>
+> *Antiphon:* Paul went into the synagogues and preached Jesus to the Jews, affirming that this
+> is the Christ. (cf. Acts 9:20–22) *Psalm 99* Shout with joy. *[Verse:* And all who heard him
+> were amazed.*]*
+>
+> *Antiphon:* But Saul grew all the stronger in Christ, and confounded the Jews. (cf. Acts
+> 9:22) *Psalm 62* O God, my God. *[Verse:* Affirming that this is the Christ, the Son of the
+> living God.*]*
+>
+> *Antiphon:* Thou art a chosen vessel, holy Paul the apostle, a preacher of truth in the whole
+> world. *Canticle* Bless [the Lord], all [ye works]. *[Verse:* Through whom all nations have
+> known the grace of God.*]*
+>
+> *Antiphon:* Great is St Paul, the chosen vessel, truly worthy to be glorified, who was also
+> found worthy to possess the twelfth throne. *Psalm 148* Praise the Lord. *[Verse:* In the
+> regeneration, when the Son of Man shall sit on the throne of his majesty.*]*
+>
+> *Chapter* You have not chosen me [, but I have chosen you …] (Jn 15:16). *Hymn and versicle as
+> in the Common of Apostles.*
+>
+> *Antiphon at the Benedictus:* You who have followed me shall sit on thrones, judging the twelve
+> tribes of Israel, says the Lord. ℣. In the regeneration, when the Son of Man shall sit on the
+> throne of his majesty. (Mt 19:28)
+>
+> *Collect:* O God, who didst teach the whole world by the preaching of blessed Paul the
+> apostle: grant us, we beseech thee, that we who celebrate his conversion may come to thee by
+> following his example. Through [our] Lord.
+>
+> *Memorial of St Praejectus:* the antiphon *Unless the grain [of wheat …]* (Jn 12:24); ℣. Great
+> is [his] glory; *collect* May the glorious intercession of blessed Praejectus [, thy martyr,
+> commend us …].
+
+*Note.* As on Trinity Sunday, each of these Lauds antiphons is printed with an attached verse
+(℣.), sung as an extension of the antiphon.

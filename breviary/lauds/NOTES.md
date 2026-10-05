@@ -195,3 +195,4 @@
 - 552–555: SS FABIAN & SEBASTIAN 20 Jan LAUDS → done (5 Zoe ants; Bened. Beatus es et bene tibi erit; collect Infirmitatem nostram). ST AGNES 21 Jan begins (collect Omnipotens…qui infirma cued)
 - 556–558: ST AGNES LAUDS → done (ants Ingressa Agnes…; cap Confitebor tibi Domine rex; Bened. Stans beata Agnes); ST VINCENT 22 Jan 1st Vesp (collect Adesto quesumus…Vincentii) → started
 - 559–561: ST VINCENT 22 Jan LAUDS → done (5 ants Assumptus ex eculeo…; hymn Christi miles preciosus; Bened. Egregius Christi martyr Vincentius; collect Adesto)
+- 562–565: ST TIMOTHY 24 Jan (Common; collect Infirmitatem nostram…Thimothei) + CONVERSION OF ST PAUL 25 Jan (semidouble) LAUDS → done (5 ants w/ attached ℣; Bened. Vos qui secuti estis; collect Deus qui universum mundum; memorial St Praejectus)
