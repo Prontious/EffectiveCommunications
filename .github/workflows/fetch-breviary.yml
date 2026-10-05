@@ -2,60 +2,23 @@ name: Fetch breviary scan
 on:
   push:
     branches: [claude/breviary-lauds-translation-jh0n5u]
-    paths: [.github/workflows/fetch-breviary.yml]
+    paths: [.github/workflows/fetch-breviary.yml, breviary/tools/fetch_onb.py]
 permissions:
   contents: write
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
-      - name: Install tools
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils jq >/dev/null
-      - name: Download
-        run: |
-          set -x
-          ID=T1BmAAAAcAAJ
-          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-          mkdir -p breviary/source && cd breviary/source
-          rm -f download_failure.html volume.json onb_barcodes.txt onb_search.html
-          ABOUT="https://books.google.com/books/about/Breviarium_secundum_usum_ordinis_S_Johan.html?id=$ID"
-          curl -sSL -A "$UA" -c cj.txt -b cj.txt "$ABOUT" -o about.html
-          rel=$(grep -oE 'books/download/[^"\\]*output=pdf[^"\\]*sig=[^"\\&]*' about.html | head -1 | sed 's/&amp;/\&/g')
-          echo "signed: $rel"
-          for i in 1 2 3 4; do
-            sleep $((i*i*5))
-            curl -sSL -A "$UA" -e "$ABOUT" -c cj.txt -b cj.txt "https://books.google.com/$rel" -o book.pdf || true
-            file book.pdf | grep -q PDF && break
-          done
-          if ! file book.pdf | grep -q PDF; then
-            mv book.pdf pdf_failure.html
-            curl -sSL -A "$UA" -e "$ABOUT" -c cj.txt -b cj.txt "https://books.google.com/books/download/Breviarium.epub?id=$ID&output=epub" -o book.epub || true
-            file book.epub
-          fi
-          curl -sSL -A "$UA" "https://onb.digital/search/?q=Breviarium%20ordinis%20Johannis%20Hierosolymitani" -o onb_search.html || true
-          grep -oE 'onb.digital/result/[0-9A-F]+' onb_search.html | sort -u | tee onb_results.txt || true
-          rm -f cj.txt
-      - name: Extract text and split PDF
-        run: |
-          cd breviary/source
-          if file book.pdf | grep -q PDF; then
-            pdfinfo book.pdf | tee pdfinfo.txt
-            pdftotext -layout book.pdf book.txt
-            N=$(pdfinfo book.pdf | awk '/^Pages/{print $2}')
-            mkdir -p pdf
-            for s in $(seq 1 100 $N); do e=$((s+99)); [ $e -gt $N ] && e=$N
-              pdfseparate -f $s -l $e book.pdf /tmp/p-%04d.pdf
-              pdfunite $(ls /tmp/p-*.pdf | sort) pdf/pages_$(printf %04d $s)-$(printf %04d $e).pdf; rm /tmp/p-*.pdf; done
-            ls -la pdf; rm book.pdf
-          elif [ -f book.epub ] && file book.epub | grep -qi zip; then
-            mkdir -p epub && cd epub && unzip -q ../book.epub && cd .. && rm book.epub
-            ls -R epub | head -50
-          fi
+      - name: Install OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-lat >/dev/null
+      - name: Fetch from ONB IIIF and OCR
+        run: python3 breviary/tools/fetch_onb.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
           git add breviary/source
-          git commit -m "Fetch breviary scan (T1BmAAAAcAAJ) via Actions" || exit 0
+          git commit -m "Fetch ONB scan and OCR of 1517 Hospitaller breviary" || exit 0
           git push
