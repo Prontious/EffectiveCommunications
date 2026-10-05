@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>1</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01148nam a2200349 c 4500</leader>
+          <controlfield tag="001">990028917550603338</controlfield>
+          <controlfield tag="005">20230611235754.0</controlfield>
+          <controlfield tag="007">cr#|||||||||||</controlfield>
+          <controlfield tag="007">tu</controlfield>
+          <controlfield tag="008">000101|1517    xx            ||| | lat c</controlfield>
+          <controlfield tag="009">AC09738216</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(AT-OBV)AC09738216</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">AC09738216</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(Aleph)009724609ACC01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(DE-599)OBVAC09738216</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-43ACC_NETWORK)990097246090203331</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">ONB</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="c">ONB-AK-RETRO</subfield>
+            <subfield code="d">AT-OeNB</subfield>
+            <subfield code="e">pi</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">lat</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">11.54</subfield>
+            <subfield code="2">bkl</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">11.74</subfield>
+            <subfield code="2">bkl</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Breviarium secundum usum ordinis S. Johannis Hierosolymitani</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">Lugduni</subfield>
+            <subfield code="b">Cyriacus Hochperg</subfield>
+            <subfield code="c">1517</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="689">
+            <subfield code="a">Brevier</subfield>
+            <subfield code="D">s</subfield>
+            <subfield code="0">(DE-588)4146599-4</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="1" tag="689">
+            <subfield code="a">Johanniter</subfield>
+            <subfield code="D">b</subfield>
+            <subfield code="0">(DE-588)43583-1</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="689">
+            <subfield code="5">AT-OBV</subfield>
+            <subfield code="5">ONB-AK</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="689">
+            <subfield code="a">Stundengebet</subfield>
+            <subfield code="D">s</subfield>
+            <subfield code="0">(DE-588)4132719-6</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="1" tag="689">
+            <subfield code="a">Liturgie</subfield>
+            <subfield code="D">s</subfield>
+            <subfield code="0">(DE-588)4036050-7</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="2" tag="689">
+            <subfield code="A">z</subfield>
+            <subfield code="a">Geschichte 1517</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="689">
+            <subfield code="5">AT-OBV</subfield>
+            <subfield code="5">ONB</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="751">
+            <subfield code="a">Lyon</subfield>
+            <subfield code="4">pup</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="u">http://data.onb.ac.at/imgk/AZ00132291SZ00147832SZ00540962</subfield>
+            <subfield code="z">Zettel</subfield>
+            <subfield code="o">Katalogkarte</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="0" tag="856">
+            <subfield code="m">V:AT-OBV;B:AT-OeNB</subfield>
+            <subfield code="q">application/html</subfield>
+            <subfield code="u">http://data.onb.ac.at/ABO/%2BZ221667307</subfield>
+            <subfield code="x">ONB-ABO</subfield>
+            <subfield code="3">Volltext</subfield>
+            <subfield code="o">OBV-ONB-ABO</subfield>
+          </datafield>
+          <datafield ind1="2" ind2=" " tag="970">
+            <subfield code="a">ONB</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="980">
+            <subfield code="a">0</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="980">
+            <subfield code="a">ONB-AK-RETRO</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="982">
+            <subfield code="z">16. Jh.</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">990028917550603338</subfield>
+            <subfield code="8">22289534780003338</subfield>
+            <subfield code="a">43ACC_ONB</subfield>
+            <subfield code="b">ZALT</subfield>
+            <subfield code="c">State Hall at Josefsplatz (ALT-PRUNK)</subfield>
+            <subfield code="d">22.F.68</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">1</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">PRUNK</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">Department of Manuscripts and Rare Books (ALT)</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>990028917550603338</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+  </records>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2026-10-05T02:49:17+0200</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>
