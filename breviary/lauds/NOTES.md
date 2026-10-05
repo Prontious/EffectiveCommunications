@@ -90,3 +90,6 @@
 - 313: SEPTUAGESIMA SUNDAY LAUDS → done (penitential Sunday Lauds: Pss 50,117,62,Bened.,148; no Te Deum)
 - 315–317: SEXAGESIMA SUNDAY LAUDS + week Bened./Magnif. ants → done (collect Deus qui conspicis quia ex nulla, p.315)
 - 314: SEPTUAGESIMA WEEK Bened./Magnif. ants (6) → done
+- 318–320: QUINQUAGESIMA SUNDAY LAUDS → done. 320b: Monday Matins (lessons from Exodus)
+- 321: QUINQUAGESIMA MON + TUE Bened. ants → done; Ash Wednesday Matins begins 321b ('omnia de feria sicut est in psalterio')
+- 322: ASH WEDNESDAY LAUDS → done (4 Lenten preces added; collect Concede nobis presidia; penitential psalms after Prime)

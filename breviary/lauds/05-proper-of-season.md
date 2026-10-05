@@ -2642,3 +2642,170 @@ these antiphons are taken in turn at the Benedictus and the Magnificat.
 
 *Note.* The first two weekday antiphons are taken from St Gregory the Great's homily on
 this Sunday's Gospel, which is read at Matins.
+
+---
+
+## Quinquagesima Sunday (scan p. 320)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Cecus sedebat. ℣. *Sacerdotalis* Fiat misericordia
+> tua.
+>
+> In laudibus. *Antiphona.* Secundum multitudinem miserationum tuarum, Domine Deus, dele
+> iniquitatem meam. *Psalmus* Miserere mei.
+>
+> *Antiphona.* Deus meus es tu, et confitebor tibi; Deus meus es tu, et exaltabo te.
+> *Psalmus* Confitemini.
+>
+> *Antiphona.* Ad te de luce vigilo, Deus, ut videam virtutem tuam. *Psalmus* Deus deus
+> meus.
+>
+> *Antiphona.* Hymnum dicite et superexaltate eum in secula. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Omnes angeli eius, laudate Dominum de celis. *Psalmus* Laudate Dominum.
+>
+> *Capitulum, hymnus,* ℣. *ut supra in alia dominica.*
+>
+> *Ad* Benedictus *antiphona.* Ecce ascendimus Hierosolymam, et consummabuntur omnia que
+> scripta sunt per prophetas de filio hominis.
+>
+> *Oratio* Preces nostras *[cued], ut supra.*
+>
+> *Ad primam antiphona.* Tradetur enim gentibus ad illudendum et flagellandum et
+> crucifigendum. … *Ad tertiam antiphona.* Cecus sedebat secus viam, et clamabat: Miserere
+> mei, fili David. … *Ad sextam antiphona.* Et qui preibant increpabant eum ut taceret;
+> ipse vero multo magis clamabat: Miserere mei, fili David. *Ad nonam antiphona.* Miserere
+> mei, fili David. Quid vis faciam tibi? Domine, ut videam.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *A blind man sat* is repeated. *The priest's versicle*
+> Let thy mercy [, O Lord, be upon us].
+>
+> **At Lauds.** *Antiphon:* According to the multitude of thy tender mercies, O Lord God,
+> blot out my iniquity. (Ps 50:3) *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* Thou art my God, and I will praise thee; thou art my God, and I will exalt
+> thee. (Ps 117:28) *Psalm 117* Give praise.
+>
+> *Antiphon:* To thee do I watch at break of day, O God, that I may see thy power.
+> (cf. Ps 62:2–3) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Sing a hymn, and exalt him above all for ever. (cf. Dan 3:57) *Canticle* Bless
+> [the Lord], all [ye works].
+>
+> *Antiphon:* All ye his angels, praise the Lord from the heavens. (cf. Ps 148:1–2)
+> *Psalm 148* Praise the Lord.
+>
+> *Chapter, hymn and versicle as on the other Sunday [Septuagesima].*
+>
+> *Antiphon at the Benedictus:* Behold, we go up to Jerusalem, and all things shall be
+> accomplished that were written by the prophets concerning the Son of Man. (Lk 18:31)
+>
+> *Collect* [Mercifully hear] our prayers *[cued], as above.*
+>
+> *At Prime, the antiphon:* For he shall be delivered to the Gentiles, to be mocked and
+> scourged and crucified. (cf. Mt 20:19) … *At Terce, the antiphon:* A blind man sat by the
+> wayside and cried out: Have mercy on me, Son of David. … *At Sext, the antiphon:* And
+> they that went before rebuked him, that he should hold his peace; but he cried out much
+> more: Have mercy on me, Son of David. *At None, the antiphon:* "Have mercy on me, Son of
+> David." "What wilt thou that I do to thee?" "Lord, that I may see." (cf. Lk 18:35–41)
+
+### Monday and Tuesday after Quinquagesima (scan p. 321)
+
+**Latin**
+
+> *Feria ii.* In laudibus *ut in feria ii antiphone et psalmi, capitulum, hymnus,
+> versus. Ad* Benedictus *antiphona.* Miserere mei, fili David. Quid vis ut faciam tibi?
+> Domine, ut videam. *Oratio dominicalis. Ad primam, tertiam, sextam et nonam omnia de
+> feria, ut suo loco continentur, cum oratione dominicali.*
+>
+> *Feria iii. Omnia secundum ferias. … Ad* Benedictus *antiphona.* Cecus sedebat secus
+> viam et clamabat: Miserere mei, fili David.
+
+**Translation**
+
+> *Monday.* At Lauds, the antiphons and psalms, chapter, hymn and versicle as on Monday [in
+> the psalter]. *Antiphon at the Benedictus:* "Have mercy on me, Son of David." "What wilt
+> thou that I do to thee?" "Lord, that I may see." *The Sunday collect. At Prime, Terce,
+> Sext and None, all of the weekday as given in its place, with the Sunday collect.*
+>
+> *Tuesday.* All according to the weekday. … *Antiphon at the Benedictus:* A blind man sat
+> by the wayside and cried out: Have mercy on me, Son of David. (Lk 18:35, 38)
+
+---
+
+## Ash Wednesday — *In die cinerum* (scan p. 322)
+
+Ash Wednesday Lauds is "all of the weekday" from the psalter, with a proper chapter,
+Benedictus antiphon and collect. Four extra petitions are added to the preces for the
+whole of Lent. After Prime the seven penitential psalms are said kneeling, and the ashes
+are blessed.
+
+**Latin**
+
+> In laudibus *omnia de feria.*
+>
+> *Capitulum.* Convertimini ad me in toto corde vestro, in ieiunio et fletu et planctu; et
+> scindite corda vestra et non vestimenta vestra, ait Dominus omnipotens. ℟. Deo gratias.
+>
+> *Hymnus et* ℣. *[de feria].*
+>
+> *Ad* Benedictus *antiphona.* Cum ieiunatis, nolite fieri sicut hypocrite tristes.
+>
+> Kyrieleyson *ter*, Christeleyson *ter*, Kyrieleyson *ter*. *Et preces ut continentur suo
+> loco; sed post* ℣. Mitte eis auxilium de sancto, ℟. Et de Syon tuere eos, *dicuntur hee
+> iiii preces per totam quadragesimam:* ℣. Pro amicis. ℣. Pro iter agentibus. ℣. Pro
+> peccatis et negligentiis nostris. ℣. Adiuva nos, Deus. *[Deinde]* ℣. Esto nobis, Domine,
+> turris fortitudinis, *et alie sequentes.*
+>
+> *Oratio.* Concede nobis, quesumus, Domine, presidia christiane militie sanctis inchoare
+> ieiuniis, ut contra spirituales nequitias pugnaturi continentie muniamur auxiliis. Per
+> Dominum nostrum.
+>
+> *Postea dicantur suffragia, versus. Deinde dicitur prima, ut continetur suo loco; qua
+> finita, prior vel supprior, indutus alba tamen sine capa, flexis genibus in gradibus
+> altaris incipit septem psalmos penitentiales cum antiphona* Ne reminiscaris, *sine nota;
+> et chorus flexis genibus dicit alternatim septem psalmos. Quibus finitis, sine letania,
+> faciens officium ascendit ad altare, et ibi, dictis pluribus orationibus, benedicit
+> cineres, ut continetur in fine libri huius.*
+
+**Translation**
+
+> **At Lauds,** all of the weekday.
+>
+> *Chapter:* Be converted to me with all your heart, in fasting and in weeping and in
+> mourning; and rend your hearts, and not your garments, says the Lord almighty. (Joel
+> 2:12–13) ℟. Thanks be to God.
+>
+> *Hymn and versicle [of the weekday].*
+>
+> *Antiphon at the Benedictus:* When you fast, be not as the hypocrites, sad. (Mt 6:16)
+>
+> *Lord, have mercy* (three times), *Christ, have mercy* (three times), *Lord, have mercy*
+> (three times). *And the preces as given in their place; but after* ℣. Send them help from
+> the sanctuary, ℟. And defend them out of Sion, *these four preces are said through the
+> whole of Lent:* ℣. For our friends. ℣. For those on a journey. ℣. For our sins and
+> negligences. ℣. Help us, O God. *[Then]* ℣. Be unto us, O Lord, a tower of strength, *and
+> the others that follow.*
+>
+> *Collect:* Grant us, we beseech thee, O Lord, to begin with holy fasts the campaigns of
+> our Christian warfare, that as we go to fight against spiritual wickedness we may be
+> armed with the aids of self-denial. Through our Lord.
+>
+> *Then the suffrages are said, with versicles. Then Prime is said, as given in its place.
+> When it is finished, the prior or sub-prior, vested in an alb but without a cope, kneeling
+> on the altar steps, begins the seven penitential psalms with the antiphon* Remember not
+> [, O Lord, our offences], *without chant; and the choir, kneeling, says the seven psalms
+> in alternation. When they are finished, without the litany, the one leading the office
+> goes up to the altar and there, after saying several prayers, blesses the ashes, as is
+> given at the end of this book.*
+
+*Notes.* The four Lenten petitions are cued by their versicles only. The first of them,
+"for our friends" or "for those on a journey", fits a military order whose brethren were
+often travelling or away from their houses; but such petitions also appear in other
+uses. The Ash Wednesday collect's military language — *presidia christiane militie*,
+"the campaigns of Christian warfare" — is the ordinary Roman collect, not something
+added for the Order. The direction to say the penitential psalms after Lauds matches
+Rubric 1 ([section 1](01-rubrics.md)).
