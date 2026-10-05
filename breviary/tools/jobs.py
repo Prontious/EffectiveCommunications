@@ -57,8 +57,15 @@ if job.get("image_pages"):
     w = job.get("image_width", 1200)
     todo = [n for a, b in job["image_pages"] for n in range(a, b + 1)
             if not os.path.exists(f"{OUT}/img/{n:04d}.jpg")]
+    q = job.get("image_quality")
+
+    def fetch(n):
+        dest = f"{OUT}/img/{n:04d}.jpg"
+        if get(f"{svc[n]}/full/{w},/0/default.jpg", dest) and q:
+            subprocess.run(["convert", dest, "-strip", "-quality", str(q), dest])
+
     with ThreadPoolExecutor(4) as ex:
-        list(ex.map(lambda n: get(f"{svc[n]}/full/{w},/0/default.jpg", f"{OUT}/img/{n:04d}.jpg"), todo))
+        list(ex.map(fetch, todo))
     print(len(todo), "images saved")
     commit(f"Breviary page images: {job['image_pages']}")
 

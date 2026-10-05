@@ -1,5 +1,6 @@
 {
   "reocr": false,
-  "image_pages": [[61, 152]],
-  "image_width": 1100
+  "image_pages": [[153, 400]],
+  "image_width": 1000,
+  "image_quality": 55
 }
