@@ -977,3 +977,43 @@ Common of Apostles.
 
 *Note.* As on Trinity Sunday, each of these Lauds antiphons is printed with an attached verse
 (℣.), sung as an extension of the antiphon.
+
+### St Polycarp, Bishop and Martyr — 26 January (scan p. 566)
+
+> *[At second Vespers of the Conversion of St Paul:] Memoria sancti Polycarpi episcopi et
+> martyris. Antiphona* Iste sanctus. ℣. Gloria et honore.
+>
+> *Oratio.* Da nobis, quesumus, omnipotens Deus, ut qui beati Polycarpi martyris atque
+> pontificis solemnia colimus, eius apud te intercessionibus adiuvemur. Per Dominum.
+>
+> *Sancti Polycarpi episcopi et martyris, ix lectiones; omnia fiant de communi unius martyris et
+> episcopi; lectiones de vita ipsius; cetera versus, cum oratione propria.*
+
+> *[At second Vespers of the Conversion of St Paul:] A memorial of St Polycarp, bishop and
+> martyr: the antiphon* This saint; ℣. With glory and honour.
+>
+> *Collect:* Grant us, we beseech thee, almighty God, that we who keep the solemnity of blessed
+> Polycarp, thy martyr and bishop, may be helped by his intercession with thee. Through [our]
+> Lord.
+>
+> *St Polycarp, bishop and martyr: nine lessons; everything from the Common of one martyr and
+> bishop; the lessons from his life; the rest with the versicles, and the proper collect.*
+
+### St Julian, Bishop and Confessor — 27 January (scan p. 567)
+
+> *Sancti Iuliani episcopi et confessoris, ix lectiones: viii de vita ipsius, et vii [ix?] de
+> evangelio* Vigilate; *cetera omnia ut in communi unius episcopi et confessoris, cum oratione
+> propria.*
+>
+> *Oratio.* Deus, qui ecclesie tue beatum Iulianum mirabilem tribuisti doctorem, concede
+> propitius ut hunc apud te mereamur semper habere intercessorem. Per Dominum.
+
+> *St Julian, bishop and confessor: nine lessons — eight from his life, and the [ninth] on the
+> gospel* Watch; *everything else as in the Common of one bishop and confessor, with the proper
+> collect.*
+>
+> *Collect:* O God, who didst give blessed Julian to thy Church as a wonderful teacher: mercifully
+> grant that we may be worthy always to have him as our intercessor with thee. Through [our] Lord.
+
+*Note.* This is St Julian, first bishop of Le Mans; his lessons call him "apostle of the city of
+Le Mans" (*Cenomanice urbis*).
