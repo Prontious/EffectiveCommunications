@@ -592,3 +592,212 @@ just before St Basil; her office has no separate Lauds.
 > *Collect:* Mercifully hear the prayers of thy people, we beseech thee, O Lord, that we may be
 > helped by the merits of blessed Marcellus, thy martyr and bishop, in whose passion we
 > rejoice. Through [our] Lord.
+
+### St Anthony, Abbot — 17 January (scan p. 551)
+
+> *Sancti Antonii abbatis, semiduplex. … Omnia ut in communi unius confessoris non episcopi,
+> cum oratione propria.*
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui nobis preclaram huius diei leticiam pro beati
+> Antonii abbatis solemnitate tribuisti, intende serenus vota fidelis populi tui, et concede
+> ut cuius festa hodie percolimus, eius semper meritis et precibus sublevemur. Per Dominum.
+
+> *St Anthony, abbot: semidouble. … Everything as in the Common of one confessor not a bishop,
+> with the proper collect.*
+>
+> *Collect:* Almighty and everlasting God, who hast given us the bright joy of this day in the
+> solemnity of blessed Anthony the abbot: look kindly on the prayers of thy faithful people, and
+> grant that we may ever be helped by the merits and prayers of him whose feast we keep today.
+> Through [our] Lord.
+
+### St Prisca, Virgin and Martyr — 18 January (scan p. 552)
+
+> *Sancte Prisce virginis et martyris fit memoria tantum in primis vesperis, quia pro de sancto
+> Antonio; in crastino fit de sancta Prisca, ix lectiones; omnia ut in communi unius virginis et
+> martyris, cum oratione propria.*
+>
+> *Oratio.* Da nobis, quesumus, omnipotens Deus, ut qui beate Prisce virginis et martyris tue
+> natalicia colimus, et annua solemnitate letemur, et tante fidei proficiamus exemplo. Per
+> Dominum.
+
+> *Of St Prisca, virgin and martyr, only a memorial is made at first Vespers, because [Vespers
+> are] of St Anthony; on the next day the office is of St Prisca, with nine lessons; everything
+> as in the Common of one virgin and martyr, with the proper collect.*
+>
+> *Collect:* Grant us, we beseech thee, almighty God, that we who keep the heavenly birthday of
+> blessed Prisca, thy virgin and martyr, may both rejoice in her yearly feast and profit by the
+> example of so great a faith. Through [our] Lord.
+
+### SS Fabian and Sebastian, Martyrs — 20 January (scan pp. 552–555)
+
+Nine lessons, with proper antiphons from the *Passion of St Sebastian*.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Exultent iusti *[in conspectu Dei]*.
+>
+> In laudibus. *Antiphona.* Sebastianus, Dei cultor, studiose curabat sub absconsa clamide
+> sanctorum animos confortare, spem promittens et gloriam consequi sempiternam. *Psalmus*
+> Dominus regnavit.
+>
+> *Antiphona.* Si ego verus Christi servus sum, et si vera sunt omnia que ex ore meo hec mulier
+> audivit et credidit, aperiat os eius qui aperuit os Zacharie prophete Domini. *Psalmus*
+> Iubilate.
+>
+> *Antiphona.* Ad hanc vocem Christi martyris Sebastiani, ilico apertum est os uxoris
+> Nicostrati. *Psalmus* Deus deus.
+>
+> *Antiphona.* Zoe, uxor Nicostrati, dixit beato Sebastiano: Beatus es tu, et benedictus sermo
+> oris tui. *Psalmus* Benedicite.
+>
+> *Antiphona.* Sanctus Sebastianus dixit Nicostrato: Salvator noster pro peccatoribus exhibere
+> dignatus est suam presentiam. *Psalmus* Laudate.
+>
+> *Capitulum* Sancti per fidem *[vicerunt regna …]*. *Hymnus* Rex gloriose *[martyrum]*. ℣.
+> Mirabilis Deus *[in sanctis suis]*.
+>
+> *Ad* Benedictus *antiphona.* Beatus es, et bene tibi erit, egregie martyr Sebastiane, quia
+> cum sanctis gaudebis et cum angelis exultabis in eternum.
+>
+> *Oratio.* Infirmitatem nostram respice, omnipotens Deus, et quia pondus proprie actionis
+> gravat, beatorum martyrum tuorum Fabiani atque Sebastiani intercessio gloriosa nos protegat.
+> Per Dominum.
+>
+> *Ad primam et ad omnes horas antiphone de laudibus; cetera ut in communi plurimorum martyrum,
+> cum oratione propria.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Let the just rejoice [in the sight
+> of God]. (Ps 67:4)
+>
+> **At Lauds.** *Antiphon:* Sebastian, the worshipper of God, under cover of his soldier's
+> cloak zealously sought to strengthen the souls of the saints, promising them hope and the
+> gaining of everlasting glory. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* If I am a true servant of Christ, and if all that this woman has heard from my
+> mouth and believed is true, may he open her mouth who opened the mouth of Zachary, the
+> prophet of the Lord. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* At this word of Christ's martyr Sebastian, the mouth of Nicostratus's wife was at
+> once opened. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Zoe, the wife of Nicostratus, said to blessed Sebastian: Blessed art thou, and
+> blessed is the word of thy mouth. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* St Sebastian said to Nicostratus: Our Saviour has deigned to show his presence for
+> the sake of sinners. *Psalm 148* Praise.
+>
+> *Chapter* The saints through faith [conquered kingdoms …] (Heb 11:33). *Hymn* O glorious King
+> [of martyrs]. ℣. God is wonderful [in his saints].
+>
+> *Antiphon at the Benedictus:* Blessed art thou, and it shall be well with thee, noble martyr
+> Sebastian, for thou shalt rejoice with the saints and exult with the angels for ever.
+>
+> *Collect:* Look upon our weakness, almighty God, and because the weight of our own deeds
+> bears us down, may the glorious intercession of thy blessed martyrs Fabian and Sebastian
+> protect us. Through [our] Lord.
+>
+> *At Prime and all the hours, the antiphons of Lauds; the rest as in the Common of several
+> martyrs, with the proper collect.*
+
+*Note.* The antiphons tell the story of Zoe, who had been mute for six years and recovered her
+speech when Sebastian prayed over her.
+
+### St Agnes, Virgin and Martyr — 21 January (scan p. 555)
+
+> *Sancte Agnetis virginis et martyris, ix lectiones. … Oratio* Omnipotens sempiterne Deus, qui
+> infirma *[mundi eligis …] [cued]*: *quere in communi unius virginis et martyris.* … *Memoria
+> de sanctis Fabiano et Sebastiano* (at her first Vespers).
+
+> *St Agnes, virgin and martyr: nine lessons. … Collect* Almighty and everlasting God, who
+> choosest the weak things [of the world …] *[cued]: look for it in the Common of one virgin and
+> martyr.* … *A memorial of SS Fabian and Sebastian* (at her first Vespers).
+
+Her Lauds follow on the next page.
+
+**Lauds of St Agnes (scan p. 558)**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Adiuvabit eam *[Deus vultu suo]*.
+>
+> In laudibus. *Antiphona.* Ingressa Agnes turpitudinis locum, angelum Domini preparatum
+> invenit. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Mecum enim habeo custodem corporis mei, angelum Domini. *Psalmus* Iubilate.
+>
+> *Antiphona.* Posuit signum in faciem meam, ut nullum preter eum amatorem admittam. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Benedico te, pater Domini mei Iesu Christi, quia per filium tuum ignis
+> extinctus est a latere meo. *Psalmus* Benedicite.
+>
+> *Antiphona.* Congaudete mecum et congratulamini, quia cum his omnibus lucidas sedes accepi.
+> *Psalmus* Laudate.
+>
+> *Capitulum.* Confitebor tibi, Domine rex, et collaudabo te Deum salvatorem meum; confitebor
+> nomini tuo, quoniam adiutor et protector factus es mihi, et liberasti corpus meum a
+> perditione.
+>
+> *Hymnus* Iesu corona virginum. ℣. Elegit eam.
+>
+> *Ad* Benedictus *antiphona.* Stans beata Agnes in medio flammarum, expansis manibus orabat ad
+> Dominum: Omnipotens, adorande, colende, tremende, benedico et glorifico nomen tuum in eternum.
+>
+> *Oratio [ut supra]. Ad omnes horas antiphone de laudibus; cetera omnia ut in communi unius
+> virginis et martyris, cum oratione predicta.*
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* God shall help her [with his
+> countenance].
+>
+> **At Lauds.** *Antiphon:* When Agnes entered the place of shame, she found an angel of the Lord
+> made ready there. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* For I have with me the guardian of my body, an angel of the Lord. *Psalm 99*
+> Shout with joy.
+>
+> *Antiphon:* He has set a sign upon my face, that I should admit no lover but him. *Psalm 62*
+> O God, my God.
+>
+> *Antiphon:* I bless thee, Father of my Lord Jesus Christ, for through thy Son the fire has
+> been put out at my side. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Rejoice with me and be glad with me, for with all these I have received a shining
+> seat. *Psalm 148* Praise.
+>
+> *Chapter:* I will give glory to thee, O Lord, O King, and I will praise thee, God my Saviour;
+> I will give glory to thy name, for thou hast been a helper and protector to me, and hast
+> delivered my body from destruction. (Sir 51:1–3)
+>
+> *Hymn* Jesus, crown of virgins. ℣. God has chosen her.
+>
+> *Antiphon at the Benedictus:* Standing in the midst of the flames, blessed Agnes stretched out
+> her hands and prayed to the Lord: Almighty One, to be adored, worshipped and feared, I bless
+> and glorify thy name for ever.
+>
+> *The collect [as above]. At all the hours the antiphons of Lauds; everything else as in the
+> Common of one virgin and martyr, with the collect given.*
+
+### St Vincent, Deacon and Martyr — 22 January (scan p. 558)
+
+> *Ad vesperas fit de sancto Vincentio martyre* … *Ad* Magnificat *antiphona.* Sacram huius
+> diei solemnitatem humili celebremus devotione, qua invictus martyr Christi Vincentius, tyranno
+> devicto, insignem victorie palmam celo gaudens intulit.
+>
+> *Oratio.* Adesto, quesumus, Domine, supplicationibus nostris, ut qui ex iniquitate nostra reos
+> nos esse cognoscimus, beati Vincentii martyris tui intercessione liberemur. Per Dominum.
+>
+> *Memoria de sancta Agnete. Antiphona.* Ecce quod concupivi iam video, quod speravi iam teneo;
+> illi sum iuncta in celis, quem in terris posita tota devotione dilexi.
+
+> *At Vespers the office is of St Vincent, martyr* … *Magnificat antiphon:* Let us celebrate
+> with humble devotion the holy solemnity of this day, on which Vincent, the unconquered martyr of
+> Christ, having overcome the tyrant, joyfully carried the glorious palm of victory into heaven.
+>
+> *Collect:* Be present, we beseech thee, O Lord, to our prayers, that we who know ourselves to
+> be guilty through our wickedness may be set free by the intercession of blessed Vincent thy
+> martyr. Through [our] Lord.
+>
+> *Memorial of St Agnes. Antiphon:* Behold, what I longed for I now see; what I hoped for I now
+> hold; I am joined in heaven to him whom, while on earth, I loved with all my devotion.
+
+His Lauds follow on the next page.

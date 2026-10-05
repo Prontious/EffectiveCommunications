@@ -190,3 +190,7 @@
 - 547–548: St Anastasia lessons (transferred); ST BASIL 1 Jan transferred after Epiphany octave (Common bishop-confessor; collect Comprime) → done
 - 549: SS HILARY & REMIGIUS (Common several confessors; collect Deus qui nos sanctorum confessorum…) + ST FELIX in Pincis 14 Jan (Common confessor non-bishop) → done
 - 550: ST MAURUS 15 Jan (Common conf. non-bishop; collect Intercessio cued) + ST MARCELLUS 16 Jan (Common bishop-martyr; collect Preces populi tui) → done
+- 551: ST ANTHONY ABBOT 17 Jan (semidouble; Common conf. non-bishop; collect Omnipotens…qui nobis preclaram) → done
+- 552: ST PRISCA 18 Jan (Common virgin-martyr; collect Da nobis…Prisce) → done; SS FABIAN & SEBASTIAN 20 Jan begins (Magnif. Elegit Dominus; collect Infirmitatem nostram)
+- 552–555: SS FABIAN & SEBASTIAN 20 Jan LAUDS → done (5 Zoe ants; Bened. Beatus es et bene tibi erit; collect Infirmitatem nostram). ST AGNES 21 Jan begins (collect Omnipotens…qui infirma cued)
+- 556–558: ST AGNES LAUDS → done (ants Ingressa Agnes…; cap Confitebor tibi Domine rex; Bened. Stans beata Agnes); ST VINCENT 22 Jan 1st Vesp (collect Adesto quesumus…Vincentii) → started
