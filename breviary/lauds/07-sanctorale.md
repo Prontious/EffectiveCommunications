@@ -3789,8 +3789,8 @@ gladdenest us by the yearly feast of blessed Eusebius thy confessor: mercifully 
 keep his heavenly birthday may walk towards thee by his example"). If St Hippolytus falls on a
 Sunday, his office has nine lessons.
 
-**The Vigil of the Assumption** (pp. 707–708): it is a solemn vigil, and Matins are of the
-Sunday [*sic:* of the feria?]. The office is of the feria, with three lessons from the Gospel
+**The Vigil of the Assumption** (pp. 707–708): it is a solemn vigil. Invitatory, hymn,
+antiphons, psalms and versicles at Matins are of the feria, and the office is of the feria, with three lessons from the Gospel
 *Loquente Iesu ad turbas*, responsories from the *historia* In principio, and the collect *Deus
 qui virginalem*. Memorials of St Eusebius and St Lawrence are made. If the vigil falls on a
 Sunday, its Gospel is read on the Saturday before and the rest is of St Hippolytus. On the Sunday
@@ -4118,8 +4118,8 @@ Life. It is ranked as a feast with an octave. The Vespers hymn is* Celi cives ap
 > one bishop and confessor, with the collect above.*
 
 *Note.* Augustine's feast is unusually full for a non-Augustinian house, with a proper rhymed
-office and an octave. The Order of St John followed the Rule of St Augustine (it is named in the
-1509 statutes), and that probably explains the honour. The fifth antiphon's "monastery of clerics
+office and an octave. The Hospitallers lived under a rule of broadly Augustinian type, and that
+probably explains the honour. The fifth antiphon's "monastery of clerics
 living under the apostolic rule" describes canons regular, which the Holy Sepulchre canons were.
 
 **Within the octave** (p. 730): *Per octavas sancti Augustini de eo fit memoria tantum ad
