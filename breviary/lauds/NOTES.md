@@ -85,3 +85,4 @@
 - 291–293: EPIPHANY OCTAVE days LAUDS (single ant.; rotating Bened./Magnif. ants list p.291) → done. 293b: Sunday within Epiphany octave Matins begins
 - 294: SUNDAY WITHIN EPIPHANY OCTAVE LAUDS (memorial Fili quid fecisti; collect Vota quesumus) → done
 - 295–297: OCTAVE OF EPIPHANY (13 Jan) LAUDS → done (baptism antiphons Veterem hominem etc.)
+- 298–301: FIRST SUNDAY AFTER EPIPHANY OCTAVE LAUDS (psalter Sunday ants; Bened. Nuptie facte sunt; collect Omnipotens…qui celestia cued) → done

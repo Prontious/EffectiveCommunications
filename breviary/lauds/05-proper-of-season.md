@@ -2377,3 +2377,68 @@ Jordan, which was the Gospel of this day.
 *Note.* The memorial "of the saints" is probably of the confessor kept on 13 January
 (St Hilary in many calendars); the antiphon *Sint lumbi vestri* comes from the Common of
 Confessors.
+
+---
+
+## Sundays after the octave of the Epiphany (scan pp. 300–301)
+
+After the Epiphany octave the Sundays return to the psalter's Sunday office (see
+[section 2](02-psalter-sunday.md)). The first Sunday's gospel is the wedding at Cana.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum laudamus. ℣. *Sacerdotalis* Excelsus super omnes
+> gentes Dominus. ℟. Et super celos gloria eius.
+>
+> *He sequentes antiphone dicuntur in hac prima dominica et in ultima que est ante
+> septuagesimam.*
+>
+> In laudibus. *Antiphona* Regnavit Dominus *[as in the psalter]*. *Psalmus* Dominus
+> regnavit. *Antiphona* Sciamus omnes. *Psalmus* Iubilate. *Antiphona* Benedicam te.
+> *Psalmus* Deus deus. *Antiphona* Omnis creatura. *Psalmus* Benedicite. *Antiphona*
+> Spiritus omnis. *Psalmus* Laudate Dominum.
+>
+> *Capitulum.* Benedictio et claritas [*ut in psalterio*]. ℟. Deo gratias.
+>
+> *Hymnus* Eterne rerum conditor. ℣. Domine, refugium factus es nobis. ℟. A generatione et
+> generatione.
+>
+> *Ad* Benedictus *antiphona.* Nuptie facte sunt in Cana Galilee, et erat ibi Iesus cum
+> Maria matre eius.
+>
+> *Oratio* Omnipotens sempiterne Deus, qui celestia *[cued]*.
+>
+> *Ad primam hymnus* Iam lucis, *cum* Gloria tibi Trinitas. … *Et sic observandum est
+> diebus dominicis usque ad septuagesimam, ad omnes horas quando fit de dominica.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* The Lord is high above all
+> nations. ℟. And his glory above the heavens. (Ps 112:4)
+>
+> *The following antiphons are said on this first Sunday and on the last Sunday before
+> Septuagesima.*
+>
+> **At Lauds.** The five Sunday antiphons of the psalter — *The Lord hath reigned*, *Let us
+> all know*, *I will bless thee*, *Let every creature*, *Let every spirit* — each with its
+> own psalm (Pss 92, 99, 62, the *Benedicite*, 148).
+>
+> *Chapter:* Blessing and glory [, as in the psalter]. ℟. Thanks be to God.
+>
+> *Hymn* Eternal maker of all things. ℣. Lord, thou hast been our refuge. ℟. From generation
+> to generation. (Ps 89:1)
+>
+> *Antiphon at the Benedictus:* There was a wedding at Cana of Galilee, and Jesus was there
+> with Mary his mother. (cf. Jn 2:1)
+>
+> *Collect* Almighty and everlasting God, who [governest all things] in heaven [and on
+> earth] *[cued]*.
+>
+> *At Prime, the hymn* Now that the daylight, *with* Glory to thee, O Trinity. … *And so it is
+> to be kept on the Sundays until Septuagesima, at all the hours when the office is of the
+> Sunday.*
+
+*Note.* This confirms the psalter rubric on Sunday Lauds ([section 2](02-psalter-sunday.md)):
+the five *Regnavit* antiphons are sung one per psalm on the first Sunday after the
+Epiphany octave and the last before Septuagesima, with a single antiphon on the Sundays
+between.
