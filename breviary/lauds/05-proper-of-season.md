@@ -3599,3 +3599,74 @@ ut familia tua que se affligendo*); here it speaks of "those who" (*qui*) rather
 > Jesus had done, said: This is truly the prophet who is to come into the world. *At None,
 > the antiphon:* When the crowds had seen the sign that Jesus had done, they said: Truly
 > this is the prophet who is to come into the world. (Jn 6:14)
+
+---
+
+## Weekdays of the fourth week of Lent
+
+### Monday and Tuesday (scan p. 352)
+
+**Latin**
+
+> *Feria ii.* … *Ad* Benedictus *antiphona.* Auferte ista hinc, et nolite facere domum
+> patris mei domum negotiationis.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut observationes sacras annua devotione
+> recolentes, et corpore tibi placeamus et mente. Per Dominum.
+>
+> *Feria iii.* … *Ad* Benedictus *antiphona.* Quid me queritis interficere, hominem qui
+> veritatem locutus sum vobis?
+>
+> *Oratio.* Sacre nobis, quesumus, Domine, observationis ieiunia et pie conversationis
+> augmentum, et tue propitiationis continuum prestent auxilium. Per Dominum.
+
+**Translation**
+
+> *Monday.* … *Antiphon at the Benedictus:* Take these things hence, and make not the house of
+> my Father a house of trade. (Jn 2:16)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that as we keep these holy observances
+> with yearly devotion, we may please thee both in body and in mind. Through [our] Lord.
+>
+> *Tuesday.* … *Antiphon at the Benedictus:* Why do you seek to kill me, a man who has spoken
+> the truth to you? (cf. Jn 7:19; 8:40)
+>
+> *Collect:* May the fasts of this holy observance, we beseech thee, O Lord, bring us both
+> growth in a devout way of life and the constant help of thy mercy. Through [our] Lord.
+
+### Wednesday and Thursday (scan p. 353)
+
+**Latin**
+
+> *Feria iiii.* … *Ad* Benedictus *antiphona.* Rabbi, quis peccavit, homo iste aut parentes
+> eius, ut cecus nasceretur? Respondit Iesus et dixit: Neque hic peccavit neque parentes
+> eius, sed ut manifestentur opera Dei in illo.
+>
+> *Oratio.* Deus, qui et iustis premia meritorum et peccatoribus per ieiunium veniam
+> prebes, miserere supplicibus tuis, ut reatus nostri confessio indulgentiam valeat
+> percipere delictorum. Per Dominum.
+>
+> *Feria v.* … *Ad* Benedictus *antiphona.* Sicut pater suscitat mortuos et vivificat, sic
+> et filius quos vult vivificat.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut quos ieiunia votiva castigant, ipsa quoque
+> devotio sancta letificet, ut terrenis affectibus mitigatis facilius celestia capiamus. Per
+> Dominum.
+
+**Translation**
+
+> *Wednesday.* … *Antiphon at the Benedictus:* "Rabbi, who has sinned, this man or his
+> parents, that he should be born blind?" Jesus answered and said: "Neither has this man
+> sinned nor his parents, but that the works of God should be made manifest in him."
+> (Jn 9:2–3)
+>
+> *Collect:* O God, who grantest to the just the reward of their merits and to sinners pardon
+> through fasting, have mercy on thy suppliants, that the confession of our guilt may obtain
+> forgiveness of our sins. Through [our] Lord.
+>
+> *Thursday.* … *Antiphon at the Benedictus:* As the Father raises up the dead and gives them
+> life, so the Son also gives life to whom he will. (Jn 5:21)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that those whom the fasts they have vowed
+> chasten may also be gladdened by holy devotion, so that, with earthly desires calmed, we
+> may the more easily lay hold of heavenly things. Through [our] Lord.
