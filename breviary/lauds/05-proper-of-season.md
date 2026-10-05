@@ -6132,3 +6132,52 @@ continues.
 *Note.* This is the second Sunday after Pentecost, whose Gospel is the parable of the
 great supper. The memorial of the Resurrection is cued in the margin of the Vespers
 rubric and seems to belong to both hours.
+
+### Octave day of Corpus Christi, and the return to the ferial office (scan p. 453)
+
+**Latin**
+
+> *[In octava:] Evangelium etc. ut in die.* In laudibus *omnes antiphone dicuntur. Ad horas
+> ut in die.*
+>
+> *In crastinum, quod est feria vi post octavam corporis Christi, recuperantur antiphone et
+> psalmi, et deinceps feriales diebus ut in rubrica. Et est notandum quod si a festo
+> penthecostes usque ad octavam corporis Christi aliquod festum evenerit, transfertur post
+> dictas octavas, si non sit festum sancti Iohannis baptiste; et de his festis que
+> transferuntur primo fieri in primis diebus vacantibus post dictam octavam. Hac feria vi et
+> deinceps usque ad dominicam primam augusti, quando de feria agitur, legantur lectiones de
+> libro Regum, et etiam cantatur historia* Deus omnium.
+>
+> *Dominica i post trinitatem, que evenit infra octavam corporis Christi: de ipsa fit
+> memoria tantum, et legitur evangelium dominice ad matutinas. Memoria de ipsa dominica
+> prima, et primo in sabbato ad vesperas: antiphona* Loquere, Domine, quia audit servus
+> tuus. ℣. Vespertina oratio ascendat ad te, Domine. ℟. Et descendat super nos misericordia
+> tua. *Oratio.* Deus, in te sperantium fortitudo, adesto propicius invocationibus nostris,
+> et quia sine te nihil potest mortalis infirmitas, presta auxilium gratie tue, ut in
+> exequendis mandatis tuis et voluntate tibi et actione placeamus.
+
+**Translation**
+
+> *[On the octave day:] The gospel etc. as on the feast.* **At Lauds all the antiphons are
+> said.** *At the hours, as on the feast.*
+>
+> *On the next day, the Friday after the octave of Corpus Christi, the [ferial] antiphons and
+> psalms are resumed, and from then on on weekdays as in the rubrics. And note that if any
+> feast falls between Pentecost and the octave of Corpus Christi, it is transferred to after
+> that octave — unless it is the feast of St John the Baptist — and the transferred feasts
+> are kept first, on the first free days after the octave. From this Friday until the first
+> Sunday of August, whenever the office is of the weekday, the lessons are read from the
+> Books of Kings, and the* historia Deus omnium *is sung.*
+>
+> *The first Sunday after Trinity, which falls within the octave of Corpus Christi: only a
+> memorial is made of it, and the Sunday gospel is read at Matins. The memorial of this
+> first Sunday is made first at Vespers on the Saturday:* antiphon "Speak, Lord, for thy
+> servant hears" (1 Sam 3:9); ℣. Let my evening prayer ascend to thee, O Lord. ℟. And let thy
+> mercy descend upon us. *Collect:* O God, the strength of those who hope in thee, graciously
+> attend to our prayers; and because mortal weakness can do nothing without thee, grant us
+> the help of thy grace, that in carrying out thy commandments we may please thee both in
+> will and in deed.
+
+*Notes.* St John the Baptist (24 June) is the one feast exempt from transfer — a mark of
+his rank as the Order's patron. The collect *Deus in te sperantium* is the one cued for the
+Lauds memorial on the Sunday within the octave (above).

@@ -158,3 +158,4 @@
 - 444–448: CORPUS CHRISTI LAUDS → done (ants Sapientia edificavit…; hymn Verbum supernum full; ℣ Posuit fines; Bened. Ego sum panis vivus; chapter & collect cued — 1st Vespers p.444 not checked). Octave days from 448b
 - 449: CORPUS CHRISTI OCTAVE days LAUDS (single ant Sapientia; Bened./Magnif. from nocturn ants in turn; memorial of St John) → done
 - 450–451: SUNDAY WITHIN CORPUS CHRISTI OCTAVE LAUDS (ant Sapientia; memorial of Sunday Homo quidam; collect Deus in te sperantium cued) → done
+- 453: OCTAVE DAY of Corpus Christi (all ants at Lauds); return to ferial office; St John Baptist exempt from transfer; Sunday I after Trinity memorial (collect Deus in te sperantium full) → done
