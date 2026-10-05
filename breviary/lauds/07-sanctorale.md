@@ -1232,3 +1232,91 @@ church at Rhodes — kept relics of St Blaise in a chapel of its own.
 > *Through the octave of the Purification the invitatory and hymns are said each day as on the
 > feast; … and at **Lauds a single antiphon** is said over the psalms; … the rest as on the
 > feast. At the* Benedictus *and* Magnificat, *the antiphons of the nocturns [in turn].*
+
+### St Agatha, Virgin and Martyr — 5 February (scan pp. 582–583)
+
+Nine lessons, with proper antiphons from her *Passion*: her torture under the governor
+Quintianus, and the healing of her wounds by St Peter in prison.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Adiuvabit eam *[Deus vultu suo]*.
+>
+> In laudibus. *Antiphona.* Quis es tu qui venisti ad me curare vulnera mea? Ego sum apostolus
+> Christi; nihil in me dubites, filia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Medicinam carnalem corpori meo nunquam exhibui, sed habeo Dominum Iesum Christum,
+> qui solo sermone restaurat universa. *Psalmus* Iubilate.
+>
+> *Antiphona.* Gratias tibi ago, Domine, quia memor es mei et misisti ad me apostolum tuum
+> curare vulnera mea. *Psalmus* Deus deus.
+>
+> *Antiphona.* Benedico te, pater Domini mei Iesu Christi, quia per apostolum tuum mamillam meam
+> meo pectori restituisti. *Psalmus* Benedicite.
+>
+> *Antiphona.* Qui me dignatus est ab omni plaga curare, et mamillam meam meo pectori
+> restituere, ipsum invoco Deum vivum. *Psalmus* Laudate.
+>
+> *Capitulum* Qui gloriatur *[in Domino glorietur …]*. *Hymnus* Iesu corona virginum. ℣. Elegit
+> eam.
+>
+> *Ad* Benedictus *antiphona.* Paganorum multitudo fugiens ad sepulchrum virginis, tulerunt
+> velum eius contra ignem, ut comprobaret Dominus quod a periculis incendii meritis beate Agathe
+> martyris sue eos liberaret.
+>
+> *Oratio [ut supra]. Ad horas antiphone de laudibus; cetera ut in communi unius virginis.*
+>
+> *Nota quod a septuagesima usque ad pascha, in festis ix lectionum, dicuntur responsoria ad
+> utrasque vesperas, et in dominicis.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* God shall help her [with his
+> countenance].
+>
+> **At Lauds.** *Antiphon:* "Who art thou who hast come to me to heal my wounds?" "I am an
+> apostle of Christ; doubt nothing of me, my daughter." *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* I have never applied bodily medicine to my body, but I have the Lord Jesus Christ,
+> who restores all things by his word alone. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* I give thee thanks, O Lord, for thou hast remembered me and sent thy apostle to me
+> to heal my wounds. *Psalm 62* O God, my God.
+>
+> *Antiphon:* I bless thee, Father of my Lord Jesus Christ, for through thy apostle thou hast
+> restored my breast to my body. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Him who deigned to heal me of every wound and to restore my breast to my body — him
+> I call upon, the living God. *Psalm 148* Praise.
+>
+> *Chapter* He that glories [, let him glory in the Lord …] (2 Cor 10:17). *Hymn* Jesus, crown of
+> virgins. ℣. God has chosen her.
+>
+> *Antiphon at the Benedictus:* A crowd of pagans, fleeing to the virgin's tomb, took her veil
+> and held it against the fire, that the Lord might show that he delivered them from the dangers
+> of the blaze through the merits of his blessed martyr Agatha.
+>
+> *The collect [as above]. At the hours, the antiphons of Lauds; the rest as in the Common of one
+> virgin.*
+>
+> *Note that from Septuagesima until Easter, on feasts of nine lessons and on Sundays, the
+> responsories are said at both Vespers.*
+
+*Note.* The Benedictus antiphon recalls the eruption of Etna a year after her death, when the
+people of Catania were said to have stopped the lava with her veil.
+
+### SS Vedast and Amandus, Bishops and Confessors — 6 February (scan p. 583)
+
+> *Sanctorum Vedasti et Amandi episcoporum, omnia ut in communi plurimorum confessorum;
+> lectiones vi de vita eorum; cetera ut in communi.*
+>
+> *Oratio.* Exaudi, Domine, populum tuum, et sanctorum tuorum confessorum Vedasti et Amandi
+> intercessione, quorum solemnia celebramus, temporalis vite nos tribue pace gaudere, et eterne
+> reperire subsidium. Per Dominum.
+
+> *SS Vedast and Amandus, bishops: everything as in the Common of several confessors; six lessons
+> from their lives; the rest as in the Common.*
+>
+> *Collect:* Hear thy people, O Lord, and by the intercession of thy holy confessors Vedast and
+> Amandus, whose solemnity we celebrate, grant us to rejoice in peace in this present life and to
+> find help for the life eternal. Through [our] Lord.
