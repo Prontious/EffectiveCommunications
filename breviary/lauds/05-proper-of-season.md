@@ -3403,3 +3403,84 @@ antiphon and collect are proper.
 > his court, those things are in peace which he possesses. (Lk 11:21) … *At Sext, the
 > antiphon:* He that gathers not with me scatters, and he that is not with me is against me.
 > (Lk 11:23)
+
+---
+
+## Weekdays of the third week of Lent
+
+### Monday (scan p. 345)
+
+**Latin**
+
+> *Feria ii. Ad matutinas et ad horas ut in feriis.* … *Ad* Benedictus *antiphona.* Amen
+> dico vobis, quia nemo propheta acceptus est in patria sua.
+>
+> *Oratio.* Cordibus nostris, quesumus, Domine, gratiam sancti spiritus benignus infunde,
+> ut sicut ab escis corporalibus abstinemus, ita sensus quoque nostros a noxiis retrahamus
+> excessibus. Per Dominum … in unitate eiusdem.
+>
+> *Ad primam, tertiam, sextam et nonam antiphone* Vivo ego *et alie, versus et capitula,
+> responsoria et versus, usque ad dominicam de passione. Sed responsoria brevia, scilicet*
+> Bonum mihi, Servus tuus, Septies in die, *dicuntur ad horas.*
+
+**Translation**
+
+> *Monday. At Matins [with Lauds] and at the hours, as on weekdays.* … *Antiphon at the
+> Benedictus:* Amen I say to you, that no prophet is accepted in his own country. (Lk 4:24)
+>
+> *Collect:* Graciously pour into our hearts, we beseech thee, O Lord, the grace of the Holy
+> Spirit, that as we abstain from bodily foods, so we may also hold back our senses from
+> harmful excesses. Through [our] Lord … in the unity of the same [Spirit].
+>
+> *At Prime, Terce, Sext and None, the antiphons* As I live *and the others, with the
+> versicles and chapters, responsories and versicles, until Passion Sunday. But the short
+> responsories — namely* It is good for me, Thy servant, Seven times a day *— are said at
+> the hours.*
+
+### Tuesday (scan p. 346)
+
+**Latin**
+
+> *Feria iii.* … *Ad* Benedictus *antiphona.* Ubi duo vel tres congregati fuerint in nomine
+> meo, in medio eorum sum, dicit Dominus.
+>
+> *Oratio.* Exaudi nos, omnipotens et misericors Deus, et continentie salutaris propicius
+> dona concede. Per Dominum.
+
+**Translation**
+
+> *Tuesday.* … *Antiphon at the Benedictus:* Where two or three are gathered together in my
+> name, there am I in the midst of them, says the Lord. (Mt 18:20)
+>
+> *Collect:* Hear us, almighty and merciful God, and graciously grant us the gifts of saving
+> self-denial. Through [our] Lord.
+
+### Wednesday and Thursday (scan p. 347)
+
+**Latin**
+
+> *Feria iiii.* … *Ad* Benedictus *antiphona.* Audite et intelligite traditiones quas
+> Dominus dedit [nobis].
+>
+> *Oratio.* Presta nobis, Domine, quesumus, ut salutaribus ieiuniis eruditi, ab omnibus
+> etiam vitiis abstinentes, propitiationem tuam facilius impetremus. Per Dominum.
+>
+> *Feria v.* … *Ad* Benedictus *antiphona.* Operamini non cibum qui perit, sed qui permanet
+> in vitam eternam.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut ieiuniorum nobis sancta devotio et
+> purificationem tribuat, et maiestati tue nos reddat acceptos. Per Dominum.
+
+**Translation**
+
+> *Wednesday.* … *Antiphon at the Benedictus:* Hear and understand the traditions which the
+> Lord has given [us].
+>
+> *Collect:* Grant us, O Lord, we beseech thee, that, schooled by saving fasts and abstaining
+> also from all vices, we may the more easily obtain thy mercy. Through [our] Lord.
+>
+> *Thursday.* … *Antiphon at the Benedictus:* Labour not for the food that perishes, but for
+> that which endures unto life everlasting. (Jn 6:27)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that the holy devotion of our fasts may
+> both purify us and make us acceptable to thy majesty. Through [our] Lord.

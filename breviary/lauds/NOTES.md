@@ -106,3 +106,6 @@
 - 340: LENT II THU (Ego non ab homine; Presta nobis…auxilium gratie) + FRI (Malos male perdet; Da quesumus…sacro nos purificante) → done
 - 341: LENT II SAT (Vadam ad patrem; Da quesumus…effectum ieiuniis) → done; 1st Vespers Lent III (Magnif. Dixit autem pater; collect Familiam tuam…continua pietate); Compline Media vita
 - 342–344: LENT III SUNDAY LAUDS → done (ants Fac benigne…; Bened. Erat Iesus eiciens; collect Quesumus…vota humilium)
+- 345: LENT III MON (Amen dico vobis quia nemo propheta; Cordibus nostris) → done
+- 346: LENT III TUE (Ubi duo vel tres; Exaudi nos…continentie salutaris) → done; Wed Matins begins
+- 347: LENT III WED (Audite et intelligite traditiones; Presta nobis…salutaribus ieiuniis) + THU (Operamini non cibum; Concede…ieiuniorum sancta devotio) → done; Fri begins 347b
