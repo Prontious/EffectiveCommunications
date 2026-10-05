@@ -139,3 +139,6 @@
 - 401–403: GOOD SHEPHERD SUNDAY LAUDS → done (ant Angelus autem; cap Christus passus est; Bened. Ego sum pastor bonus; collect Deus qui in filii tui cued; memorial of Resurrection Surgens Iesus — every Sunday until Ascension)
 - 404–407: JUBILATE SUNDAY LAUDS (Bened. Modicum et non videbitis; collect Deus qui errantibus cued; week ants Amen amen…, Iterum autem, Tristitia vestra) → done
 - 408–410: CANTATE SUNDAY LAUDS (Bened. Vado ad eum; collect Deus qui fidelium cued; 5 week ants Nisi ego abiero…) → done
+- 411–412: ROGATION SUNDAY LAUDS (Bened. Usque modo non petistis; collect Deus a quo bona cued) → done. 412b: Rogation Monday Matins begins
+- 413: ROGATION MONDAY LAUDS (cap. Confitemini alterutrum; Bened. Quis vestrum habebit amicum; collect Presta…in afflictione nostra) → done; suffrages omitted until after Corpus Christi octave
+- 414–415: ROGATION TUE (Exivi a patre; Deus qui nos conspicis in tot perturbationibus) + WED/VIGIL OF ASCENSION (Clarifica me pater; Presta…omnipotens pater ut nostre mentis) → done. 415: 1st Vespers Ascension (double; hymn Eterne rex altissime — Vespers)

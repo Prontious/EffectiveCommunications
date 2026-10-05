@@ -5226,3 +5226,123 @@ week, as after Low Sunday; the ferial pattern is the same (see above).
 > speak, and the things that are to come he shall show you, alleluia. (Jn 16:13)
 > 5. He shall glorify me, because he shall receive of mine, and show it to you, alleluia.
 > (Jn 16:14)
+
+---
+
+## Fifth Sunday after Easter — Rogation Sunday (scan p. 412)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum.
+>
+> In laudibus *versus [ut in aliis dominicis]. Ad* Benedictus *antiphona.* Usque modo non
+> petistis quicquam in nomine meo; petite et accipietis, alleluia.
+>
+> *Oratio* Deus, a quo bona *[cuncta procedunt] [cued]*. *Memoria de resurrectione, versus.*
+>
+> *Ad omnes horas omnia versus [ut] in aliis dominicis.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*.
+>
+> **At Lauds,** the versicles *[as on the other Sundays]*. *Antiphon at the Benedictus:*
+> Hitherto you have asked nothing in my name; ask, and you shall receive, alleluia.
+> (Jn 16:24)
+>
+> *Collect* O God, from whom [all] good things [come] *[cued]*. *Memorial of the
+> Resurrection, with versicles.*
+>
+> *At all the hours, everything with the versicles as on the other Sundays.*
+
+---
+
+## The Rogation days
+
+### Rogation Monday — *Feria ii in rogationibus* (scan p. 413)
+
+**Latin**
+
+> *[End of Matins:]* ℣. *sacerdotalis* In resurrectione.
+>
+> In laudibus *antiphona* Alleluia. *Psalmus* Dominus regnavit, *etc., cum hac sola.*
+>
+> *Capitulum.* Confitemini alterutrum peccata vestra, et orate pro invicem ut salvemini;
+> multum enim valet deprecatio iusti assidua.
+>
+> *Hymnus* Sermone blando. ℣. Gavisi sunt.
+>
+> *Ad* Benedictus *antiphona.* Quis vestrum habebit amicum, et ibit ad illum media nocte, et
+> dicet illi: Amice, accommoda mihi tres panes, quia amicus meus venit de via ad me, et non
+> habeo quod ponam ante illum, alleluia.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui in afflictione nostra de tua pietate
+> confidimus, contra adversa omnia tua semper protectione muniamur. Per Dominum.
+>
+> *His tribus diebus usque post octavam corporis Christi omittuntur suffragia sanctorum, nec
+> ulla fit memoria. Si evenerit festum ix lectionum, tunc fiat de ipso festo, pronunciando
+> isto die evangelium de rogationibus, et etiam de ipsis fiat memoria.*
+
+**Translation**
+
+> *[End of Matins:] The priest's versicle* In thy resurrection.
+>
+> **At Lauds,** the antiphon *Alleluia*; *Psalm 92* The Lord hath reigned, *etc., under this
+> one antiphon.*
+>
+> *Chapter:* Confess your sins one to another, and pray for one another, that you may be
+> saved; for the continual prayer of a just man avails much. (Jas 5:16)
+>
+> *Hymn* With gentle words. ℣. The disciples rejoiced.
+>
+> *Antiphon at the Benedictus:* Which of you shall have a friend, and shall go to him at
+> midnight and say to him: Friend, lend me three loaves, because a friend of mine has come
+> off his journey to me, and I have nothing to set before him? alleluia. (Lk 11:5–6)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who in our affliction trust in thy
+> loving kindness may ever be defended by thy protection against all adversity. Through
+> [our] Lord.
+>
+> *On these three days, and until after the octave of Corpus Christi, the suffrages of the
+> saints are omitted, and no memorial is made. If a feast of nine lessons falls, then its
+> office is said, with the Rogation gospel announced that day, and a memorial of the
+> Rogations is also made.*
+
+### Rogation Tuesday and Wednesday (scan pp. 414–415)
+
+**Latin**
+
+> *Feria iii.* … In laudibus *versus; capitulum* Confitemini alterutrum; *cetera versus. Ad*
+> Benedictus *antiphona.* Exivi a patre et veni in mundum; iterum relinquo mundum et vado ad
+> patrem, alleluia, alleluia.
+>
+> *Oratio.* Deus, qui nos conspicis in tot perturbationibus non posse subsistere, afflictorum
+> gemitum propicius respice, et mala nostra que meremur averte. Per Dominum.
+>
+> *Feria iiii, in vigilia ascensionis Domini.* … In laudibus *versus; capitulum* Confitemini,
+> *ut feria ii. Ad* Benedictus *antiphona.* Clarifica me, pater, apud temetipsum, claritate
+> quam habui priusquam mundus fieret.
+>
+> *Oratio.* Presta, quesumus, omnipotens pater, ut nostre mentis intentio quo solemnitatis
+> hodierne gloriosus auctor ingressus est semper intendat, et quo fide pergit conversatione
+> perveniat. Per eundem.
+
+**Translation**
+
+> *Tuesday.* … At Lauds, the versicles; the chapter *Confess your sins one to another*; the
+> rest with the versicles. *Antiphon at the Benedictus:* I came forth from the Father and am
+> come into the world; again I leave the world and go to the Father, alleluia, alleluia.
+> (Jn 16:28)
+>
+> *Collect:* O God, who seest that we cannot stand amid so many troubles, look graciously on
+> the groaning of the afflicted, and turn away from us the evils we deserve. Through [our]
+> Lord.
+>
+> *Wednesday, the vigil of the Lord's Ascension.* … At Lauds, the versicles; the chapter
+> *Confess*, *as on Monday*. *Antiphon at the Benedictus:* Glorify me, O Father, with thyself,
+> with the glory which I had before the world was. (Jn 17:5)
+>
+> *Collect:* Grant, we beseech thee, almighty Father, that the aim of our minds may ever
+> tend to where the glorious author of this day's solemnity has entered, and that we may
+> reach by our way of life the place to which we travel by faith. Through the same [Christ
+> our Lord].
