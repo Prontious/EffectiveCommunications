@@ -212,3 +212,5 @@
 - 599–601: ST LONGINUS 15 Mar; ST PATRICK 17 Mar; ST ALEXANDER bishop of Jerusalem 18 Mar ('Hierusalem'; collect Adesto Domine populo tuo); ST JOSEPH 19 Mar (Common conf. non-bishop; collect Omnipotens…qui beatum Ioseph) → done
 - 602: ST BENEDICT 21 Mar (Common conf. non-bishop; collect Intercessio cued) → done
 - 603–607: ANNUNCIATION 25 Mar (double) LAUDS → done (ants Prophete predicaverunt…; cap Egredietur virga; Bened. Super solium David; collects Deus qui de beate (cued) & Concede…fragilitati nostre); ST MARY OF EGYPT 2 Apr (Common matron; collect) → done
+- 608: ST AMBROSE 4 Apr (semidouble; Common bishop-confessor; collect Deus qui populo tuo sanctum Ambrosium) → done
+- 609–611: COMMON OF SAINTS IN EASTERTIDE (one & several martyrs) LAUDS → done (ants In celestibus regnis…; Bened. Lux perpetua; memorial of Resurrection)

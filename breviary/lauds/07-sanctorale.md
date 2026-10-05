@@ -1740,3 +1740,112 @@ Ember Wednesday set of Advent (*Prophete predicaverunt*), re-ordered.
 > *Collect:* Almighty and everlasting God, who on this day didst bring blessed Mary of Egypt into the
 > heavenly kingdom: grant, we beseech thee, to thy faithful worthily to celebrate her feast, that
 > through her venerable festival we may obtain salvation and peace. Through [our] Lord.
+
+### St Ambrose, Bishop and Doctor — 4 April (scan p. 608)
+
+> *Sancti Ambrosii episcopi et doctoris, semiduplex; omnia ut in communi unius episcopi et
+> confessoris.*
+>
+> *Oratio.* Deus, qui populo tuo sanctum Ambrosium predicatorem prestitisti, presta, quesumus, ut
+> ipsius intercessione et tue pietatis defensione ab omnibus utique liberemur adversis, et
+> tranquilla prosperitate in tua iugiter laude letemur. Per Dominum.
+
+> *St Ambrose, bishop and doctor: semidouble; everything as in the Common of one bishop and
+> confessor.*
+>
+> *Collect:* O God, who didst give holy Ambrose to thy people as a preacher: grant, we beseech thee,
+> that by his intercession and the defence of thy loving kindness we may be delivered from all
+> adversity, and rejoice continually in thy praise in calm prosperity. Through [our] Lord.
+
+*Note.* Mary of Egypt's lessons on the same page tell how, as a sinner, she was held back by an
+unseen force at the door of the church in **Jerusalem** when she tried to venerate the Holy Cross
+— another story set in the Holy City.
+
+---
+
+## The Common of the Saints in Eastertide (scan pp. 609–611)
+
+Before the April saints the book inserts a short Common for saints' days that fall between
+Easter and Pentecost. It replaces the ordinary Commons' antiphons and responsories with
+alleluia texts, and every such feast carries a memorial of the Resurrection.
+
+### For one martyr (scan pp. 610–611)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis prout festum requirit.*
+>
+> In laudibus. *Antiphona.* In celestibus regnis sanctorum habitatio est, alleluia; et in eternum
+> requies eorum, alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Sancti tui, Domine, florebunt sicut lilium, alleluia; et sicut odor balsami erunt ante
+> te, alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* In velamento clamabunt sancti tui, Domine, alleluia, alleluia, alleluia. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Sancti et iusti, in Domino gaudete, alleluia; vos elegit Deus in hereditatem sibi,
+> alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Si manseritis in me, et verba mea in vobis manserint, quodcunque petieritis fiet
+> vobis, alleluia. *Psalmus* Laudate.
+>
+> *Capitulum, hymnus,* ℣. *prout festum requirit.*
+>
+> *Ad* Benedictus *antiphona.* Lux perpetua lucebit sanctis tuis, Domine, alleluia; et eternitas
+> temporum, alleluia, alleluia, alleluia.
+>
+> *Oratio qualis evenerit. Memoria de resurrectione. Antiphona* Surrexit Christus. ℣. Surrexit
+> Dominus de sepulchro. *Oratio* Presta, quesumus, omnipotens Deus, ut qui gratiam *[dominice
+> resurrectionis cognovimus …]*.
+>
+> *Ad primam et ad alias horas antiphone de laudibus; capitula, responsoria brevia et versus
+> prout festum requirit in suo communi, et dicuntur cum alleluia, ut tempore paschali.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle as the feast requires.*
+>
+> **At Lauds.** *Antiphon:* In the heavenly kingdom is the dwelling of the saints, alleluia; and
+> their rest is for ever, alleluia. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Thy saints, O Lord, shall flower like the lily, alleluia; and like the scent of balsam
+> they shall be before thee, alleluia. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* Beneath [thy] covering thy saints shall cry out, O Lord, alleluia, alleluia,
+> alleluia. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Ye saints and just, rejoice in the Lord, alleluia; God has chosen you as his own
+> inheritance, alleluia. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* If you abide in me, and my words abide in you, whatever you ask shall be done for
+> you, alleluia. (Jn 15:7) *Psalm 148* Praise.
+>
+> *The chapter, hymn and versicle as the feast requires.*
+>
+> *Antiphon at the Benedictus:* Everlasting light shall shine upon thy saints, O Lord, alleluia;
+> and eternity of times, alleluia, alleluia, alleluia.
+>
+> *The collect of whatever feast it is. A memorial of the Resurrection: the antiphon* Christ is
+> risen; ℣. The Lord is risen from the tomb; *collect* Grant, we beseech thee, almighty God, that
+> we who [have known] the grace [of the Lord's resurrection …].
+>
+> *At Prime and the other hours, the antiphons of Lauds; the chapters, short responsories and
+> versicles as the feast requires in its own Common, said with alleluia, as in Eastertide.*
+
+### For several martyrs (scan p. 611)
+
+> *In festis plurimorum martyrum sic est fiendum … In laudibus antiphona* In celestibus regnis.
+> *Psalmus* Dominus regnavit, *et cetere ad ceteros. Capitulum, hymnus,* ℣. *ut in communi
+> ipsorum. Ad* Benedictus *antiphona* Lux perpetua. *Oratio que contigerit; memoria de
+> resurrectione. Ad horas antiphone de laudibus.*
+
+> On feasts of several martyrs it is done thus … **At Lauds** the antiphon *In the heavenly
+> kingdom*; *Psalm 92* The Lord hath reigned, *and the other antiphons to the other psalms. The
+> chapter, hymn and versicle as in their own Common. At the Benedictus the antiphon* Everlasting
+> light. *The collect of the day; a memorial of the Resurrection. At the hours the antiphons of
+> Lauds.*
+
+*Note.* This is the same set of Lauds antiphons for one martyr and for several; only the
+Matins and Vespers differ. Any saint's feast in this section of the Sanctorale (April and May)
+that refers to "the Common" therefore takes these Lauds when it falls in Eastertide.
