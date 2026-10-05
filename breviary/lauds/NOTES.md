@@ -99,3 +99,5 @@
 - 331: Lent I Sunday hours/Vespers/Compline; Monday Matins. 332: LENT I MONDAY LAUDS → done (rubric: hymn Audi benigne + ℣ Scuto daily until Passion Sunday)
 - 333: LENT I TUE (Domus mea; Respice Domine familiam) + EMBER WED (Generatio hec prava; Preces nostras) → done
 - 334: LENT I THU (Si vos manseritis; Adesto Domine) + EMBER FRI (Angelus Domini descendebat; Esto Domine propicius) → done
+- 335: LENT I EMBER SAT (Assumpsit Iesus; Populum tuum) → done; 1st Vespers Lent II (Magnif. Nemini dixeritis; collect Ab omnibus nos); Lent II Matins begins
+- 336–337: LENT II SUNDAY LAUDS → done (ants Domine labia mea…; Bened. Egressus Iesus; collect Deus qui conspicis omni nos virtute)

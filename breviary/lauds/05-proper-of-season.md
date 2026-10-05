@@ -3138,3 +3138,91 @@ collect change from day to day.
 >
 > *Collect:* Be gracious, O Lord, to thy people, and as thou makest them devoted to thee,
 > in thy mercy refresh them with thy kindly help. Through [our] Lord.
+
+### Ember Saturday (scan p. 335)
+
+**Latin**
+
+> *Sabbato [quatuor temporum].* … *Ad* Benedictus *antiphona.* Assumpsit Iesus discipulos
+> suos, et ascendit in montem, et transfiguratus est ante eos.
+>
+> *Oratio.* Populum tuum, quesumus, Domine, propicius respice, atque ab eo flagella tue
+> iracundie clementer averte. Per Dominum.
+
+**Translation**
+
+> *Ember Saturday.* … *Antiphon at the Benedictus:* Jesus took his disciples and went up
+> into a mountain, and was transfigured before them. (cf. Mt 17:1–2)
+>
+> *Collect:* Look graciously, we beseech thee, O Lord, upon thy people, and mercifully turn
+> away from them the scourges of thy wrath. Through [our] Lord.
+
+---
+
+## Second Sunday of Lent (scan p. 337; collect on the same page)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Vidi Dominum *[facie ad faciem]*. ℣. *Sacerdotalis*
+> Dicet Domino.
+>
+> In laudibus. *Antiphona.* Domine, labia mea aperies, et os meum annunciabit laudem tuam.
+> *Psalmus* Miserere mei.
+>
+> *Antiphona.* Dextera Domini fecit virtutem, dextera Domini exaltavit me. *Psalmus*
+> Confitemini Domino.
+>
+> *Antiphona.* Factus es adiutor meus, Deus meus. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Trium puerorum cantemus hymnum, quem cantabant in camino ignis, benedicentes
+> Dominum. *Psalmus* Benedicite.
+>
+> *Antiphona.* Statuit ea in eternum et in seculum seculi; preceptum posuit, et non
+> preteribit. *Psalmus* Laudate Dominum.
+>
+> *Capitulum, hymnus et* ℣. *ut in alia dominica.*
+>
+> *Ad* Benedictus *antiphona.* Egressus Iesus secessit in partes Tyri et Sidonis; et ecce
+> mulier Chananea a finibus illis egressa clamabat dicens: Miserere mei, Domine, fili
+> [David].
+>
+> *Oratio.* Deus, qui conspicis omni nos virtute destitui, interius exteriusque custodi,
+> ut ab omnibus adversitatibus muniamur in corpore, et a pravis cogitationibus mundemur in
+> mente. Per Dominum.
+>
+> *Ad primam antiphona.* Non sum missus nisi ad oves que perierunt domus Israel, dicit
+> Dominus. … *Ad tertiam antiphona.* Missus sum ad oves que perierant domus Israel, dicit
+> Dominus.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *I have seen the Lord [face to face]* is repeated.
+> *The priest's versicle* He shall say to the Lord.
+>
+> **At Lauds.** *Antiphon:* O Lord, thou wilt open my lips, and my mouth shall declare thy
+> praise. (Ps 50:17) *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* The right hand of the Lord has wrought strength; the right hand of the Lord has
+> exalted me. (Ps 117:16) *Psalm 117* Give praise to the Lord.
+>
+> *Antiphon:* Thou hast been my helper, O my God. (cf. Ps 62:8) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Let us sing the hymn of the three young men, which they sang in the fiery
+> furnace, blessing the Lord. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* He has established them for ever and for ages of ages; he has made a decree,
+> and it shall not pass away. (Ps 148:6) *Psalm 148* Praise the Lord.
+>
+> *Chapter, hymn and versicle as on the other Sunday [Lent I].*
+>
+> *Antiphon at the Benedictus:* Jesus went out and withdrew into the region of Tyre and
+> Sidon; and behold, a woman of Canaan came out of those parts and cried out, saying: Have
+> mercy on me, O Lord, Son [of David]. (Mt 15:21–22)
+>
+> *Collect:* O God, who seest that we are destitute of all strength, guard us within and
+> without, that we may be defended from all adversities in body, and cleansed from evil
+> thoughts in mind. Through [our] Lord.
+>
+> *At Prime, the antiphon:* I was not sent but to the lost sheep of the house of Israel,
+> says the Lord. (Mt 15:24) … *At Terce, the antiphon:* I was sent to the sheep that were
+> lost of the house of Israel, says the Lord.
