@@ -5963,3 +5963,111 @@ the antiphon is extended with an acclamation when it is repeated.
 
 *Note.* The Sunday chapter and hymn of the psalter (see [section 2](02-psalter-sunday.md))
 are used, which suits a feast of God himself.
+
+---
+
+## Corpus Christi — *In festo corporis Christi* (scan pp. 447–448)
+
+The office is St Thomas Aquinas's. In this book the feast has a solemn octave: the
+office of Our Lady is not said during it.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Comedi favum cum melle meo,
+> alleluia. ℟. Bibi vinum cum lacte meo, alleluia.
+>
+> In laudibus. *Antiphona.* Sapientia edificavit sibi domum, miscuit vinum et posuit mensam,
+> alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Angelorum esca nutrivisti populum tuum, et panem de celo prestitisti eis,
+> alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Pinguis est panis Christi, et prebebit delicias regibus, alleluia. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Sacerdotes sancti incensum et panes offerunt Deo. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Vincenti dabo manna absconditum et nomen novum, alleluia. *Psalmus* Laudate.
+>
+> *Capitulum* Dominus Iesus Christus *[in qua nocte tradebatur accepit panem …]: quere in
+> primis vesperis.*
+>
+> *Hymnus.* Verbum supernum prodiens, / nec patris linquens dexteram, / ad opus suum exiens,
+> / venit ad vite vesperam.
+> In mortem a discipulo / suis tradendus emulis, / prius in vite ferculo / se tradidit
+> discipulis.
+> Quibus sub bina specie / carnem dedit et sanguinem, / ut duplicis substantie / totum
+> cibaret hominem.
+> Se nascens dedit socium, / convescens in edulium, / se moriens in precium, / se regnans dat
+> in premium.
+> O salutaris hostia, / que celi pandis ostium, / bella premunt hostilia: / da robur, fer
+> auxilium.
+> Uni trinoque Domino / sit sempiterna gloria, / qui vitam sine termino / nobis donet in
+> patria. Amen.
+>
+> ℣. Posuit fines tuos pacem, alleluia. ℟. Et adipe frumenti satiat te, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Ego sum panis vivus, qui de celo descendi; si quis
+> manducaverit ex hoc pane, vivet in eternum, alleluia.
+>
+> *Oratio* Deus, qui nobis sub sacramento *[mirabili passionis tue memoriam reliquisti …]
+> [cued]*. *Et dicitur hec oratio ad omnes horas per octavam.*
+>
+> *Ad primam hymnus* Iam lucis, *cum ultimo versu* Uni trinoque Domino; *et dicitur ad primam,
+> tertiam, sextam, nonam et completorium per octavam.* … *Per has octavas non dicitur
+> officium beate Marie, et fiunt octave solemnes.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* I have eaten the honeycomb with
+> my honey, alleluia. ℟. I have drunk my wine with my milk, alleluia. (Song 5:1)
+>
+> **At Lauds.** *Antiphon:* Wisdom has built herself a house; she has mingled her wine and
+> set forth her table, alleluia. (Prov 9:1–2) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* With the food of angels thou didst feed thy people, and didst give them bread
+> from heaven, alleluia. (cf. Wis 16:20) *Psalm 99* Shout with joy.
+>
+> *Antiphon:* Rich is the bread of Christ, and it shall yield dainties to kings, alleluia.
+> (cf. Gen 49:20) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Holy priests offer incense and loaves to God. (cf. Lev 21:6) *Canticle* Bless
+> [the Lord], all [ye works].
+>
+> *Antiphon:* To him that overcomes I will give the hidden manna and a new name, alleluia.
+> (cf. Rev 2:17) *Psalm 148* Praise.
+>
+> *Chapter* The Lord Jesus [, the same night in which he was betrayed, took bread …]
+> (1 Cor 11:23): *look for it at first Vespers.*
+>
+> *Hymn (St Thomas Aquinas):*
+> The Word from on high going forth, yet not leaving the Father's right hand, went out to his
+> work and came to the evening of his life.
+> About to be handed over to death by a disciple, to his enemies, he first gave himself to
+> his disciples as the food of life.
+> To them under two kinds he gave his flesh and blood, that he might feed the whole man, made
+> of twofold substance.
+> By his birth he gave himself as our companion, at table as our food, in dying as our
+> ransom, reigning he gives himself as our reward.
+> O saving Victim, who openest the gate of heaven: hostile wars press upon us; give strength,
+> bring aid.
+> To the Lord, one and three, be everlasting glory; may he give us life without end in our
+> homeland. Amen.
+>
+> ℣. He has set peace in thy borders, alleluia. ℟. And fills thee with the fat of wheat,
+> alleluia. (Ps 147:14)
+>
+> *Antiphon at the Benedictus:* I am the living bread, which came down from heaven; if any
+> man eat of this bread, he shall live for ever, alleluia. (Jn 6:51–52)
+>
+> *Collect* O God, who under a wonderful sacrament [hast left us a memorial of thy Passion
+> …] *[cued]*. *This collect is said at all the hours through the octave.*
+>
+> *At Prime, the hymn* Now that the daylight, *with the last verse* To the Lord, one and
+> three; *it is said at Prime, Terce, Sext, None and Compline through the octave.* … *During
+> this octave the office of the Blessed Mary is not said, and the octave is kept as a solemn
+> one.*
+
+*Note.* The chapter and collect are cued only; their text is at first Vespers (scan p. 444),
+which has not been transcribed here. The completions in square brackets are the usual
+forms of these texts.
