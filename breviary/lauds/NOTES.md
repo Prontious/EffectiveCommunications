@@ -156,3 +156,5 @@
 - 436: PENTECOST EMBER SAT (Bened. Vespere autem facto; collect Mentibus nostris) → done; 1st Vespers TRINITY (double; ants Gloria tibi trinitas…; hymn O lux beata trinitas — Vespers)
 - 437–439: TRINITY SUNDAY LAUDS → done (5 ants O beata…/O vera…/Te iure with attached ℣ Tibi laus / Miserere; cap Benedictio et claritas; hymn Ecce iam noctis; Bened. Benedicta sit creatrix; collect Omnipotens…qui dedisti cued; no memorial)
 - 444–448: CORPUS CHRISTI LAUDS → done (ants Sapientia edificavit…; hymn Verbum supernum full; ℣ Posuit fines; Bened. Ego sum panis vivus; chapter & collect cued — 1st Vespers p.444 not checked). Octave days from 448b
+- 449: CORPUS CHRISTI OCTAVE days LAUDS (single ant Sapientia; Bened./Magnif. from nocturn ants in turn; memorial of St John) → done
+- 450–451: SUNDAY WITHIN CORPUS CHRISTI OCTAVE LAUDS (ant Sapientia; memorial of Sunday Homo quidam; collect Deus in te sperantium cued) → done

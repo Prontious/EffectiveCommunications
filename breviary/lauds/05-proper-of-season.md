@@ -6071,3 +6071,64 @@ office of Our Lady is not said during it.
 *Note.* The chapter and collect are cued only; their text is at first Vespers (scan p. 444),
 which has not been transcribed here. The completions in square brackets are the usual
 forms of these texts.
+
+### Within the octave of Corpus Christi (scan p. 449)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Comedi favum.
+>
+> In laudibus *antiphona* Sapientia edificavit. *Psalmus* Dominus regnavit, *et ceteri cum
+> hac sola. Capitulum, hymnus,* ℣. *versus. Ad* Benedictus *dicuntur antiphone nocturnorum,
+> et etiam ad* Magnificat. *Oratio, versus. Memoria de sancto Iohanne, prout tempus requirit,
+> per octavam ad matutinas et vesperas.*
+>
+> *Ad horas antiphone de laudibus; capitulum,* ℟.*,* ℣.*, oratio ut in die.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* I have eaten the honeycomb.
+>
+> **At Lauds,** the antiphon *Wisdom has built*; *Psalm 92* The Lord hath reigned, *and the
+> others under this one antiphon. The chapter, hymn and versicle as above. At the
+> Benedictus the antiphons of the nocturns are said [in turn], and also at the
+> Magnificat. The collect with versicles. A memorial of St John [the Baptist], as the
+> season requires, is made through the octave at Matins [Lauds] and Vespers.*
+>
+> *At the hours, the antiphons of Lauds; the chapter, responsory, versicle and collect as on
+> the feast day.*
+
+*Note.* Here the memorial of St John the Baptist resumes, as Rubric 1 required
+([section 1](01-rubrics.md)). This rubric does not say how far through the season it
+continues.
+
+### Sunday within the octave of Corpus Christi (scan p. 451)
+
+**Latin**
+
+> *[Cetera ut in die.]* In laudibus *antiphona* Sapientia edificavit. *Psalmus* Dominus
+> regnavit, *et cetere [antiphone] cum hac sola. Cetera ut in die.*
+>
+> *Memoria de dominica. Antiphona* Homo quidam *[fecit cenam magnam]*. ℣. Dominus regnavit.
+> *Oratio* Deus, in te sperantium *[fortitudo …] [cued]*.
+>
+> *[Memoria de resurrectione.]*
+>
+> *Ad horas ut in die.*
+
+**Translation**
+
+> *[The rest as on the feast.]* **At Lauds,** the antiphon *Wisdom has built*; *Psalm 92* The
+> Lord hath reigned, *and the others under this one antiphon. The rest as on the feast day.*
+>
+> *Memorial of the Sunday:* the antiphon *A certain man [made a great supper]* (Lk 14:16);
+> ℣. The Lord hath reigned; *collect* O God, [the strength] of those who hope in thee
+> *[cued]*.
+>
+> *[A memorial of the Resurrection.]*
+>
+> *At the hours, as on the feast day.*
+
+*Note.* This is the second Sunday after Pentecost, whose Gospel is the parable of the
+great supper. The memorial of the Resurrection is cued in the margin of the Vespers
+rubric and seems to belong to both hours.
