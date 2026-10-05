@@ -114,3 +114,5 @@
 - 350–351: LENT IV (LAETARE) SUNDAY LAUDS → done (ants Tunc acceptabis…; Bened. Cum sublevasset; collect Concede…ex merito nostre actionis). Mon Lent IV begins 351b
 - 352: LENT IV MON (Auferte ista hinc; Presta…observationes sacras) + TUE (Quid me queritis interficere; Sacre nobis…observationis ieiunia) → done; Wed begins 352b
 - 353: LENT IV WED (Rabbi quis peccavit; Deus qui et iustis premia) + THU (Sicut pater suscitat; Presta…quos ieiunia votiva) → done; Fri begins 353b
+- 354: LENT IV FRI (Lazarus amicus noster; Deus qui ineffabilibus) → done; Sat Matins begins (Ego sum lux mundi)
+- 355: LENT IV SAT (Ego sum lux mundi; Fiat Domine…fructuosus) → done; 1st Vespers Passion Sunday (cap. Faciem meam; hymn Vexilla regis — Vespers, not Lauds)

@@ -3670,3 +3670,53 @@ ut familia tua que se affligendo*); here it speaks of "those who" (*qui*) rather
 > *Collect:* Grant, we beseech thee, almighty God, that those whom the fasts they have vowed
 > chasten may also be gladdened by holy devotion, so that, with earthly desires calmed, we
 > may the more easily lay hold of heavenly things. Through [our] Lord.
+
+### Friday (scan p. 354)
+
+**Latin**
+
+> *Feria vi.* … *Ad* Benedictus *antiphona.* Lazarus amicus noster dormit; eamus et a somno
+> excitemus eum.
+>
+> *Oratio.* Deus, qui ineffabilibus mundum renovas sacramentis, presta, quesumus, ut
+> ecclesia tua et eternis proficiat institutis, et temporalibus non destituatur auxiliis.
+> Per Dominum.
+
+**Translation**
+
+> *Friday.* … *Antiphon at the Benedictus:* Lazarus our friend sleeps; let us go and wake
+> him out of sleep. (cf. Jn 11:11)
+>
+> *Collect:* O God, who renewest the world by sacraments beyond words, grant, we beseech
+> thee, that thy Church may both profit by thy eternal ordinances and not be left without
+> help in temporal things. Through [our] Lord.
+
+### Saturday (scan p. 355)
+
+**Latin**
+
+> *Sabbato.* … *[Rubrica:] Si propter festum ix lectionum in hoc sabbato vel alia feria
+> responsoria dici nequeunt, antiphone tamen in eadem ebdomada [dicuntur] [?].*
+>
+> *Ad* Benedictus *antiphona.* Ego sum lux mundi; qui sequitur me non ambulat in tenebris,
+> sed habebit lumen vite, dicit Dominus.
+>
+> *Oratio.* Fiat, Domine, quesumus, per gratiam tuam fructuosus nostre devotionis affectus,
+> quia tunc nobis proderunt suscepta ieiunia, si tue sint placita pietati. Per Dominum.
+
+**Translation**
+
+> *Saturday.* … *[Rubric:] If, because of a feast of nine lessons on this Saturday or on
+> another weekday, the responsories cannot be said, the antiphons are nevertheless [said]
+> within the same week [?].*
+>
+> *Antiphon at the Benedictus:* I am the light of the world; he that follows me walks not in
+> darkness, but shall have the light of life, says the Lord. (Jn 8:12)
+>
+> *Collect:* May the devotion of our hearts, we beseech thee, O Lord, be made fruitful by thy
+> grace; for the fasts we have undertaken will profit us only if they are pleasing to thy
+> loving kindness. Through [our] Lord.
+
+*Note.* The red rubric before the Benedictus antiphon is compressed and partly unclear in
+the scan. It seems to say that if a nine-lesson feast displaces this week's ferial office,
+the proper antiphons are still to be used within the week.
