@@ -216,3 +216,4 @@
 - 609–611: COMMON OF SAINTS IN EASTERTIDE (one & several martyrs) LAUDS → done (ants In celestibus regnis…; Bened. Lux perpetua; memorial of Resurrection)
 - 612: Eastertide rule for confessors/virgins; SS TIBURTIUS, VALERIAN & MAXIMUS 14 Apr (Common several martyrs; collect Presta…Tyburtii) → done
 - 613–614: ST GEORGE 23 Apr (semidouble; Eastertide Common one martyr; collect Deus qui nos beati Georgii; procession 'ad sanctum Georgium extra castrum' for Vespers) → done
+- 615–618: ST MARK 25 Apr (semidouble; Eastertide Common; hymn Claro paschali gaudio; collect cued) + ST CLETUS 26 Apr + ST VITALIS 28 Apr (Eastertide Common; collects) → done

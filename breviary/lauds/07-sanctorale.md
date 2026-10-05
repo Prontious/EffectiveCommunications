@@ -1912,3 +1912,76 @@ outside the castle walls, and the choir went there in procession for his Vespers
 *Note.* "St George outside the castle" (*extra castrum*) is a local detail that again points to
 the Order's convent at Rhodes, where the walled *Collachium* of the knights was surrounded by the
 town.
+
+### St Mark, Evangelist — 25 April (scan pp. 616–618)
+
+A semidouble, kept with the Eastertide Common of an apostle-evangelist. Its Lauds uses the Low
+Sunday hymn *Claro paschali gaudio*.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Dedisti hereditatem, alleluia.
+>
+> In laudibus *antiphona* In celestibus regnis. *Psalmus* Dominus regnavit, *et cetere ad ceteros,
+> ut supra [in communi tempore paschali].*
+>
+> *Capitulum* Per manus *[apostolorum fiebant signa et prodigia multa in plebe]*. *Hymnus.* Claro
+> paschali gaudio / sol mundo nitet radio, / cum Christum iam apostoli / visu cernunt corporeo. /
+> Ostensa sibi vulnera / in Christi carne fulgida, / resurrexisse Dominum / voce fatentur publica.
+> / Rex Christe clementissime, / tu corda nostra posside, / ut tibi laudes debitas / reddamus omni
+> tempore. / Quesumus auctor omnium … Gloria tibi *[cued]*. ℣. Gavisi sunt discipuli.
+>
+> *Ad* Benedictus *antiphona* Lux perpetua.
+>
+> *Oratio.* Deus, qui beatum Marcum evangelistam tuum evangelice predicationis gratia
+> sublimasti, tribue, quesumus, eius nos semper et eruditione proficere et oratione defendi.
+> *(cued as* Deus qui beatum Marcum.*)*
+>
+> *Memoria de resurrectione.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Thou hast given an inheritance,
+> alleluia.
+>
+> **At Lauds,** the antiphon *In the heavenly kingdom*; *Psalm 92* The Lord hath reigned, *and the
+> other antiphons to the other psalms, as above [in the Eastertide Common].*
+>
+> *Chapter* By the hands [of the apostles many signs and wonders were done among the people] (Acts
+> 5:12). *Hymn:* With the bright joy of Easter the sun shines on the world with its rays, as the
+> apostles now see Christ with their bodily eyes. The wounds shown to them, shining in Christ's
+> flesh, they proclaim with open voice that the Lord has risen. O Christ, most merciful King, take
+> possession of our hearts, that we may render thee due praise at all times. *[The doxology
+> stanzas]* We beseech thee, Author of all … Glory to thee *[are cued]*. ℣. The disciples rejoiced.
+>
+> *Antiphon at the Benedictus* Everlasting light.
+>
+> *Collect:* O God, who didst exalt blessed Mark thy evangelist with the grace of preaching the
+> Gospel: grant, we beseech thee, that we may always profit by his teaching and be defended by his
+> prayer. *(Cued as* O God, who blessed Mark*; the rest is the usual form.)*
+>
+> *A memorial of the Resurrection.*
+
+### St Cletus, Pope and Martyr — 26 April (scan p. 618)
+
+> *Sancti Cleti pape et martyris, ix lectiones; omnia ut in communi paschali tempore, cum oratione
+> supradicta:* Beati Cleti martyris tui atque pontificis, quesumus, Domine, supplicatione placatus,
+> et veniam nobis tribue, et remedia sempiterna concede. Per Dominum.
+
+> *St Cletus, pope and martyr: nine lessons; everything as in the Eastertide Common, with the
+> collect given above* (at his memorial): Appeased, O Lord, we beseech thee, by the prayer of
+> blessed Cletus, thy martyr and bishop, grant us pardon and give us eternal remedies. Through
+> [our] Lord.
+
+### St Vitalis, Martyr — 28 April (scan p. 618)
+
+> *Sancti Vitalis martyris, ix lectiones; omnia ut in communi paschali tempore.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut intercedente beato Vitale martyre tuo, a cunctis
+> adversitatibus liberemur in corpore, et a pravis cogitationibus mundemur in mente. Per Dominum.
+
+> *St Vitalis, martyr: nine lessons; everything as in the Eastertide Common.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that through the intercession of blessed
+> Vitalis thy martyr we may be delivered from all adversities in body and cleansed from evil
+> thoughts in mind. Through [our] Lord.
