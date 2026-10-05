@@ -104,3 +104,5 @@
 - 338: Lent II Sunday hours (Sext Vade mulier; None O mulier; Magnif. Dixit Dominus mulieri; Vesp. collect Familiam tuam); LENT II MON (Ego principium; Presta…familia tua que se affligendo) → done
 - 339: LENT II TUE (Unus est enim magister; Perfice quesumus) + WED (Ecce ascendimus; Populum tuum…ab escis carnalibus) → done; Thu begins 339b
 - 340: LENT II THU (Ego non ab homine; Presta nobis…auxilium gratie) + FRI (Malos male perdet; Da quesumus…sacro nos purificante) → done
+- 341: LENT II SAT (Vadam ad patrem; Da quesumus…effectum ieiuniis) → done; 1st Vespers Lent III (Magnif. Dixit autem pater; collect Familiam tuam…continua pietate); Compline Media vita
+- 342–344: LENT III SUNDAY LAUDS → done (ants Fac benigne…; Bened. Erat Iesus eiciens; collect Quesumus…vota humilium)

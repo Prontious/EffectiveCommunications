@@ -3314,3 +3314,92 @@ antiphon and collect are proper.
 >
 > *Collect:* Grant, we beseech thee, almighty God, that, as the holy fast purifies us, thou
 > mayest bring us with sincere minds to the holy feast that is to come. Through [our] Lord.
+
+### Saturday (scan p. 341)
+
+**Latin**
+
+> *Sabbato.* … *Ad* Benedictus *antiphona.* Vadam ad patrem meum, et dicam ei: Pater, fac
+> me sicut unum de mercenariis tuis.
+>
+> *Oratio.* Da, quesumus, Domine, nostris effectum ieiuniis salutarem, ut castigatio carnis
+> assumpta ad nostrarum vegetationem transeat animarum. Per Dominum.
+
+**Translation**
+
+> *Saturday.* … *Antiphon at the Benedictus:* I will go to my father and say to him: Father,
+> make me as one of thy hired servants. (Lk 15:18–19)
+>
+> *Collect:* Grant, we beseech thee, O Lord, a saving effect to our fasts, that the
+> chastening of the flesh we have taken on may pass into the quickening of our souls.
+> Through [our] Lord.
+
+---
+
+## Third Sunday of Lent (scan p. 344)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Nunciaverunt. ℣. *Sacerdotalis* Dicet Domino.
+>
+> In laudibus. *Antiphona.* Fac benigne in bona voluntate tua, ut edificentur, Domine, muri
+> Hierusalem. *Psalmus* Miserere mei.
+>
+> *Antiphona.* Dominus mihi adiutor est; non timebo quid faciat mihi homo. *Psalmus*
+> Confitemini Domino.
+>
+> *Antiphona.* Deus misereatur nostri, et benedicat nobis. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Vim virtutis sue oblitus est ignis, ut pueri tui liberarentur illesi.
+> *Psalmus* Benedicite.
+>
+> *Antiphona.* Sol et luna, laudate Deum, quia exaltatum est nomen eius solius. *Psalmus*
+> Laudate Dominum.
+>
+> *Capitulum, hymnus et* ℣. *ut in precedenti dominica.*
+>
+> *Ad* Benedictus *antiphona.* Erat Iesus eiciens demonium, et illud erat mutum; et cum
+> eiecisset demonium, locutus est mutus, et admirate sunt turbe.
+>
+> *Oratio.* Quesumus, omnipotens Deus, vota humilium respice, atque ad defensionem nostram
+> dexteram tue maiestatis extende. Per Dominum. *[Que dicitur ad omnes horas.]*
+>
+> *Ad primam antiphona.* Si in digito Dei eicio demonia, profecto venit in vos regnum Dei.
+> … *Ad tertiam antiphona.* Dum fortis armatus custodit atrium suum, in pace sunt ea que
+> possidet. … *Ad sextam antiphona.* Qui non colligit mecum dispergit, et qui non est mecum
+> adversum me est.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *They told [Jacob]* is repeated. *The priest's
+> versicle* He shall say to the Lord.
+>
+> **At Lauds.** *Antiphon:* Deal favourably, O Lord, in thy good will, that the walls of
+> Jerusalem may be built up. (Ps 50:20) *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* The Lord is my helper; I will not fear what man can do to me. (Ps 117:6)
+> *Psalm 117* Give praise to the Lord.
+>
+> *Antiphon:* May God have mercy on us, and bless us. (Ps 66:2) *Psalm 62* O God, my God
+> [with Ps 66].
+>
+> *Antiphon:* The fire forgot the force of its strength, that thy children might be set free
+> unharmed. (cf. Wis 16:23; Dan 3) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Sun and moon, praise God, for his name alone is exalted. (cf. Ps 148:3, 13)
+> *Psalm 148* Praise the Lord.
+>
+> *Chapter, hymn and versicle as on the preceding Sunday.*
+>
+> *Antiphon at the Benedictus:* Jesus was casting out a devil, and it was dumb; and when he
+> had cast out the devil, the dumb man spoke, and the crowds marvelled. (Lk 11:14)
+>
+> *Collect:* We beseech thee, almighty God, look upon the desires of the humble, and stretch
+> out the right hand of thy majesty for our defence. Through [our] Lord. *[It is said at
+> all the hours.]*
+>
+> *At Prime, the antiphon:* If I by the finger of God cast out devils, then the kingdom of
+> God is come upon you. (Lk 11:20) … *At Terce, the antiphon:* When a strong man armed keeps
+> his court, those things are in peace which he possesses. (Lk 11:21) … *At Sext, the
+> antiphon:* He that gathers not with me scatters, and he that is not with me is against me.
+> (Lk 11:23)
