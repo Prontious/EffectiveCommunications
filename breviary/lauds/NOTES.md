@@ -209,3 +209,4 @@
 - 590–594: CHAIR OF ST PETER 22 Feb (semidouble no alleluia; Bened. Quodcunque ligaveris; collect cued) + ST MATTHIAS AP 24 Feb (semidouble; ant Hoc est preceptum; collect Deus qui beatum Mathiam) + ST ALBINUS 1 Mar → done
 - 595–596: ST CYRIL of Carmel 6 Mar (Common conf. non-bishop; long collect) + SS PERPETUA & FELICITY 7 Mar (Common martyrs mutatis mutandis; collect Da nobis…palmas) → done
 - 597–598: FORTY MARTYRS 9 Mar (Common; memorial of Lent; collect Propitiare) + ST GREGORY 12 Mar (semidouble; Common confessor-bishop; collect Deus qui anime famuli tui Gregorii) → done
+- 599–601: ST LONGINUS 15 Mar; ST PATRICK 17 Mar; ST ALEXANDER bishop of Jerusalem 18 Mar ('Hierusalem'; collect Adesto Domine populo tuo); ST JOSEPH 19 Mar (Common conf. non-bishop; collect Omnipotens…qui beatum Ioseph) → done

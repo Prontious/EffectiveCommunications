@@ -1572,3 +1572,59 @@ crowns descending and took his place.
 > *Collect:* O God, who didst grant to the soul of thy servant Gregory the rewards of eternal
 > blessedness: mercifully grant that we who are weighed down by the burden of our sins may be
 > lifted up by his prayers with thee. Through [our] Lord.
+
+### St Longinus, Martyr — 15 March (scan pp. 599–600)
+
+> *[Sancti Longini martyris, ix lectiones; omnia ut in communi unius martyris.]*
+
+> *[St Longinus, martyr: nine lessons; everything as in the Common of one martyr.]*
+
+*Note.* His lessons identify him with the soldier who pierced Christ's side and confessed "Truly
+this was the Son of God", later martyred in Cappadocia.
+
+### St Patrick, Bishop and Confessor — 17 March (scan p. 600)
+
+> *Patricii episcopi et confessoris, ix lectiones; omnia [ut in communi] unius confessoris et
+> episcopi.*
+
+> *St Patrick, bishop and confessor: nine lessons; everything [as in the Common] of one confessor
+> and bishop.*
+
+### St Alexander, Bishop of Jerusalem, Martyr — 18 March (scan pp. 600–601)
+
+> *Hierusalem: [sancti] Alexandri martyris et episcopi, ix lectiones.*
+>
+> *Oratio.* Adesto, Domine, populo tuo, ut beati Alexandri martyris tui atque pontificis merita
+> preclara suscipiens, ad impetrandam misericordiam tuam semper eius patrociniis adiuvetur. Per
+> Dominum. *Cetera omnia ut in communi unius martyris et episcopi.*
+
+> *Jerusalem: St Alexander, martyr and bishop: nine lessons.*
+>
+> *Collect:* Be present to thy people, O Lord, that, honouring the glorious merits of blessed
+> Alexander thy martyr and bishop, it may ever be helped by his patronage to obtain thy mercy.
+> Through [our] Lord. *Everything else as in the Common of one martyr and bishop.*
+
+*Note.* Again headed *Hierusalem*: Alexander was bishop of Jerusalem in the early third century
+and died in prison under Decius — another local saint of the Holy City in this calendar.
+
+### St Joseph, Foster-father of the Lord — 19 March (scan p. 601)
+
+> *Sancti Ioseph nutritii Domini, ix lectiones; ut in communi unius confessoris non episcopi.*
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui beatum Ioseph iustum, filium David, beate Marie
+> virgini tue matri sponsum providisti, et tuum nutritium elegisti, da, quesumus, ut cuius precibus
+> et meritis ecclesia tua tranquilla pace letetur, et ad perpetue visionis tue consolationem
+> perducatur. Qui tecum.
+
+> *St Joseph, the Lord's foster-father: nine lessons; as in the Common of one confessor not a
+> bishop.*
+>
+> *Collect:* Almighty and everlasting God, who didst provide blessed Joseph, the just man, the son
+> of David, as spouse for the Blessed Virgin Mary, thy mother, and didst choose him as thy
+> foster-father: grant, we beseech thee, that by his prayers and merits thy Church may rejoice in
+> tranquil peace and be brought to the comfort of thine everlasting vision. Who with thee …
+
+*Note.* St Joseph's feast was still a recent addition to many calendars in 1517 (it had been
+added to the Roman calendar only in the 1470s). Its lessons list the "honours" of Joseph drawn
+from the Gospels: of royal descent, kinsman of Mary, her spouse, and the one to whom the angel
+revealed the mystery of the Incarnation.
