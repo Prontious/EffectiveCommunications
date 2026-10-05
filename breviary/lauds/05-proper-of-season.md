@@ -2548,3 +2548,97 @@ and the antiphons are new.
 
 *Note.* The "penitential" Sunday Lauds introduced here — Pss 50, 117, 62, the *Benedicite*
 and 148 — is the form used on Sundays from Septuagesima to Lent and through Lent.
+
+### The week of Septuagesima (scan p. 314)
+
+On the weekdays the Lauds antiphons are those of the psalter ("ferial antiphons"), and
+these antiphons are taken in turn at the Benedictus and the Magnificat.
+
+**Latin**
+
+> *[Rubric:] … et etiam antiphone feriales usque ad dominicam xl. Feria ii post
+> septuagesimam dicuntur hee antiphone sequentes per ebdomadam ad* Benedictus *et*
+> Magnificat:
+> 1. Hi novissimi una hora fecerunt, et pares illos nobis fecisti, qui portavimus pondus
+> diei et estus.
+> 2. Dixit paterfamilias operariis suis: Quid hic statis tota die otiosi? At illi
+> respondentes dixerunt: Quia nemo nos conduxit. Ite in vineam meam, et quod iustum fuerit
+> dabo vobis.
+> 3. Tolle quod tuum est et vade, quia ego bonus sum, dicit Dominus.
+> 4. Non licet mihi facere quod volo? An oculus tuus nequam est, quia ego bonus sum? dicit
+> Dominus.
+> 5. Dixit autem paterfamilias: Amice, non facio tibi iniuriam; nonne ex denario diurno
+> convenisti mecum? Tolle quod tuum est et vade.
+> 6. Erunt primi novissimi, et novissimi primi; multi enim sunt vocati, pauci vero electi,
+> dicit Dominus.
+
+**Translation**
+
+> *[Rubric:] … and the ferial antiphons too, until the first Sunday of Lent. From the Monday
+> after Septuagesima these antiphons are said through the week at the Benedictus and the
+> Magnificat:*
+> 1. These last have worked but one hour, and thou hast made them equal to us, who have
+> borne the burden of the day and the heat. (Mt 20:12)
+> 2. The householder said to his labourers: Why stand you here all the day idle? And they
+> answered and said: Because no man has hired us. Go into my vineyard, and what is just I
+> will give you. (cf. Mt 20:6–7, 4)
+> 3. Take what is thine and go thy way, for I am good, says the Lord. (cf. Mt 20:14–15)
+> 4. Is it not lawful for me to do what I will? Is thy eye evil, because I am good? says the
+> Lord. (Mt 20:15)
+> 5. And the householder said: Friend, I do thee no wrong; didst thou not agree with me for a
+> penny a day? Take what is thine and go thy way. (Mt 20:13–14)
+> 6. The last shall be first, and the first last; for many are called, but few chosen, says
+> the Lord. (Mt 20:16)
+
+---
+
+## Sexagesima Sunday and its week (scan pp. 316–317; collect from p. 315)
+
+**Latin**
+
+> In laudibus. *Antiphona* Miserere. *Psalmus* Ipsum, *etc. versus [ut in septuagesima].
+> Capitulum, hymnus,* ℣. *ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Cum turba plurima conveniret ad Iesum, et de civitatibus
+> properarent ad eum, dixit per similitudinem: Exiit qui seminat seminare semen suum.
+>
+> *Oratio.* Deus, qui conspicis quia ex nulla nostra actione confidimus, concede propicius
+> ut contra adversa omnia doctoris gentium protectione muniamur. Per Dominum nostrum.
+>
+> *Ad primam antiphona.* Semen cecidit in terram bonam, et attulit fructum in patientia. …
+>
+> *He antiphone dicuntur per ebdomadam [ad* Benedictus *et ad* Magnificat*]:*
+> 1. Si vere, fratres, divites esse cupitis, veras divitias amate.
+> 2. Si culmen veri honoris queritis, ad illam celestem patriam quantotius properate.
+> 3. Semen cecidit in terram bonam, et attulit fructum, aliud centesimum et aliud
+> sexagesimum.
+> 4. Quod autem cecidit in terram bonam, hi sunt qui in corde bono et optimo verbum
+> retinent, et fructum afferunt in patientia.
+
+**Translation**
+
+> **At Lauds.** *The antiphon* Have mercy; *Psalm 50*, the same, *and the rest as on
+> Septuagesima. Chapter, hymn and versicle as above.*
+>
+> *Antiphon at the Benedictus:* When a very great multitude had gathered to Jesus, and
+> people were hastening to him from the cities, he spoke in a parable: The sower went out to
+> sow his seed. (Lk 8:4–5)
+>
+> *Collect:* O God, who seest that we put no trust in anything we do, mercifully grant that
+> by the protection of the Teacher of the Gentiles [St Paul] we may be defended against all
+> adversity. Through our Lord.
+>
+> *At Prime, the antiphon:* The seed fell on good ground, and brought forth fruit in
+> patience. (cf. Lk 8:8, 15) …
+>
+> *These antiphons are said through the week [at the Benedictus and Magnificat]:*
+> 1. If, brethren, you truly wish to be rich, love the true riches.
+> 2. If you seek the summit of true honour, hasten with all speed to that heavenly
+> homeland.
+> 3. The seed fell on good ground and brought forth fruit, some a hundredfold and some
+> sixtyfold. (cf. Mt 13:8)
+> 4. That which fell on good ground are they who in a good and very good heart keep the
+> word, and bring forth fruit in patience. (Lk 8:15)
+
+*Note.* The first two weekday antiphons are taken from St Gregory the Great's homily on
+this Sunday's Gospel, which is read at Matins.
