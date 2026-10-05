@@ -1305,3 +1305,195 @@ inside the Mass there is no chapter, hymn or versicle, and the collect is the Mi
 Mass's own post-communion (*Da nobis … mysteriis … frequentare*); said apart from the
 Mass, Lauds has the chapter *Populus gentium*, the hymn *A solis ortus cardine*, and the
 collect *Concede … nova per carnem nativitas*.
+
+---
+
+## St Stephen, Protomartyr — 26 December (scan p. 257)
+
+**Latin**
+
+> In laudibus. *Antiphona.* Lapidaverunt Stephanum, et ipse invocabat Dominum dicens: Ne
+> statuas illis hoc peccatum. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Lapides torrentis illi dulces fuerunt; ipsum sequuntur omnes anime iuste.
+> *Psalmus* Iubilate Deo.
+>
+> *Antiphona.* Adhesit anima mea post te, quia caro mea lapidata est pro te, Deus meus.
+> *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Stephanus vidit celos apertos; vidit et introivit: beatus homo cui celi
+> patebant. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Ecce video celos apertos, et Iesum stantem a dextris Dei. *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum.* Stephanus autem, plenus gratia et fortitudine, faciebat prodigia et signa
+> magna in populo. ℟. Deo gratias.
+>
+> *Hymnus.* Sancte Dei, preciose prothomartyr Stephane, / qui virtute charitatis
+> circumfultus undique / Dominum pro inimico exorasti populo,
+> Funde preces pro devoto tibi nunc collegio, / ut, tuo propitiatus interventu, Dominus /
+> nos purgatos a peccatis iungat celi civibus.
+> Gloria et honor Deo usquequo altissimo, / una patri filioque, inclyto paraclito, / cui
+> laus est et potestas per eterna secula. Amen.
+>
+> ℣. Magna est gloria eius in salutari tuo, alleluia. ℟. Gloriam et magnum decorem impones
+> super eum, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Intuens in celum beatus Stephanus vidit gloriam Dei, et
+> ait: Ecce video celos apertos, et filium hominis stantem a dextris Dei.
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui primitias martyrum in beati levite Stephani
+> sanguine dedicasti, tribue, quesumus, ut pro nobis intercessor existat, qui pro suis
+> etiam persecutoribus exoravit Dominum nostrum Iesum Christum filium tuum. Qui tecum …
+>
+> Benedicamus *cum duplici* alleluia.
+>
+> *Memoria de nativitate. Antiphona* Beatus venter. ℣. Benedictus qui venit in nomine
+> Domini, alleluia. ℟. Deus Dominus et illuxit nobis, alleluia. *Oratio* Concede, quesumus,
+> omnipotens Deus.
+
+**Translation**
+
+> **At Lauds.** *Antiphon:* They stoned Stephen, and he called upon the Lord, saying: Lay
+> not this sin to their charge. (Acts 7:59) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The stones of the brook were sweet to him; all righteous souls follow him.
+> *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* My soul has clung to thee, for my flesh has been stoned for thee, O my God.
+> (cf. Ps 62:9) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Stephen saw the heavens opened; he saw and entered in: blessed the man to
+> whom the heavens lay open. *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* Behold, I see the heavens opened, and Jesus standing at the right hand of
+> God. (Acts 7:55) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* And Stephen, full of grace and fortitude, did great wonders and signs among
+> the people. (Acts 6:8) ℟. Thanks be to God.
+>
+> *Hymn:*
+> Holy one of God, precious protomartyr Stephen, who, girded about with the strength of
+> charity, didst pray to the Lord for the people that was thine enemy:
+> Pour out prayers now for this company devoted to thee, that the Lord, appeased by thy
+> pleading, may cleanse us from our sins and join us to the citizens of heaven.
+> Glory and honour to God most high for ever — to the Father and the Son together, and to
+> the glorious Paraclete — whose is the praise and the power through endless ages. Amen.
+>
+> ℣. Great is his glory in thy salvation, alleluia. ℟. Glory and great beauty shalt thou
+> lay upon him, alleluia. (Ps 20:6)
+>
+> *Antiphon at the Benedictus:* Looking up to heaven, blessed Stephen saw the glory of God,
+> and said: Behold, I see the heavens opened, and the Son of Man standing at the right hand
+> of God. (Acts 7:55–56)
+>
+> *Collect:* Almighty and everlasting God, who didst consecrate the first-fruits of the
+> martyrs in the blood of the blessed deacon Stephen: grant, we beseech thee, that he may
+> be our advocate, who prayed even for his persecutors to our Lord Jesus Christ, thy Son.
+> Who with thee …
+>
+> *Let us bless the Lord,* with a double *alleluia*.
+>
+> *Memorial of the Nativity:* the antiphon *Blessed is the womb [that bore thee]*. ℣.
+> Blessed is he that comes in the name of the Lord, alleluia. ℟. The Lord is God, and he
+> has shone upon us, alleluia. *Collect* Grant, we beseech thee, almighty God [as on
+> Christmas Day].
+
+---
+
+## St John, Apostle and Evangelist — 27 December (scan pp. 262–263)
+
+**Latin**
+
+> *[End of Matins:]* Te Deum laudamus. ℣. *sacerdotalis.* Valde honorandus est beatus
+> Iohannes evangelista, alleluia. ℟. Qui supra pectus Domini in cena recubuit, alleluia.
+>
+> In laudibus. *Antiphona.* Hic est discipulus ille qui testimonium perhibuit, et scimus
+> quia verum est testimonium eius. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Hic est discipulus meus: sic eum volo manere donec veniam. *Psalmus*
+> Iubilate Deo.
+>
+> *Antiphona.* Ecce puer meus electus, quem elegi; posui super eum spiritum meum.
+> *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Sunt de hic stantibus qui non gustabunt mortem, donec videant filium hominis
+> in regno suo. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Sic eum volo manere donec veniam; tu me sequere. *Psalmus* Laudate Dominum
+> de celis.
+>
+> *Capitulum.* Qui timet Deum faciet bona; et qui continens est iustitie apprehendet
+> illam, et obviabit illi quasi mater honorificata. ℟. Deo gratias.
+>
+> *Hymnus* Exultet celum laudibus, *cum ultimo versu* Gloria tibi, Domine, qui natus [es de
+> virgine].
+>
+> ℣. Annunciaverunt opera Dei, alleluia. ℟. Et facta eius intellexerunt, alleluia.
+>
+> *Ad* Benedictus *antiphona.* In medio ecclesie aperuit os eius, et implevit eum Dominus
+> spiritu sapientie et intellectus; stolam glorie induit eum, alleluia, alleluia,
+> alleluia.
+>
+> *Oratio.* Ecclesiam tuam, quesumus, Domine, benignus illustra, ut beati Iohannis apostoli
+> tui et evangeliste illuminata doctrinis ad dona perveniat sempiterna. Per Dominum.
+>
+> ℟. Benedicamus Domino, alleluia, alleluia.
+>
+> *Memoria de nativitate Domini. Antiphona* Verbum caro. ℣. Benedictus qui venit *ut
+> supra. Oratio* Concede.
+>
+> *Memoria de sancto Stephano. Antiphona* Beatus Stephanus. ℣. Magna est gloria eius. ℟.
+> *ut supra. Oratio* Omnipotens *ut supra.*
+
+**Translation**
+
+> *[End of Matins:]* *Te Deum*. *The priest's versicle:* Greatly to be honoured is blessed
+> John the Evangelist, alleluia. ℟. Who leaned on the Lord's breast at the supper,
+> alleluia.
+>
+> **At Lauds.** *Antiphon:* This is that disciple who bore witness, and we know that his
+> witness is true. (Jn 21:24) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* This is my disciple: so I will have him remain till I come. (cf. Jn 21:22)
+> *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* Behold my chosen servant, whom I have chosen; I have put my spirit upon him.
+> (cf. Is 42:1) *Psalm 62* O God, my God.
+>
+> *Antiphon:* There are some standing here who shall not taste death until they see the
+> Son of Man in his kingdom. (Mt 16:28) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* So I will have him remain till I come; follow thou me. (Jn 21:22) *Psalm
+> 148* Praise the Lord from the heavens.
+>
+> *Chapter:* He that fears God will do good; and he that possesses justice shall lay hold
+> on her, and she will meet him as an honourable mother. (Sir 15:1–2) ℟. Thanks be to
+> God.
+>
+> *Hymn* Let heaven exult with praises *[from the Common of Apostles], with its last verse*
+> Glory to thee, O Lord, who wast born [of the Virgin].
+>
+> ℣. They declared the works of God, alleluia. ℟. And understood his doings, alleluia.
+> (Ps 63:10)
+>
+> *Antiphon at the Benedictus:* In the midst of the church the Lord opened his mouth, and
+> filled him with the spirit of wisdom and understanding; he clothed him with a robe of
+> glory, alleluia, alleluia, alleluia. (cf. Sir 15:5)
+>
+> *Collect:* In thy kindness, O Lord, we beseech thee, shed light upon thy Church, that,
+> enlightened by the teachings of blessed John, thy Apostle and Evangelist, she may come to
+> the gifts that are eternal. Through [our] Lord.
+>
+> ℟. Let us bless the Lord, alleluia, alleluia.
+>
+> *Memorial of the Nativity of the Lord:* the antiphon *The Word [was made] flesh*; ℣.
+> Blessed is he that comes, *as above*; *collect* Grant.
+>
+> *Memorial of St Stephen:* the antiphon *Blessed Stephen*; ℣. Great is his glory; ℟. *as
+> above*; *collect* Almighty, *as above*.
+
+*Note.* On 27 December Lauds carries memorials of both earlier days in the octave:
+Christmas itself and St Stephen. The hymn is cued only by its first line and taken from
+the Common of Apostles, ending with the Christmas doxology.

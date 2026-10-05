@@ -70,3 +70,5 @@
 - NEXT: Christmas (243+) — need images 243–400 are present
 - 243–249: Christmas Matins (genealogy read at end, Te Deum)
 - 249–250: CHRISTMAS LAUDS (within Midnight Mass + alternative form without Mass) → done. 250b: Prime begins
+- 253–257: ST STEPHEN; LAUDS p.257 → done (own hymn Sancte Dei preciose; memorial of Nativity)
+- 258–263: ST JOHN EVANGELIST; LAUDS pp.262–263 → done (memorials of Nativity & Stephen)
