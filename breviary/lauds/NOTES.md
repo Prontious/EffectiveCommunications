@@ -96,3 +96,4 @@
 - 323–324: THU (Me etenim; Deus qui culpa) + FRI (Cum facis elemosynam; Inchoata ieiunia) after Ash Wed → done; Lenten weekday rubric: penitential psalms+litany after Lauds until Wed of Holy Week
 - 325: SAT AFTER ASH WED LAUDS (Tunc invocabis; collect Omnipotens…observationis) → done; Lenten veiling rubric; Lent I 1st Vespers (hymn Ex more docti)
 - 327–330: LENT I SUNDAY LAUDS → done (ants Cor mundum…; hymn Audi benigne full; Bened. Ductus est Iesus; collect Deus qui ecclesiam). NEXT: Lent I weekdays from ~331
+- 331: Lent I Sunday hours/Vespers/Compline; Monday Matins. 332: LENT I MONDAY LAUDS → done (rubric: hymn Audi benigne + ℣ Scuto daily until Passion Sunday)

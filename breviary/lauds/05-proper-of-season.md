@@ -3007,3 +3007,66 @@ benigne conditor*.
 > antiphon:* Begone, Satan; thou shalt not tempt the Lord thy God. (cf. Mt 4:7, 10) … *At
 > None, the antiphon:* The Lord thy God shalt thou adore, and him only shalt thou serve.
 > (Mt 4:10)
+
+---
+
+## Weekdays of the first week of Lent
+
+### Monday (scan p. 332)
+
+**Latin**
+
+> *[End of Matins:]* ℣. *Sacerdotalis* Ipse liberavit me. ℟. De laqueo venantium et a verbo
+> aspero.
+>
+> In laudibus. *Antiphona* Miserere. *Psalmus* Ipsum, *et cetere ad ceteros ut in
+> psalterio.*
+>
+> *Capitulum* Convertimini ad me. *Hymnus* Audi benigne conditor. ℣. Scuto circumdabit te
+> veritas eius. ℟. Non timebis a timore nocturno. *Hymnus et versus supradicti dicuntur
+> usque ad dominicam de passione, diebus dominicis et ferialibus diebus.*
+>
+> *Ad* Benedictus *antiphona.* Venite, benedicti patris mei, percipite regnum quod vobis
+> paratum est ab origine mundi.
+>
+> *Oratio.* Converte nos, Deus salutaris noster, et ut nobis ieiunium quadragesimale
+> proficiat, mentes nostras celestibus instrue disciplinis. Per Dominum.
+>
+> *Ad primam antiphona que sequitur dicitur usque ad dominicam de passione:* Vivo ego,
+> dicit Dominus; nolo mortem peccatoris, sed ut magis convertatur et vivat. *Ad tertiam
+> antiphona:* Advenerunt nobis dies penitentie, ad redimenda peccata et salvandas animas.
+> … *Ad sextam antiphona:* Commendemus nosmetipsos in multa patientia, in ieiuniis multis,
+> per arma iustitie [virtutis Dei]. … *[Ad nonam:]* Per arma iustitie virtutis Dei
+> commendemus nosmetipsos in multa patientia.
+
+**Translation**
+
+> *[End of Matins:] The priest's versicle:* He hath delivered me. ℟. From the snare of the
+> hunters and from the harsh word. (Ps 90:3)
+>
+> **At Lauds.** *The antiphon* Have mercy; *Psalm 50*, the same, *and the others to the
+> other psalms, as in the psalter.*
+>
+> *Chapter* Be converted to me [Joel 2:12–13, as on Ash Wednesday]. *Hymn* Hear, kind
+> Creator. ℣. His truth shall compass thee with a shield. ℟. Thou shalt not be afraid of
+> the terror of the night. *The hymn and versicle above are said until Passion Sunday,
+> on Sundays and on weekdays.*
+>
+> *Antiphon at the Benedictus:* Come, ye blessed of my Father, receive the kingdom prepared
+> for you from the foundation of the world. (Mt 25:34)
+>
+> *Collect:* Convert us, O God our Saviour, and that our Lenten fast may profit us, instruct
+> our minds with heavenly disciplines. Through [our] Lord.
+>
+> *At Prime, the following antiphon is said until Passion Sunday:* As I live, says the
+> Lord, I desire not the death of the sinner, but rather that he be converted and live.
+> (Ezek 33:11) *At Terce, the antiphon:* The days of penance have come to us, to redeem
+> our sins and to save our souls. … *At Sext, the antiphon:* Let us commend ourselves in
+> much patience, in many fastings, by the armour of justice [of the power of God].
+> (cf. 2 Cor 6:4–7) … *[At None:]* By the armour of justice of the power of God, let us
+> commend ourselves in much patience.
+
+*Note.* The rubric fixes the Lenten weekday Lauds until Passion Sunday: the psalter's
+weekday psalms and antiphons, the chapter *Convertimini ad me*, the hymn *Audi benigne
+conditor* and the versicle *Scuto circumdabit*. Only the Benedictus antiphon and the
+collect change from day to day.
