@@ -145,3 +145,6 @@
 - 416–418: ASCENSION LAUDS → done (ants Viri Galilei…; cap. Primum quidem sermonem; hymn Tu Christe nostrum gaudium (text from p.415); Bened. Ascendo ad patrem; collect Concede…hodierna die unigenitum)
 - 419–420: ASCENSION OCTAVE days LAUDS (single ant Viri Galilei; Bened. Euntes in mundum; collect Concede) → done
 - 421–422: SUNDAY WITHIN ASCENSION OCTAVE LAUDS (Bened. Vado parare vobis locum; memorial of Sunday Cum venerit paraclitus; collect Omnipotens…fac nos tibi semper) → done
+- 423: weekdays after Ascension octave Bened. ants (Mon Sic veniet; Tue Nisi ego abiero) → done; Wed+ on p.424
+- 424: Wed after Ascension octave Bened. (Ecce nunc palam loqueris); OCTAVE DAY of Ascension = all as feast → done
+- 425–426: VIGIL OF PENTECOST LAUDS (no Te Deum — fast; Bened. Non vos relinquam; collect Presta…claritatis tue splendor) → done; 1st Vespers Pentecost (hymn Beata nobis gaudia — Vespers)

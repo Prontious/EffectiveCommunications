@@ -5527,3 +5527,77 @@ altissime*; Lauds cues it by its first line.
 >
 > *Collect:* Almighty and everlasting God, make us always to have a will devoted to thee, and
 > to serve thy majesty with a sincere heart. Through [our] Lord.
+
+### Weekdays after the octave of the Ascension (scan p. 423)
+
+Lauds as within the octave, with the Ascension collect; the lessons at Matins are from
+the Apocalypse until Saturday. The Benedictus antiphons are proper:
+
+**Latin**
+
+> *Feria ii. Ad* Benedictus *antiphona.* Sic veniet quemadmodum vidistis eum euntem in
+> celum, alleluia.
+>
+> *Feria iii. Ad* Benedictus *antiphona.* Nisi ego abiero, paraclitus non veniet; dum
+> assumptus fuero, mittam vobis eum, alleluia.
+>
+> *Feria iiii (p. 424). Ad* Benedictus *antiphona.* Ecce nunc palam loqueris, et proverbium
+> nullum dicis; nunc scimus quia scis omnia, et non est opus tibi ut quis te interroget,
+> alleluia.
+>
+> *Feria v, in octava ascensionis, ix lectiones. Ad matutinas invitatorium, hymni,
+> antiphone, psalmi,* ℣. *et* ℟. *omnia ut in die ascensionis* — *so Lauds is that of the
+> feast.*
+
+**Translation**
+
+> *Monday.* *Antiphon at the Benedictus:* He shall so come as you have seen him going into
+> heaven, alleluia. (Acts 1:11)
+>
+> *Tuesday.* *Antiphon at the Benedictus:* If I go not, the Paraclete will not come; when I
+> am taken up, I will send him to you, alleluia. (cf. Jn 16:7)
+>
+> *Wednesday.* *Antiphon at the Benedictus:* Behold, now thou speakest plainly and speakest
+> no proverb; now we know that thou knowest all things, and thou needest not that any man
+> should ask thee, alleluia. (Jn 16:29–30)
+>
+> *Thursday, the octave of the Ascension, nine lessons.* At Matins the invitatory, hymns,
+> antiphons, psalms, versicles and responsories are all as on the day of the Ascension — so
+> Lauds is that of the feast.
+
+---
+
+## Vigil of Pentecost (scan p. 426)
+
+**Latin**
+
+> *[End of Matins:] Non dicitur psalmus* Te Deum, *ob observantiam ieiunii.*
+>
+> In laudibus *versus per octavam [ascensionis]. Ad* Benedictus *antiphona* Non vos
+> relinquam *[orphanos]: quere in feria ii precedenti.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut claritatis tue splendor super nos
+> effulgeat, et lux tue lucis corda eorum qui per gratiam tuam renati sunt sancti spiritus
+> illustratione confirmet. Per Dominum … in unitate eiusdem.
+>
+> *Ad horas versus per octavam, cum oratione* Da, quesumus, omnipotens Deus, illuc.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum* is not said, because the fast is kept.
+>
+> **At Lauds,** the versicles as through the octave [of the Ascension]. *At the Benedictus,
+> the antiphon* I will not leave you [orphans]: *look for it on the preceding Monday* — "I
+> will not leave you orphans, alleluia; I go away and I come to you, alleluia; and your heart
+> shall rejoice, alleluia" (cf. Jn 14:18, 28; 16:22).
+>
+> *Collect:* Grant, we beseech thee, almighty God, that the brightness of thy glory may shine
+> upon us, and that the light of thy light may strengthen, by the enlightenment of the Holy
+> Spirit, the hearts of those who have been reborn by thy grace. Through [our] Lord … in the
+> unity of the same [Holy Spirit].
+>
+> *At the hours, the versicles as through the octave, with the collect* Grant, we beseech
+> thee, almighty God, [that we may dwell in mind] there.
+
+*Note.* The full text of *Non vos relinquam* is given as the Magnificat antiphon of the
+Monday after the Ascension octave (scan p. 423).
