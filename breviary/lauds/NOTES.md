@@ -149,3 +149,5 @@
 - 424: Wed after Ascension octave Bened. (Ecce nunc palam loqueris); OCTAVE DAY of Ascension = all as feast → done
 - 425–426: VIGIL OF PENTECOST LAUDS (no Te Deum — fast; Bened. Non vos relinquam; collect Presta…claritatis tue splendor) → done; 1st Vespers Pentecost (hymn Beata nobis gaudia — Vespers)
 - 427–428: PENTECOST LAUDS → done (ants Dum complerentur…; cap Factus est repente; hymn Impleta gaudent viscera; Bened. Accipite spiritum sanctum; collect Deus qui hodierna die corda fidelium)
+- 429: Pentecost Prime/Terce (Veni creator at Terce; Terce cap. Apparuerunt). 430–431: PENTECOST MONDAY LAUDS (double; cap Apparuerunt; Bened. Sic Deus dilexit mundum; collect Deus qui apostolis tuis) → done
+- 432: PENTECOST TUESDAY LAUDS (Bened. Amen amen…qui non intrat per ostium; collect Adsit nobis Domine) → done

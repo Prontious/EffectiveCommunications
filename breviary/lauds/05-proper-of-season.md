@@ -5699,3 +5699,84 @@ Monday after the Ascension octave (scan p. 423).
 *Note.* The hymn is the second part of the Pentecost hymn *Beata nobis gaudia* (printed at
 first Vespers, scan p. 426); its last two stanzas, *Dudum sacrata pectora* and the
 doxology, are cued only. *Dudum sacrata* is also printed in full at that Vespers.
+
+---
+
+## Pentecost week
+
+### Monday of Pentecost week (scan p. 431)
+
+Monday and Tuesday of Pentecost week are doubles. Lauds uses the five Pentecost antiphons,
+with the chapter *Apparuerunt* in place of the Sunday's *Factus est repente*.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Emitte spiritum.
+>
+> In laudibus *antiphona* Dum complerentur. *Psalmus* Dominus regnavit, *et cetere ad
+> ceteros.*
+>
+> *Capitulum.* Apparuerunt *[apostolis dispertite lingue tanquam ignis, seditque supra
+> singulos eorum spiritus sanctus]*. *Hymnus* Impleta gaudent. ℣. Emitte spiritum.
+>
+> *Ad* Benedictus *antiphona.* Sic Deus dilexit mundum, ut filium suum unigenitum daret, ut
+> omnis qui credit in ipsum non pereat, sed habeat vitam eternam, alleluia.
+>
+> *Oratio.* Deus, qui apostolis tuis sanctum dedisti spiritum, concede plebi tue pie
+> petitionis effectum, ut quibus dedisti fidem largiaris et pacem. Per Dominum … in unitate
+> eiusdem.
+>
+> *Ad horas ut supra in die.* … *Nota quod si festum ix lectionum evenerit infra octavas
+> istas, transfertur post dictas octavas.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Send forth thy Spirit.
+>
+> **At Lauds,** the antiphon *When the days [of Pentecost] were accomplished*; *Psalm 92* The
+> Lord hath reigned, *and the other antiphons to the other psalms.*
+>
+> *Chapter:* There appeared [to the apostles parted tongues as it were of fire, and the Holy
+> Spirit sat upon every one of them] (cf. Acts 2:3; the full text is the chapter of Terce,
+> scan p. 429). *Hymn* Their hearts rejoice. ℣. Send forth thy Spirit.
+>
+> *Antiphon at the Benedictus:* God so loved the world as to give his only-begotten Son, that
+> whosoever believes in him may not perish, but may have life everlasting, alleluia.
+> (Jn 3:16)
+>
+> *Collect:* O God, who didst give the Holy Spirit to thy apostles, grant to thy people the
+> fulfilment of their devout petition, that to those to whom thou hast given faith thou
+> mayest also give peace. Through [our] Lord … in the unity of the same [Holy Spirit].
+>
+> *At the hours, as above on the feast day.* … *Note that if a feast of nine lessons falls
+> within this octave, it is transferred to after the octave.*
+
+### Tuesday of Pentecost week (scan p. 432)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.*
+>
+> In laudibus *antiphone et psalmi ut hesterna die. Capitulum, hymnus,* ℣. *versus.*
+>
+> *Ad* Benedictus *antiphona.* Amen, amen dico vobis, qui non intrat per ostium in ovile
+> ovium, sed ascendit aliunde, ille fur est et latro; qui autem intrat per ostium, pastor est
+> ovium, alleluia.
+>
+> *Oratio.* Adsit nobis, Domine, quesumus, virtus spiritus sancti, que et corda nostra
+> clementer expurget, et ab omnibus tueatur adversis. Per Dominum … in unitate eiusdem.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle.*
+>
+> **At Lauds,** the antiphons and psalms as yesterday; the chapter, hymn and versicle as
+> above.
+>
+> *Antiphon at the Benedictus:* Amen, amen I say to you, he that enters not by the door into
+> the sheepfold, but climbs up another way, the same is a thief and a robber; but he that
+> enters in by the door is the shepherd of the sheep, alleluia. (Jn 10:1–2)
+>
+> *Collect:* May the power of the Holy Spirit be with us, O Lord, we beseech thee, both to
+> cleanse our hearts mercifully and to guard us from all adversity. Through [our] Lord … in
+> the unity of the same [Holy Spirit].
