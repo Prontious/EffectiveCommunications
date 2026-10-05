@@ -4747,3 +4747,102 @@ proper Benedictus antiphon from the day's resurrection gospel.
 > Through [our] Lord.
 >
 > *At Prime, Terce, Sext and None, everything as on the holy day of Easter.*
+
+### Wednesday of Easter week (scan p. 392)
+
+From Wednesday the octave is kept "as a solemn octave" (Monday and Tuesday were doubles),
+and the Vespers procession to the font is no longer made.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione.
+>
+> In laudibus *antiphona* Alleluia. *Psalmus* Dominus regnavit, *etc., versus.*
+>
+> *Ad* Benedictus *antiphona.* Mittite in dexteram navigii rete, et invenietis, alleluia.
+>
+> *Oratio.* Deus, qui nos resurrectionis dominice annua solemnitate letificas, concede
+> propicius, ut per temporalia festa que agimus, pervenire ad gaudia eterna mereamur. Per
+> Dominum.
+>
+> *Ad primam, tertiam, sextam et nonam versus, et etiam orationes [ut supra].* … *Nulla fit
+> processio ad fontes, sed sic finiuntur vespere, et etiam per octavam; nulla fit memoria.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* In thy resurrection.
+>
+> **At Lauds,** the antiphon *Alleluia*; *Psalm 92* The Lord hath reigned, *etc., with the
+> versicles.*
+>
+> *Antiphon at the Benedictus:* Cast the net on the right side of the ship, and you shall
+> find, alleluia. (Jn 21:6)
+>
+> *Collect:* O God, who gladdenest us with the yearly solemnity of the Lord's resurrection,
+> mercifully grant that through these temporal feasts which we keep, we may be worthy to
+> come to eternal joys. Through [our] Lord.
+>
+> *At Prime, Terce, Sext and None, the versicles, and the collects too [as above].* … *No
+> procession to the font is made, but Vespers end in this way, through the rest of the octave
+> as well; no memorial is made.*
+
+### Thursday to Saturday of Easter week (scan pp. 393–394)
+
+**Latin**
+
+> *Feria v.* … *Psalmus* Te Deum. In laudibus *ut supra. Ad* Benedictus *antiphona.* Maria
+> stabat ad monumentum plorans, et vidit duos angelos in albis sedentes, et sudarium quod
+> fuerat super caput Iesu, alleluia.
+>
+> *Oratio.* Deus, qui diversitatem gentium in confessione tui nominis adunasti, da ut
+> renatis fonte baptismatis una sit fides mentium et pietas actionum. Per Dominum.
+>
+> *Ad primam, tertiam, sextam et nonam versus. Ad vesperas et deinceps fit sine*
+> Kyrieleyson, *sed dicitur* Deus in adiutorium *etc.*
+>
+> *Feria vi.* … *Psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione, *ut supra.* In
+> laudibus *versus [ut supra]. Ad* Benedictus *antiphona.* Undecim discipuli in Galileam
+> videntes Dominum adoraverunt, alleluia.
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui paschale sacramentum in reconciliationis humane
+> federe contulisti, da mentibus nostris, ut quod professione celebramus imitemur effectu.
+> Per Dominum. *Ad omnes horas dicitur* Deus in adiutorium *etc., et deinceps ut moris est.*
+>
+> *Sabbato.* … *Psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione tua. In laudibus
+> *antiphona* Alleluia. *Psalmus* Dominus regnavit, *etc., versus. Ad* Benedictus
+> *antiphona.* Currebant duo simul, et ille alius discipulus precucurrit citius Petro, et
+> venit prior ad monumentum, alleluia.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut qui festa paschalia venerando egimus, per
+> hec contingere ad gaudia eterna mereamur. Per Dominum. *Ad horas versus.*
+
+**Translation**
+
+> *Thursday.* … The *Te Deum*. At Lauds *as above.* *Antiphon at the Benedictus:* Mary stood
+> at the tomb weeping, and she saw two angels in white sitting, and the napkin that had been
+> about the head of Jesus, alleluia. (cf. Jn 20:11–12; 20:7)
+>
+> *Collect:* O God, who hast united the diverse nations in the confession of thy name, grant
+> that those reborn in the font of baptism may have one faith in their minds and one
+> devotion in their deeds. Through [our] Lord.
+>
+> *At Prime, Terce, Sext and None, the versicles. From Vespers onwards the office is said
+> without the* Kyrie eleison, *but* O God, come to my assistance *etc. is said.*
+>
+> *Friday.* … The *Te Deum*. *The priest's versicle* In thy resurrection, *as above.* At
+> Lauds, *the versicles [as above]. Antiphon at the Benedictus:* The eleven disciples, seeing
+> the Lord in Galilee, adored him, alleluia. (cf. Mt 28:16–17)
+>
+> *Collect:* Almighty and everlasting God, who hast given us the paschal mystery in the
+> covenant of mankind's reconciliation, grant to our minds that what we celebrate in
+> profession we may imitate in deed. Through [our] Lord. *At all the hours* O God, come to
+> my assistance, *etc., is said, and from now on as is customary.*
+>
+> *Saturday.* … The *Te Deum*. *The priest's versicle* In thy resurrection. At Lauds, the
+> antiphon *Alleluia*; *Psalm 92* The Lord hath reigned, *etc., with the versicles.*
+> *Antiphon at the Benedictus:* They ran both together, and that other disciple outran Peter
+> and came first to the tomb, alleluia. (Jn 20:4)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who have reverently kept the
+> paschal feasts may through them be worthy to attain to eternal joys. Through [our] Lord.
+> *At the hours, the versicles.*

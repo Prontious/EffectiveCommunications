@@ -131,3 +131,5 @@
 - 383–385: EASTER SUNDAY LAUDS → done (5 Mt 28 ants; no cap/hymn/℣; Bened. Et valde mane ×3; collect Deus qui hodierna die per unigenitum)
 - 388–389: EASTER MONDAY LAUDS (double) → done (single ant. Alleluia; no cap/hymn/℣ all week; Bened. Qui sunt hi sermones; collect Deus qui solemnitate paschali)
 - 390: EASTER TUESDAY LAUDS (Bened. Stetit Iesus in medio; collect Deus qui ecclesiam tuam novo semper fetu) → done
+- 391–392: EASTER WEDNESDAY (ut in oct. solemni) LAUDS → done (Bened. Mittite in dexteram; collect Deus qui nos resurrectionis…annua solemnitate). Thu Matins begins 392b (Maria stabat)
+- 393–394: EASTER THU (Maria stabat; Deus qui diversitatem gentium) + FRI (Undecim discipuli; Omnipotens…qui paschale sacramentum) + SAT (Currebant duo simul; Concede…festa paschalia venerando) → done
