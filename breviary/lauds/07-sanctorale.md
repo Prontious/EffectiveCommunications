@@ -2608,3 +2608,84 @@ office is moved.
 
 *Note.* This rubric also tells us the book keeps the **Visitation** (2 July) with an octave, which
 is why a feast transferred out of St John's octave must wait until after it.
+
+### SS Peter and Paul, Apostles — 29 June (scan pp. 648–653)
+
+A double. The Lauds antiphons follow St Peter through the Acts of the Apostles: healing at the
+Temple gate, his release from prison, and Christ's promise to him.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum laudamus. ℣. *sacerdotalis* Dedisti hereditatem.
+>
+> In laudibus. *Antiphona.* Petrus et Iohannes ascendebant in templum ad horam orationis nonam.
+> *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Argentum et aurum non est mihi; quod autem habeo, hoc tibi do. *Psalmus* Iubilate.
+>
+> *Antiphona.* Dixit angelus ad Petrum: Circunda tibi vestimentum tuum, et sequere me. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Misit Dominus angelum suum, et liberavit me de manu Herodis, alleluia. *Psalmus*
+> Benedicite.
+>
+> *Antiphona.* Tu es Petrus, et super hanc petram edificabo ecclesiam meam. *Psalmus* Laudate
+> Dominum.
+>
+> *Capitulum.* Dixit Dominus Petro: Cum esses iunior, cingebas te et ambulabas ubi volebas; cum
+> autem senueris, extendes manus tuas, et alius te cinget et ducet quo tu non vis. Hoc autem dixit,
+> significans qua morte clarificaturus esset Deum.
+>
+> *Hymnus* Exultet celum. ℣. Annunciaverunt opera *[Dei]*.
+>
+> *Ad* Benedictus *antiphona.* Quodcunque ligaveris super terram erit ligatum et in celis; et
+> quodcunque solveris super terram erit solutum et in celis, dicit Dominus Symoni Petro.
+>
+> *Oratio.* Deus, qui hodiernam diem apostolorum tuorum Petri et Pauli martyrio consecrasti, da
+> ecclesie tue eorum in omnibus sequi preceptum, per quos religionis sumpsit exordium. Per Dominum
+> nostrum.
+>
+> *Memoria de sancto Iohanne [Baptista, infra octavam].*
+>
+> *Ad primam et ad alias horas antiphone de laudibus; cetera ut in festis duplicibus.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Thou hast given an inheritance.
+>
+> **At Lauds.** *Antiphon:* Peter and John went up into the Temple at the ninth hour of prayer. (Acts
+> 3:1) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Silver and gold I have none; but what I have, that I give thee. (Acts 3:6) *Psalm 99*
+> Shout with joy.
+>
+> *Antiphon:* The angel said to Peter: Put thy garment about thee, and follow me. (Acts 12:8)
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* The Lord has sent his angel and delivered me out of the hand of Herod, alleluia.
+> (Acts 12:11) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Thou art Peter, and upon this rock I will build my Church. (Mt 16:18) *Psalm 148*
+> Praise the Lord.
+>
+> *Chapter:* The Lord said to Peter: When thou wast younger, thou didst gird thyself and walk where
+> thou wouldst; but when thou shalt be old, thou shalt stretch forth thy hands, and another shall
+> gird thee and lead thee where thou wouldst not. And this he said, signifying by what death he
+> should glorify God. (Jn 21:18–19)
+>
+> *Hymn* Let heaven exult. ℣. They declared the works [of God].
+>
+> *Antiphon at the Benedictus:* Whatsoever thou shalt bind upon earth shall be bound also in heaven;
+> and whatsoever thou shalt loose upon earth shall be loosed also in heaven, says the Lord to Simon
+> Peter. (Mt 16:19)
+>
+> *Collect:* O God, who didst consecrate this day by the martyrdom of thy apostles Peter and Paul:
+> grant to thy Church to follow in all things the teaching of those through whom she received the
+> beginning of the faith. Through our Lord.
+>
+> *A memorial of St John [the Baptist, within his octave].*
+>
+> *At Prime and the other hours, the antiphons of Lauds; the rest as on double feasts.*
+
+*Note.* The memorial of St John is required because SS Peter and Paul fall within the solemn octave
+of the Order's patron.
