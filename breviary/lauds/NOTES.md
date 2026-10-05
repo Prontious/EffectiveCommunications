@@ -62,3 +62,9 @@
 - 231: EMBER FRIDAY 'CONSTANTES' LAUDS → done (collect Excita…ut hi qui; closing rubric partly unclear)
 - 232–233: EMBER SATURDAY 'INTUEMINI' LAUDS → done; 1st Vespers Advent IV (collect Excita…et magna nobis virtute), Advent IV Matins (inv. Ecce venit plenitudo temporis)
 - 236: ADVENT IV LAUDS → done (chapter = Gaudete, same as Advent III). Monday Advent IV Matins begins 236b
+- 237: ADVENT IV MONDAY 'ECCE VENIET' LAUDS → done. (Verified p.32: Rubric 15 Sunday-year gives Egredietur as Bened. ant. — table correct; year-rules override)
+- 238: ADVENT IV TUESDAY 'RORATE' LAUDS + WED Bened. ant (Ponam in Syon) → done; Thu Matins begins
+- 239: ADVENT IV THU/FRI/SAT Bened. ants (Consolamini; Dies Domini; In tuo adventu) → done. St Thomas memorial ant 'Nolite timere' begins. 'O qualis evenerit' = the O-antiphon of the day
+- 240: O-antiphons rubric (from St Lazarus 17 Dec) + Christmas Eve Matins begins (inv. Prestolantes redemptorem? / Hodie scietis)
+- 241–242: CHRISTMAS EVE LAUDS → done. TODO verify collect 'Deus qui nos redemptionis' full text at 1st Vespers (p.~240?) 
+- NEXT: Christmas (243+) — need images 243–400 are present
