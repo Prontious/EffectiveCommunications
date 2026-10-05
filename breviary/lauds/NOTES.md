@@ -259,3 +259,9 @@
 - 755–758: MAURICE; CLEOPHAS (Emmaus); COSMAS & DAMIAN → done
 - 759–764: ST MICHAEL 29 Sep (double; ants Dum preliaretur…; collect Deus qui miro ordine) → done
 - 764: ST JEROME 30 Sep (semidouble; collect) → done
+- 765–767: REMIGIUS etc 1 Oct; LEODEGAR 2 Oct; FRANCIS 4 Oct → done
+- 767–770: HOLY PATRIARCHS ABRAHAM, ISAAC & JACOB (9 lessons; proper Lauds ants Iustorum anime…; collect Deus qui nos voluisti exemplis patriarcharum) → done  [Jerusalem/Holy Sepulchre feast]
+- 770–773: MARK, SERGIUS, BACCHUS etc (+ memorial patriarchs 'Pater Abraham'); DENIS 9 Oct (proper Lauds) → done
+- 773–774: NICASIUS; CALLIXTUS; ARCHIOCHUS[?]; LUKE 18 Oct (semidouble; as Matthew) → done
+- 775–779: 11,000 VIRGINS; MARK BP OF JERUSALEM; SEVERINUS; SIMON & JUDE 28 Oct; NARCISSUS BP OF JERUSALEM 29 Oct; QUENTIN 31 Oct → done
+- 780–787: ALL SAINTS 1 Nov (double+octave; ants O beata…Trinitas; Bened. Te gloriosus) + within-octave rubric → done
