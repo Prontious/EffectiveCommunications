@@ -2077,3 +2077,92 @@ ecclesiam Hierosolymorum*) — the James who was later martyred there.
 > *Collect:* O God, who gladdenest us with the yearly solemnity of blessed Athanasius, thy confessor
 > and bishop: mercifully grant that we who keep his heavenly birthday may also rejoice in his
 > protection. Through [our] Lord.
+
+### The Finding of the Holy Cross — 3 May (scan pp. 623–627)
+
+A double. The Lauds antiphons tell, in order, the legend of St Helena and Judas Cyriacus finding
+the Cross at Calvary — the legend of the very place where the Order began. (The Friday votive
+office of the Holy Cross, [section 4](04-weekday-votive-offices.md), refers here for its chapters
+and versicles at the hours.)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Omnis terra adoret te, Deus, et psallat
+> tibi, alleluia. ℟. Psalmum dicat nomini tuo, alleluia.
+>
+> In laudibus. *Antiphona.* Helena, Constantini mater, Hierosolymam petiit, alleluia. *Psalmus*
+> Dominus regnavit.
+>
+> *Antiphona.* Tunc precepit eos omnes igne cremari; at illi timentes tradiderunt Iudam, alleluia.
+> *Psalmus* Iubilate.
+>
+> *Antiphona.* Helena sancta dixit ad Iudam: Comple desiderium meum, et vive super terram, ut
+> ostendas mihi qui dicitur Calvarie locus, ubi absconditum est preciosum lignum dominicum,
+> alleluia. *Psalmus* Deus deus.
+>
+> *Antiphona.* Orabat Iudas: Deus, Deus meus, ostende mihi lignum sancte crucis, alleluia. *Psalmus*
+> Benedicite.
+>
+> *Antiphona.* Cum orasset Iudas, commotus est locus ille in quo sancta crux iacebat, alleluia.
+> *Psalmus* Laudate Dominum.
+>
+> *Capitulum.* Mihi autem absit gloriari nisi in cruce Domini nostri Iesu Christi, per quem mihi
+> mundus crucifixus est, et ego mundo.
+>
+> *Hymnus* Signum crucis. ℣. Omnis terra *[adoret te, Deus]*.
+>
+> *Ad* Benedictus *antiphona.* O crux benedicta, que sola fuisti digna portare regem celorum et
+> Dominum, alleluia.
+>
+> *Oratio.* Deus, qui in preclara salutifere crucis inventione passionis tue miracula suscitasti,
+> concede propitius ut vitalis ligni precio eterne vite suffragia consequamur. Qui vivis.
+>
+> *Memoria de sanctis [Alexandro, Eventio et Theodulo]. Antiphona* Lux perpetua; ℣. *et oratio,
+> versus.*
+>
+> *Ad primam et ad alias horas antiphone de laudibus. Ad omnes hymnos horarum ultimus versus
+> dicitur:* Gloria tibi, Domine, qui nos salvasti in cruce, *etc. Cetera ut in festis duplicibus.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Let all the earth adore thee, O God,
+> and sing to thee, alleluia. ℟. Let it sing a psalm to thy name, alleluia. (Ps 65:4)
+>
+> **At Lauds.** *Antiphon:* Helena, mother of Constantine, went to Jerusalem, alleluia. *Psalm 92*
+> The Lord hath reigned.
+>
+> *Antiphon:* Then she ordered them all to be burned; but they, afraid, handed over Judas,
+> alleluia. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* Holy Helena said to Judas: Fulfil my desire, and live upon the earth, by showing me
+> the place called Calvary, where the precious wood of the Lord is hidden, alleluia. *Psalm 62* O
+> God, my God.
+>
+> *Antiphon:* Judas prayed: O God, my God, show me the wood of the holy cross, alleluia. *Canticle*
+> Bless [the Lord].
+>
+> *Antiphon:* When Judas had prayed, the place where the holy cross lay was shaken, alleluia. *Psalm
+> 148* Praise the Lord.
+>
+> *Chapter:* But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom
+> the world is crucified to me, and I to the world. (Gal 6:14)
+>
+> *Hymn* The wondrous sign of the cross. ℣. Let all the earth [adore thee, O God].
+>
+> *Antiphon at the Benedictus:* O blessed cross, which alone wast worthy to bear the King and Lord of
+> heaven, alleluia.
+>
+> *Collect:* O God, who in the glorious finding of the saving cross didst renew the wonders of thy
+> Passion: mercifully grant that by the price of the life-giving wood we may obtain the help of
+> eternal life. Who livest.
+>
+> *A memorial of the saints [Alexander, Eventius and Theodulus]: the antiphon* Everlasting light,
+> *with versicle and collect.*
+>
+> *At Prime and the other hours, the antiphons of Lauds. In all the hymns of the hours the last verse
+> is* Glory to thee, O Lord, who didst save us on the cross, *etc. The rest as on double feasts.*
+
+*Notes.* "Judas" is the Jew who, in the legend, knew where the Cross was hidden; after the
+finding he was baptised and became bishop of Jerusalem under the name Cyriacus — as the lessons
+here say (*Iudam vero baptizatum Hierosolyme civitatis episcopum fecit ordinari*). The memorial
+of the martyrs Alexander, Eventius and Theodulus (also 3 May) is the usual one for this day.
