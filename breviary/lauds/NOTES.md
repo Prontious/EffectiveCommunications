@@ -72,3 +72,5 @@
 - 249–250: CHRISTMAS LAUDS (within Midnight Mass + alternative form without Mass) → done. 250b: Prime begins
 - 253–257: ST STEPHEN; LAUDS p.257 → done (own hymn Sancte Dei preciose; memorial of Nativity)
 - 258–263: ST JOHN EVANGELIST; LAUDS pp.262–263 → done (memorials of Nativity & Stephen)
+- 264–268: HOLY INNOCENTS; LAUDS 267–268 → done (memorials of Nativity, Stephen, John). Then St Thomas Becket from 268b (memoria ant. Pastor cesus)
+- 269–272: ST THOMAS BECKET (29 Dec); collect p.269; LAUDS 271b–272a → done. 272b: Sunday within Christmas octave ('Infra octa. nati.') begins

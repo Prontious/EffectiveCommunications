@@ -1497,3 +1497,205 @@ collect *Concede … nova per carnem nativitas*.
 *Note.* On 27 December Lauds carries memorials of both earlier days in the octave:
 Christmas itself and St Stephen. The hymn is cued only by its first line and taken from
 the Common of Apostles, ending with the Christmas doxology.
+
+---
+
+## The Holy Innocents — 28 December (scan pp. 267–268)
+
+The Innocents are kept as a day of mourning: the rubric omits the *Te Deum* at Matins
+and the *Gloria in excelsis* and *alleluia* at Mass — unless the feast falls on a
+Sunday, when all three are said.
+
+**Latin**
+
+> *[End of Matins:] Et reiteratur* ℟. Centum quadraginta; *et non dicitur psalmus* Te Deum
+> laudamus, *nec* Gloria in excelsis *ad missam, nec* alleluia. *Sed si in dominica
+> evenerit, dicitur psalmus* Te Deum *et* Gloria in excelsis *et* alleluia. ℣.
+> *sacerdotalis.* Hi sunt qui cum mulieribus non sunt coinquinati; virgines *etc.*
+>
+> In laudibus. *Antiphona.* Herodes iratus occidit omnes pueros in Bethleem Iude, civitate
+> David. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* A bimatu et infra occidit omnes pueros Herodes propter Dominum. *Psalmus*
+> Iubilate Deo.
+>
+> *Antiphona.* Vox in Rama audita est, ploratus et ululatus: Rachel plorans filios suos.
+> *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Sub throno Dei omnes sancti clamant: Vindica sanguinem nostrum, Deus noster.
+> *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Cantabant sancti canticum novum ante sedem Dei et agni, et resonabat terra
+> in voces eorum. *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum.* Vidi supra montem Syon agnum stantem, et cum eo centum quadraginta quattuor
+> milia, habentes nomen eius et nomen patris eius scriptum in frontibus suis. ℟. Deo
+> gratias.
+>
+> *Hymnus.* Ceduntur gladiis. Que vox que poterit. Te summa deitas. *[cued]*
+>
+> ℣. Mirabilis Deus in sanctis suis. ℟. Et gloriosus in maiestate sua.
+>
+> *Ad* Benedictus *antiphona.* Hi sunt qui cum mulieribus non sunt coinquinati: virgines
+> enim sunt, et sequuntur agnum quocunque ierit.
+>
+> *Oratio.* Deus, cuius hodierna die preconium innocentes martyres non loquendo sed
+> moriendo confessi sunt, omnia in nobis vitiorum mala mortifica, ut fidem tuam, quam
+> lingua nostra loquitur, etiam moribus vita fateatur. Per Dominum nostrum.
+>
+> *Memoria de nativitate. Antiphona* Pastores. *Oratio* Concede, quesumus, omnipotens Deus.
+> *Memoria de sancto Stephano. Antiphona* In tribulatione lapidum. ℣. Magna est gloria.
+> *Oratio* Omnipotens sempiterne. *Memoria de sancto Iohanne apostolo. Antiphona* Iohannes
+> apostolus. ℣. Annunciaverunt. *Oratio* Ecclesiam.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *A hundred and forty[-four thousand]* is repeated; the
+> *Te Deum* is not said, nor the *Gloria in excelsis* at Mass, nor *alleluia*. But if the
+> feast falls on a Sunday, the *Te Deum*, the *Gloria in excelsis* and the *alleluia* are
+> said. *The priest's versicle:* These are they who were not defiled with women; for they
+> are virgins, etc.
+>
+> **At Lauds.** *Antiphon:* Herod in his anger killed all the boys in Bethlehem of Judah,
+> the city of David. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* From two years old and under, Herod killed all the boys, because of the Lord.
+> (cf. Mt 2:16) *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* A voice was heard in Ramah, weeping and loud lamentation: Rachel weeping for
+> her children. (Mt 2:18) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Beneath the throne of God all the saints cry out: Avenge our blood, O our God.
+> (cf. Rev 6:9–10) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* The saints sang a new song before the throne of God and of the Lamb, and the
+> earth resounded with their voices. (cf. Rev 14:3) *Psalm 148* Praise the Lord from the
+> heavens.
+>
+> *Chapter:* I saw upon Mount Sion a Lamb standing, and with him a hundred and forty-four
+> thousand, having his name and the name of his Father written on their foreheads.
+> (Rev 14:1) ℟. Thanks be to God.
+>
+> *Hymn [three stanzas, cued by their first words]:* They are cut down by swords … What
+> voice, what tongue could … Thee, highest Godhead …
+>
+> ℣. God is wonderful in his saints. ℟. And glorious in his majesty. (cf. Ps 67:36)
+>
+> *Antiphon at the Benedictus:* These are they who were not defiled with women: for they are
+> virgins, and they follow the Lamb wherever he goes. (Rev 14:4)
+>
+> *Collect:* O God, whose praise the innocent martyrs proclaimed on this day, not by
+> speaking but by dying: put to death in us all the evils of vice, that our life may
+> confess in its conduct the faith that our tongue professes. Through our Lord.
+>
+> *Memorial of the Nativity:* the antiphon *Shepherds*; *collect* Grant, we beseech thee,
+> almighty God. *Memorial of St Stephen:* the antiphon *Amid the hail of stones*; ℣. Great
+> is [his] glory; *collect* Almighty and everlasting. *Memorial of St John the Apostle:* the
+> antiphon *John the Apostle*; ℣. They declared; *collect* [Shed light upon thy] Church.
+
+*Note.* The hymn is cued by the first words of three stanzas — *Ceduntur gladiis*, *Que
+vox, que poterit*, *Te summa deitas* — the second half and doxology of the martyrs' hymn
+*Sanctorum meritis*, from the Common.
+
+---
+
+## St Thomas of Canterbury, Martyr — 29 December (scan pp. 271–272; collect from p. 269)
+
+Thomas Becket's office here is the rhymed *historia* widely sung in late-medieval Europe.
+Each Lauds antiphon is a rhymed couplet recalling his martyrdom and the miracles
+reported at his tomb.
+
+**Latin**
+
+> *[End of Matins:]* Te Deum laudamus. ℣. *sacerdotalis.* Ora pro nobis, beate Thoma,
+> alleluia. ℟. Ut digni efficiamur [promissionibus Christi].
+>
+> In laudibus. *Antiphona.* Granum cadens copiam germinat frumenti; / alabastrum
+> frangitur, fragrat vis unguenti. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Totus orbis martyris certat in amorem, / cuius signa singulos agunt in
+> stuporem. *Psalmus* Iubilate Deo.
+>
+> *Antiphona.* Aqua Thome quinquies varians colorem, / in lac semel transiit, quater in
+> cruorem. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Ad Thome memoriam quater lux descendit, / et in sancti gloriam cereos
+> accendit. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Tu per Thome sanguinem, quem pro te impendit, / fac nos, Christe, scandere
+> quo Thomas ascendit. *Psalmus* Laudate.
+>
+> *Capitulum.* Beatus vir qui suffert [temptationem] *[cued]*.
+>
+> *Hymnus.* Martyr Dei, *ut unius martyris, cum ultimo versu* Gloria tibi, Domine, qui
+> natus es.
+>
+> ℣. Magna est gloria [eius in salutari tuo] — *dicitur* alleluia.
+>
+> *Ad* Benedictus *antiphona.* Opem nobis, o Thoma, porrige; / rege stantes, iacentes
+> erige; / mores, actus et vitam corrige, / et in pacis viam nos dirige.
+>
+> *Oratio.* Deus, pro cuius ecclesia gloriosus martyr et pontifex Thomas hodierna die
+> gladiis impiorum occubuit, presta, quesumus, ut omnes qui eius implorant auxilium
+> petitionis sue salutarem consequantur effectum. Per [Dominum]. *Et dicitur ad omnes horas
+> predicta oratio.*
+>
+> *Memoria de nativitate. Antiphona* Nesciens mater. ℣. Benedictus qui [venit]. *Oratio*
+> Concede. *Memoria sancti Stephani. Antiphona* Benedictionis tue *[?]*. *Memoria de sancto
+> Iohanne. Antiphona* Quasi unus *[?]*. *Memoria de innocentibus. Antiphona* Herodes
+> videns. ℣. Mirabilis Deus, *cum* alleluia.
+>
+> *Ad primam antiphona de laudibus, ut in festis duplicibus. Ad tertiam, sextam et nonam,
+> omnia ut unius martyris. Responsoria horarum dicuntur cum duplici* alleluia *cotidie a
+> nativitate Domini usque ad octavam epiphanie.*
+
+**Translation**
+
+> *[End of Matins:]* *Te Deum*. *The priest's versicle:* Pray for us, blessed Thomas,
+> alleluia. ℟. That we may be made worthy [of the promises of Christ].
+>
+> **At Lauds.** *Antiphon:* The grain that falls brings forth a wealth of wheat; the
+> alabaster jar is broken, and the ointment's power breathes its fragrance. (cf. Jn 12:24;
+> Mk 14:3) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The whole world vies in love for the martyr, whose miracles strike everyone
+> with wonder. *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* Thomas's water changed its colour five times: once it turned to milk, four
+> times to blood. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Four times light came down upon the memorial of Thomas, and kindled the
+> candles to the saint's glory. *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* Through the blood of Thomas, which he spent for thee, make us, O Christ,
+> climb to where Thomas has ascended. *Psalm 148* Praise.
+>
+> *Chapter:* Blessed is the man that endures [temptation] (Jas 1:12) *[cued]*.
+>
+> *Hymn:* Martyr of God, *as for one martyr, with the last verse* Glory to thee, O Lord, who
+> wast born.
+>
+> ℣. Great is [his] glory [in thy salvation] — *with* alleluia.
+>
+> *Antiphon at the Benedictus:* Stretch out thy help to us, O Thomas; guide those who
+> stand, raise those who lie fallen; correct our ways, our deeds and our life, and direct
+> us into the way of peace.
+>
+> *Collect:* O God, for whose Church the glorious martyr and bishop Thomas fell this day by
+> the swords of wicked men: grant, we beseech thee, that all who implore his aid may obtain
+> the saving effect of their petition. Through [our Lord]. *This collect is said at all the
+> hours.*
+>
+> *Memorial of the Nativity:* the antiphon *Not knowing man, the mother*; ℣. Blessed is he
+> that comes; *collect* Grant. *Memorial of St Stephen:* the antiphon *Of thy blessing [?]*.
+> *Memorial of St John:* the antiphon *As one [?]*. *Memorial of the Innocents:* the
+> antiphon *Herod, seeing*; ℣. God is wonderful, *with* alleluia.
+>
+> *At Prime, the antiphon of Lauds, as on double feasts. At Terce, Sext and None, all as for
+> one martyr. The responsories of the hours are said with a double* alleluia *every day from
+> the Nativity of the Lord to the octave of Epiphany.*
+
+*Notes.* The third and fourth antiphons refer to miracles reported at Canterbury after
+1170: water mixed with the martyr's blood that was said to change colour, and candles
+said to have been kindled by light from heaven at his tomb. The memorial antiphons for
+St Stephen and St John are very compressed in the print and only partly legible.
