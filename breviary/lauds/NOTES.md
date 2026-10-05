@@ -224,3 +224,4 @@
 - 630: ST JOHN BEFORE THE LATIN GATE 6 May (semidouble; as St Mark; collect Deus qui conspicis quia nos undique) → done
 - 631–632: St John Latin Gate Bened. (Occurrit beato Iohanni) added; TRANSLATION OF ST NICHOLAS 9 May (Bened. as December; collect Deus bonitatis auctor); SS GORDIAN & EPIMACHUS 10 May → done
 - 633: SS NEREUS/ACHILLEUS/PANCRAS 12 May; ST BERNARDINE 20 May; ST URBAN 25 May; ST NICOMEDES 1 Jun; SS MARCELLINUS & PETER 2 Jun; ST CLAUDIUS 6 Jun (all Common; collects where given) → done
+- 634: SS MEDARD & GILDARD 8 Jun; SS PRIMUS & FELICIAN 9 Jun; ST BARNABAS 11 Jun (semidouble; Common apostles; collect Ecclesiam tuam…Barnabe) → done

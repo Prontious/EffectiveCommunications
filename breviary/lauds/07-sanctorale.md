@@ -2355,3 +2355,53 @@ May 1087.
 
 *Note.* This is Claudius of Besançon, abbot of Condat in the Jura, whose shrine at Saint-Claude was a
 major pilgrimage in the later Middle Ages.
+
+### SS Medard and Gildard, Bishops and Confessors — 8 June (scan p. 634)
+
+> *Sanctorum Medardi et Gildardi episcoporum, ix lectiones; omnia ut in communi plurimorum
+> confessorum.*
+>
+> *Oratio.* Deus, qui nos sanctorum confessorum tuorum Medardi et Gildardi confessionibus gloriosis
+> circumdas et protegis, da nobis eorum imitatione proficere et intercessione gaudere. Per Dominum.
+
+> *SS Medard and Gildard, bishops: nine lessons; everything as in the Common of several confessors.*
+>
+> *Collect:* O God, who surroundest and protectest us with the glorious confessions of thy holy
+> confessors Medard and Gildard: grant us to advance by imitating them and to rejoice in their
+> intercession. Through [our] Lord.
+
+### SS Primus and Felician, Martyrs — 9 June (scan p. 634)
+
+> *Sanctorum Primi et Feliciani martyrum, ix lectiones; omnia ut in communi plurimorum martyrum.*
+>
+> *Oratio.* Fac nos, quesumus, Domine, sanctorum martyrum tuorum Primi et Feliciani semper festa
+> sectari, quorum suffragiis protectionis tue dona sentiamus. Per Dominum.
+
+> *SS Primus and Felician, martyrs: nine lessons; everything as in the Common of several martyrs.*
+>
+> *Collect:* Grant, we beseech thee, O Lord, that we may always keep the feasts of thy holy martyrs
+> Primus and Felician, by whose prayers we may feel the gifts of thy protection. Through [our] Lord.
+
+### St Barnabas, Apostle — 11 June (scan pp. 634–635)
+
+> *Sancti Barnabe apostoli, semiduplex. … Quere in communi apostolorum.*
+>
+> *Oratio.* Ecclesiam tuam, Domine, in omni prosperitate custodi, et beati Barnabe apostoli suffultam
+> patrociniis supernis dignam exhibe gaudiis. Per Dominum.
+>
+> *Nota quod si hoc festum evenerit infra octavas penthecostes, transfertur ad primam diem vacantem;
+> etiam si evenerit infra octavas corporis Christi, transfertur. Ad matutinas invitatorium, hymni,
+> antiphone, psalmi, versus, responsoria ut in communi apostolorum.*
+
+> *St Barnabas, apostle: semidouble. … Look for it in the Common of Apostles.*
+>
+> *Collect:* Keep thy Church, O Lord, in all prosperity, and, sustained by the patronage of blessed
+> Barnabas the apostle, make her worthy of the joys of heaven. Through [our] Lord.
+>
+> *Note that if this feast falls within the octave of Pentecost, it is transferred to the first free
+> day; and if it falls within the octave of Corpus Christi, it is likewise transferred. At Matins
+> [and Lauds] the invitatory, hymns, antiphons, psalms, versicles and responsories as in the Common of
+> Apostles.*
+
+*Note.* His lessons call him "a Cypriot by birth" (*Cyprius genere*); Cyprus was the Order's
+headquarters before it moved to Rhodes in 1310.
