@@ -227,3 +227,4 @@
 - 634: SS MEDARD & GILDARD 8 Jun; SS PRIMUS & FELICIAN 9 Jun; ST BARNABAS 11 Jun (semidouble; Common apostles; collect Ecclesiam tuam…Barnabe) → done
 - 636: SS BASILIDES etc. 12 Jun; ST ANTHONY OF PADUA 13 Jun; ST ELISHA PROPHET 14 Jun ('montis Carmeli incolam'); SS VITUS, MODESTUS & CRESCENTIA 15 Jun; SS CYRICUS & JULITTA 16 Jun; SS MARK & MARCELLIAN 18 Jun; SS GERVASE & PROTASE 19 Jun → done
 - 637–644: NATIVITY OF ST JOHN BAPTIST 24 Jun (double, solemn octave) LAUDS → done (ants Elisabeth Zacharie…; cap Audite insule; hymn O nimis felix; Bened. Apertum est os Zacharie; collect Deus qui presentem diem)
+- 644–645: ST JOHN BAPTIST octave (solemn); SS JOHN & PAUL 26 Jun transferred after octave of Visitation (collect Quesumus…geminata leticia; Common several martyrs) → done

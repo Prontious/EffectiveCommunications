@@ -2576,3 +2576,35 @@ here in their proper setting.
 
 *Note.* The chapter *Audite insule* ("Listen, O islands") had a particular aptness for an Order
 whose convent stood on the island of Rhodes.
+
+### SS John and Paul, Martyrs — 26 June, transferred (scan p. 645)
+
+The Roman martyrs John and Paul fall inside the solemn octave of St John the Baptist, so their
+office is moved.
+
+> *Secundo die infra octavas sancti Iohannis, quod est festum sanctorum Iohannis et Pauli
+> martyrum, quorum officium eorum fit ibi sequenter notatum; tamen de ipsis non facimus infra
+> octavas, sed transferuntur ad primam diem vacantem post octavas visitationis beate Marie, et
+> fiunt ix lectiones ut in semiduplicibus.* … *Ad* Magnificat *antiphona.* Isti sunt due olive et
+> duo candelabra lucentia ante Dominum; habent potestatem claudere celum nubibus et aperire portas
+> eius, quia lingue eorum claves celi facte sunt, alleluia.
+>
+> *Oratio.* Quesumus, omnipotens Deus, ut nos geminata leticia hodierne festivitatis excipiat, que de
+> beatorum Iohannis et Pauli glorificatione procedit, quos eadem fides et passio vere fecit esse
+> germanos. Per Dominum. *Ad matutinas invitatorium, hymni, antiphone, psalmi, versus … ut in communi
+> plurimorum martyrum.*
+
+> *On the second day within the octave of St John [the Baptist] is the feast of SS John and Paul,
+> martyrs, whose office is given here; but we do not keep it within the octave: it is transferred to
+> the first free day after the octave of the Visitation of the Blessed Mary, with nine lessons as on
+> semidoubles.* … *Magnificat antiphon:* These are the two olive trees and the two lampstands shining
+> before the Lord; they have power to shut heaven with clouds and to open its gates, for their
+> tongues have become the keys of heaven, alleluia. (cf. Rev 11:4, 6)
+>
+> *Collect:* We beseech thee, almighty God, that a twofold joy may receive us in today's feast,
+> flowing from the glorification of blessed John and Paul, whom the same faith and the same passion
+> made true brothers. Through [our] Lord. *At Matins [and Lauds] the invitatory, hymns, antiphons,
+> psalms and versicles … as in the Common of several martyrs.*
+
+*Note.* This rubric also tells us the book keeps the **Visitation** (2 July) with an octave, which
+is why a feast transferred out of St John's octave must wait until after it.
