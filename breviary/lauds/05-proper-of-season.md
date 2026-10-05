@@ -4091,3 +4091,77 @@ for *Nemo tollit* (John 10:18), which the rest of the sentence requires.
 > David; blessed is he that comes in the name of the Lord. … *At None, the antiphon:*
 > Hosanna to the Son of David; blessed is he that comes in the name of the Lord, the King of
 > Israel …
+
+---
+
+## Holy Week — Monday to Wednesday
+
+From Monday of Holy Week each weekday has its own full set of five Lauds antiphons,
+sung over the psalter's psalms for that day, with the Passiontide chapter, hymn and
+versicle.
+
+### Monday of Holy Week (scan p. 369)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Insurrexerunt. ℣. *Sacerdotalis* Deus meus, eripe me.
+>
+> In laudibus. *Antiphona.* Faciem meam non averti ab increpantibus et conspuentibus in me.
+> *Psalmus* Miserere.
+>
+> *Antiphona.* Framea, suscitare adversus eos qui dispergunt gregem meum. *Psalmus* Verba.
+>
+> *Antiphona.* Appenderunt mercedem meam triginta argenteis, quibus appretiatus sum ab eis.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Inundaverunt aque super caput meum; dixi: Perii; invocabo nomen tuum, Domine
+> Deus. *Psalmus* Confitebor.
+>
+> *Antiphona.* Labia insurgentium et cogitationes eorum vide, Domine. *Psalmus* Laudate.
+>
+> *Capitulum* Dominus Deus aperuit. *Hymnus* Lustra sex. ℣. Eripe me, Domine, ab homine
+> malo. ℟. A viro *[iniquo eripe me]*.
+>
+> *Ad* Benedictus *antiphona.* Non haberes in me potestatem, nisi desuper datum tibi
+> fuisset.
+>
+> *Oratio.* Da, quesumus, omnipotens Deus, ut qui in tot adversis ex nostra infirmitate
+> deficimus, intercedente unigeniti filii tui passione respiremus. Per eundem.
+>
+> *Ad horas antiphone de laudibus. Ad tertiam capitulum* Faciem meam; ℟. Fratres mei;
+> *preces dominicales cum oratione* Da quesumus. *Ad sextam capitulum* Tu autem, Domine.
+> *Ad nonam capitulum* Iudicasti.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *They have risen up [against me]* is repeated. *The
+> priest's versicle* My God, deliver me.
+>
+> **At Lauds.** *Antiphon:* I have not turned away my face from those who rebuked me and spat
+> upon me. (Is 50:6) *Psalm 50* Have mercy.
+>
+> *Antiphon:* Awake, O sword, against those who scatter my flock. (cf. Zech 13:7) *Psalm 5*
+> Give ear to my words.
+>
+> *Antiphon:* They weighed out my wages, thirty pieces of silver, at which I was valued by
+> them. (cf. Zech 11:12–13) *Psalm 62* O God, my God.
+>
+> *Antiphon:* The waters have flowed over my head; I said: I am lost; I will call upon thy
+> name, O Lord God. (cf. Lam 3:54–55) *Canticle of Isaiah* I will give thanks.
+>
+> *Antiphon:* Behold, O Lord, the lips of those who rise against me, and their thoughts.
+> (cf. Lam 3:62) *Psalm 148* Praise.
+>
+> *Chapter* The Lord God has opened [my ear]. *Hymn* Thirty years now fully spent. ℣. Deliver
+> me, O Lord, from the evil man. ℟. From the unjust man [deliver me].
+>
+> *Antiphon at the Benedictus:* Thou shouldst have no power against me, unless it were given
+> thee from above. (Jn 19:11)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we, who fail through our own weakness
+> amid so many adversities, may find relief through the pleading of the Passion of thine
+> only-begotten Son. Through the same.
+>
+> *At the hours, the antiphons of Lauds. At Terce, the chapter* I have not turned away my
+> face; ℟. My brethren; *the Sunday preces, with the collect* Grant, we beseech thee. *At
+> Sext, the chapter* But thou, O Lord. *At None, the chapter* Thou hast judged.
