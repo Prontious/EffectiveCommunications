@@ -26,3 +26,8 @@
 - 81–82: WEDNESDAY LAUDS → done. 82 col.b: Thursday Matins (inv. Adoremus dominum; hymn Nox atra rerum; Ps 68)
 - 82b–90: Thursday Matins (Pss 68–79)
 - 91–93: THURSDAY LAUDS → done. 93 col.b: Friday Matins (inv. Dominum qui fecit nos; hymn Tu trinitatis unitas; Ps 80)
+- 93b–100: Friday Matins (Pss 80–96; rubric on p.98 & p.100: Pss 90 & 94 not said in nocturns)
+- 101–103: FRIDAY LAUDS → done. 103: Saturday Matins (inv. Dominum deum nostrum; hymn Summe deus clementie; Ps 97...)
+- 103–111: Saturday Matins (Pss 97–108)
+- 112–114: SATURDAY LAUDS → done. 114 col.b: PSALTER VESPERS begins (Sunday Vespers, Ps 109) — psalter Lauds COMPLETE
+- NEXT: canticles section (Benedictus/Benedicite/Te Deum texts printed after psalter?), preces, suffrages; then Proper of Season
