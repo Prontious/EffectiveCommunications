@@ -4165,3 +4165,169 @@ versicle.
 > *At the hours, the antiphons of Lauds. At Terce, the chapter* I have not turned away my
 > face; ℟. My brethren; *the Sunday preces, with the collect* Grant, we beseech thee. *At
 > Sext, the chapter* But thou, O Lord. *At None, the chapter* Thou hast judged.
+
+### Tuesday of Holy Week (scan p. 370)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Synagoge [populorum]. ℣. *Sacerdotalis* Deus meus,
+> eripe me.
+>
+> In laudibus. *Antiphona.* Vide, Domine, et considera, quoniam tribulor; velociter exaudi
+> me. *Psalmus* Miserere.
+>
+> *Antiphona.* Discerne causam meam, Domine; ab homine iniquo et doloso libera me. *Psalmus*
+> Iudica me, Deus.
+>
+> *Antiphona.* Dum tribularer clamavi ad Dominum de ventre inferi, et exaudivit me.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Domine, vim patior; responde pro me, quia nescio quid dicam inimicis meis.
+> *Psalmus* Ego dixi.
+>
+> *Antiphona.* Dixerunt impii: Opprimamus virum iustum, quoniam contrarius est operibus
+> nostris. *Psalmus* Laudate.
+>
+> *Capitulum, hymnus,* ℣. *ut in feria ii predicta.*
+>
+> *Ad* Benedictus *antiphona.* Potestatem habeo ponendi animam meam, et iterum sumendi eam.
+>
+> *Oratio.* Omnipotens sempiterne Deus, da nobis ita dominice passionis sacramenta peragere,
+> ut indulgentiam percipere mereamur. Per Dominum.
+>
+> *Ad omnes horas antiphone de laudibus; capitula, responsoria et versus ut in predicta
+> feria ii, cum oratione [predicta].*
+
+**Translation**
+
+> *[End of Matins:]* The responsory *The assemblies [of the peoples]* is repeated. *The
+> priest's versicle* My God, deliver me.
+>
+> **At Lauds.** *Antiphon:* Behold, O Lord, and consider, for I am in distress; hear me
+> speedily. (cf. Lam 1:20) *Psalm 50* Have mercy.
+>
+> *Antiphon:* Distinguish my cause, O Lord; deliver me from the unjust and deceitful man.
+> (cf. Ps 42:1) *Psalm 42* Judge me, O God.
+>
+> *Antiphon:* When I was in trouble I cried to the Lord from the belly of hell, and he heard
+> me. (cf. Jon 2:3) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Lord, I suffer violence; answer thou for me, for I know not what to say to my
+> enemies. (cf. Is 38:14) *Canticle of Hezekiah* I said.
+>
+> *Antiphon:* The wicked said: Let us oppress the just man, for he is contrary to our works.
+> (cf. Wis 2:10–12) *Psalm 148* Praise.
+>
+> *Chapter, hymn and versicle as on Monday.*
+>
+> *Antiphon at the Benedictus:* I have power to lay down my life, and to take it up again.
+> (Jn 10:18)
+>
+> *Collect:* Almighty and everlasting God, grant us so to celebrate the mysteries of the
+> Lord's Passion that we may be worthy to receive pardon. Through [our] Lord.
+>
+> *At all the hours, the antiphons of Lauds; the chapters, responsories and versicles as on
+> Monday, with [the same] collect.*
+
+### Wednesday of Holy Week (scan pp. 370–371)
+
+**Latin**
+
+> In laudibus. *Antiphona.* Libera me de sanguinibus, Deus, Deus meus, et exaltabit lingua
+> mea iustitiam tuam. *Psalmus* Miserere.
+>
+> *Antiphona.* Contumelias et terrores passus sum ab eis, et Dominus mecum est tanquam
+> bellator fortis. *Psalmus* Te decet.
+>
+> *Antiphona.* Ipsi vero in vanum quesierunt animam meam; introibunt in inferiora terre.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Omnes inimici mei audierunt malum meum; Domine, letati sunt, quoniam tu
+> fecisti. *Psalmus* Exultavit cor meum.
+>
+> *Antiphona.* Alliga, Domine, in vinculis nationes gentium, et reges eorum in compedibus.
+> *Psalmus* Laudate Dominum.
+>
+> *Capitulum, hymnus,* ℣. *[ut supra].*
+>
+> *Ad* Benedictus *antiphona.* Simon, dormis? Non potuisti una hora vigilare mecum?
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui nostris excessibus incessanter
+> affligimur, unigeniti tui passione liberemur. Qui tecum.
+>
+> *Ad horas antiphone de laudibus; capitula, responsoria et versus ut in feria ii, cum
+> supradicta oratione; sed ad nonam non dicuntur preces.*
+
+**Translation**
+
+> **At Lauds.** *Antiphon:* Deliver me from blood, O God, my God, and my tongue shall extol
+> thy justice. (Ps 50:16) *Psalm 50* Have mercy.
+>
+> *Antiphon:* I have suffered reproaches and terrors from them, and the Lord is with me as a
+> mighty warrior. (cf. Jer 20:10–11) *Psalm 64* A hymn becometh thee.
+>
+> *Antiphon:* But they have sought my soul in vain; they shall go into the lower parts of
+> the earth. (Ps 62:10) *Psalm 62* O God, my God.
+>
+> *Antiphon:* All my enemies have heard of my trouble; O Lord, they have rejoiced that thou
+> hast done it. (Lam 1:21) *Canticle of Hannah* My heart hath rejoiced.
+>
+> *Antiphon:* Bind, O Lord, the nations of the gentiles in chains, and their kings in
+> fetters. (cf. Ps 149:8) *Psalm 148* Praise the Lord.
+>
+> *Chapter, hymn and versicle [as above].*
+>
+> *Antiphon at the Benedictus:* Simon, art thou sleeping? Couldst thou not watch one hour
+> with me? (Mk 14:37)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we, who are ceaselessly afflicted
+> through our own excesses, may be set free by the Passion of thine only-begotten Son. Who
+> with thee …
+>
+> *At the hours, the antiphons of Lauds; the chapters, responsories and versicles as on
+> Monday, with the collect above; but at None the preces are not said.*
+
+---
+
+## The Triduum — general rubric (scan p. 371)
+
+Printed after Vespers and Compline of Holy Wednesday, this rubric governs Matins and Lauds
+of Maundy Thursday, Good Friday and Holy Saturday — the office known as *Tenebrae*.
+
+**Latin**
+
+> *Hinc usque post octavam pasche non dicitur officium beate Marie, nec officium
+> defunctorum, nec aliqua memoria, nec cantica graduum, nec vii psalmi. Et nota quod si
+> aliquod festum duplex vel semiduplex vel ix lectionum a die cene usque post dictam
+> octavam evenerit, transferuntur post octavam pasche.* …
+>
+> *Feria v in cena Domini fit semiduplex. Feria vi et sabbato: his tribus diebus non
+> dicitur* Domine labia, *nec* Deus in adiutorium, *nec* Gloria patri, *nec invitatorium,
+> nec hymnus, nec in lectionibus* Iube domne, *nec* Et ne nos inducas, *nec in fine
+> lectionum* Tu autem, *nec in antiphonis neuma, nec dicitur* Benedicamus. *His tribus
+> diebus luminaria xv ad tenebras accenduntur, que extinguuntur ad quamlibet antiphonam, tam
+> in matutinis quam in laudibus, et ad quamlibet lectionem. Et dicitur matutinum in hunc
+> modum sine capis, et facit officium subprior; et duo anciani stantes in medio chori
+> incipientes psalmos, ut moris est in choro.*
+
+**Translation**
+
+> From here until after the octave of Easter, the office of the Blessed Mary is not said,
+> nor the office of the dead, nor any memorial, nor the gradual psalms, nor the seven
+> [penitential] psalms. And note that if any double, semidouble or nine-lesson feast falls
+> between the day of the Supper and the end of that octave, it is transferred to after the
+> octave of Easter. …
+>
+> Maundy Thursday is kept as a semidouble. On Good Friday and Holy Saturday — and on these
+> three days — none of the following is said: *O Lord, open my lips*, *O God, come to my
+> assistance*, *Glory be to the Father*, the invitatory, the hymn, the blessing *Pray, sir*
+> before the lessons, *And lead us not into temptation*, *But thou, O Lord [have mercy on
+> us]* at the end of the lessons, the melisma (*neuma*) on the antiphons, or *Let us bless
+> the Lord*. On these three days **fifteen candles are lit for Tenebrae**, and they are put
+> out one at each antiphon, both at Matins and at Lauds, and at each lesson. Matins is said
+> in this manner without copes, and the sub-prior leads the office; and two senior brethren
+> standing in the middle of the choir begin the psalms, as is the custom in choir.
+
+*Note.* The *anciani* ("elders") are the senior brethren of the community. Putting out
+one candle after each antiphon and lesson until the church is dark is the ceremony that
+gives *Tenebrae* ("darkness") its name.
