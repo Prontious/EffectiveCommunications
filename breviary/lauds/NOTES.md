@@ -40,3 +40,11 @@
 - 180–183: BVM Saturday office 1st Vespers (collect Concede nos, p.181), Matins
 - 184–185: BVM LAUDS → 04 (done). 185: Marian memorial antiphons (Alma redemptoris etc.) — not Lauds-specific
 - Votive offices section COMPLETE. NEXT: find start of Proper of Season (Advent I) — scan ~186+
+- 200: blank. 201: PROPER OF SEASON incipit; Sat. before Advent I, 1st Vespers (collect Excita…potentiam)
+- 203: Advent I Compline end; Matins begins. 207: end Matins (no Te Deum in Advent rubric)
+- 208: ADVENT I LAUDS → 05 (done). NEXT: Advent I ferias (209+), Advent II (~?)
+- 209: Advent I hours (Prime/Terce etc.) — Lauds antiphons used at hours ("Quere in laudibus")
+- 210: Advent I 2nd Vespers, Compline; Monday Matins begins
+- 211–212: ADVENT I MONDAY LAUDS + FULL FERIAL PRECES → 05 (done). 212b: Tuesday hours, Vespers
+- NEXT: 213 Tuesday...
+- 213: Tue Vespers end, Tue Matins. 214: TUE + WED LAUDS (Bened. ant only). 215: THU + FRI LAUDS → 05 (done)
