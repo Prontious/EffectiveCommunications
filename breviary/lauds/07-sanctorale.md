@@ -2971,3 +2971,351 @@ a memorial of the apostles (antiphon *Gloriosi*). *Lauds and the rest as on the 
 (read in the lessons) that he was one of the Seventy, baptised by Peter and sent to Gaul. That
 legend was hotly promoted in the eleventh century. The Leo is Leo II (the lessons describe the
 Sixth Council, held in the Trullo palace), though he is styled "martyr".
+
+---
+
+## Mid-July saints from the Commons: Alexius, Margaret, Praxedes
+
+*Scan pp. 671–673. Each has nine lessons and is taken from the Common; only the collects are
+proper.*
+
+**Latin**
+
+> *Sancti Alexii confessoris. ix lectiones, omnia ut in communi unius confessoris non episcopi.*
+>
+> *Sancte Margarete virginis et martyris. ix lectiones, omnia ut in communi unius virginis et
+> martyris. Oratio.* Deus qui beatam virginem Margaretam ad celos per martyrii palmam pervenire
+> fecisti: concede propitius, ut eius exempla sequentes ad te pervenire mereamur. Per Dominum.
+>
+> *Sancte Praxedis virginis. ix lectiones, omnia de communi unius virginis non martyris. Oratio.*
+> Da quesumus omnipotens Deus, ut beate Praxedis virginis tue, cuius natalicia colimus, et annua
+> solennitate letemur, et tante fidei proficiamus exemplo. Per Dominum.
+
+**Translation**
+
+> *St Alexius, confessor (17 July). Nine lessons, all as in the Common of one confessor not a
+> bishop.*
+>
+> *St Margaret, virgin and martyr (20 July). Nine lessons, all as in the Common of one virgin and
+> martyr. Collect:* O God, who didst bring the blessed virgin Margaret to heaven by the palm of
+> martyrdom: mercifully grant that we, following her example, may deserve to come to thee.
+>
+> *St Praxedes, virgin (21 July). Nine lessons, all from the Common of one virgin not a martyr.
+> Collect:* Grant, we beseech thee, almighty God, that we may both rejoice in the yearly feast of
+> blessed Praxedes thy virgin, whose heavenly birthday we keep, and profit by the example of so
+> great a faith.
+
+---
+
+## 22 July — St Mary Magdalene (semidouble)
+
+*Scan pp. 673–678. The office is proper throughout. After first Vespers "the choir goes in
+procession to the palace, where Vespers are sung in the chapel of St Mary Magdalene, beginning
+only from the chapter" (p. 674). That is the Grand Master's palace at Rhodes.*
+
+**Latin**
+
+> *In laudibus an.* Laudibus excelsis omnis mundus exultet in solennitate sancte Magdalene.
+> *ps.* Dominus regnavit.
+>
+> *an.* Pectore sincero Dominum Maria recondens unxit, purgantem baptismi gurgite sancto.
+> *ps.* Jubilate.
+>
+> *an.* Sustolle, Maria, supplicum in ethera vota, pro propriis que meruisti fletu diluere [?]
+> noxis. *ps.* Deus deus.
+>
+> *an.* Quo tecum capiant eterni munera regni, pro famulis Christum posce, Maria, pium.
+> *ps.* Benedicite.
+>
+> *an.* Maria ergo unxit pedes Iesu et extersit capillis suis, et domus impleta est ex odore
+> unguenti. *ps.* Laudate Dominum.
+>
+> *Capitulum.* Domine Deus meus, exul[tabo?]… *(cue only)*
+>
+> *Hymnus.*
+> Sermone blando angelus / predixit mulieribus: / In Galilea Dominus / videndus est quantocius.
+> Ille[?] dum pergunt concite / apostolis hoc dicere, / videntes eum vivere / osculantur pedes
+> Domini.
+> Quo agnito discipuli / in Galileam propere / pergunt videre faciem / desideratam Domini.
+> Claro paschali gaudio / sol mundo nitet radio, / cum Christum iam apostoli / visu cernunt
+> corporeo.
+> Ostensa sibi vulnera / in Christi carne fulgida / resurrexisse Dominum / voce fatentur publica.
+> Rex Christe clementissime, / tu corda nostra posside, / ut tibi laudes debitas / reddamus omni
+> tempore.
+> Presta, Pater piissime…
+> *℣.* Elegit eam.
+>
+> *Ad Benedictus an.* O mundi lampas et margarita prefulgida, que resurrectionem Christi
+> nunciando apostolorum apostola fieri meruisti, Maria Magdalene, semper pia exoratrix pro nobis
+> assis ad Deum qui te elegit.
+>
+> *Oratio.* Largire nobis, clementissime Pater, quod sicut beata Maria Magdalene Dominum nostrum
+> Iesum Christum super omnia diligendo suorum obtinuit veniam peccaminum, ita nobis apud
+> misericordiam tuam sempiternam impetret beatitudinem. Per.
+>
+> *Ad primam et ad alias horas an. de laudibus; cetera de communi unius matrone, cum oratione
+> propria.*
+
+**Translation**
+
+> *At Lauds, antiphon:* With highest praises let the whole world exult on the feast of holy
+> Magdalene. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Hiding the Lord in a sincere heart, Mary anointed him who cleanses in the holy flood
+> of baptism. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Raise to heaven, Mary, the prayers of thy suppliants, thou who didst deserve to wash
+> away thine own sins by weeping. *Psalm 62* O God, my God.
+>
+> *Antiphon:* That with thee they may receive the gifts of the eternal kingdom, beseech the
+> loving Christ for thy servants, Mary. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Mary therefore anointed the feet of Jesus and wiped them with her hair, and the
+> house was filled with the odour of the ointment. (Jn 12:3) *Psalm 148* Praise the Lord.
+>
+> *Chapter:* O Lord my God… *(cue)*
+>
+> *Hymn.*
+> With gentle words the angel / foretold to the women: / In Galilee the Lord / is to be seen
+> forthwith.
+> As they hasten swiftly / to tell this to the apostles, / they see him living, / and kiss the
+> feet of the Lord.
+> When the disciples learn it, / they hurry into Galilee / to see the longed-for / face of the
+> Lord.
+> With the bright joy of Easter / the sun shines on the world with its ray, / when the apostles
+> now / behold Christ with bodily sight.
+> The wounds shown to them / shining in Christ's flesh, / they confess with public voice / that
+> the Lord is risen.
+> O Christ, most merciful King, / do thou possess our hearts, / that we may render thee / due
+> praises at all times.
+> Grant this, most loving Father…
+> *℣.* [God] hath chosen her.
+>
+> *Antiphon at the Benedictus:* O lamp of the world and pearl most bright, who by announcing the
+> resurrection of Christ didst deserve to become the apostle of the apostles, Mary Magdalene, be
+> ever present for us, a loving intercessor with God who chose thee.
+>
+> *Collect:* Grant us, most merciful Father, that as blessed Mary Magdalene, by loving our Lord
+> Jesus Christ above all things, obtained pardon of her sins, so she may obtain for us everlasting
+> blessedness with thy mercy. Through.
+>
+> *At Prime and the other Hours, the antiphons of Lauds; the rest from the Common of one matron,
+> with the proper collect.*
+
+*Note.* The Lauds hymn is the Easter hymn *Sermone blando angelus* (the second part of *Aurora
+lucis rutilat*), which makes Mary the first witness of the resurrection. The Benedictus antiphon
+gives her the title *apostolorum apostola*. The procession to the palace chapel of St Mary
+Magdalene is a rare piece of Rhodian topography inside the breviary.
+
+At Vespers the Magnificat antiphon is *Celsi meriti Maria*. A memorial of St Apollinaris follows,
+with the antiphon *Iste sanctus* and the collect *Clementiam tuam quesumus Domine omnipotens
+Deus, ut intercedente pro nobis beato Apollinari martyre tuo atque pontifice, veniam omnium
+consequi mereamur peccatorum et vitam acquirere mereamur eternam* ("We beseech thy mercy, O Lord
+almighty God, that by the intercession of blessed Apollinaris thy martyr and bishop we may
+deserve to obtain pardon of all our sins and gain eternal life").
+
+---
+
+## 23–24 July — St Apollinaris; St Christina
+
+*Scan p. 678.*
+
+**Latin**
+
+> *Sancti Apollinaris episcopi et martyris. ix lectiones, omnia de communi unius martyris et
+> episcopi cum oratione supradicta.*
+>
+> *Sancte Christine virginis et martyris. ix lectiones, omnia de communi unius virginis et
+> martyris. Oratio.* Beate Christine martyris natalicia, Domine quesumus, ecclesia tua devota
+> suscipiat, et fiat magne glorificationis amore devotior, et tante fidei proficiat exemplis. Per
+> Dominum.
+
+**Translation**
+
+> *St Apollinaris, bishop and martyr. Nine lessons, all from the Common of one martyr and bishop,
+> with the collect above.*
+>
+> *St Christina, virgin and martyr. Nine lessons, all from the Common of one virgin and martyr.
+> Collect:* May thy Church, O Lord, we beseech thee, devoutly welcome the heavenly birthday of
+> blessed Christina the martyr; may she become more devout through love of so great a
+> glorification, and profit by the example of so great a faith.
+
+*The seventh lesson is from the Gospel of the vigil of St James.*
+
+---
+
+## 25 July — St James the Apostle (semidouble)
+
+*Scan pp. 678–680. First Vespers have the hymn* Bina celestis aule luminaria, *which honours both
+James and John "the theologian". A memorial is made of SS Christopher and Cucufas.*
+
+**Latin**
+
+> *In laudibus ut in communi apostolorum. Oratio.* Esto Domine plebi tue sanctificator et custos,
+> ut beati Iacobi apostoli tui munita presidiis, et conversatione tibi placeat et secura mente
+> deserviat. Per Dominum.
+>
+> *Memoria de sanctis [Christophoro et Cucufato], an.* Fulgebunt iusti. *℣.* Mirabilis Deus.
+> *Oratio ut supra:* Adiuvet nos quesumus Domine beatorum martyrum tuorum Christophori [et]
+> Cucufati sancta precatio, ut a nostris reatibus absoluti ad eternam mereamur pervenire leticiam.
+>
+> *Ad omnes horas ut unius apostoli cum oratione propria. Ad vesperas duplex propter festum
+> sancte Anne.*
+
+**Translation**
+
+> *At Lauds, as in the Common of Apostles. Collect:* Be thou, O Lord, the sanctifier and guardian
+> of thy people, that, defended by the protection of thy blessed apostle James, they may please
+> thee in their way of life and serve thee with a quiet mind.
+>
+> *A memorial of the saints [Christopher and Cucufas], antiphon* The just shall shine. *℣.* God is
+> wonderful. *Collect, as above:* May the holy prayer of thy blessed martyrs Christopher and Cucufas
+> help us, O Lord, we beseech thee, that, set free from our sins, we may deserve to come to
+> everlasting joy.
+>
+> *At all the Hours, as for one apostle, with the proper collect. Vespers are double, because of
+> the feast of St Anne.*
+
+---
+
+## 26 July — St Anne, Mother of the Virgin Mary (double)
+
+*Scan pp. 680–684. The office is wholly proper and rhymed. The Matins antiphons narrate the
+Protevangelium story of Joachim and Anne, and the Lauds antiphons carry it on.*
+
+**Latin**
+
+> *In laudibus an.* Virgo semper hec Maria, stirpe nata regia, David regis veneranda processit
+> prosapia. *ps.* Dominus regnavit.
+>
+> *an.* A Nazareth oriunda versatur Hierosolyma, et in templo illic sancto nutritur iuvencula.
+> *ps.* Jubilate.
+>
+> *an.* Hec Ioachim viro iuncta, matris Dei mater facta, cara Deo est et grata. *ps.* Deus deus.
+>
+> *an.* Hec [*sic*, = Hic?] ad casam ex hinc suam repedare noluit [?], nam dedecus magis et plus
+> augmentari timuit. *ps.* Benedicite.
+>
+> *an.* Ex hoc autem opprobrio Ioachim pulsus nimio, una cum suis bestiis mox secessit in pascuis.
+> *ps.* Laudate.
+>
+> *Hymnus.*
+> Orbis exultans celebret hoc festum, / prosequens Annam, matrem matris Christi, / quam sacris
+> credit actibus adeptam / gaudia vite.
+> Abrahe proles, sacerdotum semen, / filia regum, specimen Hebreum, / stirpem sanctorum meritis
+> et vita / nobilitavit.
+> Sterili ventre prius infecunda / nutu divino peperit Mariam, / dominam rerum, titulum florem­que
+> / virginitatis.
+> Hac mediante, Iesu Christe, nostros / terge reatus, noxia propulsans, / filie sue, tue matris,
+> prece / propitiatus.
+> Donet hoc nobis pietas paterna, / simul cum Nato Spirituque sacro, / ut matris Anne precibus
+> iuvemur / tempus in omne. Amen.
+> *℣.* Elegit eam.
+>
+> *Ad Benedictus an.* De mutua visione et promissa simul prole domum suam sunt regressi, facti
+> leti et iocundi.
+>
+> *Oratio.* Deus qui hodiernam diem beate Anne natalem venerabilem nobis fecisti: concede
+> propitius, ut qui eam genitricem tue matris agnoscimus et fatemur, ipsius apud te
+> intercessionibus adiuvemur. Qui vivis.
+>
+> *Memoria de sancto Iacobo, an.* Beati eritis. *℣.* In omnem terram. *Oratio ut supra.*
+>
+> *Ad omnes horas an. de laudibus; capitula, responsoria, versiculi ut unius matrone, cum oratione
+> supradicta.*
+
+**Translation**
+
+> *At Lauds, antiphon:* This Mary, ever virgin, born of royal stock, came forth from the venerable
+> lineage of King David. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Coming from Nazareth, she dwells in Jerusalem, and there in the holy Temple the
+> young girl is brought up. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* She [Anne], joined to Joachim her husband and made mother of the Mother of God, is
+> dear and pleasing to God. *Psalm 62* O God, my God.
+>
+> *Antiphon:* He [Joachim] would not go back home from there, for he feared his disgrace would grow
+> still greater. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Driven out by this great reproach, Joachim soon withdrew with his flocks to the
+> pastures. *Psalm 148* Praise the Lord.
+>
+> *Hymn.*
+> Let the world rejoice and keep this feast, / honouring Anne, mother of Christ's mother, / whom
+> it believes, by her holy deeds, to have won / the joys of life.
+> Offspring of Abraham, seed of priests, / daughter of kings, the pride of the Hebrews, / she
+> ennobled the stock of the saints / by her merits and life.
+> Barren before, with sterile womb, / by God's will she bore Mary, / the Lady of all things, the
+> glory and flower / of virginity.
+> Through her mediation, Jesus Christ, / wipe away our sins and drive off what harms, / won over
+> by the prayer of her daughter, / thy Mother.
+> May the Father's loving-kindness grant us this, / with the Son and the Holy Spirit, / that we
+> may be helped by mother Anne's prayers / for all time. Amen.
+> *℣.* [God] hath chosen her.
+>
+> *Antiphon at the Benedictus:* After their meeting with one another and the promise of a child,
+> they returned home, glad and joyful.
+>
+> *Collect:* O God, who hast made this day, the heavenly birthday of blessed Anne, venerable to
+> us: mercifully grant that we who acknowledge and confess her to be the mother of thy Mother may
+> be helped by her intercession with thee. Who livest.
+>
+> *A memorial of St James, antiphon* Blessed shall you be. *℣.* Into all the earth. *Collect as
+> above.*
+>
+> *At all the Hours, the antiphons of Lauds; chapters, responsories and versicles as for one
+> matron, with the collect above.*
+
+*Note.* No chapter is printed for Lauds; it is taken from the Common of a matron, as the closing
+rubric says. The story told in the antiphons runs out of order: the antiphons have Joachim's
+expulsion from the Temple (the priest Issachar refuses his offering) after Mary's birth. In the
+Matins antiphons the expulsion comes before it. The fourth antiphon's *Hec* must refer to
+Joachim, so it is probably a misprint for *Hic*.
+
+---
+
+## 27–29 July — St Pantaleon; Seven Sleepers; St Martha
+
+*Scan pp. 684–687.*
+
+**Latin**
+
+> *Sancti Panthaleonis martyris. Duplex. … omnia ut in communi unius martyris. Oratio.* Deus qui
+> beatum Panthaleonem tua fecisti virtute victorem: da nobis tue propitiationis effectum, ut sicut
+> illi celestis contulisti palmam triumphi, ita nobis eius intercessionibus veniam largiaris.
+> Per Dominum. *Memoria de sancta Anna, an.* Felix Anna, quedam matrona legitima, beato Ioachim
+> promeruit generare felicem filiam nomine Mariam. *℣.* Diffusa est gratia. *Oratio* Deus qui
+> hodiernam. *… Cetera ut unius martyris cum oratione supradicta, et ut in festis duplicibus.*
+>
+> *Sanctorum septem dormientium. ix lectiones, omnia de communi plurimorum martyrum. Oratio.*
+> Deus qui gloriosos resurrectionis eterne precones, septem dormientes, Maximianum, Marcum,
+> Martinianum, Constantinum, Dionysium, Iohannem, Serapionem magnifice coronasti: presta quesumus,
+> ut eorum precibus resurrectionem sanctam, que in eis mirabiliter preostensa est, consequamur.
+>
+> *Sancte Marthe virginis. ix lectiones, omnia ut in communi unius virginis. Oratio.* Omnipotens
+> sempiterne Deus, cuius Filius in ede beate Marthe hospitari dignatus est: da quesumus, ut eius
+> meritis, qui illum placide suscepit in ede, polorum misericorditer hospitari valeamus.
+
+**Translation**
+
+> *St Pantaleon, martyr (27 July). Double. All as in the Common of one martyr. Collect:* O God,
+> who by thy power didst make blessed Pantaleon a victor: grant us the effect of thy mercy, that
+> as thou gavest him the palm of heavenly triumph, so by his intercession thou mayest grant us
+> pardon. *A memorial of St Anne, antiphon:* Happy Anne, a lawful wife, was found worthy to bear
+> to blessed Joachim a happy daughter named Mary. *℣.* Grace is poured abroad. *Collect* O God,
+> who this day. *The rest as for one martyr, with the collect above, and as on double feasts.*
+>
+> *The Seven Sleepers (27 July). Nine lessons, all from the Common of many martyrs. Collect:* O
+> God, who didst gloriously crown the Seven Sleepers, heralds of the eternal resurrection,
+> Maximian, Mark, Martinian, Constantine, Dionysius, John and Serapion: grant, we beseech thee,
+> that by their prayers we may attain the holy resurrection that was wonderfully foreshown in
+> them.
+>
+> *St Martha, virgin (29 July). Nine lessons, all as in the Common of one virgin. Collect:* Almighty
+> everlasting God, whose Son deigned to be a guest in the house of blessed Martha: grant, we
+> beseech thee, that by the merits of her who gladly received him into her house we may in thy
+> mercy be received as guests in the heavens.
+
+*Note.* Pantaleon is kept as a double, a rank unusual for him. The Order kept relics of St
+Pantaleon, and the feast probably reflects their cult.

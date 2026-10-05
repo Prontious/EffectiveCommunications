@@ -234,3 +234,9 @@
 - 657–663: VISITATION 2 Jul (double; ants Ut vox Marie…; Bened. Surge propera; collect Deus cuius unigenitus) + within-octave rubric → done
 - 666–668: OCTAVE SS PETER & PAUL (collect Deus cuius dextera); octave of Visitation → done
 - 668–671: ST LEO (II) PM; TRANSLATION OF ST MARTIN 4 Jul; ST MARTIAL; SEVEN BROTHERS 10 Jul (collects) → done
+- 671–673: ST ALEXIUS 17 Jul; ST MARGARET 20 Jul; ST PRAXEDES 21 Jul (collects) → done
+- 673–678: ST MARY MAGDALENE 22 Jul (semidouble; proper Lauds, hymn Sermone blando; Bened. O mundi lampas; collect Largire nobis) → done
+- 678: ST APOLLINARIS 23 Jul; ST CHRISTINA 24 Jul → done
+- 678–680: ST JAMES 25 Jul (semidouble; Common; collect Esto Domine; memorial Christopher & Cucufas) → done
+- 680–684: ST ANNE 26 Jul (double; rhymed office; hymn Orbis exultans; Bened. De mutua visione) → done
+- 684–687: ST PANTALEON 27 Jul (double); SEVEN SLEEPERS; ST MARTHA 29 Jul → done
