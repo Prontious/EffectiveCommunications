@@ -165,3 +165,10 @@
 - 498: Sun VII (Misereor super turbam; Deus virtutum cuius est totum) → done; VIII Bened. starts foot 498 (Attendite a falsis)
 - 499: Sun VIII (Attendite a falsis prophetis; Deus cuius providentia), IX (Dixit Dominus villico; Largire nobis) → done; X starts 499b (Lk 19:41)
 - 500: Sun X (Cum appropinquaret…flevit; Pateant aures), XI (Stans a longe publicanus; Deus qui omnipotentiam tuam parcendo) → done; XII starts foot 500 (Mk 7:31)
+- 501: Sun XII (Cum transiret Dominus…surdos; Omnipotens…qui abundantia pietatis) → done; XIII Lk 10:23 begins 501b
+- 502: Sun XIII (Homo quidam descendebat; Omnipotens et misericors…de cuius munere), XIV (Dum ingrederetur Iesus…leprosi; Omnipotens…da nobis fidei spei) → done; XV Mt 6:24 begins
+- 503: Sun XV (Nolite solliciti esse; Custodi quesumus…propitiatione perpetua) → done; XVI (Lk 7:11, Ibat Iesus in civitatem…Naim) Bened. continues p.504
+- 504: Sun XVI (Ibat Iesus…Naim; Ecclesiam tuam…miseratio continuata), XVII (Dixit Iesus ad legisperitos; Tua nos quesumus…preveniat) → done; Ember Wed Sept begins 504b (Mk 9:16)
+- 504–505: SEPT EMBER WED (collect Misericordie tue remediis), FRI (Presta…observationes sacras) → done; Sat on 505b–506
+- 506: SEPT EMBER SAT (collect Omnipotens…per continentiam salutarem) → done; Sun XVIII (Mt 22:34) begins 506b
+- 507: Sun XVIII (Magister quod est magnum mandatum; Da quesumus…diabolica vitare), XIX (Dixit Dominus paralytico; Dirigat corda nostra) → done; XX (Mt 22:1) begins

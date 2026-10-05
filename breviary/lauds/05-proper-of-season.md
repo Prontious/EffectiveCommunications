@@ -6275,3 +6275,50 @@ everything on Easter Day".
 | IX (p. 499) | Lk 16:1 | *Dixit Dominus villico: Quid hoc audio de te? Redde rationem villicationis tue, alleluia.* — The Lord said to the steward: What is this I hear of thee? Give an account of thy stewardship, alleluia. (Lk 16:2) | *Largire nobis, quesumus, Domine, semper spiritum cogitandi que recta sunt propitius et agendi, ut qui sine te esse non possumus, secundum te vivere valeamus.* — Grant us, we beseech thee, O Lord, in thy mercy, the spirit to think and to do always what is right, that we who cannot exist without thee may be able to live according to thy will. |
 | X (p. 500) | Lk 19:41 | *Cum appropinquaret Dominus Hierusalem, videns civitatem flevit super illam, et dixit: Quia si cognovisses et tu, quia venient dies in te, et circumdabunt te, et coangustabunt te undique, et ad terram prosternent te, eo quod non cognoveris tempus visitationis tue, alleluia.* — When the Lord drew near to Jerusalem, seeing the city he wept over it and said: If thou also hadst known … for the days shall come upon thee, and they shall compass thee round and straiten thee on every side, and beat thee flat to the ground, because thou hast not known the time of thy visitation, alleluia. (Lk 19:41–44) | *Pateant aures misericordie tue, Domine, precibus supplicantium; et ut petentibus desiderata concedas, fac eos que tibi placita sunt postulare.* — Let the ears of thy mercy, O Lord, be open to the prayers of thy suppliants; and that thou mayest grant their desires to those who ask, make them ask such things as please thee. |
 | XI (p. 500) | Lk 18:9 | *Stans a longe publicanus nolebat oculos ad celum levare, sed percutiebat pectus suum dicens: Deus, propicius esto mihi peccatori.* — The publican, standing afar off, would not so much as lift up his eyes to heaven, but struck his breast, saying: O God, be merciful to me a sinner. (Lk 18:13) | *Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas, multiplica super nos misericordiam tuam, ut ad tua promissa currentes celestium bonorum facias esse consortes.* — O God, who showest thy almighty power most of all in sparing and in showing mercy: multiply thy mercy upon us, that, running towards thy promises, we may be made sharers in the good things of heaven. |
+| XII (p. 501) | Mk 7:31 | *Cum transiret Dominus per medios fines Tyri et Sidonis, surdos fecit audire et mutos loqui.* — As the Lord passed through the midst of the borders of Tyre and Sidon, he made the deaf to hear and the dumb to speak. (cf. Mk 7:31, 37) | *Omnipotens sempiterne Deus, qui abundantia pietatis tue et merita supplicum excedis et vota, effunde super nos misericordiam tuam, ut dimittas que conscientia metuit, et adiicias quod oratio non presumit.* — Almighty and everlasting God, who in the abundance of thy loving kindness exceedest both the deserts and the desires of those who pray to thee: pour down thy mercy upon us, forgiving what our conscience fears, and granting what our prayer does not presume to ask. |
+| XIII (p. 502) | Lk 10:23 | *Homo quidam descendebat ab Hierusalem in Hiericho, et incidit in latrones, qui etiam despoliaverunt eum, et plagis impositis abierunt, semivivo relicto.* — A certain man went down from Jerusalem to Jericho, and fell among robbers, who also stripped him, and having wounded him went away, leaving him half dead. (Lk 10:30) | *Omnipotens et misericors Deus, de cuius munere venit ut tibi a fidelibus tuis digne ac laudabiliter serviatur, tribue, quesumus, nobis ut ad promissiones tuas sine offensione curramus.* — Almighty and merciful God, by whose gift thy faithful serve thee worthily and with praise: grant us, we beseech thee, to run without stumbling towards thy promises. |
+| XIV (p. 502) | Lk 17:11 | *Dum ingrederetur Iesus quoddam castellum, occurrerunt ei decem viri leprosi, qui steterunt a longe, et levaverunt vocem dicentes: Iesu preceptor, miserere nostri.* — As Jesus entered into a certain town, there met him ten lepers, who stood afar off and lifted up their voice, saying: Jesus, master, have mercy on us. (Lk 17:12–13) | *Omnipotens sempiterne Deus, da nobis fidei, spei et charitatis augmentum; et ut mereamur assequi quod promittis, fac nos amare quod precipis.* — Almighty and everlasting God, give us an increase of faith, hope and charity; and that we may be worthy to obtain what thou promisest, make us love what thou commandest. |
+| XV (p. 503) | Mt 6:24 | *Nolite solliciti esse dicentes: Quid manducabimus, aut quid bibemus? Scit enim pater vester celestis quid vobis necesse sit, alleluia.* — Be not solicitous, saying: What shall we eat, or what shall we drink? For your heavenly Father knows what you have need of, alleluia. (Mt 6:31–32) | *Custodi, quesumus, Domine, ecclesiam tuam propitiatione perpetua; et quia sine te labitur humana mortalitas, tuis semper auxiliis et abstrahatur a noxiis, et ad salutaria dirigatur.* — Guard thy Church, we beseech thee, O Lord, with thy perpetual mercy; and since without thee our mortal nature falls, may it by thy help be ever drawn away from what is harmful and directed to what brings salvation. |
+| XVI (pp. 503–504) | Lk 7:11 | *Ibat Iesus in civitatem que vocatur Naim, et ecce defunctus efferebatur filius unicus matris sue.* — Jesus went into a city called Naim, and behold, a dead man was being carried out, the only son of his mother. (Lk 7:11–12) | *Ecclesiam tuam, quesumus, Domine, miseratio continuata mundet et muniat; et quia sine te non potest salva consistere, tuo semper munere gubernetur.* — May thy unfailing mercy, O Lord, we beseech thee, cleanse and defend thy Church; and because without thee she cannot stand secure, may she ever be governed by thy gift. |
+| XVII (p. 504) | Lk 14:1 | *Dixit Iesus ad legisperitos et phariseos: Si licet sabbato curare? At illi tacuerunt; ipse vero apprehensum sanavit eum et dimisit.* — Jesus said to the lawyers and Pharisees: Is it lawful to heal on the sabbath? But they held their peace; and he, taking the man, healed him and sent him away. (Lk 14:3–4) | *Tua nos, quesumus, Domine, gratia semper preveniat et sequatur, ac bonis operibus iugiter prestet esse intentos.* — May thy grace, O Lord, we beseech thee, always go before us and follow us, and make us continually intent on good works. |
+
+### The September Ember days (scan pp. 504–505)
+
+Between the Seventeenth and Eighteenth Sundays the book places the Ember days of September.
+Lauds is ferial; only the collect is proper.
+
+**Latin**
+
+> *Feria iiii quatuor temporum.* … *Oratio.* Misericordie tue remediis, quesumus, Domine,
+> fragilitas nostra subsistat, ut que sua conditione atteritur, tua clementia reparetur. Per
+> *[Dominum]*. *Hec oratio solum dicatur ad matutinas et ad missam; ad horas dicatur oratio
+> dominicalis; et sic fiat in vi feria et sabbato. Cetera omnia fiant secundum feriam.*
+>
+> *Feria vi.* … *Oratio.* Presta, quesumus, omnipotens Deus, ut observationes sacras annua
+> devotione recolentes, et corpore tibi placeamus et mente.
+
+**Translation**
+
+> *Ember Wednesday.* … *Collect:* May our frailty, we beseech thee, O Lord, be sustained by
+> the remedies of thy mercy, so that what is worn down by its own nature may be restored by
+> thy clemency. Through [our Lord]. *This collect is said only at Matins [Lauds] and at Mass;
+> at the hours the Sunday collect is said; and so on Friday and Saturday. Everything else
+> according to the weekday.*
+>
+> *Ember Friday.* … *Collect:* Grant, we beseech thee, almighty God, that as we keep these
+> holy observances with yearly devotion, we may please thee both in body and in mind.
+>
+> *Sabbato (p. 506).* … *Oratio.* Omnipotens sempiterne Deus, qui per continentiam salutarem
+> et corporibus mederis et mentibus, maiestatem tuam supplices exoramus, ut pia ieiunantium
+> deprecatione placatus, et presentia nobis subsidia prebeas et futura.
+
+> *Ember Saturday.* … *Collect:* Almighty and everlasting God, who by saving self-denial
+> healest both bodies and minds: we humbly beseech thy majesty that, appeased by the devout
+> prayer of those who fast, thou mayest grant us help both now and in the time to come.
+
+**The Sundays after Trinity, continued**
+
+| Sunday after Trinity | Gospel | Antiphon at the Benedictus | Collect |
+|---|---|---|---|
+| XVIII (pp. 506–507) | Mt 22:34 | *Magister, quod est magnum mandatum in lege? Ait illi Iesus: Diliges Dominum Deum tuum ex toto corde tuo, alleluia.* — Master, which is the great commandment in the law? Jesus said to him: Thou shalt love the Lord thy God with thy whole heart, alleluia. (Mt 22:36–37) | *Da, quesumus, Domine, populo tuo diabolica vitare contagia, et te solum Deum pura mente sectari.* — Grant, we beseech thee, O Lord, that thy people may shun the contagion of the devil, and with pure minds follow thee, the only God. |
+| XIX (p. 507) | Mt 9:1 | *Dixit Dominus paralytico: Confide, fili, remittuntur tibi peccata tua.* — The Lord said to the paralytic: Be of good heart, son, thy sins are forgiven thee. (Mt 9:2) | *Dirigat corda nostra, quesumus, Domine, tue miserationis operatio, quia tibi sine te placere non possumus.* — May the working of thy mercy, O Lord, we beseech thee, direct our hearts, for without thee we cannot please thee. |
