@@ -4003,3 +4003,91 @@ St John the Baptist, the Order's patron, is kept — as Rubric 1 required
 
 *Note.* The Saturday antiphon is printed *Ne tollet* in the scan, very likely a misprint
 for *Nemo tollit* (John 10:18), which the rest of the sentence requires.
+
+---
+
+## Palm Sunday — *Dominica in ramis palmarum* (scan pp. 366–367)
+
+**Latin**
+
+> *[End of Matins: the responsory* Circumdederunt *is repeated, and also the third and
+> sixth.]* ℣. *Sacerdotalis* De ore leonis. ℟. Libera me, Domine.
+>
+> In laudibus. *Antiphona.* Dominus Deus auxiliator meus, et ideo non sum confusus.
+> *Psalmus* Miserere.
+>
+> *Antiphona.* Circumdantes circumdederunt me, et in nomine Domini vindicabor in eis.
+> *Psalmus* Confitemini.
+>
+> *Antiphona.* Iudica causam meam; defende, quia potens es, Domine. *Psalmus* Deus deus
+> meus.
+>
+> *Antiphona.* Cum angelis et pueris fideles inveniantur, triumphatori mortis clamantes:
+> Osanna in excelsis. *Psalmus* Benedicite.
+>
+> *Antiphona.* Confundantur qui me persequuntur, et non confundar ego, Domine Deus meus.
+> *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum.* Dominus Deus aperuit mihi aurem; ego autem non contradico, retrorsum non
+> abii; corpus meum dedi percutientibus, et genas meas vellentibus.
+>
+> *Hymnus* Lustra sex. ℣. Eripe me, Domine, ab homine *[malo]*.
+>
+> *Ad* Benedictus *antiphona.* Turba multa que convenerat ad diem festum clamabat dicens:
+> Benedictus qui venit in nomine Domini; osanna in excelsis.
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui humano generi ad imitandum humilitatis exemplum
+> salvatorem nostrum carnem sumere et crucem subire fecisti, concede propicius, ut et
+> patientie ipsius habere documenta et resurrectionis consortia mereamur. Per eundem.
+>
+> *Ad primam antiphona.* Occurrunt turbe cum floribus et palmis redemptori obviam, et victori
+> triumphanti digna dant obsequia; filium Dei ore gentes predicant, et in laudes Christi
+> voces tonant per nubila: Osanna. … *Ad tertiam antiphona.* Pueri Hebreorum tollentes ramos
+> olivarum obviaverunt Domino, clamantes et dicentes: Osanna in excelsis. … *Ad sextam
+> antiphona.* Pueri Hebreorum vestimenta prosternebant in via, et clamabant dicentes:
+> Osanna filio David; benedictus qui venit in nomine Domini. … *Ad nonam antiphona.* Osanna
+> filio David; benedictus qui venit in nomine Domini, rex Israel …
+
+**Translation**
+
+> *[End of Matins:]* The responsory *They have compassed me about* is repeated, and also the
+> third and sixth. *The priest's versicle:* From the lion's mouth. ℟. Deliver me, O Lord.
+>
+> **At Lauds.** *Antiphon:* The Lord God is my helper, and therefore I am not confounded.
+> (Is 50:7) *Psalm 50* Have mercy.
+>
+> *Antiphon:* Surrounding me they have compassed me about, and in the name of the Lord I will
+> be avenged on them. (cf. Ps 117:11) *Psalm 117* Give praise.
+>
+> *Antiphon:* Judge my cause; defend it, for thou art mighty, O Lord. *Psalm 62* O God, my
+> God.
+>
+> *Antiphon:* With the angels and the children may the faithful be found, crying to the
+> conqueror of death: Hosanna in the highest. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Let them be confounded that persecute me, and let not me be confounded, O Lord
+> my God. (cf. Jer 17:18) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* The Lord God has opened my ear, and I do not resist; I have not gone back; I
+> have given my body to the strikers, and my cheeks to those who plucked them. (Is 50:5–6)
+>
+> *Hymn* Thirty years now fully spent. ℣. Deliver me, O Lord, from the [evil] man.
+>
+> *Antiphon at the Benedictus:* A great multitude that had come together for the festival
+> day cried out, saying: Blessed is he that comes in the name of the Lord; hosanna in the
+> highest. (cf. Jn 12:12–13)
+>
+> *Collect:* Almighty and everlasting God, who, to give mankind an example of humility to
+> follow, didst cause our Saviour to take flesh and to undergo the cross: mercifully grant
+> that we may be worthy both to keep the lessons of his patience and to share in his
+> resurrection. Through the same [Christ our Lord].
+>
+> *At Prime, the antiphon:* The crowds run out with flowers and palms to meet the Redeemer,
+> and pay fitting homage to the triumphant conqueror; the nations proclaim the Son of God,
+> and their voices thunder through the clouds in praise of Christ: Hosanna. … *At Terce, the
+> antiphon:* The children of the Hebrews, carrying olive branches, went out to meet the Lord,
+> crying out and saying: Hosanna in the highest. … *At Sext, the antiphon:* The children of
+> the Hebrews spread their garments in the way, and cried out, saying: Hosanna to the Son of
+> David; blessed is he that comes in the name of the Lord. … *At None, the antiphon:*
+> Hosanna to the Son of David; blessed is he that comes in the name of the Lord, the King of
+> Israel …
