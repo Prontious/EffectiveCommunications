@@ -5446,3 +5446,84 @@ week, as after Low Sunday; the ferial pattern is the same (see above).
 
 *Note.* At Vespers the book prints this hymn as the second part (*divisio*) of *Eterne rex
 altissime*; Lauds cues it by its first line.
+
+### Within the octave of the Ascension (scan pp. 419–420)
+
+**Latin**
+
+> *Feria vi in crastino ascensionis.* … *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis*
+> Ascendens Christus.
+>
+> In laudibus *antiphona* Viri Galilei. *Psalmus* Dominus regnavit, *et ceteri cum hac sola.
+> Capitulum, hymnus,* ℣. *ut in die.*
+>
+> *Ad* Benedictus *antiphona.* Euntes in mundum universum, predicate evangelium omni creature,
+> alleluia; qui crediderit et baptizatus fuerit, salvus erit, alleluia; qui vero non
+> crediderit, condemnabitur, alleluia.
+>
+> *Oratio* Concede *[ut in die]*.
+>
+> *Ad horas antiphone de laudibus. Ad primam dicitur psalmus* Quicunque; *capitula,
+> responsoria brevia ut in die, cum oratione predicta; et sic per octavam.* … *Sabbato:
+> invitatorium, hymnus ut hesterna die; et etiam antiphone et psalmi et per octavam super
+> ebdomadam versus.*
+
+**Translation**
+
+> *Friday, the day after the Ascension.* … *[End of Matins:]* The *Te Deum*. *The priest's
+> versicle* Christ, ascending.
+>
+> **At Lauds,** the antiphon *Ye men of Galilee*; *Psalm 92* The Lord hath reigned, *and the
+> others under this one antiphon. The chapter, hymn and versicle as on the feast day.*
+>
+> *Antiphon at the Benedictus:* Go into the whole world and preach the gospel to every
+> creature, alleluia; he that believes and is baptised shall be saved, alleluia; but he that
+> believes not shall be condemned, alleluia. (Mk 16:15–16)
+>
+> *Collect* Grant [, as on the feast day].
+>
+> *At the hours, the antiphons of Lauds. At Prime the psalm* Quicunque *[the Athanasian
+> Creed] is said; the chapters and short responsories as on the feast day, with the collect
+> above; and so through the octave.* … *Saturday: the invitatory and hymn as yesterday; and
+> also the antiphons and psalms, with the versicles, through the octave and the week.*
+
+### Sunday within the octave of the Ascension (scan p. 422)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum.
+>
+> In laudibus *antiphona* Viri Galilei. *Psalmus* Dominus regnavit, *etc., cum hac sola.
+> Capitulum, hymnus,* ℣. *versus [ut in die].*
+>
+> *Ad* Benedictus *antiphona.* Vado parare vobis locum, et iterum veniam ad vos, alleluia; et
+> gaudebit cor vestrum, alleluia, alleluia.
+>
+> *Oratio* Concede, quesumus *[ut in die]*.
+>
+> *Memoria de dominica. Antiphona.* Cum venerit paraclitus, quem ego mittam vobis, spiritum
+> veritatis qui a patre procedit, ille testimonium perhibebit de me, alleluia. ℣. Domine, in
+> celo misericordia tua, alleluia. ℟. Et veritas tua usque ad nubes, alleluia.
+>
+> *Oratio.* Omnipotens sempiterne Deus, fac nos tibi semper et devotam gerere voluntatem, et
+> maiestati tue sincero corde servire. Per Dominum.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*.
+>
+> **At Lauds,** the antiphon *Ye men of Galilee*; *Psalm 92* The Lord hath reigned, *etc.,
+> under this one antiphon. The chapter, hymn and versicle [as on the feast].*
+>
+> *Antiphon at the Benedictus:* I go to prepare a place for you, and I will come to you
+> again, alleluia; and your heart shall rejoice, alleluia, alleluia. (cf. Jn 14:2–3; 16:22)
+>
+> *Collect* Grant, we beseech thee *[as on the feast]*.
+>
+> *Memorial of the Sunday. Antiphon:* When the Paraclete comes, whom I will send you, the
+> Spirit of truth who proceeds from the Father, he shall give testimony of me, alleluia.
+> (Jn 15:26) ℣. Thy mercy, O Lord, is in heaven, alleluia. ℟. And thy truth reaches to the
+> clouds, alleluia. (Ps 35:6)
+>
+> *Collect:* Almighty and everlasting God, make us always to have a will devoted to thee, and
+> to serve thy majesty with a sincere heart. Through [our] Lord.
