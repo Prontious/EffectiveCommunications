@@ -4211,3 +4211,484 @@ other octaves, as in Rubric 13."
 
 *Note.* Most uses keep the Decollation as a simple feast. Here it is a double with a full octave,
 because John the Baptist is the patron of the Hospital.
+
+---
+
+## Octave of the Decollation; SS Felix and Adauctus (30 Aug); St Giles (1 Sept)
+
+*Scan pp. 731–736.*
+
+**Latin**
+
+> *[Per octavam decollationis] In laudibus sola an.* Herodes enim *super v psalmos; cetera ut
+> supra. De sanctis evenientibus infra octavas transferuntur ad primam diem vacantem post
+> octavas.*
+>
+> *[In octava] Tres ultime lectiones erunt de evangelio festi. In laudibus omnes antiphone diei;
+> cetera omnia alia in die in modum festi ix lectionum. … Responsorium non dicitur. Memoria de
+> sanctis Felice et Adaucto, an.* Isti sunt sancti. *℣.* Letamini. *Oratio.* Maiestatem tuam
+> quesumus Domine supplices deprecamur, ut sicut nos iugiter sanctorum tuorum commemoratione
+> letificas, ita semper supplicatione defendas. Per Dominum.
+>
+> *Sancti Egidii abbatis. ix lectiones, omnia ut in communi unius confessoris non episcopi.
+> Oratio.* Deus a quo beatitudo perennis et remuneratio largitur electis: pretende nobis gratiam
+> tuam, ut beati Egidii confessoris tui intercessio gloriosa nos protegat, et vite temporalis
+> suffragia et eterne salutis nobis obtineat premia preoptata. Per.
+
+**Translation**
+
+> *[Within the octave of the Decollation] At Lauds, the single antiphon* For Herod *over the five
+> psalms; the rest as above. Saints' days falling within the octave are transferred to the first
+> free day after it.*
+>
+> *[On the octave day] The last three lessons are of the Gospel of the feast. At Lauds, all the
+> antiphons of the day; all else as on the feast, in the manner of a feast of nine lessons. … The
+> responsory is not said. A memorial of SS Felix and Adauctus, antiphon* These are the saints.
+> *℣.* Rejoice. *Collect:* We humbly beseech thy majesty, O Lord, that as thou dost continually
+> gladden us with the commemoration of thy saints, so thou wouldst always defend us by their
+> prayers.
+>
+> *St Giles, abbot. Nine lessons, all as in the Common of one confessor not a bishop. Collect:* O
+> God, from whom everlasting blessedness and reward are given to the elect: extend thy grace to
+> us, that the glorious intercession of blessed Giles thy confessor may protect us, and obtain for
+> us both the helps of this temporal life and the longed-for rewards of eternal salvation.
+
+*Note.* Within its octave the Decollation follows the pattern of the Assumption: one antiphon
+over the five psalms, then all five on the octave day.
+
+---
+
+## 8 September — The Nativity of the Blessed Virgin Mary (double)
+
+*Scan pp. 739–742. First Vespers as on the Annunciation. The chapter is* Ego quasi vitis, *the
+hymn* Ave maris stella, *the Magnificat antiphon* Gloriose virginis Marie ortum dignissimum
+recolamus, cuius Dominus humilitatem respiciens, angelo nunciante concepit salvatorem mundi.
+
+**Latin**
+
+> *℣.* Ora pro nobis [sancta Dei genitrix].
+>
+> *In laudibus an.* Nativitas gloriose virginis Marie ex semine Abrahe orta, de tribu Iuda, clara
+> ex stirpe David. *ps.* Dominus regnavit.
+>
+> *an.* Nativitas est hodie sancte Marie virginis, cuius vita inclyta cunctas illustrat
+> ecclesias. *ps.* Jubilate.
+>
+> *an.* Regali ex progenie Maria exorta refulget, cuius precibus nos adiuvari mente et spiritu
+> devotissime poscimus. *ps.* Deus deus.
+>
+> *an.* Corde et animo Christo canamus gloriam in hac sacra solennitate precelse genitricis Dei
+> Marie. *ps.* Benedicite.
+>
+> *an.* Cum iocunditate nativitatem beate Marie celebremus, ut ipsa pro nobis intercedat ad
+> Dominum Iesum Christum. *ps.* Laudate.
+>
+> *Capitulum* Ego quasi vitis. *Hymnus* O gloriosa. *℣.* Elegit eam.
+>
+> *Ad Benedictus an.* Nativitatem hodiernam perpetue virginis genitricis Dei Marie solenniter
+> celebremus, qua celsitudo throni processit, alleluia.
+>
+> *Oratio.* Supplicationem servorum tuorum, Deus miserator, exaudi, ut qui in nativitate Dei
+> genitricis et virginis Marie congregamur, eius intercessionibus a te de instantibus periculis
+> eruamur. Per eundem.
+>
+> *Memoria de sancto Adriano ut supra. Ad horas an. de laudibus.* (Terce: chapter *Spiritus enim
+> meus super mel dulcis*; Sext: *In omnibus requiem*; None: *Ego quasi vitis*.)
+
+**Translation**
+
+> *℣.* Pray for us, [holy Mother of God].
+>
+> *At Lauds, antiphon:* The birth of the glorious Virgin Mary, sprung from the seed of Abraham, of
+> the tribe of Judah, of the illustrious stock of David. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Today is the birth of holy Mary the Virgin, whose glorious life gives light to all
+> the churches. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Sprung of royal lineage, Mary shines forth; by her prayers we most devoutly ask to be
+> helped in mind and spirit. *Psalm 62* O God, my God.
+>
+> *Antiphon:* With heart and soul let us sing glory to Christ on this holy feast of Mary, the most
+> exalted Mother of God. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* With gladness let us celebrate the birth of blessed Mary, that she may intercede for
+> us with the Lord Jesus Christ. *Psalm 148* Praise the Lord.
+>
+> *Chapter* As the vine. *Hymn* O glorious Lady. *℣.* [God] hath chosen her.
+>
+> *Antiphon at the Benedictus:* Let us solemnly celebrate today's birth of Mary, ever virgin,
+> Mother of God, in which the height of the throne came forth, alleluia.
+>
+> *Collect:* Hear, O merciful God, the supplication of thy servants, that we who are gathered
+> together on the birthday of Mary, Mother of God and virgin, may by her intercession be delivered
+> by thee from the dangers that threaten us. Through the same.
+>
+> *A memorial of St Adrian as above. At the Hours, the antiphons of Lauds.*
+
+**Within the octave** (p. 742): *Per octavas nativitatis beate Marie fiunt octave communes. Ad
+matutinum invitatorium, hymni ut in die; sola antiphona dicitur super psalmos beate Marie,
+excepto dominica infra octavas et in octava, quia dicuntur omnes antiphone [et] responsoria
+secundum ordinem; cetera ut moris est in aliis octavis.* "Through the octave of the Nativity of
+the BVM a common octave is kept. At Matins the invitatory and hymns are as on the feast, and a
+single antiphon is said over the psalms of the BVM. The exception is the Sunday within the
+octave and the octave day, when all the antiphons and responsories are said in order. The rest
+is as is customary in other octaves."
+
+*Memorial of St Gorgonius* (9 Sept), antiphon *Iste sanctus*, collect *Sanctus martyr tuus,
+quesumus Domine, Gorgonius sua nos intercessione letificet, et pia faciat solennitate gaudere*
+("May thy holy martyr Gorgonius, we beseech thee, O Lord, gladden us by his intercession, and
+make us rejoice in his loving feast").
+
+---
+
+## 14 September — The Exaltation of the Holy Cross (double)
+
+*Scan pp. 744–747. First Vespers: antiphon* Nativitas gloriose *(of the BVM octave), chapter*
+Christus factus, *then "look in the Invention of the same [3 May] for the hymn, versicles,
+responsories and other things that are not given here in full". Hymn* Signum crucis, *Magnificat
+antiphon* O crux benedicta. *The collect is* Deus qui unigeniti filii tui Domini nostri Iesu
+Christi pretioso sanguine humanum genus redimere dignatus es: concede propitius, ut omnes qui ad
+adorandam vivificam crucem adveniunt, a peccatorum suorum nexibus liberentur. *The Matins
+lessons tell the story of Heraclius and Chosroes.*
+
+**Latin**
+
+> *In laudibus an.* O magnum pietatis opus! Mors mortua tunc est, quando in ligno mortua vita
+> fuit. *ps.* Dominus regnavit.
+>
+> *an.* Salva nos, Christe salvator, per virtutem sancte crucis; qui salvasti Petrum in mari,
+> miserere nobis. *ps.* Jubilate.
+>
+> *an.* Per signum crucis de inimicis nostris libera nos, Deus noster. *ps.* Deus deus.
+>
+> *an.* Crux benedicta nitet, Dominus qua carne pependit, atque cruore suo vulnera nostra lavit.
+> *ps.* Benedicite.
+>
+> *an.* Ecce crucem Domini, fugite partes adverse; vicit leo de tribu Iuda, radix David,
+> alleluia. *ps.* Laudate Dominum.
+>
+> *Capitulum.* Mihi autem absit [gloriari nisi in cruce Domini nostri Iesu Christi].
+>
+> *Hymnus* Signum crucis. *℣.* Omnis terra [adoret te].
+>
+> *Ad Benedictus an.* O crux benedicta.
+>
+> *Oratio.* Deus qui nos hodierna die exaltatione sancte crucis annua solennitate letificas:
+> presta quesumus, ut cuius misterium in terra cognovimus, eius premia consequi mereamur. Per
+> Dominum.
+>
+> *Ad omnes horas antiphone de laudibus; capitula, responsoria, versus ut in inventione sancte
+> crucis, cum oratione* Deus qui unigeniti.
+
+**Translation**
+
+> *At Lauds, antiphon:* O great work of loving-kindness! Death then died when Life died upon the
+> tree. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Save us, O Christ our Saviour, by the power of the holy cross; thou who didst save
+> Peter on the sea, have mercy on us. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* By the sign of the cross deliver us from our enemies, O our God. *Psalm 62* O God,
+> my God.
+>
+> *Antiphon:* The blessed cross shines, on which the Lord hung in the flesh, and with his blood
+> washed our wounds. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Behold the cross of the Lord: flee, ye adversaries! The lion of the tribe of Judah,
+> the root of David, has conquered, alleluia. (Apoc 5:5) *Psalm 148* Praise the Lord.
+>
+> *Chapter:* God forbid that I should glory, save in the cross of our Lord Jesus Christ. (Gal 6:14)
+>
+> *Hymn* The sign of the cross. *℣.* Let all the earth [adore thee].
+>
+> *Antiphon at the Benedictus* O blessed cross.
+>
+> *Collect:* O God, who dost gladden us this day by the yearly feast of the Exaltation of the holy
+> cross: grant, we beseech thee, that we who have known its mystery on earth may deserve to obtain
+> its rewards [in heaven].
+>
+> *At all the Hours, the antiphons of Lauds; chapters, responsories and versicles as on the
+> Invention of the Holy Cross, with the collect* O God, who [didst will to redeem] by the precious
+> blood of thine only-begotten Son.
+
+*At second Vespers* a memorial of the octave of the BVM is made: antiphon *Gloriose virginis*, ℣
+*Diffusa*, collect *Supplicationem*. The octave day of the Nativity (15 Sept) has nine lessons,
+"all as on the feast; at Lauds also all the antiphons are said".
+
+*Note.* The cross had special weight for an Order whose habit bore the white cross, and its weekly
+votive office of the Holy Cross appears in `04-weekday-votive-offices.md`.
+
+---
+
+## 16–20 September: Euphemia; Lambert; Protus and Hyacinth; Maurilius; Cornelius and Cyprian
+
+*Scan pp. 748–750.*
+
+**Latin**
+
+> *Memoria de sancta Euphemia, an.* Accinxit. *℣.* Specie tua. *Oratio* Omnipotens sempiterne Deus
+> qui infirma [mundi eligis], *ut in communi unius virginis et martyris. In ecclesia maiori
+> dicuntur vespere secunde sancta Euphemia ob reverentiam corporis eius quod est in dicta
+> ecclesia, incipiendo ad capitulum solummodo, et prosequendo ut semiduplex. Sancte Euphemie
+> virginis et martyris semiduplex, omnia ut in communi unius virginis et martyris preter vi
+> lectiones que sequuntur de passione eius, et tres de expositione evangelii* Simile est regnum
+> celorum thesauro.
+>
+> *Sanctorum Prothi et Iacinthi martyrum. ix lectiones, omnia ut in communi plurimorum martyrum.
+> Oratio.* Beatorum martyrum tuorum Prothi et Iacinthi nos, Domine, foveat pretiosa confessio, et
+> pia iugiter intercessio tueatur. Per Dominum.
+>
+> *Sancti Maurilii episcopi et confessoris. Oratio.* Beatus Maurilius confessor tuus atque
+> pontifex de sua nos, Domine, solennitate letificet, ut pro nobis tibi supplicans copiosius
+> audiatur. Per Dominum. *Cetera ut in communi unius confessoris et episcopi.*
+>
+> *Sanctorum martyrum Cornelii et Cypriani. ix lectiones, omnia ut in communi plurimorum
+> martyrum. Oratio.* Infirmitatem nostram quesumus Domine propitius respice, et mala omnia que
+> iuste meremur, sanctorum martyrum tuorum pariterque pontificum Cornelii et Cypriani
+> intercessione averte. Per Dominum.
+
+**Translation**
+
+> *A memorial of St Euphemia, antiphon* She girded [her loins]. *℣.* With thy comeliness.
+> *Collect* Almighty everlasting God, who choosest the weak things [of the world], *as in the
+> Common of one virgin and martyr. In the greater church the second Vespers of St Euphemia are
+> said, out of reverence for her body, which is in that church; they begin at the chapter only,
+> and continue as a semidouble. St Euphemia, virgin and martyr, semidouble: all as in the Common
+> of one virgin and martyr, except six lessons from her passion and three from the exposition of
+> the Gospel* The kingdom of heaven is like a treasure.
+>
+> *SS Protus and Hyacinth, martyrs (11 Sept). Nine lessons, all as in the Common of many martyrs.
+> Collect:* May the precious confession of thy blessed martyrs Protus and Hyacinth cherish us, O
+> Lord, and their loving intercession continually guard us.
+>
+> *St Maurilius, bishop and confessor (13 Sept). Collect:* May blessed Maurilius, thy confessor
+> and bishop, gladden us by his feast, O Lord, that praying to thee for us he may be the more
+> abundantly heard. *The rest as in the Common of one confessor and bishop.*
+>
+> *SS Cornelius and Cyprian, martyrs (14/16 Sept). Nine lessons, all as in the Common of many
+> martyrs. Collect:* Look mercifully, we beseech thee, O Lord, upon our weakness, and by the
+> intercession of thy holy martyrs and bishops Cornelius and Cyprian turn away from us all the
+> evils we justly deserve.
+
+*Note.* The rubric about the "greater church" (*ecclesia maior*) is precious local evidence. The
+conventual church of St John at Rhodes claimed the body of St Euphemia of Chalcedon, and she is
+given a special second Vespers there because of it.
+
+---
+
+## 21 September — St Matthew, Apostle and Evangelist (semidouble)
+
+*Scan pp. 751–755. The vigil (20 Sept) follows the ordinary rule for apostles' vigils: it is
+ferial, with the vigil Gospel; if it falls on an Ember Day no mention of the vigil is made until
+Vespers. The vigil collect is* Da nobis quesumus omnipotens Deus, ut beati Matthei apostoli tui
+et evangeliste quam prevenimus veneranda solennitas et devotionem nobis augeat et salutem. *First
+Vespers: chapter* In medio ecclesie, *hymn* Matthee sancte bino pollens munere, *Magnificat
+antiphon* Ecce ego Iohannes vidi ostium apertum in celo.
+
+**Latin**
+
+> *In laudibus an.* Dilecti Deo et hominibus sancti evangeliste, qui ordinaverunt tempora Christi
+> bono odore usque ad consummationem vite. *ps.* Dominus regnavit.
+>
+> *an.* Dederunt in celebratione operis sancti decus; ideo memoria eorum in benedictione in
+> seculum seculi. *ps.* Jubilate.
+>
+> *an.* Implevit eos Dominus spiritu sapientie et intellectus; iocunditatem et exultationem
+> thesaurizavit super eos. *ps.* Deus deus.
+>
+> *an.* Et omni corde laudaverunt nomen sanctum Domini, ut amplificarent nomen sanctitatis.
+> *ps.* Benedicite.
+>
+> *an.* Datum est opus eorum in veritate; ideo in terra sua duplicia possidebunt, et letitia
+> sempiterna erit eis in Christo. *ps.* Laudate.
+>
+> *Capitulum.* Cibavit illum Dominus pane vite et intellectus, et aqua sapientie salutaris
+> potavit illum.
+>
+> *Hymnus* Exultet celum laudibus. *℣.* Annunciaverunt.
+>
+> *Ad Benedictus an.* In medio et in circuitu sedis Dei quatuor animalia senas alas habentia,
+> oculis undique plena, non cessant nocte ac die dicere: Sanctus, sanctus, sanctus Dominus Deus
+> omnipotens, qui erat et qui est et qui venturus est.
+>
+> *Oratio.* Beati Matthei apostoli tui et evangeliste, Domine, precibus adiuvemur, ut quod
+> possibilitas nostra non obtinet, eius nobis intercessione donetur. Per Dominum.
+>
+> *Ad horas an. de laudibus; cetera ut in communi unius apostoli cum oratione propria.*
+
+**Translation**
+
+> *At Lauds, antiphon:* Beloved of God and men are the holy evangelists, who set in order the
+> times of Christ with a sweet odour until the end of life. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* They gave beauty to the celebration of the holy work; therefore their memory is in
+> blessing for ever and ever. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* The Lord filled them with the spirit of wisdom and understanding; he heaped up
+> gladness and exultation upon them. *Psalm 62* O God, my God.
+>
+> *Antiphon:* And with all their heart they praised the holy name of the Lord, to magnify the name
+> of holiness. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Their work was given in truth; therefore in their land they shall possess double,
+> and everlasting joy shall be theirs in Christ. *Psalm 148* Praise the Lord.
+>
+> *Chapter:* The Lord fed him with the bread of life and understanding, and gave him the water of
+> saving wisdom to drink. (Ecclus 15:3)
+>
+> *Hymn* Let heaven exult with praises. *℣.* They declared.
+>
+> *Antiphon at the Benedictus:* In the midst and round about the throne of God, four living
+> creatures, each having six wings, full of eyes all round, cease not day and night to say: Holy,
+> holy, holy, Lord God almighty, who was, and who is, and who is to come. (Apoc 4:6–8)
+>
+> *Collect:* May we be helped, O Lord, by the prayers of blessed Matthew thy apostle and
+> evangelist, that what our own power cannot obtain may be given us by his intercession.
+>
+> *At the Hours, the antiphons of Lauds; the rest as in the Common of one apostle, with the proper
+> collect.*
+
+*Note.* These antiphons, centred on Ecclesiasticus, form the Common of Evangelists, used here and
+on St Mark and St Luke. At Vespers a memorial of St Maurice is made.
+
+---
+
+## 22–27 September: Maurice; Cleophas; Cosmas and Damian
+
+*Scan pp. 755–758.*
+
+**Latin**
+
+> *Memoria sanctorum Mauricii sociorumque eius, an.* Gaudent in celis. *℣.* Letamini in Domino.
+> *Oratio.* Deus qui es sanctorum tuorum splendor mirabilis, quique hunc diem beatorum Mauricii,
+> Exuperii, Candidi, Victoris, Innocentii et Vitalis cum sociis eorum martyrio consecrasti: da
+> quesumus, ut apud misericordiam tuam exemplis eorum et meritis adiuvemur. Per Dominum. *Sancti
+> Mauricii et sociorum eius martyrum. ix lectiones, omnia ut in communi plurimorum martyrum.*
+>
+> *[Sancti Cleophe discipuli Domini.] Oratio.* Beati martyris tui Cleophe atque discipuli, quesumus
+> Domine, supplicatione placatus, et veniam nobis delictorum tribue, et remedia sempiterna
+> concede. Per Dominum. *… Lectiones tres de evangelio* Duo ex discipulis Iesu, *etc. ut in
+> crastino Pasche. Ad Benedictus an.* Nonne cor nostrum ardens erat in nobis de Iesu, dum
+> loqueretur nobis in via? alleluia.
+>
+> *Sanctorum Cosme et Damiani martyrum. ix lectiones, omnia ut in communi plurimorum martyrum.
+> Oratio.* Presta quesumus omnipotens Deus, ut qui sanctorum martyrum tuorum Cosme et Damiani
+> natalitia colimus, a cunctis malis imminentibus eorum intercessionibus liberemur. Per.
+
+**Translation**
+
+> *A memorial of St Maurice and his companions, antiphon* They rejoice in heaven. *℣.* Rejoice in
+> the Lord. *Collect:* O God, who art the wonderful splendour of thy saints, and didst consecrate
+> this day by the martyrdom of blessed Maurice, Exuperius, Candidus, Victor, Innocent and Vitalis
+> with their companions: grant, we beseech thee, that we may be helped in thy mercy by their
+> example and merits. *St Maurice and his companions, martyrs (22 Sept). Nine lessons, all as in
+> the Common of many martyrs.*
+>
+> *[St Cleophas, disciple of the Lord (25 Sept).] Collect:* Be appeased, O Lord, we beseech thee,
+> by the supplication of blessed Cleophas thy martyr and disciple, and grant us pardon of our
+> sins, and bestow everlasting remedies. *… Three lessons from the Gospel* Two of the disciples of
+> Jesus, *etc., as on Easter Monday. Antiphon at the Benedictus:* Was not our heart burning within
+> us concerning Jesus, while he spoke to us on the way? alleluia. (Lk 24:32)
+>
+> *SS Cosmas and Damian, martyrs (27 Sept). Nine lessons, all as in the Common of many martyrs.
+> Collect:* Grant, we beseech thee, almighty God, that we who keep the heavenly birthday of thy
+> holy martyrs Cosmas and Damian may by their intercession be delivered from all the evils that
+> threaten us.
+
+*Note.* St Cleophas, one of the Emmaus disciples, is kept here as a martyr of Emmaus "which is now
+called Nicopolis". This is another Holy Land saint in the calendar. His Benedictus antiphon is
+taken from Easter Monday.
+
+---
+
+## 29 September — The Dedication of St Michael the Archangel (double)
+
+*Scan pp. 759–764. First Vespers: antiphons and psalms of the feria, chapter* Significavit Deus,
+*hymn* Tibi Christe splendor Patris, *Magnificat antiphon* Dum sacrum misterium cerneret Iohannes.
+
+**Latin**
+
+> *In laudibus an.* Dum preliaretur Michael archangelus cum dracone, audita est vox dicentium:
+> Salus Deo nostro, alleluia. *ps.* Dominus regnavit.
+>
+> *an.* Dum committeret bellum draco cum Michaele archangelo, audita est vox milia milium dicentium:
+> Salus Deo nostro. *ps.* Jubilate.
+>
+> *an.* Archangele Michael, constitui te principem super omnes animas suscipiendas. *ps.* Deus deus.
+>
+> *an.* Angeli Domini, Dominum benedicite in eternum. *ps.* Benedicite.
+>
+> *an.* Angeli, archangeli, throni et dominationes, principatus et potestates et virtutes celorum,
+> laudate Dominum de celis, alleluia. *ps.* Laudate.
+>
+> *Capitulum.* Factum est prelium magnum in celo: Michael et angeli eius preliabantur cum dracone,
+> et draco pugnabat et angeli eius, et non prevaluerunt, neque locus inventus est eorum amplius in
+> celo.
+>
+> *Hymnus* Tibi Christe splendor. *℣.* In conspectu angelorum.
+>
+> *Ad Benedictus an.* Factum est silentium in celo, dum draco committeret bellum, et Michael
+> pugnabat cum eo, et fecit victoriam, alleluia.
+>
+> *Oratio.* Deus qui miro ordine angelorum ministeria hominumque dispensas: concede propitius, ut a
+> quibus tibi ministrantibus in celo semper assistitur, ab his in terra vita nostra muniatur. Per.
+>
+> *Ad primam et ad omnes horas an. de laudibus.* (Terce: chapter *Factum est silentium*, collect
+> *Perpetuum nobis Domine tue miserationis presta subsidium, quibus et angelica prestitisti
+> suffragia non deesse*; Sext: chapter *Nunc facta est salus*; None: chapter *Factum est prelium*,
+> collect *Beati archangeli tui Michaelis intercessione suffulti, supplices te Domine deprecamur,
+> ut quod honore prosequimur, contingamus et mente*.)
+
+**Translation**
+
+> *At Lauds, antiphon:* While Michael the archangel fought with the dragon, the voice of those
+> saying was heard: Salvation to our God, alleluia. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* While the dragon joined battle with Michael the archangel, the voice of thousands of
+> thousands was heard, saying: Salvation to our God. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Michael archangel, I have appointed thee prince over all souls to be received.
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* Angels of the Lord, bless ye the Lord for ever. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Angels, archangels, thrones and dominions, principalities and powers and virtues of
+> heaven, praise ye the Lord from the heavens, alleluia. *Psalm 148* Praise the Lord.
+>
+> *Chapter:* There was a great battle in heaven: Michael and his angels fought with the dragon, and
+> the dragon fought and his angels, and they prevailed not, neither was their place found any more
+> in heaven. (Apoc 12:7–8)
+>
+> *Hymn* To thee, O Christ, splendour [of the Father]. *℣.* In the sight of the angels [I will
+> sing to thee].
+>
+> *Antiphon at the Benedictus:* There was silence in heaven while the dragon joined battle, and
+> Michael fought with him and won the victory, alleluia.
+>
+> *Collect:* O God, who in wonderful order dost dispose the ministries of angels and men:
+> mercifully grant that our life on earth may be defended by those who stand ever before thee
+> ministering in heaven.
+>
+> *At Prime and all the Hours, the antiphons of Lauds.*
+
+---
+
+## 30 September — St Jerome, Priest and Doctor (semidouble)
+
+*Scan p. 764. At second Vespers of St Michael, a memorial: antiphon* Similabo, *℣* Amavit.
+
+**Latin**
+
+> *Oratio.* Deus qui beatum Hieronymum luce sapientie et operum executione illustrasti: da nobis
+> eius dicta sobrie intelligere, et intellecta operibus explere. Per Dominum.
+>
+> *Sancti Hieronymi presbyteri et doctoris semiduplex; omnia fiant ut unius confessoris non
+> episcopi.*
+
+**Translation**
+
+> *Collect:* O God, who didst make blessed Jerome illustrious by the light of wisdom and the
+> carrying out of good works: grant us to understand his sayings soberly, and to fulfil in deeds
+> what we have understood.
+>
+> *St Jerome, priest and doctor, semidouble; everything as for one confessor not a bishop.*

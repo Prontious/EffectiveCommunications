@@ -251,3 +251,11 @@
 - 716–721: BERNARD 20 Aug; OCTAVE OF ASSUMPTION 22 Aug (all ants; collect Concede); ZACCHAEUS BP OF JERUSALEM 23 Aug; BARTHOLOMEW 24 Aug; LOUIS 25 Aug → done
 - 723–727: ST AUGUSTINE 28 Aug (rhymed narrative Lauds; Bened. In diebus eius; collect Adesto) + octave; HERMES → done
 - 727–730: DECOLLATION OF ST JOHN BAPTIST 29 Aug (double with octave; proper Lauds) → done
+- 731–736: OCTAVE OF DECOLLATION (one ant within; all on octave day); FELIX & ADAUCTUS 30 Aug; GILES 1 Sep → done
+- 738–742: NATIVITY OF BVM 8 Sep (double; ants Nativitas gloriose…; Bened. Nativitatem hodiernam; collect Supplicationem) + octave rubric; GORGONIUS → done
+- 744–747: EXALTATION OF THE CROSS 14 Sep (double; ants O magnum pietatis…; collect Deus qui nos hodierna) → done
+- 748–750: EUPHEMIA (body in the 'ecclesia maior'!), PROTUS & HYACINTH, MAURILIUS, CORNELIUS & CYPRIAN → done
+- 751–755: MATTHEW 21 Sep (Common of Evangelists Lauds; Bened. In medio et in circuitu) → done
+- 755–758: MAURICE; CLEOPHAS (Emmaus); COSMAS & DAMIAN → done
+- 759–764: ST MICHAEL 29 Sep (double; ants Dum preliaretur…; collect Deus qui miro ordine) → done
+- 764: ST JEROME 30 Sep (semidouble; collect) → done
