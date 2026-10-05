@@ -4331,3 +4331,143 @@ of Maundy Thursday, Good Friday and Holy Saturday — the office known as *Teneb
 *Note.* The *anciani* ("elders") are the senior brethren of the community. Putting out
 one candle after each antiphon and lesson until the church is dark is the ceremony that
 gives *Tenebrae* ("darkness") its name.
+
+---
+
+## Maundy Thursday — *In cena Domini* (Tenebrae Lauds, scan pp. 374–375)
+
+Following the Triduum rubric, Lauds begins straight after Matins with no opening versicle,
+no chapter, hymn or versicle, and a candle is put out at each antiphon. After the
+Benedictus comes a ceremony peculiar to these three days: alternating *Kyrie* and
+*Christe* sung by two boys at the altar, verses sung by two senior cantors behind the high
+altar, and the choir's answer *Christus factus est*. Then the *Pater noster* in silence,
+Psalm 50 said aloud, the collect, and the "noise" (*strepitus*) that ends Tenebrae.
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. O Iuda. *Non dicitur* ℣. *sacerdotalis, sed immediate
+> incipiuntur laudes.*
+>
+> *Antiphona.* Iustificeris, Domine, in sermonibus tuis, et vincas cum iudicaris. *Psalmus*
+> Miserere.
+>
+> *Antiphona.* Dominus tanquam ovis ad victimam ductus est, et non aperuit os suum. *Psalmus*
+> Domine refugium.
+>
+> *Antiphona.* Contritum est cor meum in medio mei; contremuerunt omnia ossa mea. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Exhortatus es in virtute tua, et in refectione sancta tua, Domine. *Psalmus*
+> Cantemus Domino.
+>
+> *Antiphona.* Oblatus est quia ipse voluit, et peccata nostra ipse portavit. *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum non dicitur, nec hymnus, nec* ℣., *sed immediate dicitur antiphona.* Traditor
+> autem dedit eis signum, dicens: Quem osculatus fuero, ipse est; tenete eum. *Psalmus*
+> Benedictus Dominus.
+>
+> *Finita antiphona post psalmum* Benedictus, *duo pueri existentes iuxta altare, genibus
+> flexis, unus a dextris et alter a sinistris, cantant* Kyrieleyson — *qui stat a dextro, et
+> post qui in sinistro,* Kyrieleyson; *postea qui in dextro,* Kyrieleyson. *Postea illi duo
+> anciani cantores assistentes in choro vadunt retro maius altare et cantant hos versus:*
+> Qui passurus advenisti propter nos. *Deinde duo presbyteri in medio chori stantes, genibus
+> flexis, respondent:* Domine, miserere nostri. *Postea respondet chorus:* Christus Dominus
+> factus est obediens usque ad mortem.
+>
+> *Deinde puer ex supradictis qui stat in sinistra parte cantat* Christeleyson; *qui in
+> dextra parte,* Christeleyson; *qui in sinistra,* Christeleyson. *Deinde supradicti stantes
+> retro altare cantant:* Qui prophetice prompsisti: Ero mors tua, o mors. *Deinde qui in
+> medio chori:* Domine, miserere nostri. *Chorus respondet:* Christus Dominus factus est
+> obediens usque ad mortem.
+>
+> *Deinde puer qui stat in dextra parte,* Kyrieleyson; *qui in sinistra parte,*
+> Kyrieleyson; *qui in dextra parte,* Kyrieleyson. *Deinde stantes retro altare cantant:*
+> Qui expansis in cruce manibus traxisti omnia ad te secula. *Deinde qui in medio chori:*
+> Domine, miserere nostri. *Chorus respondet:* Christus Dominus factus est obediens usque ad
+> mortem.
+>
+> *Postea unus ex pueris cantat alta voce, flexis genibus ante medium altaris:* Mortem autem
+> crucis. *Tunc unusquisque sub silentio dicit* Pater noster. *Postea prior vel subprior
+> incipit, et chorus prosequitur alternatim in audientia, hunc psalmum:* Miserere mei, Deus;
+> *in fine, loco de* Gloria, *dicitur* Laus tibi, Domine. *Versiculo quo finito, faciens
+> officium dicit hanc orationem sequentem, sine* Dominus vobiscum *et sine* Oremus, *sed
+> immediate dicitur:*
+>
+> Respice, quesumus, Domine, super hanc familiam tuam, pro qua Dominus noster Iesus Christus
+> non dubitavit manibus tradi nocentium, et crucis subire tormentum —
+>
+> *sine alia conclusione in fine orationis; et hoc modo dicitur predicta oratio ad omnes
+> horas his tribus diebus. Mox finita oratione, prior facit sonitum trina percussione sedis
+> sue, dans signum ut lumen absconsum ostendatur. Et nota quod his tribus diebus fit in
+> matutinis officium post antiphonam de* Benedictus *sicut supradictum est. Et hoc modo
+> finiuntur tenebre seu matutine.*
+
+**Translation**
+
+> *[End of Matins:]* The responsory *O Judas* is repeated. *The priest's versicle is not
+> said; Lauds begins at once.*
+>
+> *Antiphon:* That thou mayest be justified in thy words, O Lord, and mayest overcome when
+> thou art judged. (Ps 50:6) *Psalm 50* Have mercy.
+>
+> *Antiphon:* The Lord was led like a sheep to the slaughter, and he opened not his mouth.
+> (cf. Is 53:7) *Psalm 89* Lord, thou hast been our refuge.
+>
+> *Antiphon:* My heart is broken within me; all my bones tremble. (Jer 23:9) *Psalm 62* O
+> God, my God.
+>
+> *Antiphon:* Thou hast given encouragement by thy strength, and by thy holy refreshment, O
+> Lord. (cf. Ex 15:13) *Canticle of Moses* Let us sing to the Lord.
+>
+> *Antiphon:* He was offered because he himself willed it, and he himself bore our sins.
+> (cf. Is 53:7, 12) *Psalm 148* Praise the Lord from the heavens.
+>
+> *No chapter is said, nor hymn, nor versicle; at once the antiphon is said:* Now the
+> betrayer gave them a sign, saying: Whomsoever I shall kiss, that is he; hold him fast.
+> (Mt 26:48) *The canticle* Blessed be the Lord [God of Israel].
+>
+> *When the antiphon after the* Benedictus *is finished, two boys standing by the altar,
+> kneeling, one on the right and the other on the left, sing* Kyrie eleison — *first the one
+> on the right, then the one on the left,* Kyrie eleison; *then the one on the right,* Kyrie
+> eleison. *Then the two senior cantors assisting in choir go behind the high altar and sing
+> these verses:* Thou who camest to suffer for us. *Then two priests standing in the middle
+> of the choir, kneeling, answer:* Lord, have mercy on us. *Then the choir answers:* Christ
+> the Lord became obedient unto death. (Phil 2:8)
+>
+> *Then the boy on the left sings* Christe eleison; *the one on the right,* Christe eleison;
+> *the one on the left,* Christe eleison. *Then those standing behind the altar sing:* Thou
+> who didst say through the prophet: O death, I will be thy death. (Hos 13:14) *Then those in
+> the middle of the choir:* Lord, have mercy on us. *The choir answers:* Christ the Lord
+> became obedient unto death.
+>
+> *Then the boy on the right,* Kyrie eleison; *the one on the left,* Kyrie eleison; *the one
+> on the right,* Kyrie eleison. *Then those standing behind the altar sing:* Thou who, with
+> thy hands stretched out on the cross, didst draw all the ages to thyself. (cf. Jn 12:32)
+> *Then those in the middle of the choir:* Lord, have mercy on us. *The choir answers:*
+> Christ the Lord became obedient unto death.
+>
+> *Then one of the boys sings in a loud voice, kneeling before the middle of the altar:* Even
+> the death of the cross. *Then each one says the* Our Father *in silence. Then the prior or
+> sub-prior begins, and the choir continues in alternation, aloud, this psalm:* Have mercy on
+> me, O God *[Ps 50]; at the end, instead of the* Glory be, *is said* Praise to thee, O Lord.
+> *When this verse is finished, the one leading the office says the following collect,
+> without* The Lord be with you *and without* Let us pray, *but at once:*
+>
+> Look down, we beseech thee, O Lord, upon this thy household, for which our Lord Jesus
+> Christ did not hesitate to be delivered into the hands of wicked men, and to undergo the
+> torment of the cross —
+>
+> *with no other conclusion at the end of the collect; and in this manner the collect is
+> said at all the hours on these three days. As soon as the collect is finished, the prior
+> makes a noise by striking his stall three times, giving the signal for the hidden light to
+> be shown. And note that on these three days, at Matins, the office after the Benedictus
+> antiphon is done as described above. And in this manner Tenebrae, or Matins, ends.*
+
+*Notes.* The "hidden light" (*lumen absconsum*) is the last of the fifteen candles: in the
+usual Tenebrae ceremony it is not put out but hidden behind the altar during the
+*Benedictus*, and brought back into view after the noise (*strepitus*), as a sign of the
+Resurrection. The three verses behind the altar, each answered by *Domine miserere nostri*
+and *Christus factus est*, are a form of the Holy Week *Kyrie* tropes found in several
+medieval uses. Collects normally end "Through our Lord …"; here the collect stops at
+*tormentum* with no conclusion.

@@ -125,3 +125,4 @@
 - 368–369: HOLY MONDAY LAUDS → done (5 proper ants Faciem meam…; Bened. Non haberes in me potestatem; collect Da quesumus…in tot adversis)
 - 370: HOLY TUESDAY LAUDS → done (ants Vide Domine et considera…; Bened. Potestatem habeo; collect Omnipotens…ita dominice passionis sacramenta). Wed Matins begins; Wed Lauds starts foot 370b → 371
 - 370b–371: HOLY WEDNESDAY LAUDS → done (ants Libera me de sanguinibus…; Bened. Simon dormis; collect Presta…nostris excessibus); TRIDUUM RUBRIC (Tenebrae: 15 candles, omissions) → done. Maundy Thu Matins begins 371b (ant. Zelus domus tue)
+- 372–375: MAUNDY THURSDAY TENEBRAE LAUDS → done (ants Iustificeris…; Bened. Traditor autem; Kyrie/Christe ceremony w/ boys & cantors behind altar; Christus factus est; Miserere; Respice w/o conclusion; strepitus & hidden light)
