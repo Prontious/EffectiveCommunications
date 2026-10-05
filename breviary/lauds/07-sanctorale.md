@@ -515,3 +515,80 @@ for on the fifth day the Lord will come to you"), given in the Proper of the Sea
 > Epiphany will be found in their own places within that season [in the Proper of the
 > Season, section 5] — except the feast of St Anastasia, which falls on Christmas Day, and the
 > feasts of SS Hilary and Remigius, which are transferred [to after the octave].
+
+---
+
+## January
+
+### St Basil, Bishop and Confessor — 1 January, transferred (scan p. 548)
+
+> *Sancti Basilii episcopi et confessoris, ix lectiones, quod est prima die ianuarii; et
+> transfertur post octavam epiphanie; et fit ut in communi unius episcopi et confessoris.*
+>
+> *Oratio.* Comprime, quesumus, Domine, nostros semper incursus, et intercedente pro nobis
+> beato Basilio confessore tuo atque pontifice, salutarem nostris temporibus da quietem. Per
+> Dominum.
+
+> *St Basil, bishop and confessor: nine lessons. His day is 1 January, but it is transferred
+> to after the octave of the Epiphany, and kept as in the Common of one bishop and confessor.*
+>
+> *Collect:* Restrain always, we beseech thee, O Lord, the attacks we suffer, and, by the
+> intercession of blessed Basil, thy confessor and bishop, grant a saving peace in our times.
+> Through [our] Lord.
+
+*Note.* The lessons for St Anastasia (whose memorial falls on Christmas Day) end on this page
+just before St Basil; her office has no separate Lauds.
+
+### SS Hilary and Remigius, Confessors — 13 January, transferred (scan p. 549)
+
+> *Sanctorum Hylarii atque Remigii confessorum, ix lectiones; omnia ut in communi plurimorum
+> confessorum, cum oratione propria.*
+>
+> *Oratio.* Deus, qui nos sanctorum confessorum tuorum Hylarii atque Remigii confessionibus
+> circumdas et protegis, da nobis eorum imitatione proficere et intercessione gaudere. Per
+> Dominum.
+
+> *SS Hilary and Remigius, confessors: nine lessons; everything as in the Common of several
+> confessors, with the proper collect.*
+>
+> *Collect:* O God, who surroundest and protectest us with the confessions of thy holy
+> confessors Hilary and Remigius: grant us to advance by imitating them and to rejoice in
+> their intercession. Through [our] Lord.
+
+### St Felix in Pincis, Confessor — 14 January (scan p. 549)
+
+> *Sancti Felicis in Pincis confessoris non episcopi, quod est in crastinum octave epiphanie.
+> Ad vesperas fit memoria de dicto sancto:* antiphona Iustum deduxit Dominus; ℣. Amavit eum.
+> *Oratio* Concede, quesumus, omnipotens Deus *[cued]*. *Quere in communi unius confessoris
+> non episcopi, et cetera omnia alia.*
+
+> *St Felix in Pincis, confessor not a bishop, whose day is the day after the octave of the
+> Epiphany. At Vespers a memorial of the saint is made: the antiphon* The Lord guided the just
+> man; ℣. The Lord loved him. *Collect* Grant, we beseech thee, almighty God *[cued]*. *Look for
+> it in the Common of one confessor not a bishop, and everything else.*
+
+### St Maurus, Abbot — 15 January (scan p. 550)
+
+> *Sancti Mauri abbatis, ix lectiones: vi de vita eius, et tres de evangelio* Nemo accendit
+> lucernam; *cetera omnia de communi confessoris non episcopi.* … *Oratio* Intercessio *[nos,
+> quesumus, Domine, beati Mauri abbatis commendet …] [cued]*, *et omnia ut in communi.*
+
+> *St Maurus, abbot: nine lessons — six from his life, and three on the gospel* No man lights a
+> lamp; *everything else from the Common of a confessor not a bishop.* … *Collect* May the
+> intercession [of blessed Maurus the abbot commend us, we beseech thee, O Lord …] *[cued]*;
+> *and everything as in the Common.*
+
+### St Marcellus, Pope and Martyr — 16 January (scan p. 550)
+
+> *Sancti Marcelli pape et martyris, ix lectiones, et tres de evangelio* Vigilate; *cetera
+> omnia ut in communi unius episcopi et martyris.*
+>
+> *Oratio.* Preces populi tui, quesumus, Domine, clementer exaudi, ut beati Marcelli martyris
+> tui atque pontificis meritis adiuvemur, cuius passione letamur. Per Dominum.
+
+> *St Marcellus, pope and martyr: nine lessons, three of them on the gospel* Watch; *everything
+> else as in the Common of one bishop and martyr.*
+>
+> *Collect:* Mercifully hear the prayers of thy people, we beseech thee, O Lord, that we may be
+> helped by the merits of blessed Marcellus, thy martyr and bishop, in whose passion we
+> rejoice. Through [our] Lord.

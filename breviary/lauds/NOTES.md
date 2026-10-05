@@ -187,3 +187,6 @@
 - 539: CONCEPTION OCTAVE days (single ant; Bened./Magnif. from nocturn ants; memorial of Advent) → done
 - 540–543: ST LUCY 13 Dec LAUDS → done (ants Orante sancta Lucia…; Bened. Columna es immobilis; collect Exaudi nos Deus salutaris)
 - 544–546: ST LAZARUS 17 Dec (Common bishop-confessor; Bened. Domine si hic fuisses; collect Deus qui per unigenitum…Lazarum; O-antiphons begin) + ST THOMAS AP 21 Dec (semidouble; Bened. Thoma infer; collect Da nobis…Thome) + Christmastide rubric → done
+- 547–548: St Anastasia lessons (transferred); ST BASIL 1 Jan transferred after Epiphany octave (Common bishop-confessor; collect Comprime) → done
+- 549: SS HILARY & REMIGIUS (Common several confessors; collect Deus qui nos sanctorum confessorum…) + ST FELIX in Pincis 14 Jan (Common confessor non-bishop) → done
+- 550: ST MAURUS 15 Jan (Common conf. non-bishop; collect Intercessio cued) + ST MARCELLUS 16 Jan (Common bishop-martyr; collect Preces populi tui) → done
