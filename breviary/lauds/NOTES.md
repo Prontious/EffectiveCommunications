@@ -136,3 +136,6 @@
 - 395–397: Eastertide rubrics (alleluia on all ℣/ants/℟ until Pentecost octave; Quesumus auctor/Gloria qui surrexisti doxology until Ascension) + LOW SUNDAY LAUDS → done (Easter ants; cap. Omne quod natum; hymn Sermone blando full; Bened. Post dies octo; collect Presta…paschalia festa peregimus)
 - 398: WEEK AFTER LOW SUNDAY: 7 Bened./Magnif. ants (Thoma infer…) + rubrics (BVM office resumed; ferial nocturn single alleluia ant until Ascension) → done
 - 399–400: FERIAL EASTERTIDE LAUDS (Sunday pss under single Alleluia ant; cap. Omne quod natum; hymn Sermone blando; Bened. ants of week in turn; preces dropped until after Corpus Christi octave; suffrages resumed) → done. p.400 rubric: chapter etc. until Rogations; memorial of Resurrection at 9-lesson feasts until Ascension
+- 401–403: GOOD SHEPHERD SUNDAY LAUDS → done (ant Angelus autem; cap Christus passus est; Bened. Ego sum pastor bonus; collect Deus qui in filii tui cued; memorial of Resurrection Surgens Iesus — every Sunday until Ascension)
+- 404–407: JUBILATE SUNDAY LAUDS (Bened. Modicum et non videbitis; collect Deus qui errantibus cued; week ants Amen amen…, Iterum autem, Tristitia vestra) → done
+- 408–410: CANTATE SUNDAY LAUDS (Bened. Vado ad eum; collect Deus qui fidelium cued; 5 week ants Nisi ego abiero…) → done

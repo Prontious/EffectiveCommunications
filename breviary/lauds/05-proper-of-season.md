@@ -5059,3 +5059,170 @@ This page confirms the pattern for weekday Lauds from Low Sunday to the Ascensio
 Sunday psalms (Pss 92, 99, 62, the *Benedicite*, 148) under a single *alleluia* antiphon,
 with the Low Sunday chapter and hymn. The phrase about the doubled *alleluia* is
 abbreviated in the print and only partly legible.
+
+---
+
+## Second Sunday after Easter — Good Shepherd Sunday (scan pp. 402–403)
+
+From now until the Ascension the Sundays after Easter share a common Lauds: the first
+Easter antiphon over all the psalms, the hymn *Sermone blando*, and a **memorial of the
+Resurrection**. Only the chapter, the Benedictus antiphon and the collect change.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum laudamus. ℣. *sacerdotalis* In resurrectione.
+>
+> In laudibus *antiphona* Angelus autem Domini. *Psalmus* Dominus regnavit decorem, *et
+> ceteri cum hac sola.*
+>
+> *Capitulum.* Christus passus est *[pro nobis, vobis relinquens exemplum …]*. *Hymnus*
+> Sermone blando. ℣. Gavisi sunt discipuli.
+>
+> *Ad* Benedictus *antiphona.* Ego sum pastor bonus, qui pasco oves meas, et pro ovibus meis
+> pono animam meam, alleluia.
+>
+> *Oratio* Deus, qui in filii tui *[humilitate …] [cued]*.
+>
+> *Memoria de resurrectione. Antiphona.* Surgens Iesus mane prima sabbati, apparuit primo
+> Marie Magdalene, de qua eiecerat septem demonia, alleluia. ℣. Surrexit Dominus de
+> *[sepulchro]*. *Oratio* Deus, qui per unigenitum *[cued]*.
+>
+> *Hec memoria fit dominicis diebus ad matutinas usque ad ascensionem.*
+>
+> *Ad primam antiphona* Angelus, *etc., versus; sed dicuntur preces consuete, ut in festis
+> ix lectionum. Ad tertiam, sextam et nonam omnia ut [in alia dominica], cum oratione* Deus
+> qui in *[filii tui]*.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* In thy resurrection.
+>
+> **At Lauds,** the antiphon *And an angel of the Lord*; *Psalm 92* The Lord hath reigned,
+> *and the others under this one antiphon.*
+>
+> *Chapter:* Christ suffered [for us, leaving you an example …] (1 Pet 2:21). *Hymn* With
+> gentle words. ℣. The disciples rejoiced.
+>
+> *Antiphon at the Benedictus:* I am the good shepherd, who feed my sheep, and for my sheep I
+> lay down my life, alleluia. (cf. Jn 10:11, 14–15)
+>
+> *Collect* O God, who by the [humility] of thy Son *[cued]*.
+>
+> *Memorial of the Resurrection. Antiphon:* Jesus, rising early on the first day of the week,
+> appeared first to Mary Magdalene, out of whom he had cast seven devils, alleluia.
+> (Mk 16:9) ℣. The Lord is risen from [the tomb]. *Collect* O God, who through thine
+> only-begotten [Son] *[as on Easter Day]*.
+>
+> *This memorial is made on Sundays at Matins [Lauds] until the Ascension.*
+>
+> *At Prime, the antiphon* And an angel, *etc., with the versicles; but the customary preces
+> are said, as on feasts of nine lessons. At Terce, Sext and None, all as [on the other
+> Sunday], with the collect* O God, who by the [humility] of thy Son.
+
+### The week after Good Shepherd Sunday
+
+The book directs that the Good Shepherd Benedictus antiphons are taken in turn through the
+week, as after Low Sunday; the ferial pattern is the same (see above).
+
+---
+
+## Third Sunday after Easter — *Jubilate* (scan pp. 406–407)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum.
+>
+> In laudibus *antiphona, capitulum, hymnus,* ℣. *ut in precedenti dominica.*
+>
+> *Ad* Benedictus *antiphona.* Modicum, et non videbitis me, dicit Dominus; iterum modicum,
+> et videbitis me, quia vado ad patrem, alleluia, alleluia.
+>
+> *Oratio* Deus, qui errantibus *[cued]*.
+>
+> *Memoria de resurrectione, ut in alia dominica.*
+>
+> *Feria ii et per totam ebdomadam … antiphone per ebdomadam ad* Benedictus *et ad*
+> Magnificat:
+> 1. Amen, amen dico vobis, quia plorabitis et flebitis vos; mundus autem gaudebit; vos autem
+> contristabimini, sed tristitia vestra vertetur in gaudium, alleluia.
+> 2. Iterum autem videbo vos, et gaudebit cor vestrum, et gaudium vestrum nemo tollet a
+> vobis, alleluia.
+> 3. Tristitia vestra implevit cor vestrum, et gaudium vestrum nemo tollet a vobis,
+> alleluia, alleluia.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*.
+>
+> **At Lauds,** the antiphon, chapter, hymn and versicle *as on the preceding Sunday.*
+>
+> *Antiphon at the Benedictus:* A little while, and you shall not see me, says the Lord; and
+> again a little while, and you shall see me, because I go to the Father, alleluia,
+> alleluia. (Jn 16:16)
+>
+> *Collect* O God, who [showest the light of thy truth] to those who go astray *[cued]*.
+>
+> *Memorial of the Resurrection, as on the other Sunday.*
+>
+> *Monday and through the whole week … the antiphons for the week at the* Benedictus *and
+> the* Magnificat:
+> 1. Amen, amen I say to you, that you shall lament and weep, but the world shall rejoice;
+> and you shall be made sorrowful, but your sorrow shall be turned into joy, alleluia.
+> (Jn 16:20)
+> 2. But I will see you again, and your heart shall rejoice, and your joy no man shall take
+> from you, alleluia. (Jn 16:22)
+> 3. Sorrow has filled your heart, and your joy no man shall take from you, alleluia,
+> alleluia. (cf. Jn 16:6, 22)
+
+---
+
+## Fourth Sunday after Easter — *Cantate* (scan pp. 409–410)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis ut supra.*
+>
+> In laudibus *antiphone, psalmi, capitulum, hymnus,* ℣. *ut in precedentibus dominicis.*
+>
+> *Ad* Benedictus *antiphona.* Vado ad eum qui misit me; sed quia hec locutus sum vobis,
+> tristitia implevit cor vestrum, alleluia.
+>
+> *Oratio* Deus, qui fidelium *[mentes unius efficis voluntatis] [cued]*.
+>
+> *Memoria de resurrectione, ut in aliis dominicis.*
+>
+> *Per ebdomadam ad* Benedictus *et* Magnificat *antiphone:*
+> 1. Nisi ego abiero, paraclitus non veniet; dum assumptus fuero, mittam vobis eum, alleluia.
+> 2. Adhuc multa habeo vobis dicere, sed non potestis portare modo; cum autem venerit ille
+> spiritus veritatis, docebit vos omnem veritatem, alleluia.
+> 3. Cum autem venerit ille spiritus veritatis, docebit vos omnem veritatem, et que ventura
+> sunt annunciabit vobis, alleluia.
+> 4. Non enim loquetur a semetipso, sed quecunque audiet loquetur, et que ventura sunt
+> annunciabit vobis, alleluia.
+> 5. Ille me clarificabit, quia de meo accipiet et annunciabit vobis, alleluia.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle as above.*
+>
+> **At Lauds,** the antiphons, psalms, chapter, hymn and versicle *as on the preceding
+> Sundays.*
+>
+> *Antiphon at the Benedictus:* I go to him that sent me; but because I have spoken these
+> things to you, sorrow has filled your heart, alleluia. (Jn 16:5–6)
+>
+> *Collect* O God, who makest the minds of the faithful to be of one will *[cued]*.
+>
+> *Memorial of the Resurrection, as on the other Sundays.*
+>
+> *Through the week, at the* Benedictus *and* Magnificat:
+> 1. If I go not, the Paraclete will not come; when I am taken up, I will send him to you,
+> alleluia. (cf. Jn 16:7)
+> 2. I have yet many things to say to you, but you cannot bear them now; but when the Spirit
+> of truth comes, he will teach you all truth, alleluia. (Jn 16:12–13)
+> 3. When the Spirit of truth comes, he will teach you all truth, and the things that are to
+> come he will show you, alleluia. (Jn 16:13)
+> 4. For he shall not speak of himself, but what things soever he shall hear, he shall
+> speak, and the things that are to come he shall show you, alleluia. (Jn 16:13)
+> 5. He shall glorify me, because he shall receive of mine, and show it to you, alleluia.
+> (Jn 16:14)
