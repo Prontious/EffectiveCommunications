@@ -4950,3 +4950,55 @@ the two Eastertide doxology stanzas.
 > feasts may, by thy bounty, hold fast to them in our conduct and life. Through [our] Lord.
 >
 > *At Prime, the hymn* Now that the daylight … *the antiphon* And an angel of the Lord …
+
+### The week after Low Sunday (scan p. 398)
+
+**Latin**
+
+> *Nota quod antiphone que sequuntur dicuntur per ebdomadam ad* Magnificat *et ad*
+> Benedictus:
+> 1. Thoma, infer digitum tuum huc, et mitte in latus meum, et noli esse incredulus, sed
+> fidelis, alleluia.
+> 2. Quia vidisti me, Thoma, credidisti; beati qui non viderunt et crediderunt, alleluia.
+> 3. Multa quidem et alia signa fecit Iesus in conspectu discipulorum suorum, alleluia, que
+> non sunt scripta in libro hoc, alleluia.
+> 4. Hec autem scripta sunt ut credatis quia Iesus est Christus filius Dei, et ut credentes
+> vitam habeatis in nomine ipsius, alleluia.
+> 5. Gavisi sunt discipuli, alleluia, viso Domino, alleluia.
+> 6. Mitti digitum meum in figuram clavorum et manus meas in latus eius, et dixi: Dominus
+> meus et Deus meus, alleluia.
+> 7. Pax vobis; ego sum, alleluia; nolite timere, alleluia.
+>
+> *Feria ii recuperatur canticum graduum et officium beate virginis more consueto; tamen
+> isto tempore, usque ad octavam penthecostes, in tertio responsorio, quod est* Felix
+> namque, *in fine adiungitur* alleluia, alleluia, *et etiam in fine antiphonarum de*
+> Benedictus *et* Magnificat. … *Et nota quod a pascha usque ad ascensionem, quandocunque fit
+> de feria, in toto nocturno non dicitur nisi sola antiphona, que est* alleluia *tantum.*
+
+**Translation**
+
+> *Note that the following antiphons are said through the week at the* Magnificat *and the*
+> Benedictus:
+> 1. Thomas, put in thy finger here, and put it into my side, and be not faithless but
+> believing, alleluia. (cf. Jn 20:27)
+> 2. Because thou hast seen me, Thomas, thou hast believed; blessed are they that have not
+> seen and have believed, alleluia. (Jn 20:29)
+> 3. Many other signs also did Jesus in the sight of his disciples, alleluia, which are not
+> written in this book, alleluia. (Jn 20:30)
+> 4. But these are written that you may believe that Jesus is the Christ, the Son of God,
+> and that believing you may have life in his name, alleluia. (Jn 20:31)
+> 5. The disciples rejoiced, alleluia, when they saw the Lord, alleluia. (Jn 20:20)
+> 6. I put my finger into the print of the nails and my hand into his side, and I said: My
+> Lord and my God, alleluia. (cf. Jn 20:25, 28)
+> 7. Peace be to you; it is I, alleluia; fear not, alleluia. (cf. Lk 24:36)
+>
+> *On Monday the gradual psalms and the office of the Blessed Virgin are resumed in the usual
+> way; but during this season, until the octave of Pentecost,* alleluia, alleluia *is added
+> at the end of the third responsory, which is* Felix namque, *and also at the end of the
+> antiphons of the* Benedictus *and* Magnificat. … *And note that from Easter until the
+> Ascension, whenever the office is of the weekday, in the whole nocturn only one antiphon
+> is said, which is* alleluia *alone.*
+
+*Note.* Ferial Lauds in Eastertide presumably follows the same simplified pattern, a
+single *alleluia* antiphon over the psalms with the day's Benedictus antiphon from this
+list. The rubric states this only for the nocturn.
