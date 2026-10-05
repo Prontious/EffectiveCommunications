@@ -6400,3 +6400,12 @@ end of the Church year: the Easter Lauds antiphons, the Low Sunday hymn, and a B
 antiphon telling once more of the angel at the tomb. That this book still kept such a feast
 "according to the use of the Lord's Sepulchre" more than three centuries after the
 Hospitallers had left Jerusalem shows how strongly the Order held to its origin there.
+
+### After the Commemoration (scan p. 514)
+
+> *Post hanc commemorationem usque ad adventum fiant memorie consuete de resurrectione ad
+> vesperas et ad matutinas, per omnia ut prius.* — *Explicit temporale.*
+
+> After this Commemoration, until Advent, the customary memorials of the Resurrection are
+> made at Vespers and at Matins [Lauds], in all things as before. — *Here ends the Proper
+> of the Season.*

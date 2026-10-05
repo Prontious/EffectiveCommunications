@@ -29,7 +29,7 @@ rite that the Knights Hospitaller inherited from the Latin Kingdom.
 2. [Psalter: Sunday Lauds](02-psalter-sunday.md)
 3. [Psalter: weekday Lauds](03-psalter-weekdays.md)
 4. [Weekday votive offices: St John the Baptist, Holy Cross, Our Lady](04-weekday-votive-offices.md)
-5. [Proper of the Season](05-proper-of-season.md)
+5. [Proper of the Season](05-proper-of-season.md) — complete: Advent to the Commemoration of the Resurrection
 
 ## About the book
 
