@@ -1181,3 +1181,54 @@ vatum*. The candles are blessed after Terce (the rite is printed at the end of t
 *Note.* The Benedictus antiphon is the well-known *Senex puerum portabat*. The phrasing printed
 here is slightly compressed ("she whom a virgin bore … adored the one she had borne" — it is the
 virgin who adores the child she bore).
+
+### St Blaise, Bishop and Martyr — 3 February (scan pp. 575–576)
+
+St Blaise had a special place in this community: after second Vespers of Candlemas the choir
+went in procession to his chapel.
+
+**Latin**
+
+> *Finitis vesperis [purificationis], chorus vadit ad capellam sancti Blasii, ubi dicuntur
+> vespere ob reverentiam reliquiarum sancti Blasii; et incipiuntur solummodo ad capitulum.*
+> Beatus vir qui suffert *[temptationem]*. ℟. Miles Christi. *Hymnus* Deus tuorum militum. ℣.
+> Gloria et honore. *Ad* Magnificat *antiphona* Iste sanctus.
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui sanctum Blasium pontificem martyrem tuum in agone
+> certaminis tuo amore roborasti, adesto ecclesie tue precibus, et da ut cuius triumphum
+> recolimus in terris, eius precibus adiuvemur in celis. Per Dominum.
+>
+> *Extra chorum fiat memoria tantum, ut fit de aliis sanctis. … Si hoc festum sancti Blasii
+> evenerit in dominica LXX [septuagesime], transfertur ad feriam ii. … Sancti Blasii episcopi et
+> martyris, ix lectiones; omnia ut in communi unius martyris et episcopi, cum oratione
+> supradicta.*
+
+**Translation**
+
+> *When Vespers [of the Purification] are finished, the choir goes to the chapel of St Blaise,
+> where Vespers are said out of reverence for the relics of St Blaise; and they begin only at the
+> chapter:* Blessed is the man that endures [temptation] (Jas 1:12). ℟. Soldier of Christ.
+> *Hymn* O God, of thy soldiers. ℣. With glory and honour. *At the Magnificat, the antiphon* This
+> saint.
+>
+> *Collect:* Almighty and everlasting God, who didst strengthen holy Blaise, thy bishop and
+> martyr, with thy love in the struggle of his contest: be present to the prayers of thy Church,
+> and grant that we who recall his triumph on earth may be helped by his prayers in heaven.
+> Through [our] Lord.
+>
+> *Outside the choir only a memorial is made, as for other saints. … If this feast of St Blaise
+> falls on Septuagesima Sunday, it is transferred to the Monday. … St Blaise, bishop and martyr:
+> nine lessons; everything as in the Common of one martyr and bishop, with the collect above.*
+
+*Note.* The rubric shows that the church for which this breviary was arranged — the conventual
+church at Rhodes — kept relics of St Blaise in a chapel of its own.
+
+### Within the octave of the Purification (scan p. 576)
+
+> *Per octavam purificationis fit cotidie invitatorium, hymni ut in die; … et in laudibus sola
+> antiphona dicitur super psalmos; et responsoria et versus … cetera ut in die. Ad* Benedictus
+> *et* Magnificat *antiphone nocturnorum; ad horas …*
+
+> *Through the octave of the Purification the invitatory and hymns are said each day as on the
+> feast; … and at **Lauds a single antiphon** is said over the psalms; … the rest as on the
+> feast. At the* Benedictus *and* Magnificat, *the antiphons of the nocturns [in turn].*
