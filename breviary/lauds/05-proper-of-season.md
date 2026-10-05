@@ -1699,3 +1699,128 @@ reported at his tomb.
 1170: water mixed with the martyr's blood that was said to change colour, and candles
 said to have been kindled by light from heaven at his tomb. The memorial antiphons for
 St Stephen and St John are very compressed in the print and only partly legible.
+
+---
+
+## Within the octave of the Nativity — 30 December (scan p. 273)
+
+On the free day of the octave the Christmas Lauds are sung under a single antiphon,
+with the Christmas chapter and hymn and a new Benedictus antiphon, followed by memorials
+of the three companions of Christmas: Stephen, John and the Innocents.
+
+**Latin**
+
+> *[End of Matins:]* Te Deum. ℣. *Sacerdotalis.* Verbum caro factum est, alleluia. ℟. Et
+> habitavit [in nobis, alleluia].
+>
+> In laudibus. *Antiphona* Quem vidistis. *Psalmus* Dominus regnavit decorem, *et ceteri
+> cum hac sola.*
+>
+> *Capitulum* Populus gentium. *Hymnus* A solis ortus cardine. ℣. Benedictus qui venit.
+>
+> *Ad* Benedictus *antiphona.* Gaudeamus omnes fideles *[cued]*.
+>
+> *Oratio* Concede.
+>
+> *Memoria sancti Stephani. Antiphona* In Domino *[?] etc.,* ℣. *Memoria de sancto
+> Iohanne. Antiphona* Propter insuperabilem *[?] etc.* *Memoria de innocentibus. Antiphona*
+> Arridebat *etc.,* ℣.
+>
+> *Ad primam antiphona* Quem vidistis; *psalmi ut in festis duplicibus, et omnia versus
+> per octavam. Ad tertiam, sextam et nonam antiphone de laudibus; capitulum, responsorium
+> et versus ut in nativitate, cum oratione* Concede.
+
+**Translation**
+
+> *[End of Matins:]* *Te Deum*. *The priest's versicle:* The Word was made flesh,
+> alleluia. ℟. And dwelt [among us, alleluia].
+>
+> **At Lauds.** *Antiphon* Whom did you see [, shepherds]; *Psalm 92* The Lord hath reigned,
+> *and the other psalms under this one antiphon.*
+>
+> *Chapter* The people [that walked in darkness]. *Hymn* From the sun's rising-point.
+> ℣. Blessed is he that comes.
+>
+> *Antiphon at the Benedictus:* Let us all rejoice, ye faithful *[cued]*.
+>
+> *Collect* Grant [, we beseech thee — as on Christmas Day].
+>
+> *Memorial of St Stephen:* the antiphon *In the Lord [?] etc.*, with versicle. *Memorial
+> of St John:* the antiphon *Because of [his] unconquerable [?] etc.* *Memorial of the
+> Innocents:* the antiphon *[The infant] smiled etc.*, with versicle.
+>
+> *At Prime the antiphon* Whom did you see; *the psalms as on double feasts, and all the
+> versicles as through the octave. At Terce, Sext and None, the antiphons of Lauds; chapter,
+> responsory and versicle as on the Nativity, with the collect* Grant.
+
+*Note.* The memorial antiphons are cued by one or two words only, and two of the cues are
+uncertain in the scan.
+
+---
+
+## Sunday within the octave of the Nativity (scan pp. 274–275)
+
+This Lauds is used when a Sunday falls between St Thomas (29 December) and the
+Circumcision (1 January). It keeps the Christmas psalmody under a single antiphon, adds
+its own Benedictus antiphon and collect, and makes a memorial of the Sunday itself.
+
+**Latin**
+
+> *[End of Matins:]* Te Deum laudamus.
+>
+> In laudibus. *Antiphona* Quem vidistis. *Psalmus* Dominus regnavit, *et cetere [antiphone]
+> ad ceteros.*
+>
+> *Capitulum* Populus gentium. *Hymnus* A solis ortus cardine. ℣. Benedictus qui venit.
+>
+> *Ad* Benedictus *antiphona.* Nato Domino angelorum chorus canebat dicens: Salus Deo
+> nostro sedenti super thronum, et agno.
+>
+> *Oratio* Concede.
+>
+> *Memoria de dominica. Antiphona.* Dum medium silentium tenerent omnia, et nox in suo
+> cursu iter perageret, omnipotens sermo tuus, Domine, a regalibus sedibus venit, alleluia.
+> ℣. Dominus regnavit, alleluia. ℟. Decorem induit, alleluia.
+>
+> *Oratio.* Omnipotens sempiterne Deus, dirige actus nostros in beneplacito tuo, ut in
+> nomine dilecti filii tui mereamur bonis operibus abundare. Qui tecum.
+>
+> *Memoria sancti Stephani. Antiphona* In domo *[?]*. *Memoria de sancto Iohanne.
+> Antiphona* Propter insuperabilem. *Memoria de sanctis innocentibus. Antiphona*
+> Arridebat.
+>
+> *Ad horas omnia ut in die nativitatis Domini.*
+
+**Translation**
+
+> *[End of Matins:]* *Te Deum*.
+>
+> **At Lauds.** *Antiphon* Whom did you see [, shepherds]; *Psalm 92* The Lord hath reigned,
+> *and the other antiphons to the other psalms.*
+>
+> *Chapter* The people [that walked in darkness]. *Hymn* From the sun's rising-point. ℣.
+> Blessed is he that comes.
+>
+> *Antiphon at the Benedictus:* When the Lord was born, the choir of angels sang, saying:
+> Salvation to our God who sits upon the throne, and to the Lamb. (cf. Rev 7:10)
+>
+> *Collect* Grant [, we beseech thee — as on Christmas Day].
+>
+> *Memorial of the Sunday. Antiphon:* While all things were in quiet silence, and the night
+> was in the midst of her course, thy almighty word, O Lord, came down from thy royal
+> throne, alleluia. (Wis 18:14–15) ℣. The Lord hath reigned, alleluia. ℟. He is clothed with
+> beauty, alleluia.
+>
+> *Collect:* Almighty and everlasting God, direct our actions according to thy good
+> pleasure, that in the name of thy beloved Son we may abound in good works. Who with
+> thee …
+>
+> *Memorial of St Stephen:* the antiphon *In the house [?]*. *Memorial of St John:* the
+> antiphon *Because of [his] unconquerable*. *Memorial of the Holy Innocents:* the antiphon
+> *[The infant] smiled*.
+>
+> *At the hours, all as on the day of the Nativity of the Lord.*
+
+*Note.* The rubric reads *et cetere ad ceteros* ("and the other [antiphons] to the other
+[psalms]"), so on this Sunday all five Christmas antiphons are sung, unlike the single
+antiphon used on 30 December.

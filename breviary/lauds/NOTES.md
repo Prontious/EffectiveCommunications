@@ -74,3 +74,5 @@
 - 258–263: ST JOHN EVANGELIST; LAUDS pp.262–263 → done (memorials of Nativity & Stephen)
 - 264–268: HOLY INNOCENTS; LAUDS 267–268 → done (memorials of Nativity, Stephen, John). Then St Thomas Becket from 268b (memoria ant. Pastor cesus)
 - 269–272: ST THOMAS BECKET (29 Dec); collect p.269; LAUDS 271b–272a → done. 272b: Sunday within Christmas octave ('Infra octa. nati.') begins
+- 273: 30 DEC (within octave) LAUDS → done; then St Sylvester 1st Vespers (cap. Ecce vir prudens; ut in communi confessoris); rubric for Sunday within octave
+- 274b–275a: SUNDAY WITHIN CHRISTMAS OCTAVE LAUDS → done (memorial of Sunday, collect Omnipotens…dirige actus). 275: St Sylvester (31 Dec) Matins 'ut in communi unius episcopi et confessoris'
