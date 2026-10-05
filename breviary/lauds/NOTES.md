@@ -214,3 +214,5 @@
 - 603–607: ANNUNCIATION 25 Mar (double) LAUDS → done (ants Prophete predicaverunt…; cap Egredietur virga; Bened. Super solium David; collects Deus qui de beate (cued) & Concede…fragilitati nostre); ST MARY OF EGYPT 2 Apr (Common matron; collect) → done
 - 608: ST AMBROSE 4 Apr (semidouble; Common bishop-confessor; collect Deus qui populo tuo sanctum Ambrosium) → done
 - 609–611: COMMON OF SAINTS IN EASTERTIDE (one & several martyrs) LAUDS → done (ants In celestibus regnis…; Bened. Lux perpetua; memorial of Resurrection)
+- 612: Eastertide rule for confessors/virgins; SS TIBURTIUS, VALERIAN & MAXIMUS 14 Apr (Common several martyrs; collect Presta…Tyburtii) → done
+- 613–614: ST GEORGE 23 Apr (semidouble; Eastertide Common one martyr; collect Deus qui nos beati Georgii; procession 'ad sanctum Georgium extra castrum' for Vespers) → done

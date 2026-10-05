@@ -1849,3 +1849,66 @@ alleluia texts, and every such feast carries a memorial of the Resurrection.
 *Note.* This is the same set of Lauds antiphons for one martyr and for several; only the
 Matins and Vespers differ. Any saint's feast in this section of the Sanctorale (April and May)
 that refers to "the Common" therefore takes these Lauds when it falls in Eastertide.
+
+**Other Eastertide rules (scan p. 612)**
+
+> *Si in tempore paschali evenerit festum plurimorum confessorum, hymni, versus, psalmi ut in
+> communi ipsorum; cetera versus in communi martyrum. Nota quod si in tempore paschali evenerit
+> festum virginis, martyris vel matrone, vel etiam plurimarum, fit ut requirit in communi ipsarum,
+> addito quod in fine omnium responsoriorum, versuum, antiphonarum dicitur* alleluia.
+
+> If a feast of several confessors falls in Eastertide, the hymns, versicles and psalms are as in
+> their own Common; the rest, with the versicles, as in the Common of martyrs. Note that if a feast
+> of a virgin, martyr or matron — or of several of them — falls in Eastertide, it is kept as its own
+> Common requires, except that *alleluia* is added at the end of all responsories, versicles and
+> antiphons.
+
+---
+
+## April (continued)
+
+### SS Tiburtius, Valerian and Maximus, Martyrs — 14 April (scan p. 612)
+
+> *Sanctorum Tyburtii, Valeriani et Maximi martyrum, ix lectiones; omnia ut in communi plurimorum
+> martyrum; si sint tempore paschali, fit ut dictum est supra.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui sanctorum martyrum tuorum Tyburtii,
+> Valeriani et Maximi solemnia colimus, eorum etiam virtutes imitemur. Per Dominum.
+
+> *SS Tiburtius, Valerian and Maximus, martyrs: nine lessons; everything as in the Common of several
+> martyrs; if it falls in Eastertide, it is kept as said above.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of thy holy
+> martyrs Tiburtius, Valerian and Maximus may also imitate their virtues. Through [our] Lord.
+
+*Note.* Valerian was the husband of St Cecilia; their lessons come from her *Passion*.
+
+### St George, Martyr — 23 April (scan p. 614)
+
+A semidouble. As a warrior saint and patron of crusading knights, George had a church of his own
+outside the castle walls, and the choir went there in procession for his Vespers.
+
+**Latin**
+
+> *Sancti Georgii martyris, semiduplex; omnia ut in communi tempore paschali unius martyris.*
+>
+> *Oratio.* Deus, qui nos beati Georgii martyris tui meritis et intercessione letificas, concede
+> propitius ut qui eius beneficia poscimus, dono tue gratie consequamur.
+>
+> *Processio chori vadit ad sanctum Georgium extra castrum, et ibi cantant vesperas, incipiendo ad
+> capitulum, etc.*
+
+**Translation**
+
+> *St George, martyr: semidouble; everything as in the Eastertide Common of one martyr* (that is,
+> the Lauds antiphons *In celestibus regnis* and the rest, above).
+>
+> *Collect:* O God, who gladdenest us by the merits and intercession of blessed George, thy martyr:
+> mercifully grant that we who ask his favours may obtain them by the gift of thy grace.
+>
+> *The choir goes in procession to St George's outside the castle, and there they sing Vespers,
+> beginning at the chapter, etc.*
+
+*Note.* "St George outside the castle" (*extra castrum*) is a local detail that again points to
+the Order's convent at Rhodes, where the walled *Collachium* of the knights was surrounded by the
+town.
