@@ -6181,3 +6181,68 @@ rubric and seems to belong to both hours.
 *Notes.* St John the Baptist (24 June) is the one feast exempt from transfer — a mark of
 his rank as the Order's patron. The collect *Deus in te sperantium* is the one cued for the
 Lauds memorial on the Sunday within the octave (above).
+
+---
+
+## Sundays after Trinity — the general rule (scan p. 457)
+
+The rubric at the second Sunday after Trinity sets the pattern for every Sunday until
+Advent. It also contains one of the clearest marks of the Holy Sepulchre rite in the whole
+book: **on Sundays the hours and the high Mass are of the Resurrection**, "according to the
+custom of the church of the Holy Sepulchre of Jerusalem".
+
+**Latin**
+
+> *[Dominica ii post trinitatem. … Lectiones ix:] Quere in die sancto pasche. Et ix* ℟. *et
+> hore diei cum maiori missa erunt de resurrectione, secundum consuetudinem ecclesie sancti
+> sepulchri hierosolymitane. Evangelium* Homo quidam fecit cenam, *et deinceps alia
+> evangelia per ordinem.* …
+>
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Excelsus super omnes gentes Dominus.
+> ℟. Et super celos *[gloria eius]*.
+>
+> In laudibus *antiphona* Regnavit. *Psalmus* Dominus regnavit, *etc., sicut in psalterio
+> predictum. Antiphone laudum dicantur omnes in hac ii dominica post trinitatem et ultima
+> dominica ante commemorationem dominice resurrectionis; aliis vero dominicis intermediis
+> dicatur sola prima antiphona laudum super psalmos.*
+>
+> *Capitulum* Benedictio et claritas. *Hymnus* Ecce iam noctis. *(Capitulum et hymnus
+> require in psalterio.)* ℣. Dominus regnavit. ℟. Decorem induit. *Predicta capitulum et*
+> ℣. *dicantur in dominicis diebus usque ad adventum, quando de tempore agitur.*
+>
+> *Ad* Benedictus *antiphona* Homo quidam fecit cenam; *et alie antiphone deinceps secundum
+> ordinem dominicarum, et orationes dominicales que sequuntur.*
+
+**Translation**
+
+> *[Second Sunday after Trinity. … For the ninth lesson:] look for it on the holy day of
+> Easter. And the ninth responsory and the hours of the day, together with the high Mass,
+> are of the Resurrection, according to the custom of the church of the Holy Sepulchre of
+> Jerusalem. The gospel is* A certain man made a great supper *(Lk 14:16), and after it the
+> other gospels in order.* …
+>
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* The Lord is high above all
+> nations. ℟. And [his glory] above the heavens. (Ps 112:4)
+>
+> **At Lauds,** the antiphon *The Lord hath reigned*; *Psalm 92* The Lord hath reigned, *etc.,
+> as given above in the psalter. All the Lauds antiphons are said on this second Sunday after
+> Trinity and on the last Sunday before the Commemoration of the Lord's Resurrection; on the
+> Sundays in between, only the first Lauds antiphon is said over the psalms.*
+>
+> *The chapter* Blessing and glory. *The hymn* See, the shadow of night *(look for the chapter
+> and hymn in the psalter).* ℣. The Lord hath reigned. ℟. He is clothed with beauty. *This
+> chapter and versicle are said on Sundays until Advent, when the office is of the season.*
+>
+> *At the Benedictus, the antiphon* A certain man made a great supper; *and then the other
+> antiphons in the order of the Sundays, with the Sunday collects that follow.*
+
+*Notes.*
+- The psalter (section 2) says the full set of *Regnavit* antiphons is sung "on the last
+  Sunday before Advent"; this page says "the last Sunday before the Commemoration of the
+  Lord's Resurrection". The Commemoration is itself a Sunday feast just before Advent (see the
+  Rubric 15 table in [section 1](01-rubrics.md)), so the two rules point to almost the same
+  place in the year; the dates in Rubric 15 suggest the Sunday meant may be some weeks
+  earlier, which I have not been able to reconcile.
+- The Sunday "of the Resurrection" — every Sunday's hours and Mass recalling Easter — is the
+  practice the book attributes explicitly to the Holy Sepulchre in Jerusalem, whose own
+  church contained the tomb.

@@ -159,3 +159,4 @@
 - 449: CORPUS CHRISTI OCTAVE days LAUDS (single ant Sapientia; Bened./Magnif. from nocturn ants in turn; memorial of St John) → done
 - 450–451: SUNDAY WITHIN CORPUS CHRISTI OCTAVE LAUDS (ant Sapientia; memorial of Sunday Homo quidam; collect Deus in te sperantium cued) → done
 - 453: OCTAVE DAY of Corpus Christi (all ants at Lauds); return to ferial office; St John Baptist exempt from transfer; Sunday I after Trinity memorial (collect Deus in te sperantium full) → done
+- 454–457: weekday/Sat. vespers (David historia) ; SUNDAYS AFTER TRINITY GENERAL RULE p.457 → done (hours & high Mass 'de resurrectione' per custom of Holy Sepulchre; full Regnavit ants on Sun II and last Sun before Commemoration of Resurrection; Bened. series begins Homo quidam)
