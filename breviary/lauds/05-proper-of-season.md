@@ -6322,3 +6322,81 @@ Lauds is ferial; only the collect is proper.
 |---|---|---|---|
 | XVIII (pp. 506–507) | Mt 22:34 | *Magister, quod est magnum mandatum in lege? Ait illi Iesus: Diliges Dominum Deum tuum ex toto corde tuo, alleluia.* — Master, which is the great commandment in the law? Jesus said to him: Thou shalt love the Lord thy God with thy whole heart, alleluia. (Mt 22:36–37) | *Da, quesumus, Domine, populo tuo diabolica vitare contagia, et te solum Deum pura mente sectari.* — Grant, we beseech thee, O Lord, that thy people may shun the contagion of the devil, and with pure minds follow thee, the only God. |
 | XIX (p. 507) | Mt 9:1 | *Dixit Dominus paralytico: Confide, fili, remittuntur tibi peccata tua.* — The Lord said to the paralytic: Be of good heart, son, thy sins are forgiven thee. (Mt 9:2) | *Dirigat corda nostra, quesumus, Domine, tue miserationis operatio, quia tibi sine te placere non possumus.* — May the working of thy mercy, O Lord, we beseech thee, direct our hearts, for without thee we cannot please thee. |
+| XX (p. 508) | Mt 22:1 | *Dicite invitatis: Ecce prandium meum paravi; venite ad nuptias, dicit Dominus.* — Tell them that were invited: Behold, I have prepared my dinner; come to the marriage, says the Lord. (Mt 22:4) | *Omnipotens et misericors Deus, universa nobis adversantia propitiatus exclude, ut mente et corpore pariter expediti, que tua sunt liberis mentibus exequamur.* — Almighty and merciful God, in thy goodness keep from us all that stands against us, that, set free alike in mind and body, we may with willing hearts carry out what is thine. |
+| XXI (pp. 508–509) | Jn 4:46 | *Erat quidam regulus cuius filius infirmabatur Capharnaum; hic accessit ad Iesum et rogabat eum: Domine, descende ut sanes filium meum priusquam moriatur. Dixit ei Iesus: Vade, filius tuus vivit, alleluia.* — There was a certain ruler whose son was sick at Capharnaum; he came to Jesus and begged him: Lord, come down and heal my son before he dies. Jesus said to him: Go, thy son lives, alleluia. (cf. Jn 4:46–50) | *Largire, quesumus, Domine, fidelibus tuis indulgentiam placatus et pacem, ut pariter ab omnibus mundentur offensis, et secura tibi mente deserviant.* — Grant to thy faithful, we beseech thee, O Lord, in thy mercy, pardon and peace, that they may be cleansed from all their offences and serve thee with a quiet mind. |
+| XXII (p. 509) | Mt 18:23 | *Dixit autem dominus servo: Redde quod debes. Procidens servus ille rogabat eum dicens: Patientiam habe in me, et omnia reddam tibi.* — And the lord said to the servant: Pay what thou owest. But that servant, falling down, besought him, saying: Have patience with me, and I will pay thee all. (cf. Mt 18:26–28) | *Familiam tuam, quesumus, Domine, continua pietate custodi, ut a cunctis adversitatibus te protegente sit libera, et in bonis actibus tuo nomini sit devota.* — Guard thy household, we beseech thee, O Lord, with continual kindness, that under thy protection it may be free from all adversity and devoted to thy name in good works. |
+| XXIII (p. 510) | Mt 22:15 | *Magister, scimus quia verax es, et viam Dei in veritate doces, alleluia.* — Master, we know that thou art a true speaker, and teachest the way of God in truth, alleluia. (Mt 22:16) | *Deus, refugium nostrum et virtus, adesto piis ecclesie tue precibus, auctor ipse pietatis, et presta ut quod fideliter petimus efficaciter consequamur.* — O God, our refuge and strength, the very author of devotion: be present to the devout prayers of thy Church, and grant that what we ask in faith we may effectually obtain. |
+| XXIV (p. 510) | Mt 9:18 | *Loquente Iesu ad turbas, ecce princeps unus accessit et adorabat eum dicens: Domine, filia mea modo defuncta est; sed veni, impone manum tuam super eam, et vivet.* — As Jesus was speaking to the crowds, behold, a certain ruler came up and worshipped him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live. (Mt 9:18) | *Excita, quesumus, Domine, potentiam tuam et veni, et quod ecclesie tue promisisti usque in finem seculi clementer operare.* — Stir up thy power, we beseech thee, O Lord, and come, and mercifully accomplish what thou hast promised to thy Church until the end of the world. |
+| XXV (pp. 510–511) | Jn 6:5 | *Cum sublevasset oculos Iesus, et vidisset maximam multitudinem venientem ad se, dixit ad Philippum: Unde ememus panes ut manducent hi? Hoc autem dicebat tentans eum; ipse enim sciebat quid esset facturus.* — When Jesus had lifted up his eyes and seen a very great multitude coming to him, he said to Philip: Whence shall we buy bread, that these may eat? And this he said to try him; for he himself knew what he would do. (Jn 6:5–6) | *Excita, quesumus, Domine, tuorum fidelium voluntates, ut divini operis fructum propensius exequentes, pietatis tue remedia maiora percipiant.* — Stir up, we beseech thee, O Lord, the wills of thy faithful, that, more readily bringing forth the fruit of good works, they may receive more abundant remedies from thy loving kindness. |
+
+*Note.* Sunday XXV uses the feeding of the five thousand, the Gospel already used on the
+Fourth Sunday of Lent, and its collect is the familiar "Stir-up" collect that closes the
+Church's year in many medieval uses.
+
+---
+
+## The Commemoration of the Lord's Resurrection — the Sunday before Advent (scan pp. 511–)
+
+This feast is proper to the Holy Sepulchre rite and is the clearest example of the
+Jerusalem inheritance in the whole breviary.
+
+**Latin (rubric, scan p. 511)**
+
+> *Dominica prima ante adventum Domini fiat semiduplex de commemoratione resurrectionis
+> dominice, secundum usum ecclesie dominici sepulchri hierosolymitani.*
+
+**Translation**
+
+> On the first Sunday before the Advent of the Lord, a semidouble is kept of the
+> **Commemoration of the Lord's Resurrection**, according to the use of the church of the
+> Lord's Sepulchre of Jerusalem.
+
+At first Vespers the book sets an Easter-flavoured office: the chapter *Christus resurgens ex
+mortuis*, the responsory *Dum transisset sabbatum*, the hymn *Chorus nove Hierusalem*, the
+versicle *Surrexit Dominus de sepulchro*, the Magnificat antiphon *Vespere autem sabbati*, and
+the Easter collect *Deus qui per unigenitum*, with *Benedicamus* and a double alleluia. Its Lauds
+follows overleaf.
+
+### Lauds of the Commemoration (scan p. 513)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum laudamus. ℣. *sacerdotalis.* In resurrectione tua,
+> Christe.
+>
+> In laudibus *antiphona* Angelus autem Domini. *Psalmus* Dominus regnavit, *et cetere
+> [antiphone] ad ceteros [ut in die pasche].*
+>
+> *Capitulum.* Christus resurgens ex mortuis *[iam non moritur; mors illi ultra non
+> dominabitur …]*. *Hymnus* Sermone blando. ℣. Gavisi sunt discipuli.
+>
+> *Ad* Benedictus *antiphona.* Sedit angelus ad sepulchrum Domini, stola claritatis
+> coopertus; videntes eum mulieres, nimio terrore perterrite, astiterunt a longe. Tunc
+> locutus est angelus et dixit eis: Nolite metuere; dico vobis, quia illum quem queritis
+> mortuum iam vivit, et vita hominum cum eo surrexit, alleluia.
+>
+> *Oratio* Deus, qui *[hodierna die] per unigenitum tuum* … *[ut in die pasche]*.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* In thy resurrection, O Christ.
+>
+> **At Lauds,** the antiphon *And an angel of the Lord*; *Psalm 92* The Lord hath reigned, *and
+> the other [antiphons] to the other psalms [as on Easter Day].*
+>
+> *Chapter:* Christ, rising from the dead, [dies now no more; death shall no more have dominion
+> over him …] (Rom 6:9). *Hymn* With gentle words. ℣. The disciples rejoiced.
+>
+> *Antiphon at the Benedictus:* The angel sat at the Lord's tomb, clothed in a robe of glory;
+> the women, seeing him, were struck with exceeding fear and stood afar off. Then the angel
+> spoke and said to them: Be not afraid; I tell you that he whom you seek as dead now lives,
+> and the life of men has risen with him, alleluia.
+>
+> *Collect* O God, who [on this day] through thine only-begotten [Son, didst conquer death and
+> open to us the gate of eternity …] *[as on Easter Day]*.
+
+*Note.* In effect the Commemoration brings Easter morning back for one Sunday at the very
+end of the Church year: the Easter Lauds antiphons, the Low Sunday hymn, and a Benedictus
+antiphon telling once more of the angel at the tomb. That this book still kept such a feast
+"according to the use of the Lord's Sepulchre" more than three centuries after the
+Hospitallers had left Jerusalem shows how strongly the Order held to its origin there.

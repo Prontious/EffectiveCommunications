@@ -172,3 +172,8 @@
 - 504–505: SEPT EMBER WED (collect Misericordie tue remediis), FRI (Presta…observationes sacras) → done; Sat on 505b–506
 - 506: SEPT EMBER SAT (collect Omnipotens…per continentiam salutarem) → done; Sun XVIII (Mt 22:34) begins 506b
 - 507: Sun XVIII (Magister quod est magnum mandatum; Da quesumus…diabolica vitare), XIX (Dixit Dominus paralytico; Dirigat corda nostra) → done; XX (Mt 22:1) begins
+- 508: Sun XX (Dicite invitatis; Omnipotens et misericors…universa nobis adversantia), XXI (Erat quidam regulus; Largire…fidelibus tuis indulgentiam — end verified on 509) → done
+- 509: Sun XXII (Dixit autem dominus servo: Redde; Familiam tuam…continua pietate) → done; XXIII (Mt 22:15) begins
+- 510: Sun XXIII (Magister scimus quia verax; Deus refugium nostrum et virtus), XXIV (Loquente Iesu…princeps; Excita…et quod ecclesie tue promisisti — unusual) → done; XXV (Jn 6:5) begins
+- 511: Sun XXV (Cum sublevasset oculos; Excita…tuorum fidelium voluntates) → done. COMMEMORATION OF THE RESURRECTION (Sunday before Advent, semidouble, 'secundum usum ecclesie dominici sepulchri') 1st Vespers on 511b; Lauds on 512
+- 512–513: COMMEMORATION OF RESURRECTION LAUDS → done (Easter ants; cap Christus resurgens; hymn Sermone blando; Bened. Sedit angelus ad sepulchrum; collect Deus qui per unigenitum)
