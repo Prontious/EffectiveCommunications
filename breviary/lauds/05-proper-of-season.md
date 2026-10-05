@@ -4471,3 +4471,55 @@ Resurrection. The three verses behind the altar, each answered by *Domine misere
 and *Christus factus est*, are a form of the Holy Week *Kyrie* tropes found in several
 medieval uses. Collects normally end "Through our Lord …"; here the collect stops at
 *tormentum* with no conclusion.
+
+---
+
+## Good Friday — *Feria vi in parasceve* (Tenebrae Lauds, scan p. 379)
+
+**Latin**
+
+> *[End of Matins:] Et reiteratur* ℟. Tenebre *[facte sunt]*.
+>
+> In laudibus. *Antiphona.* Proprio filio suo non pepercit Deus, sed pro nobis omnibus
+> tradidit illum. *Psalmus* Miserere.
+>
+> *Antiphona.* Anxiatus est in me spiritus meus; in me turbatum est cor meum. *Psalmus*
+> Domine, exaudi orationem meam, auribus.
+>
+> *Antiphona.* Ait latro ad latronem: Nos quidem digna factis recipimus; hic autem quid
+> fecit? Memento mei, Domine, dum veneris in regnum tuum. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Dum conturbata fuerit anima mea, Domine, misericordie memoreris. *Psalmus*
+> Domine audivi.
+>
+> *Antiphona.* Memento mei, Domine, dum veneris in regnum tuum. *Psalmus* Laudate.
+>
+> *Ad* Benedictus *antiphona.* Posuerunt super caput eius causam ipsius scriptam: Iesus
+> Nazarenus, rex Iudeorum.
+>
+> Kyrieleyson, *et cetera omnia eodem modo quo supra dictum est in cena Domini.*
+
+**Translation**
+
+> *[End of Matins:]* And the responsory *There was darkness* is repeated.
+>
+> **At Lauds.** *Antiphon:* God spared not his own Son, but delivered him up for us all.
+> (Rom 8:32) *Psalm 50* Have mercy.
+>
+> *Antiphon:* My spirit is in anguish within me; my heart within me is troubled. (Ps 142:4)
+> *Psalm 142* Hear, O Lord, my prayer; give ear.
+>
+> *Antiphon:* The thief said to the thief: We indeed receive the due reward of our deeds; but
+> what has this man done? Remember me, O Lord, when thou comest into thy kingdom. (cf. Lk
+> 23:41–42) *Psalm 62* O God, my God.
+>
+> *Antiphon:* When my soul is troubled, O Lord, thou wilt remember mercy. (cf. Hab 3:2)
+> *Canticle of Habakkuk* Lord, I have heard.
+>
+> *Antiphon:* Remember me, O Lord, when thou comest into thy kingdom. (Lk 23:42) *Psalm 148*
+> Praise.
+>
+> *Antiphon at the Benedictus:* They set over his head his cause written: Jesus of Nazareth,
+> King of the Jews. (cf. Mt 27:37; Jn 19:19)
+>
+> *Kyrie eleison, and all the rest in the same way as described above for Maundy Thursday.*
