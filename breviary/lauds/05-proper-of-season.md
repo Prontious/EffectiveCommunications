@@ -3912,3 +3912,59 @@ misread.
 *Note.* Even through Passiontide, when all other suffrages are dropped, the memorial of
 St John the Baptist, the Order's patron, is kept — as Rubric 1 required
 ([section 1](01-rubrics.md)).
+
+### Tuesday (scan p. 362)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Circumdederunt. *[Cetera ut in feria ii.]*
+>
+> *Ad* Benedictus *antiphona.* Tempus meum nondum advenit; tempus autem vestrum semper est
+> paratum.
+>
+> *Oratio.* Nostra tibi, quesumus, Domine, sint accepta ieiunia, que nos et expiando gratia
+> tua dignos efficiant, et ad gaudia perducant eterna. Per Dominum.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *They have compassed me about* is repeated. *[The rest as
+> on Monday.]*
+>
+> *Antiphon at the Benedictus:* My time is not yet come; but your time is always ready.
+> (Jn 7:6)
+>
+> *Collect:* May our fasts, we beseech thee, O Lord, be acceptable to thee, so that by
+> cleansing us they may make us worthy of thy grace, and bring us to eternal joys. Through
+> [our] Lord.
+
+### Wednesday and Thursday (scan p. 363)
+
+**Latin**
+
+> *Feria iiii.* … *Ad* Benedictus *antiphona.* Oves mee vocem meam audiunt, et ego Dominus
+> cognosco eas.
+>
+> *Oratio.* Sanctificato hoc ieiunio, Deus, tuorum corda fidelium miserator illustra, et
+> quibus devotionis prestas affectum, prebe supplicantibus pium benignus auditum. Per
+> Dominum.
+>
+> *Feria v.* … *Ad* Benedictus *antiphona.* Magister dicit: Tempus meum prope est; apud te
+> facio pascha cum discipulis meis.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut dignitas conditionis humane per
+> immoderantiam sauciata, medicinalis parsimonie studio reformetur. Per Dominum.
+
+**Translation**
+
+> *Wednesday.* … *Antiphon at the Benedictus:* My sheep hear my voice, and I the Lord know
+> them. (cf. Jn 10:27)
+>
+> *Collect:* O God, now that this fast is hallowed, in thy mercy enlighten the hearts of thy
+> faithful, and to those to whom thou givest the love of devotion, kindly grant a gracious
+> hearing when they pray. Through [our] Lord.
+>
+> *Thursday.* … *Antiphon at the Benedictus:* The Master says: My time is near; I will keep
+> the pasch at thy house with my disciples. (Mt 26:18)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that the dignity of human nature, wounded
+> by excess, may be restored by the zeal of healing frugality. Through [our] Lord.
