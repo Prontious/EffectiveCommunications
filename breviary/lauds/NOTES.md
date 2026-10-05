@@ -210,3 +210,5 @@
 - 595–596: ST CYRIL of Carmel 6 Mar (Common conf. non-bishop; long collect) + SS PERPETUA & FELICITY 7 Mar (Common martyrs mutatis mutandis; collect Da nobis…palmas) → done
 - 597–598: FORTY MARTYRS 9 Mar (Common; memorial of Lent; collect Propitiare) + ST GREGORY 12 Mar (semidouble; Common confessor-bishop; collect Deus qui anime famuli tui Gregorii) → done
 - 599–601: ST LONGINUS 15 Mar; ST PATRICK 17 Mar; ST ALEXANDER bishop of Jerusalem 18 Mar ('Hierusalem'; collect Adesto Domine populo tuo); ST JOSEPH 19 Mar (Common conf. non-bishop; collect Omnipotens…qui beatum Ioseph) → done
+- 602: ST BENEDICT 21 Mar (Common conf. non-bishop; collect Intercessio cued) → done
+- 603–607: ANNUNCIATION 25 Mar (double) LAUDS → done (ants Prophete predicaverunt…; cap Egredietur virga; Bened. Super solium David; collects Deus qui de beate (cued) & Concede…fragilitati nostre); ST MARY OF EGYPT 2 Apr (Common matron; collect) → done

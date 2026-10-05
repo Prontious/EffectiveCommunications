@@ -1628,3 +1628,115 @@ and died in prison under Decius — another local saint of the Holy City in this
 added to the Roman calendar only in the 1470s). Its lessons list the "honours" of Joseph drawn
 from the Gospels: of royal descent, kinsman of Mary, her spouse, and the one to whom the angel
 revealed the mystery of the Incarnation.
+
+### St Benedict, Abbot — 21 March (scan p. 602)
+
+> *Sancti Benedicti abbatis, ix lectiones. Oratio* Intercessio *[nos, quesumus, Domine, beati
+> Benedicti abbatis commendet …]*: *quere in communi unius confessoris non episcopi.*
+
+> *St Benedict, abbot: nine lessons. Collect* May the intercession [of blessed Benedict the abbot
+> commend us, we beseech thee, O Lord …]: *look for it in the Common of one confessor not a
+> bishop.*
+
+*Note.* His lessons are drawn from Book II of St Gregory's *Dialogues*.
+
+### The Annunciation of the Blessed Virgin Mary — 25 March (scan pp. 603–607)
+
+A double. The Lauds antiphons trace the Gospel of the Annunciation and Visitation in order.
+
+**Latin**
+
+> *[End of Matins: responsory* Subveni domina clamantibus*] Psalmus* Te Deum. ℣. *sacerdotalis.*
+> Emitte agnum, Domine, dominatorem terre. ℟. De petra deserti ad montem filie Syon.
+>
+> In laudibus. *Antiphona.* Prophete predicaverunt nasci salvatorem de virgine Maria. *Psalmus*
+> Dominus regnavit.
+>
+> *Antiphona.* Angelus Domini nunciavit Marie, et concepit de spiritu sancto. *Psalmus*
+> Iubilate.
+>
+> *Antiphona.* Orietur sicut sol salvator mundi, et descendet in uterum virginis sicut ymber super
+> gramen. *Psalmus* Deus deus.
+>
+> *Antiphona.* Ex quo facta est vox salutationis tue in auribus meis, exultavit in gaudio infans in
+> utero meo. *Psalmus* Benedicite.
+>
+> *Antiphona.* Maria autem conservabat omnia verba hec, conferens in corde suo. *Psalmus* Laudate
+> Dominum de celis.
+>
+> *Capitulum.* Egredietur virga de radice Iesse, et flos de radice eius ascendet; et requiescet
+> super eum spiritus Domini: spiritus sapientie et intellectus, spiritus consilii et fortitudinis,
+> spiritus scientie et pietatis; et replebit eum spiritus timoris Domini.
+>
+> *Hymnus* O gloriosa domina. ℣. Vox clamantis in deserto. ℟. Parate viam Domini; rectas facite
+> semitas Dei nostri.
+>
+> *Ad* Benedictus *antiphona.* Super solium David et super regnum eius sedebit in eternum.
+>
+> *Oratio.* Deus, qui de beate Marie virginis utero verbum tuum, angelo nunciante, carnem suscipere
+> voluisti, presta supplicibus tuis, ut qui vere eam genitricem Dei credimus, eius apud te
+> intercessionibus adiuvemur. *(cued as* Deus qui de beate*; full text at first Vespers.)*
+>
+> *Ad primas et ad horas antiphone de laudibus. … Ad nonam … Oratio.* Concede, quesumus,
+> omnipotens et misericors Deus, fragilitati nostre presidium, ut qui sancte Dei genitricis et
+> virginis Marie annunciationem agimus, intercessionis eius auxilio a nostris iniquitatibus
+> resurgamus. Per eundem.
+
+**Translation**
+
+> *[End of Matins: the responsory* Help, O Lady, those who cry to thee*.]* The *Te Deum*. *The
+> priest's versicle:* Send forth, O Lord, the Lamb, the ruler of the earth. ℟. From the rock of the
+> desert to the mount of the daughter of Sion. (Is 16:1)
+>
+> **At Lauds.** *Antiphon:* The prophets foretold that the Saviour would be born of the Virgin Mary.
+> *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The angel of the Lord announced to Mary, and she conceived of the Holy Spirit. *Psalm
+> 99* Shout with joy.
+>
+> *Antiphon:* The Saviour of the world shall rise like the sun, and come down into the Virgin's womb
+> like rain upon the grass. (cf. Ps 71:6) *Psalm 62* O God, my God.
+>
+> *Antiphon:* As soon as the voice of thy greeting sounded in my ears, the infant in my womb leapt
+> for joy. (Lk 1:44) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* But Mary kept all these words, pondering them in her heart. (Lk 2:19) *Psalm 148*
+> Praise the Lord from the heavens.
+>
+> *Chapter:* There shall come forth a rod out of the root of Jesse, and a flower shall rise up out of
+> his root; and the spirit of the Lord shall rest upon him: the spirit of wisdom and understanding,
+> the spirit of counsel and fortitude, the spirit of knowledge and godliness; and he shall be filled
+> with the spirit of the fear of the Lord. (Is 11:1–3)
+>
+> *Hymn* O glorious Lady. ℣. The voice of one crying in the wilderness. ℟. Prepare ye the way of the
+> Lord; make straight the paths of our God.
+>
+> *Antiphon at the Benedictus:* Upon the throne of David and upon his kingdom he shall sit for ever.
+>
+> *Collect* O God, who didst will that thy Word should take flesh, at the message of an angel, in the
+> womb of the Blessed Virgin Mary: grant to us thy suppliants that we who believe her to be truly the
+> Mother of God may be helped by her intercession with thee. *(Cued at Lauds as* O God, who of the
+> blessed*; the full text is the usual form of this collect.)*
+>
+> *At Prime and the hours, the antiphons of Lauds. … At None … Collect:* Grant, we beseech thee,
+> almighty and merciful God, a safeguard to our frailty, that we who keep the Annunciation of the
+> holy Mother of God and Virgin Mary may by the help of her intercession rise again from our sins.
+> Through the same.
+
+*Note.* Several pieces are borrowed from Advent (*Emitte agnum*, *Vox clamantis*, *Super solium
+David*), since the Annunciation was also the theme of late Advent. The Lauds antiphons are the
+Ember Wednesday set of Advent (*Prophete predicaverunt*), re-ordered.
+
+### St Mary of Egypt — 2 April (scan p. 607)
+
+> *Sancte Marie Egyptiace matrone, ix lectiones; omnia ut in communi unius matrone.*
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui hodierna die beatissimam Mariam Egyptiacam etherea regna
+> penetrare fecisti, da, quesumus, fidelibus tuis digne illius solemnia celebrare, ut per eius
+> venerandam festivitatem salutem consequamur et pacem. Per Dominum.
+
+> *St Mary of Egypt, matron: nine lessons; everything as in the Common of one matron.*
+>
+> *Collect:* Almighty and everlasting God, who on this day didst bring blessed Mary of Egypt into the
+> heavenly kingdom: grant, we beseech thee, to thy faithful worthily to celebrate her feast, that
+> through her venerable festival we may obtain salvation and peace. Through [our] Lord.
