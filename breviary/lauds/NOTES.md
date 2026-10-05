@@ -240,3 +240,9 @@
 - 678–680: ST JAMES 25 Jul (semidouble; Common; collect Esto Domine; memorial Christopher & Cucufas) → done
 - 680–684: ST ANNE 26 Jul (double; rhymed office; hymn Orbis exultans; Bened. De mutua visione) → done
 - 684–687: ST PANTALEON 27 Jul (double); SEVEN SLEEPERS; ST MARTHA 29 Jul → done
+- 688–691: SS FELIX etc (memorial); ABDON & SENNEN 30 Jul; GERMANUS 31 Jul; PETER'S CHAINS 1 Aug (semidouble); STEPHEN POPE 2 Aug; INVENTION OF ST STEPHEN 3 Aug → done
+- 692: ST DOMINIC 4 Aug (chapel of St Dominic) → done
+- 693–696: TRANSFIGURATION 6 Aug (Lauds as Trinity; Bened. Assumpsit Iesus; 2 collects) → done
+- 696: DONATUS; CYRIACUS etc 8 Aug; VIGIL OF LAWRENCE → done
+- 696–700: ST LAWRENCE 10 Aug (semidouble; proper Lauds; collect Da nobis…flammas) + octave memorial; Tiburtius → done
+- 700–705: HOLY CROWN OF THE LORD 11 Aug (semidouble; rhymed Lauds; hymn Deus tuorum militum adapted; collect Presta…coronam spineam); Hippolytus memorial → done

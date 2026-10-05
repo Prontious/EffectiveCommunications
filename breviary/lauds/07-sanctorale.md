@@ -3193,7 +3193,7 @@ Protevangelium story of Joachim and Anne, and the Lauds antiphons carry it on.*
 >
 > *an.* Hec Ioachim viro iuncta, matris Dei mater facta, cara Deo est et grata. *ps.* Deus deus.
 >
-> *an.* Hec [*sic*, = Hic?] ad casam ex hinc suam repedare noluit [?], nam dedecus magis et plus
+> *an.* Hec [*sic*, = Hic?] ad casam ex hinc suam repedare voluit [*read* noluit?], nam dedecus magis et plus
 > augmentari timuit. *ps.* Benedicite.
 >
 > *an.* Ex hoc autem opprobrio Ioachim pulsus nimio, una cum suis bestiis mox secessit in pascuis.
@@ -3317,5 +3317,409 @@ Joachim, so it is probably a misprint for *Hic*.
 > beseech thee, that by the merits of her who gladly received him into her house we may in thy
 > mercy be received as guests in the heavens.
 
-*Note.* Pantaleon is kept as a double, a rank unusual for him. The Order kept relics of St
-Pantaleon, and the feast probably reflects their cult.
+*Note.* Pantaleon is kept as a double, a rank unusual for him. This suggests a particular local
+cult, but the book gives no reason for it.
+
+---
+
+## 29 July – 3 August: Felix; Abdon and Sennen; Germanus; St Peter's Chains; Stephen, Pope; Invention of St Stephen
+
+*Scan pp. 688–691.*
+
+**Latin**
+
+> *Ipso die festum sanctorum Felicis et sociorum eius martyrum, memoria tantum ad primas vesperas
+> et ad matutinas. Oratio.* Presta quesumus Domine, ut sicut populus christianus martyrum tuorum
+> Felicis, Simplicii, Faustini et Beatricis temporali solennitate congaudet, ita perfruatur
+> eterna, et quod votis celebrat comprehendat effectu. Per Dominum.
+>
+> *Sanctorum Abdon et Sennen martyrum. ix lectiones, omnia ut in communi plurimorum martyrum.
+> Oratio.* Deus qui sanctis tuis Abdon et Sennen ad hanc gloriam veniendi copiosum munus gratie
+> tue contulisti: da famulis tuis suorum veniam peccatorum, ut sanctorum tuorum intercessionibus
+> ab omnibus mereamur adversitatibus liberari. Per Dominum.
+>
+> *Sancti Germani episcopi et confessoris. ix lectiones. Oratio.* Deus qui hodiernam diem
+> sacratissimam beati Germani confessoris tui atque pontificis solennitate tribuisti: adesto
+> propitius ecclesie tue precibus, et presta, ut cuius gloriatur meritis muniatur suffragiis.
+> Per Dominum. *Cetera ut in communi unius episcopi et confessoris.*
+>
+> *Sancti Petri ad vincula, semiduplex. … Lectiones tres de evangelio, et omnia alia ut in alio
+> festo [Petri et Pauli]. Memoria de sanctis [Machabeis], an.* Fulgebunt iusti. *℣.* Mirabilis.
+> *Oratio* Fraterna. *Ad omnes horas ut in alio festo cum oratione propria.*
+> *Oratio.* Deus qui beatum Petrum apostolum a vinculis absolutum illesum abire fecisti: nostrorum
+> quesumus absolve vincula peccatorum, et omnia mala a nobis propitiatus exclude. Per Dominum.
+> *Oratio de Machabeis.* Fraterna nos Domine martyrum tuorum corona letificet, que et fidei
+> nostre prebeat incrementa virtutum, et multiplici nos suffragio consoletur. Per Dominum.
+>
+> *Memoria sancti Stephani pape et martyris, an.* Iste sanctus. *℣.* Gloria et honore. *Oratio.*
+> Deus qui nos beati Stephani martyris tui atque pontificis annua solennitate letificas: concede
+> propitius, ut cuius natalicia colimus, de eiusdem etiam protectione gaudeamus. Per Dominum.
+> *Sancti Stephani pape et martyris, ix lectiones, omnia de communi unius martyris et episcopi
+> cum oratione supradicta.*
+>
+> *In inventione sancti Stephani prothomartyris et sociorum eius, ix lectiones* (*office as on
+> the feast after Christmas*). *Oratio.* Deus qui es sanctorum tuorum splendor mirabilis, quique
+> hodierna die beatorum martyrum tuorum Stephani, Nicodemi, Gamalielis atque Abibon inventionem
+> gloriosam revelasti: da nobis quesumus in eterna beatitudine de eorum societate gaudere. Per
+> Dominum.
+
+**Translation**
+
+> *On the same day [29 July] the feast of SS Felix and his companions, martyrs: a memorial only,
+> at first Vespers and at Matins [Lauds]. Collect:* Grant, we beseech thee, O Lord, that as the
+> Christian people rejoices in the feast in time of thy martyrs Felix, Simplicius, Faustinus and
+> Beatrice, so it may enjoy it in eternity, and attain in effect what it celebrates in prayer.
+>
+> *SS Abdon and Sennen, martyrs (30 July). Nine lessons, all as in the Common of many martyrs.
+> Collect:* O God, who didst bestow on thy saints Abdon and Sennen the abundant gift of thy grace
+> to come to this glory: grant thy servants pardon of their sins, that by the intercession of thy
+> saints we may deserve to be freed from all adversities.
+>
+> *St Germanus, bishop and confessor (31 July). Nine lessons. Collect:* O God, who hast given us
+> this most holy day in the feast of blessed Germanus thy confessor and bishop: be favourable to
+> the prayers of thy Church, and grant that she may be defended by the help of him in whose merits
+> she glories. *The rest as in the Common of one bishop and confessor.*
+>
+> *St Peter's Chains (1 August), semidouble. Three lessons from the Gospel, and all else as on the
+> other feast [of Peter and Paul]. A memorial of the saints [the Maccabees], antiphon* The just
+> shall shine. *℣.* Wonderful. *Collect* May the crown. *At all the Hours, as on the other feast,
+> with the proper collect.*
+> *Collect:* O God, who didst cause the blessed apostle Peter, loosed from his chains, to go forth
+> unharmed: loose, we beseech thee, the chains of our sins, and in thy mercy keep all evils far
+> from us.
+> *Collect of the Maccabees:* May the brotherly crown of thy martyrs gladden us, O Lord; may it
+> give our faith an increase of virtues and comfort us with manifold intercession.
+>
+> *A memorial of St Stephen, pope and martyr, antiphon* This saint. *℣.* With glory and honour.
+> *Collect:* O God, who dost gladden us by the yearly feast of blessed Stephen thy martyr and
+> bishop: mercifully grant that we who keep his heavenly birthday may also rejoice in his
+> protection. *St Stephen, pope and martyr (2 August), nine lessons, all from the Common of one
+> martyr and bishop, with the collect above.*
+>
+> *The Finding of St Stephen the protomartyr and his companions (3 August), nine lessons. Collect:*
+> O God, who art the wonderful splendour of thy saints, and who on this day didst reveal the
+> glorious finding of thy blessed martyrs Stephen, Nicodemus, Gamaliel and Abibon: grant us, we
+> beseech thee, to rejoice in their company in everlasting blessedness.
+
+*Note.* The Peter's Chains lessons begin by explaining the feast as a Christian replacement for
+the Roman *Augustalia*, which honoured Octavian's victory over Antony and Cleopatra. This is the
+explanation in the *Legenda aurea*.
+
+---
+
+## 4 August — St Dominic
+
+*Scan p. 692.*
+
+**Latin**
+
+> *Dominici confessoris. ix lectiones, omnia ut in communi unius confessoris non episcopi. Chorus
+> vadit post vesperas ad capellam sancti Dominici, ubi cantantur vespere incipiendo ad capitulum.
+> Oratio.* Deus qui ecclesiam tuam beati Dominici confessoris tui illuminare dignatus es meritis
+> et exemplis: concede, ut eius intercessione temporalibus non destituatur auxiliis, et
+> spiritualibus semper proficiat incrementis. Per Dominum.
+
+**Translation**
+
+> *St Dominic, confessor. Nine lessons, all as in the Common of one confessor not a bishop. After
+> Vespers the choir goes to the chapel of St Dominic, where Vespers are sung beginning at the
+> chapter. Collect:* O God, who didst deign to enlighten thy Church by the merits and example of
+> blessed Dominic thy confessor: grant that by his intercession she may not lack help in temporal
+> things, and may always grow in spiritual things.
+
+*Note.* Like the Magdalene chapel (22 July), the chapel of St Dominic is a station visited by the
+conventual choir. A Dominican convent stood in the city of Rhodes, which may be the chapel meant.
+
+---
+
+## 6 August — The Transfiguration of the Lord
+
+*Scan pp. 693–696. "At Vespers the antiphons, psalms and all the rest as on Trinity [Sunday], at
+Matins as well as at both Vespers, except the ninth responsory, which will be* In principio
+*(look for it at the Nativity of the Lord)."*
+
+**Latin**
+
+> *In laudibus ut in Trinitate. Ad Benedictus an.* Assumpsit Iesus discipulos suos et ascendit in
+> montem, et transfiguratus est ante eos.
+>
+> *Oratio.* Deus qui hodierna die unigenitum tuum mirabiliter transformatum celitus utriusque
+> testamenti patribus revelasti: da nobis quesumus, beneplacitis tibi actibus ad eius semper
+> contemplandam pertingere gloriam, in quo tue paternitati optime complacuisse testatus es. Per
+> eundem.
+>
+> *Memoria de sanctis [Sixto, Felicissimo et Agapito], an.* Fulgebunt iusti. *℣.* Mirabilis.
+> *Oratio:* Deus qui nos concedis sanctorum martyrum tuorum Sixti, Felicissimi et Agapiti
+> natalicia colere: da nobis in eterna beatitudine de eorum societate gaudere. Per Dominum.
+>
+> *Ad omnes horas ut in Trinitate, cum oratione supradicta, vel cum sequenti oratione:* Deus qui
+> in monte Thabor secundum nostram substantiam transformari voluisti: presta quesumus, ut illud
+> lumen quod tuis apostolis ostendere dignatus es largiaris et nobis. Qui vivis.
+
+**Translation**
+
+> *At Lauds, as on Trinity Sunday* (see `05-proper-of-season.md`). *Antiphon at the Benedictus:*
+> Jesus took his disciples and went up into a mountain, and was transfigured before them.
+>
+> *Collect:* O God, who on this day didst reveal from heaven to the fathers of both Testaments
+> thine only-begotten Son, wonderfully transfigured: grant us, we beseech thee, by deeds pleasing
+> to thee, to come to the everlasting contemplation of his glory, in whom thou didst testify that
+> thy fatherhood was well pleased. Through the same.
+>
+> *A memorial of the saints [Sixtus, Felicissimus and Agapitus], antiphon* The just shall shine.
+> *℣.* Wonderful. *Collect:* O God, who grantest us to keep the heavenly birthday of thy holy
+> martyrs Sixtus, Felicissimus and Agapitus: grant us to rejoice in their company in eternal
+> blessedness.
+>
+> *At all the Hours, as on Trinity, with the collect above, or with the following collect:* O God,
+> who on Mount Tabor didst will to be transfigured in our nature: grant, we beseech thee, that the
+> light thou didst deign to show thine apostles thou mayest bestow on us also. Who livest.
+
+*Note.* The Transfiguration had no office of its own in this book. Callixtus III made the feast
+universal in 1457, and many local uses then filled it from the Trinity office, as this one does.
+Only the Benedictus antiphon, the collects and one responsory are proper. Second Vespers have the
+Magnificat antiphon *Nemini dixeritis visionem donec Filius hominis a mortuis resurgat*.
+
+---
+
+## 7–9 August: Donatus; Cyriacus and companions; Vigil of St Lawrence
+
+*Scan p. 696.*
+
+**Latin**
+
+> *Memoria de sancto Donato episcopo et martyre, an.* Iste sanctus. *℣.* Gloria et honore.
+> *Oratio.* Deus tuorum gloria sacerdotum: presta quesumus, ut sancti martyris tui et episcopi
+> Donati, cuius festa gerimus, sentiamus auxilium. Per Dominum. *Sancti Donati martyris et
+> episcopi ix lectiones, omnia ut in communi unius martyris et episcopi cum oratione propria.*
+>
+> *Sanctorum Ciriaci, Largi et Smaragdi martyrum. ix lectiones, omnia ut in communi plurimorum
+> martyrum. Oratio.* Deus qui nos annua beati Ciriaci sociorumque eius solennitate letificas:
+> concede propitius, ut quorum natalicia colimus, virtutem quoque passionis imitemur. Per.
+>
+> *In vigilia sancti Laurentii, si fiat de feria: ad matutinum invitatorium, hymnus, antiphone,
+> psalmi, versus secundum feriam; lectio de evangelio vigilie; responsoria de historia* In
+> principio. *Cetera de feria cum oratione sequenti. Si autem in dicta vigilia fiat festum ix
+> lectionum vel de sancto Iohanne vel de cruce, vii lectio erit de evangelio vigilie; cetera de
+> festo. … Oratio.* Adesto Domine supplicationibus nostris, et intercessione beati Laurentii
+> martyris tui perpetuam nobis misericordiam benignus impende. Per Dominum. *Hore secundum feriam
+> cum oratione dominicali [?]. Si vero sit [festum] ix lectionum, fit de ipso.*
+
+**Translation**
+
+> *A memorial of St Donatus, bishop and martyr, antiphon* This saint. *℣.* With glory and honour.
+> *Collect:* O God, the glory of thy priests: grant, we beseech thee, that we may feel the help of
+> thy holy martyr and bishop Donatus, whose feast we keep. *St Donatus, martyr and bishop: nine
+> lessons, all as in the Common of one martyr and bishop, with the proper collect.*
+>
+> *SS Cyriacus, Largus and Smaragdus, martyrs (8 August). Nine lessons, all as in the Common of
+> many martyrs. Collect:* O God, who dost gladden us by the yearly feast of blessed Cyriacus and
+> his companions: mercifully grant that we who keep their heavenly birthday may also imitate the
+> courage of their passion.
+>
+> *The Vigil of St Lawrence (9 August). If the office is of the feria, [Lauds and the rest are]
+> of the feria with the following collect. But if a feast of nine lessons falls on the vigil, or
+> the office of St John or of the Cross, the seventh lesson is the vigil Gospel and the rest is of
+> the feast. Collect:* Be present, O Lord, at our supplications, and by the intercession of blessed
+> Lawrence thy martyr graciously bestow on us thy everlasting mercy. *The Hours are of the feria,
+> [?with the Sunday collect]; but if it is [a feast] of nine lessons, the office is of that feast.*
+
+*Note.* "The office of St John or of the Cross" refers to the weekday votive offices of St John
+Baptist and the Holy Cross (see `04-weekday-votive-offices.md`). They displace a ferial vigil just
+as a nine-lesson feast does.
+
+---
+
+## 10 August — St Lawrence, Martyr (semidouble)
+
+*Scan pp. 696–700. First Vespers collect: Beati Laurentii nos faciat Domine passio veneranda
+letantes, et ut eam sufficienter recolamus, efficiat promptiores.*
+
+**Latin**
+
+> *℣.* Ora pro nobis beate Laurenti.
+>
+> *In laudibus an.* Laurentius ingressus est martyr, et confessus est nomen Domini Iesu Christi.
+> *ps.* Dominus regnavit.
+>
+> *an.* Laurentius bonum opus operatus est, qui per signum crucis cecos illuminavit.
+> *ps.* Jubilate.
+>
+> *an.* Adhesit anima mea post te, quia caro mea igne cremata est pro te, Deus. *ps.* Deus deus.
+>
+> *an.* Misit Dominus angelum suum et liberavit me de medio ignis, et non sum estuatus.
+> *ps.* Benedicite.
+>
+> *an.* Beatus Laurentius orabat dicens: Gratias tibi ago, Domine, quia ianuas tuas ingredi merui.
+> *ps.* Laudate.
+>
+> *Capitulum.* Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et
+> liberas eos de manu angustie, Domine Deus noster.
+>
+> *Hymnus* Martyr Dei. *℣.* Magna est gloria [eius].
+>
+> *Ad Benedictus an.* In craticula te Deum non negavi, et ad ignem applicatus te Christum confessus
+> sum; probasti cor meum et visitasti nocte, igne me examinasti, et non est inventa in me
+> iniquitas.
+>
+> *Oratio.* Da nobis quesumus omnipotens Deus vitiorum nostrorum flammas extinguere, qui beato
+> Laurentio tribuisti tormentorum suorum incendia superare. Per.
+>
+> *Ad horas an. de laudibus; capitula, responsoria, versus ut in communi unius martyris, cum
+> oratione propria.*
+
+**Translation**
+
+> *℣.* Pray for us, blessed Lawrence.
+>
+> *At Lauds, antiphon:* Lawrence went in a martyr, and confessed the name of the Lord Jesus
+> Christ. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Lawrence wrought a good work, who by the sign of the cross gave light to the blind.
+> *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* My soul hath cleaved to thee, for my flesh was burned with fire for thee, O God.
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* The Lord sent his angel and delivered me from the midst of the fire, and I was not
+> scorched. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Blessed Lawrence prayed, saying: I give thee thanks, O Lord, that I have been found
+> worthy to enter thy gates. *Psalm 148* Praise the Lord.
+>
+> *Chapter:* My soul shall praise the Lord even to death, for thou deliverest them that wait for
+> thee, and savest them out of the hand of distress, O Lord our God. (Ecclus 51:8 [11–12])
+>
+> *Hymn* Martyr of God. *℣.* Great is his glory.
+>
+> *Antiphon at the Benedictus:* On the gridiron I did not deny thee, O God; and set to the fire I
+> confessed thee, O Christ. Thou hast proved my heart and visited it by night; thou hast tried me
+> by fire, and no iniquity has been found in me. (cf. Ps 16:3)
+>
+> *Collect:* Grant us, we beseech thee, almighty God, to quench the flames of our vices, who
+> didst grant blessed Lawrence to overcome the fires of his torments. Through.
+>
+> *At the Hours, the antiphons of Lauds; chapters, responsories and versicles as in the Common of
+> one martyr, with the proper collect.*
+
+**Within the octave** (p. 700): *Per octavas sancti Laurentii fit memoria ad matutinum et
+vesperas. Ad matutinum an.* In craticula; *ad vesperas an.* Beatus Laurentius; *oratio ut in
+die.* "Throughout the octave of St Lawrence a memorial is made at Matins [Lauds] and Vespers:
+at Lauds the antiphon *On the gridiron*, at Vespers *Blessed Lawrence*, with the collect of the
+day."
+
+At second Vespers (p. 700) a memorial of St Tiburtius is made. The antiphon is *Inclytus martyr
+Tyburtius* and the collect is *Beati Tiburtii nos Domine foveant continuata presidia, quia non
+desinis propitius intueri quos talibus auxiliis concesseris adiuvari* ("May the unbroken
+protection of blessed Tiburtius cherish us, O Lord, for thou dost not cease to look with favour
+on those whom thou hast granted such help"). St Tiburtius (11 August) has nine lessons from the
+Common of one martyr.
+
+---
+
+## 11 August — The Holy Crown of the Lord (semidouble)
+
+*Scan pp. 700–705. Rubric: "De sancta corona Domini semiduplex. Ad vesperas antiphone et psalmi
+prout requiritur ipso die." The office is wholly proper and rhymed, and the lessons are a long
+allegory on the "harvest" of thorns in August. The feast is the French Crown of Thorns feast that
+St Louis instituted for the relic he brought to the Sainte-Chapelle (1239).*
+
+**Latin**
+
+> *In laudibus an.* Spina pungens acumine Domini carnem Christi perforat, eius nos rigat sanguine,
+> eique nos incorporat. *ps.* Dominus regnavit.
+>
+> *an.* Spina que pupugerat patientem Dominum penitentes liberat a punctura criminum.
+> *ps.* Jubilate.
+>
+> *an.* Regis patientiam miles imitetur, et per penitentiam spinis coronetur. *ps.* Deus deus meus.
+>
+> *an.* Sacerdotes, sacerdoti summo benedicite, et corone sacerdotii nos heredes subdite.
+> *ps.* Benedicite.
+>
+> *an.* Te laudamus, Iesu bone, qui certantes in agone confortas ex munere; Domine, honores das
+> corone: fac ex tua passione nos adversa vincere. *ps.* Laudate Dominum.
+>
+> *Capitulum.* Vidi, et ecce equus albus, et qui sedebat super illum habebat arcum, et data est
+> illi corona, et exivit vincens ut vinceret.
+>
+> *Hymnus.*
+> Deus tuorum militum / fors et corona, premium: / tue corone meritum / confert medelam omnium.
+> Tua corona spinea / tuos coronet aurea; / tua nobis humilitas / penas repellit debitas.
+> Tue corone mistice / suscepto patrocinio, / iubilus vocis mellice / concurrat mentis gaudio.
+> Nostra conservat regio / tibi thesaurum inclytum; / imminente iudicio / resumes hoc depositum.
+> Qui tanto diademate / nos honorat in stadio, / cum utriusque pneumate / sit laus Patri et
+> Filio. Amen.
+> *℣.* Erit corona glorie in manu Domini. *℟.* Et diadema regni in manu Dei tui.
+>
+> *Ad Benedictus an.* Tu Christe, nostrum gaudium, adesto nostris precibus, qui cum sanctorum
+> milibus veniens ad iudicium apparebis in nubibus: da corone cultoribus coronarum premium.
+>
+> *Oratio.* Presta quesumus omnipotens Deus, ut qui in memoriam passionis Domini nostri Iesu
+> Christi coronam eius spineam veneramur in terris, ab ipso gloria et honore coronari mereamur in
+> celis. Qui tecum.
+>
+> *Ad primam et ad alias horas antiphone de laudibus.* (Terce: chapter *Egredimini et videte*;
+> Sext: chapter *Vidi et ecce equus*.)
+>
+> *Memoria de sancto Hyppolito et sociorum eius, an.* Gaudent in celis. *℣.* Letamini in Domino.
+> *Oratio.* Da quesumus omnipotens Deus, ut beati Hyppoliti martyris tui sociorumque eius
+> veneranda solennitas et devotionem nobis augeat et salutem. Per Dominum. *Memoria de sancto
+> Laurentio ut supra.*
+
+**Translation**
+
+> *At Lauds, antiphon:* The thorn, piercing with its point, pierces the flesh of Christ the Lord;
+> it waters us with his blood and makes us one body with him. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The thorn that pricked the suffering Lord frees penitents from the sting of their
+> sins. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Let the soldier imitate the patience of the King, and through penitence be crowned
+> with thorns. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Ye priests, bless the High Priest, and make us heirs subject to the crown of his
+> priesthood. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* We praise thee, good Jesus, who by thy gift strengthenest those who strive in the
+> contest; O Lord, who givest honours to the crown, make us by thy passion overcome adversity.
+> *Psalm 148* Praise the Lord.
+>
+> *Chapter:* I saw, and behold a white horse, and he that sat on him had a bow, and a crown was
+> given him, and he went forth conquering that he might conquer. (Apoc 6:2)
+>
+> *Hymn.*
+> O God, of thy soldiers / the portion, crown and reward: / the merit of thy crown / brings healing
+> to all.
+> May thy crown of thorns / crown thine own with gold; / thy humility / drives from us the
+> punishments we deserve.
+> Having received the protection / of thy mystical crown, / let the jubilation of honeyed voice /
+> join with the gladness of the mind.
+> Our land keeps / an illustrious treasure for thee; / when the judgement is at hand / thou wilt
+> take back this deposit.
+> To him who honours us in the race / with so great a diadem, / with the Spirit of both, / be
+> praise, to the Father and the Son. Amen.
+> *℣.* Thou shalt be a crown of glory in the hand of the Lord. *℟.* And a royal diadem in the hand
+> of thy God. (Is 62:3)
+>
+> *Antiphon at the Benedictus:* O Christ, our joy, be present to our prayers. Thou who, coming to
+> judgement with thousands of saints, shalt appear in the clouds, give to those who venerate the
+> Crown the reward of crowns.
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who on earth venerate the crown of
+> thorns of our Lord Jesus Christ in memory of his passion may deserve to be crowned by him with
+> glory and honour in heaven. Who with thee.
+>
+> *At Prime and the other Hours, the antiphons of Lauds.*
+>
+> *A memorial of St Hippolytus and his companions, antiphon* They rejoice in heaven. *℣.* Rejoice
+> in the Lord. *Collect:* Grant, we beseech thee, almighty God, that the venerable feast of blessed
+> Hippolytus thy martyr and his companions may increase in us both devotion and salvation.
+> *A memorial of St Lawrence, as above.*
+
+*Note.* The fourth stanza of the hymn, "Our land keeps an illustrious treasure for thee", was
+written for France, which held the relic of the Crown. In a Rhodian book it reads differently.
+The Hospitallers at Rhodes venerated a Holy Thorn of their own, and pilgrims reported that it
+flowered on Good Friday. The breviary does not say this, though, so the link is only a likely
+reading. SS Hippolytus and companions (13 August) have three lessons, the rest from the Common of
+many martyrs.
