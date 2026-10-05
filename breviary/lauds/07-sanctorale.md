@@ -801,3 +801,80 @@ Her Lauds follow on the next page.
 > hold; I am joined in heaven to him whom, while on earth, I loved with all my devotion.
 
 His Lauds follow on the next page.
+
+**Lauds of St Vincent (scan p. 561)**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Ora pro nobis, beate Vincenti.
+>
+> In laudibus. *Antiphona.* Assumptus ex eculeo levita Vincentius atque ad patibulum raptus,
+> moras carnificum arguendo, ad penam alacriter properabat. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Intrepidus itaque, candentis ferri machinam ultro conscendit, ac manens immotus,
+> erectis in celum luminibus, Dominum precabatur. *Psalmus* Iubilate.
+>
+> *Antiphona.* Agnosce, o Vincenti invictissime, quia pro cuius nomine fideliter decertasti,
+> ipse tibi coronam preparatam servat in celestibus. *Psalmus* Deus deus.
+>
+> *Antiphona.* Hinc horrendo carceris clausus ergastulo, Dei athleta angelorum venerando
+> fovebatur obsequio et mulcebatur alloquio. *Psalmus* Benedicite.
+>
+> *Antiphona.* Dantur ergo laudes Deo altissimo, et resonante organo vocis angelice modulata
+> suavitas procul diffunditur. *Psalmus* Laudate.
+>
+> *Capitulum* Iste sanctus *[pro lege Dei sui certavit usque ad mortem …]*.
+>
+> *Hymnus.* Christi miles preciosus, levita Vincentius, / ut tribunal sponte rogum conscendit
+> intrepidus, / cuius crepitante per corpus minutie / sparsim ibant, atque prune vernabantur
+> sanguine; / inter hec manet immotus ille Dei famulus, / orans Christum in sublime erectis
+> luminibus. / Gloria et honor Deo usquequo altissimo, / una patri filioque, inclyto paracleto,
+> / cui laus est et potestas per eterna secula. Amen.
+>
+> ℣. Magna est gloria *[eius in salutari tuo]*.
+>
+> *Ad* Benedictus *antiphona.* Egregius Christi martyr Vincentius dira tormentorum supplicia
+> pro Christo alacriter superavit, ac feliciter pugne agone constanter expleto, tandem
+> preciosam resolutis in morte celo triumphans spiritum reddidit.
+>
+> *Oratio* Adesto *[, quesumus, Domine, supplicationibus nostris …, ut supra]*. *Ad omnes horas
+> antiphone de laudibus; cetera ut in communi.*
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Pray for us, blessed Vincent.
+>
+> **At Lauds.** *Antiphon:* Taken down from the rack and dragged to the gibbet, the deacon
+> Vincent, rebuking the delays of his torturers, hastened eagerly to his punishment. *Psalm 92*
+> The Lord hath reigned.
+>
+> *Antiphon:* Fearless, therefore, he climbed of his own accord onto the frame of red-hot iron,
+> and, remaining unmoved, with his eyes raised to heaven, he prayed to the Lord. *Psalm 99*
+> Shout with joy.
+>
+> *Antiphon:* Know, O most unconquered Vincent, that he for whose name thou hast faithfully
+> fought keeps a crown prepared for thee in heaven. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Then, shut in the dreadful dungeon of the prison, the athlete of God was cherished
+> by the reverent service of angels and soothed by their speech. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* So praises are given to God most high, and the sweetness of the angels' voices,
+> sounding like an organ, spreads far and wide. *Psalm 148* Praise.
+>
+> *Chapter* This saint [fought for the law of his God even unto death …] *(from the Common).*
+>
+> *Hymn:* Christ's precious soldier, the deacon Vincent, fearlessly mounts the pyre of his own
+> accord, as if it were a judgement seat; the crackling salt scatters in spurts over his body,
+> and the coals bloom red with his blood; amid all this the servant of God remains unmoved,
+> praying to Christ with eyes lifted on high. Glory and honour to God most high for ever — to the
+> Father and the Son together, and to the glorious Paraclete — whose is the praise and the power
+> through endless ages. Amen.
+>
+> ℣. Great is [his] glory [in thy salvation].
+>
+> *Antiphon at the Benedictus:* The noble martyr of Christ, Vincent, eagerly overcame the cruel
+> punishments of his torments for Christ, and, having steadfastly and happily finished the
+> contest of his fight, at last, triumphant, gave up his precious spirit to heaven, loosed in
+> death.
+>
+> *Collect* Be present [, we beseech thee, O Lord, to our prayers …, as above]. *At all the
+> hours the antiphons of Lauds; the rest as in the Common.*
+
+*Note.* The Lauds hymn is the rhymed responsory of Matins (*Christi miles preciosus*, scan
+p. 561) recast in hymn form, followed by the doxology *Gloria et honor Deo*.
