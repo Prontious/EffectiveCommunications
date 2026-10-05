@@ -1320,3 +1320,49 @@ people of Catania were said to have stopped the lava with her veil.
 > *Collect:* Hear thy people, O Lord, and by the intercession of thy holy confessors Vedast and
 > Amandus, whose solemnity we celebrate, grant us to rejoice in peace in this present life and to
 > find help for the life eternal. Through [our] Lord.
+
+### St Apollonia, Virgin and Martyr — 9 February (scan p. 585)
+
+> *Sancte Apollonie virginis et martyris, ix lectiones: viii de vita ipsius, ix erit de
+> evangelio* Simile est regnum celorum thesauro; *cetera omnia ut in communi unius virginis et
+> martyris, cum oratione propria.*
+>
+> *Oratio.* Deus, qui beatam Apolloniam martyrem tuam dolorem dentium et capitis subire fecisti,
+> tribue nobis ut eius precibus et meritis dolorem dentium et capitis superare valeamus. Per
+> Dominum.
+
+> *St Apollonia, virgin and martyr: nine lessons — eight from her life, the ninth on the gospel*
+> The kingdom of heaven is like a treasure; *everything else as in the Common of one virgin and
+> martyr, with the proper collect.*
+>
+> *Collect:* O God, who didst cause blessed Apollonia thy martyr to suffer pain of the teeth and
+> the head: grant us that by her prayers and merits we may overcome pain of the teeth and the
+> head. Through [our] Lord.
+
+*Note.* Her lessons here follow the late-medieval legend that makes her an Alexandrian
+princess, not the older account of an aged deaconess. Her teeth were broken out in her
+martyrdom, so she was invoked against toothache, as the collect shows.
+
+### St Scholastica, Virgin — 10 February (scan p. 586)
+
+> *Sancte Scholastice virginis non martyris, ix lectiones: viii de vita ipsius, et ix de
+> evangelio* Simile est regnum celorum decem virginibus; *cetera ut in communi unius virginis non
+> martyris.*
+>
+> *Oratio.* Familiam tuam, quesumus, Domine, beate virginis tue Scholastice meritis propitius
+> respice, ut sicut ad preces ipsius obtinendum quod cupivit ymbrem celitus descendere fecisti,
+> ita eius supplicationibus ariditatem cordis nostri superne digneris rore perfundere. Per
+> Dominum.
+
+> *St Scholastica, virgin not a martyr: nine lessons — eight from her life, and the ninth on the
+> gospel* The kingdom of heaven is like ten virgins; *the rest as in the Common of one virgin not
+> a martyr.*
+>
+> *Collect:* Look graciously, we beseech thee, O Lord, upon thy household through the merits of
+> thy blessed virgin Scholastica, that, as at her prayer thou didst send rain from heaven to
+> obtain what she desired, so at her entreaty thou wouldst deign to drench the dryness of our
+> hearts with dew from above. Through [our] Lord.
+
+*Note.* The collect recalls the story in St Gregory's *Dialogues*: Scholastica prayed for a storm
+so that her brother St Benedict could not leave their last conversation and return to his
+monastery.
