@@ -1,0 +1,28 @@
+# Lauds in the 1517 Hospitaller Breviary — transcription and translation
+
+**Source:** *Breviarium secundum usum ordinis S. Johannis Hierosolymitani*, Lyon: Cyriacus Hochperg, 1517.
+Copy: Austrian National Library (ÖNB), shelfmark Alt Prunk 22.F.68, barcode +Z221667307
+(digitised by Google for *Austrian Books Online*, 2016; Google Books id `T1BmAAAAcAAJ`).
+Page numbers below are **scan image numbers** (1–878) in the ÖNB IIIF manifest
+(`../source/manifest.json`, `../source/pages.tsv`), not the printed foliation.
+
+The breviary describes its office as "excerpted from the approved use of the Lord's
+Sepulchre" (*de approbato usu dominici sepulchri*), i.e. the Jerusalem / Holy Sepulchre
+rite that the Knights Hospitaller inherited from the Latin Kingdom.
+
+## Conventions
+
+- **Latin** is transcribed from the page images with abbreviations silently expanded
+  (e.g. `dñs` → *dominus*, `bñdictus` → *Benedictus*, `q̃` → *que*), with the
+  printer's spelling kept (*ebdomada*, *hymnus/hy.*, *alleluya*, *penthecoste*).
+  Doubtful readings are marked `[?]`; editorial insertions are in `[square brackets]`.
+- **Red** text (rubrics: instructions) is shown in *italics* in the Latin;
+  black text (words actually said or sung) is in roman.
+- **Translations** are my own, made directly from the 1517 Latin. Scripture cues are
+  given in English with the Vulgate psalm numbering the book itself uses.
+- Text is cued in the original exactly as printed: a breviary usually gives only the
+  opening words (*incipit*) of psalms, hymns and chants that appear in full elsewhere.
+
+## Contents
+
+1. [Rubrics: the general order of Lauds](01-rubrics.md)
