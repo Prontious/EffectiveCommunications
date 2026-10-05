@@ -133,3 +133,4 @@
 - 390: EASTER TUESDAY LAUDS (Bened. Stetit Iesus in medio; collect Deus qui ecclesiam tuam novo semper fetu) → done
 - 391–392: EASTER WEDNESDAY (ut in oct. solemni) LAUDS → done (Bened. Mittite in dexteram; collect Deus qui nos resurrectionis…annua solemnitate). Thu Matins begins 392b (Maria stabat)
 - 393–394: EASTER THU (Maria stabat; Deus qui diversitatem gentium) + FRI (Undecim discipuli; Omnipotens…qui paschale sacramentum) + SAT (Currebant duo simul; Concede…festa paschalia venerando) → done
+- 395–397: Eastertide rubrics (alleluia on all ℣/ants/℟ until Pentecost octave; Quesumus auctor/Gloria qui surrexisti doxology until Ascension) + LOW SUNDAY LAUDS → done (Easter ants; cap. Omne quod natum; hymn Sermone blando full; Bened. Post dies octo; collect Presta…paschalia festa peregimus)

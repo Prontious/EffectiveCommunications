@@ -4846,3 +4846,107 @@ and the Vespers procession to the font is no longer made.
 > *Collect:* Grant, we beseech thee, almighty God, that we who have reverently kept the
 > paschal feasts may through them be worthy to attain to eternal joys. Through [our] Lord.
 > *At the hours, the versicles.*
+
+---
+
+## Eastertide rubrics (scan pp. 395, 397)
+
+**Latin**
+
+> *Nota quod in fine cuiuslibet versus, tam ad vesperas quam ad matutinas et alias horas, a
+> die pasche usque ad octavam penthecostes, tam ferialibus diebus quam festivis, dicitur*
+> alleluia; *et etiam in fine antiphonarum et responsoriorum, quodcunque festum evenerit
+> infra dictum tempus.* (p. 395)
+>
+> *Et nota quod in fine hymnorum ad omnes horas, preter ad hymnum* Chorus nove, *dicuntur
+> versus* Quesumus auctor *et* Gloria tibi, Domine, qui surrexisti, *etc.; et hoc
+> observandum usque ad ascensionem Domini.* (p. 397)
+
+**Translation**
+
+> Note that from Easter Day until the octave of Pentecost, on weekdays and feasts alike,
+> *alleluia* is added at the end of every versicle — at Vespers, Matins [and Lauds] and the
+> other hours — and also at the end of the antiphons and responsories, whatever feast falls
+> within that time.
+>
+> And note that at the end of the hymns at all the hours, except the hymn *Chorus novae
+> [Hierusalem]*, the verses *We beseech thee, Author [of all]* and *Glory to thee, O Lord,
+> who hast risen [from the dead]* are said; and this is to be kept until the Ascension of
+> the Lord.
+
+---
+
+## Low Sunday — the octave of Easter (*Dominica i post pascha*, scan pp. 396–397)
+
+Low Sunday is a semidouble. Its Lauds returns to the full structure, with chapter, hymn
+and versicle, but uses the five antiphons of Easter Day. The hymn is the second part of
+the Easter hymn *Aurora lucis rutilat* (whose first part is sung at Matins), ending with
+the two Eastertide doxology stanzas.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione.
+>
+> In laudibus. *Antiphona* Angelus autem Domini. *Psalmus* Dominus regnavit decorem, *et
+> cetere ad ceteros, ut in die sancto pasche.*
+>
+> *Capitulum.* Omne quod natum est ex Deo vincit mundum; et hec est victoria que vincit
+> mundum, fides nostra.
+>
+> *Hymnus.* Sermone blando angelus / predixit mulieribus: / In Galilea Dominus / videndus
+> est quantocius.
+> Ille dum pergunt concite / apostolis hoc dicere, / videntes eum vivere / osculantur pedes
+> Domini.
+> Quo agnito discipuli / in Galileam propere / pergunt videre faciem / desideratam Domini.
+> Claro paschali gaudio / sol mundo nitet radio, / cum Christum iam apostoli / visu cernunt
+> corporeo.
+> Ostensa sibi vulnera / in Christi carne fulgida, / resurrexisse Dominum / voce fatentur
+> publica.
+> Rex Christe clementissime, / tu corda nostra posside, / ut tibi laudes debitas /
+> reddamus omni tempore.
+> Quesumus auctor omnium … Gloria tibi, Domine … *[cued]*.
+>
+> ℣. Gavisi sunt discipuli, alleluia. ℟. Viso Domino, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Post dies octo, ianuis clausis, ingressus Dominus dixit eis:
+> Pax vobis, alleluia, alleluia.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui paschalia festa peregimus, hec te
+> largiente moribus et vita teneamus. Per Dominum.
+>
+> *Ad primam hymnus* Iam lucis … *antiphona* Angelus autem Domini …
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* In thy resurrection.
+>
+> **At Lauds.** *The antiphon* And an angel of the Lord; *Psalm 92* The Lord hath reigned,
+> *and the other antiphons to the other psalms, as on the holy day of Easter.*
+>
+> *Chapter:* Whatsoever is born of God overcomes the world; and this is the victory that
+> overcomes the world, our faith. (1 Jn 5:4)
+>
+> *Hymn:*
+> With gentle words the angel foretold to the women: In Galilee the Lord is to be seen,
+> and that right soon.
+> While they hasten to tell this to the apostles, they see him alive and kiss the feet of
+> the Lord.
+> When the disciples learn of it, they hurry into Galilee to see the longed-for face of the
+> Lord.
+> With the bright joy of Easter the sun shines on the world with its rays, as the apostles
+> now see Christ with their bodily eyes.
+> The wounds shown to them, shining in Christ's flesh, they proclaim with open voice that
+> the Lord has risen.
+> O Christ, most merciful King, take possession of our hearts, that we may render thee due
+> praise at all times.
+> We beseech thee, Author of all … Glory to thee, O Lord … *[cued]*.
+>
+> ℣. The disciples rejoiced, alleluia. ℟. When they saw the Lord, alleluia. (Jn 20:20)
+>
+> *Antiphon at the Benedictus:* After eight days, the doors being shut, the Lord came in and
+> said to them: Peace be to you, alleluia, alleluia. (cf. Jn 20:26)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who have completed the paschal
+> feasts may, by thy bounty, hold fast to them in our conduct and life. Through [our] Lord.
+>
+> *At Prime, the hymn* Now that the daylight … *the antiphon* And an angel of the Lord …
