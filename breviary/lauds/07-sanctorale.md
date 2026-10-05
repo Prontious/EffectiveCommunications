@@ -1985,3 +1985,95 @@ Sunday hymn *Claro paschali gaudio*.
 > *Collect:* Grant, we beseech thee, almighty God, that through the intercession of blessed
 > Vitalis thy martyr we may be delivered from all adversities in body and cleansed from evil
 > thoughts in mind. Through [our] Lord.
+
+---
+
+## May
+
+### SS Philip and James, Apostles — 1 May (scan pp. 620–622)
+
+A semidouble, with proper Eastertide Lauds antiphons from the Gospel of the day (John 14).
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Dedisti hereditatem.
+>
+> In laudibus. *Antiphona.* Domine, ostende nobis patrem, et sufficit nobis, alleluia. *Psalmus*
+> Dominus regnavit.
+>
+> *Antiphona.* Philippe, qui videt me, videt et patrem meum, alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Si cognovissetis me, et patrem meum utique cognovissetis; et amodo cognoscetis eum,
+> et vidistis eum, alleluia, alleluia, alleluia. *Psalmus* Deus deus.
+>
+> *Antiphona.* Spiritus et anime iustorum, hymnum dicite Deo nostro, alleluia, alleluia. *Psalmus*
+> Benedicite.
+>
+> *Antiphona.* Si diligeretis me, gauderetis utique, quia ad patrem vado; quia pater maior me est,
+> alleluia. *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum* Ibant apostoli *[gaudentes a conspectu concilii …]*. *Hymnus* Claro paschali. ℣.
+> Gavisi sunt.
+>
+> *Ad* Benedictus *antiphona.* Non turbetur cor vestrum, neque formidet; creditis in Deum, et in me
+> credite; in domo patris mei mansiones multe sunt, alleluia, alleluia.
+>
+> *Oratio.* Deus, qui nos annua apostolorum tuorum Philippi et Iacobi solemnitate letificas, presta,
+> quesumus, ut quorum gaudemus meritis, instruamur exemplis. Per Dominum.
+>
+> *Ad primam et ad alias horas antiphone de laudibus; cetera omnia alia ut in communi plurimorum
+> apostolorum, cum oratione propria.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Thou hast given an inheritance.
+>
+> **At Lauds.** *Antiphon:* Lord, show us the Father, and it is enough for us, alleluia. (Jn 14:8)
+> *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Philip, he that sees me sees my Father also, alleluia. (Jn 14:9) *Psalm 99* Shout
+> with joy.
+>
+> *Antiphon:* If you had known me, you would surely have known my Father also; and from henceforth
+> you shall know him, and you have seen him, alleluia, alleluia, alleluia. (Jn 14:7) *Psalm 62* O
+> God, my God.
+>
+> *Antiphon:* Ye spirits and souls of the just, sing a hymn to our God, alleluia, alleluia.
+> (cf. Dan 3:86) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* If you loved me, you would indeed be glad, because I go to the Father; for the Father
+> is greater than I, alleluia. (Jn 14:28) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter* The apostles went [rejoicing from the presence of the council …] (Acts 5:41). *Hymn*
+> With the bright joy of Easter. ℣. The disciples rejoiced.
+>
+> *Antiphon at the Benedictus:* Let not your heart be troubled, nor let it be afraid; you believe
+> in God, believe also in me; in my Father's house there are many mansions, alleluia, alleluia.
+> (Jn 14:1–2, 27)
+>
+> *Collect:* O God, who gladdenest us with the yearly solemnity of thy apostles Philip and James:
+> grant, we beseech thee, that we may be taught by the example of those in whose merits we rejoice.
+> Through [our] Lord.
+>
+> *At Prime and the other hours, the antiphons of Lauds; everything else as in the Common of several
+> apostles, with the proper collect.*
+
+*Notes.* The memorial at first Vespers is of St Eutropius (30 April), with the antiphon *Qui
+manet*. The lessons for James note that he was the first bishop of **Jerusalem** (*suscepit
+ecclesiam Hierosolymorum*) — the James who was later martyred there.
+
+### St Athanasius, Bishop and Confessor — 2 May (scan p. 622)
+
+> *Sancti Athanasii episcopi et confessoris, ix lectiones, tempore paschali; [omnia ut in communi]
+> preter lectiones et orationem.*
+>
+> *Oratio.* Deus, qui nos beati Athanasii confessoris tui atque pontificis annua solemnitate
+> letificas, concede propitius ut cuius natalitia colimus, de eiusdem etiam protectione gaudeamus.
+> Per Dominum.
+
+> *St Athanasius, bishop and confessor: nine lessons, in Eastertide; [everything as in the Common]
+> except the lessons and the collect.*
+>
+> *Collect:* O God, who gladdenest us with the yearly solemnity of blessed Athanasius, thy confessor
+> and bishop: mercifully grant that we who keep his heavenly birthday may also rejoice in his
+> protection. Through [our] Lord.

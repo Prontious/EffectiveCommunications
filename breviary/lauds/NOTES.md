@@ -217,3 +217,4 @@
 - 612: Eastertide rule for confessors/virgins; SS TIBURTIUS, VALERIAN & MAXIMUS 14 Apr (Common several martyrs; collect Presta…Tyburtii) → done
 - 613–614: ST GEORGE 23 Apr (semidouble; Eastertide Common one martyr; collect Deus qui nos beati Georgii; procession 'ad sanctum Georgium extra castrum' for Vespers) → done
 - 615–618: ST MARK 25 Apr (semidouble; Eastertide Common; hymn Claro paschali gaudio; collect cued) + ST CLETUS 26 Apr + ST VITALIS 28 Apr (Eastertide Common; collects) → done
+- 619–622: SS PHILIP & JAMES 1 May (semidouble; 5 Jn 14 ants Domine ostende nobis patrem…; Bened. Non turbetur cor vestrum; collect Deus qui nos annua apostolorum) + ST ATHANASIUS 2 May (collect) → done
