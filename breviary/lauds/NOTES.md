@@ -160,3 +160,8 @@
 - 450–451: SUNDAY WITHIN CORPUS CHRISTI OCTAVE LAUDS (ant Sapientia; memorial of Sunday Homo quidam; collect Deus in te sperantium cued) → done
 - 453: OCTAVE DAY of Corpus Christi (all ants at Lauds); return to ferial office; St John Baptist exempt from transfer; Sunday I after Trinity memorial (collect Deus in te sperantium full) → done
 - 454–457: weekday/Sat. vespers (David historia) ; SUNDAYS AFTER TRINITY GENERAL RULE p.457 → done (hours & high Mass 'de resurrectione' per custom of Holy Sepulchre; full Regnavit ants on Sun II and last Sun before Commemoration of Resurrection; Bened. series begins Homo quidam)
+- 495–496: DOMINICALE after Trinity begins: Sun II (Homo quidam…alleluia; Sancti nominis), III (Quis ex vobis…centum oves; Deprecationes nostras), IV (Estote misericordes; Protector in te sperantium) → done
+- 497: Sun V (Ascendens Iesus in navim; Da nobis…mundi cursus), VI (Amen dico vobis nisi abundaverit; Deus qui diligentibus te) → done
+- 498: Sun VII (Misereor super turbam; Deus virtutum cuius est totum) → done; VIII Bened. starts foot 498 (Attendite a falsis)
+- 499: Sun VIII (Attendite a falsis prophetis; Deus cuius providentia), IX (Dixit Dominus villico; Largire nobis) → done; X starts 499b (Lk 19:41)
+- 500: Sun X (Cum appropinquaret…flevit; Pateant aures), XI (Stans a longe publicanus; Deus qui omnipotentiam tuam parcendo) → done; XII starts foot 500 (Mk 7:31)
