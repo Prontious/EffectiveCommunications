@@ -2,5 +2,6 @@
   "reocr": false,
   "image_pages": [[401, 650]],
   "image_width": 1000,
-  "image_quality": 55
+  "image_quality": 55,
+  "retry": 1
 }

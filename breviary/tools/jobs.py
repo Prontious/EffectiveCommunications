@@ -27,9 +27,14 @@ def get(url, dest=None):
 
 def commit(msg):
     subprocess.run(["git", "add", OUT])
-    if subprocess.run(["git", "commit", "-qm", msg]).returncode == 0:
+    subprocess.run(["git", "commit", "-qm", msg])
+    # The branch also receives translation commits; retry until the push lands.
+    for i in range(6):
         subprocess.run(["git", "pull", "-q", "--rebase"])
-        subprocess.run(["git", "push", "-q"])
+        if subprocess.run(["git", "push", "-q"]).returncode == 0:
+            return
+        time.sleep(5 * (i + 1))
+    print("push failed after retries")
 
 
 def model():
