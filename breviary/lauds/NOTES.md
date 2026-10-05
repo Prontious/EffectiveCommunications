@@ -101,3 +101,6 @@
 - 334: LENT I THU (Si vos manseritis; Adesto Domine) + EMBER FRI (Angelus Domini descendebat; Esto Domine propicius) → done
 - 335: LENT I EMBER SAT (Assumpsit Iesus; Populum tuum) → done; 1st Vespers Lent II (Magnif. Nemini dixeritis; collect Ab omnibus nos); Lent II Matins begins
 - 336–337: LENT II SUNDAY LAUDS → done (ants Domine labia mea…; Bened. Egressus Iesus; collect Deus qui conspicis omni nos virtute)
+- 338: Lent II Sunday hours (Sext Vade mulier; None O mulier; Magnif. Dixit Dominus mulieri; Vesp. collect Familiam tuam); LENT II MON (Ego principium; Presta…familia tua que se affligendo) → done
+- 339: LENT II TUE (Unus est enim magister; Perfice quesumus) + WED (Ecce ascendimus; Populum tuum…ab escis carnalibus) → done; Thu begins 339b
+- 340: LENT II THU (Ego non ab homine; Presta nobis…auxilium gratie) + FRI (Malos male perdet; Da quesumus…sacro nos purificante) → done

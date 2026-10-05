@@ -3226,3 +3226,91 @@ collect change from day to day.
 > *At Prime, the antiphon:* I was not sent but to the lost sheep of the house of Israel,
 > says the Lord. (Mt 15:24) … *At Terce, the antiphon:* I was sent to the sheep that were
 > lost of the house of Israel, says the Lord.
+
+---
+
+## Weekdays of the second week of Lent
+
+Ferial Lauds as in the first week (psalter psalms and antiphons, chapter *Convertimini
+ad me*, hymn *Audi benigne conditor*, versicle *Scuto circumdabit*); only the Benedictus
+antiphon and collect are proper.
+
+### Monday (scan p. 338)
+
+**Latin**
+
+> *Feria ii.* … *Ad* Benedictus *antiphona.* Ego principium, qui et loquor vobis.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut familia tua, que se affligendo carnem ab
+> alimentis abstinet, sectando iustitiam a culpa ieiunet. Per Dominum.
+
+**Translation**
+
+> *Monday.* … *Antiphon at the Benedictus:* I am the beginning, who also speak to you.
+> (Jn 8:25, Vulgate)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that thy household, which mortifies the
+> flesh by abstaining from food, may by following justice fast from sin. Through [our] Lord.
+
+### Tuesday and Wednesday (scan p. 339)
+
+**Latin**
+
+> *Feria iii.* … *Ad* Benedictus *antiphona.* Unus est enim magister vester, qui in celis
+> est, Christus Dominus.
+>
+> *Oratio.* Perfice, quesumus, Domine, benignus in nobis observantie sancte subsidium, ut
+> que te auctore facienda cognovimus, te operante impleamus. Per Dominum.
+>
+> *Feria iiii.* … *Ad* Benedictus *antiphona.* Ecce ascendimus Hierosolymam, et filius
+> hominis tradetur ut crucifigatur.
+>
+> *Oratio.* Populum tuum, Domine, propicius respice, et quos ab escis carnalibus precipis
+> abstinere, a noxiis quoque vitiis cessare concede. Per Dominum.
+
+**Translation**
+
+> *Tuesday.* … *Antiphon at the Benedictus:* For one is your master, who is in heaven, Christ
+> the Lord. (cf. Mt 23:8–10)
+>
+> *Collect:* Graciously perfect in us, we beseech thee, O Lord, the help of this holy
+> observance, that what we know by thy guidance we ought to do, we may by thy working
+> accomplish. Through [our] Lord.
+>
+> *Wednesday.* … *Antiphon at the Benedictus:* Behold, we go up to Jerusalem, and the Son of
+> Man shall be betrayed to be crucified. (cf. Mt 20:18–19)
+>
+> *Collect:* Look graciously, O Lord, upon thy people, and grant that those whom thou
+> biddest abstain from fleshly foods may also cease from harmful vices. Through [our] Lord.
+
+### Thursday and Friday (scan p. 340)
+
+**Latin**
+
+> *Feria v.* … *Ad* Benedictus *antiphona.* Ego non ab homine testimonium accipio, sed hec
+> dico ut vos salvi sitis.
+>
+> *Oratio.* Presta nobis, Domine, quesumus, auxilium gratie tue, ut ieiuniis et orationibus
+> convenienter intenti, liberemur ab hostibus mentis et corporis. Per Dominum.
+>
+> *Feria vi.* … *Ad* Benedictus *antiphona.* Malos male perdet, et vineam suam locabit aliis
+> agricolis, qui reddant ei fructum temporibus suis.
+>
+> *Oratio.* Da, quesumus, omnipotens Deus, ut sacro nos purificante ieiunio, sinceris
+> mentibus ad sancta ventura facias pervenire. Per Dominum.
+
+**Translation**
+
+> *Thursday.* … *Antiphon at the Benedictus:* I receive not testimony from man, but I say
+> these things that you may be saved. (Jn 5:34)
+>
+> *Collect:* Grant us, O Lord, we beseech thee, the help of thy grace, that, duly intent on
+> fasting and prayer, we may be delivered from the enemies of mind and body. Through [our]
+> Lord.
+>
+> *Friday.* … *Antiphon at the Benedictus:* He will bring those evil men to an evil end, and
+> will let out his vineyard to other husbandmen, who shall render him the fruit in its
+> season. (Mt 21:41)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that, as the holy fast purifies us, thou
+> mayest bring us with sincere minds to the holy feast that is to come. Through [our] Lord.
