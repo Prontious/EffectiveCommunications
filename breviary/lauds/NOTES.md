@@ -109,3 +109,5 @@
 - 345: LENT III MON (Amen dico vobis quia nemo propheta; Cordibus nostris) → done
 - 346: LENT III TUE (Ubi duo vel tres; Exaudi nos…continentie salutaris) → done; Wed Matins begins
 - 347: LENT III WED (Audite et intelligite traditiones; Presta nobis…salutaribus ieiuniis) + THU (Operamini non cibum; Concede…ieiuniorum sancta devotio) → done; Fri begins 347b
+- 348: LENT III FRI (Aqua quam ego dedero; Ieiunia nostra…benigno favore) → done; Sat Matins begins (Perrexit Iesus in montem Oliveti)
+- 349: LENT III SAT (Inclinavit se Iesus; Presta…qui se affligendo carne) → done; 1st Vespers Lent IV (Magnif. Nemo te condemnavit; collect Pretende Domine); Lent IV Matins begins (inv. Hodie si vocem)

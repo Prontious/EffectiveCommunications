@@ -3484,3 +3484,43 @@ antiphon and collect are proper.
 >
 > *Collect:* Grant, we beseech thee, almighty God, that the holy devotion of our fasts may
 > both purify us and make us acceptable to thy majesty. Through [our] Lord.
+
+### Friday (scan p. 348)
+
+**Latin**
+
+> *Feria vi.* … *Ad* Benedictus *antiphona.* Aqua quam ego dedero, qui biberit ex ea non
+> sitiet ultra.
+>
+> *Oratio.* Ieiunia nostra, quesumus, Domine, benigno favore prosequere, ut sicut ab
+> alimentis abstinemus in corpore, ita a vitiis ieiunemus in mente. Per Dominum.
+
+**Translation**
+
+> *Friday.* … *Antiphon at the Benedictus:* The water that I shall give, whoever drinks of it
+> shall thirst no more. (cf. Jn 4:13–14)
+>
+> *Collect:* Follow our fasts, we beseech thee, O Lord, with thy gracious favour, that as we
+> abstain from food in the body, so we may fast from vices in the mind. Through [our] Lord.
+
+### Saturday (scan p. 349)
+
+**Latin**
+
+> *Sabbato.* … *Ad* Benedictus *antiphona.* Inclinavit se Iesus, et scribebat in terra: Si
+> quis sine peccato est, mittat in eam lapidem.
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui se affligendo carne ab alimentis
+> abstinent, sectando iustitiam a culpa ieiunent. Per Dominum.
+
+**Translation**
+
+> *Saturday.* … *Antiphon at the Benedictus:* Jesus bent down and wrote on the ground: He
+> that is without sin among you, let him cast a stone at her. (cf. Jn 8:6–7)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that those who mortify the flesh by
+> abstaining from food may by following justice fast from sin. Through [our] Lord.
+
+*Note.* This collect is almost the same as Monday's in the second week (*Presta …
+ut familia tua que se affligendo*); here it speaks of "those who" (*qui*) rather than
+"thy household" (*familia tua*).
