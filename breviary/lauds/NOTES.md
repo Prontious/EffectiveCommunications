@@ -97,3 +97,5 @@
 - 325: SAT AFTER ASH WED LAUDS (Tunc invocabis; collect Omnipotens…observationis) → done; Lenten veiling rubric; Lent I 1st Vespers (hymn Ex more docti)
 - 327–330: LENT I SUNDAY LAUDS → done (ants Cor mundum…; hymn Audi benigne full; Bened. Ductus est Iesus; collect Deus qui ecclesiam). NEXT: Lent I weekdays from ~331
 - 331: Lent I Sunday hours/Vespers/Compline; Monday Matins. 332: LENT I MONDAY LAUDS → done (rubric: hymn Audi benigne + ℣ Scuto daily until Passion Sunday)
+- 333: LENT I TUE (Domus mea; Respice Domine familiam) + EMBER WED (Generatio hec prava; Preces nostras) → done
+- 334: LENT I THU (Si vos manseritis; Adesto Domine) + EMBER FRI (Angelus Domini descendebat; Esto Domine propicius) → done

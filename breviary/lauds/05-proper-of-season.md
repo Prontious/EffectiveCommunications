@@ -3070,3 +3070,71 @@ benigne conditor*.
 weekday psalms and antiphons, the chapter *Convertimini ad me*, the hymn *Audi benigne
 conditor* and the versicle *Scuto circumdabit*. Only the Benedictus antiphon and the
 collect change from day to day.
+
+### Tuesday and Ember Wednesday (scan p. 333)
+
+**Latin**
+
+> *[Rubric continued from p. 332:] … Et dicitur ad horas semper oratio matutinarum, nisi
+> sint proprie.*
+>
+> *Feria iii.* … *Ad* Benedictus *antiphona.* Domus mea domus orationis vocabitur.
+>
+> *Oratio.* Respice, Domine, familiam tuam, et presta ut apud te mens nostra tuo desiderio
+> fulgeat, que se carnis maceratione castigat. Per Dominum.
+>
+> *Feria iiii [quatuor temporum].* … *Ad* Benedictus *antiphona.* Generatio hec prava et
+> perversa signum querit, et signum non dabitur ei, nisi signum Ione prophete.
+>
+> *Oratio.* Preces nostras, quesumus, Domine, clementer exaudi, et contra cuncta nobis
+> adversantia dexteram tue maiestatis extende. Per Dominum.
+
+**Translation**
+
+> *[Rubric continued from p. 332:] … And the collect of Matins [i.e. of Lauds] is always
+> said at the hours, unless they have their own.*
+>
+> *Tuesday.* … *Antiphon at the Benedictus:* My house shall be called a house of prayer.
+> (Mt 21:13)
+>
+> *Collect:* Look upon thy household, O Lord, and grant that our minds, which chasten
+> themselves by mortifying the flesh, may shine before thee with longing for thee. Through
+> [our] Lord.
+>
+> *Ember Wednesday.* … *Antiphon at the Benedictus:* This wicked and perverse generation
+> seeks a sign, and no sign shall be given it but the sign of Jonah the prophet.
+> (cf. Mt 12:39)
+>
+> *Collect:* Mercifully hear our prayers, we beseech thee, O Lord, and stretch out the right
+> hand of thy majesty against all that opposes us. Through [our] Lord.
+
+### Thursday and Ember Friday (scan p. 334)
+
+**Latin**
+
+> *Feria v.* … *Ad* Benedictus *antiphona.* Si vos manseritis in sermone meo, vere discipuli
+> mei eritis, et cognoscetis veritatem, et veritas liberabit vos.
+>
+> *Oratio.* Adesto, Domine, supplicationibus nostris, et sperantes in tua misericordia
+> celesti protege benignus auxilio. Per Dominum.
+>
+> *Feria vi [quatuor temporum].* … *Ad* Benedictus *antiphona.* Angelus Domini descendebat
+> de celo, et movebatur aqua, et sanabatur unus.
+>
+> *Oratio.* Esto, Domine, propicius plebi tue, et quam tibi facis esse devotam, benigno
+> refove miseratus auxilio. Per Dominum.
+
+**Translation**
+
+> *Thursday.* … *Antiphon at the Benedictus:* If you continue in my word, you shall be my
+> disciples indeed, and you shall know the truth, and the truth shall make you free.
+> (Jn 8:31–32)
+>
+> *Collect:* Be present, O Lord, to our supplications, and in thy kindness protect with
+> heavenly aid those who hope in thy mercy. Through [our] Lord.
+>
+> *Ember Friday.* … *Antiphon at the Benedictus:* An angel of the Lord came down from heaven,
+> and the water was moved, and one was healed. (cf. Jn 5:4)
+>
+> *Collect:* Be gracious, O Lord, to thy people, and as thou makest them devoted to thee,
+> in thy mercy refresh them with thy kindly help. Through [our] Lord.
