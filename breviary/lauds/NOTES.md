@@ -265,3 +265,13 @@
 - 773–774: NICASIUS; CALLIXTUS; ARCHIOCHUS[?]; LUKE 18 Oct (semidouble; as Matthew) → done
 - 775–779: 11,000 VIRGINS; MARK BP OF JERUSALEM; SEVERINUS; SIMON & JUDE 28 Oct; NARCISSUS BP OF JERUSALEM 29 Oct; QUENTIN 31 Oct → done
 - 780–787: ALL SAINTS 1 Nov (double+octave; ants O beata…Trinitas; Bened. Te gloriosus) + within-octave rubric → done
+- 787–791: ALL SOULS / within octave of All Saints (Lauds ant Sancti Dei omnes; Office of Dead after Prime from 'post psalterium'); octave day 8 Nov → done
+- 791–795: EUSTACE; AMANTIUS; LEONARD; FOUR CROWNED; THEODORE; MENNA → done
+- 796–800: ST MARTIN 11 Nov (semidouble; proper Lauds ants Dixerunt discipuli…; Bened. O quantus luctus) + octave; BRICE 13 Nov → done
+- 807–808: EDMUND KING & MARTYR → done
+- 808–812: PRESENTATION OF BVM 21 Nov (double; Mézières rhymed office; ants Lauda felix ecclesia…) → done
+- 812–816: CECILIA 22 Nov (proper Lauds; Cantantibus organis…) → done
+- 816–818: CLEMENT 23 Nov (proper Lauds; Orante sancto Clemente…); CHRYSOGONUS 24 Nov → done
+- 819–823: CATHERINE 25 Nov (rhymed Lauds; hymn Presens dies expendatur) → done
+- 824: LINUS 26 Nov; FINIS of sanctorale → done
+- NEXT: Commons from p. 825 ("Incipit commune sanctorum extra tempus paschale")
