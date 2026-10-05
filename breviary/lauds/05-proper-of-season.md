@@ -2442,3 +2442,109 @@ After the Epiphany octave the Sundays return to the psalter's Sunday office (see
 the five *Regnavit* antiphons are sung one per psalm on the first Sunday after the
 Epiphany octave and the last before Septuagesima, with a single antiphon on the Sundays
 between.
+
+---
+
+## Weekdays after the octave of the Epiphany (scan pp. 302–303)
+
+The weekdays from the Epiphany octave until Septuagesima use the psalter's weekday Lauds
+unchanged (see [section 3](03-psalter-weekdays.md)): the day's psalter antiphons and
+psalms, the chapter *Fratres, vigilate*, the day's hymn, the versicle *In matutinis*, and
+the day's psalter Benedictus antiphon, followed by the Sunday collect.
+
+**Latin (rubric, scan p. 303)**
+
+> *… preces ut in feria ii prime dominice adventus; et sic omnibus diebus ferialibus ad
+> omnes horas usque ad septuagesimam.*
+>
+> *[Feria iii:]* In laudibus. *Antiphona* Secundum magnam. *Psalmus* Miserere mei.
+> *Antiphona* Salutare. *Psalmus* Iudica me, Deus. *Antiphona* Ad te de luce. *Psalmus*
+> Deus deus. *Antiphona* Cunctis diebus. *Psalmus* Ego dixi. *Antiphona* In excelsis
+> *[?]*. *Psalmus* Laudate. *Capitulum* Fratres vigilate. *Hymnus* Ales diei nuntius. ℣.
+> In matutinis. *Ad* Benedictus *antiphona* Erexit Dominus. *Preces etc., versus; ad omnes
+> horas versus cum oratione dominicali.*
+
+**Translation**
+
+> *… the preces as on the Monday of the first week of Advent; and so on all weekdays at all
+> the hours until Septuagesima.*
+>
+> *[Tuesday:]* At Lauds, the Tuesday antiphons and psalms of the psalter, the chapter
+> Brethren, watch, the hymn *The winged herald of the day*, the versicle *In the morning*,
+> and the Benedictus antiphon *The Lord hath raised up*; then the preces etc.; at all the
+> hours, the versicles with the Sunday collect.
+
+*Notes.* The "preces as on the Monday of the first week of Advent" are the full ferial
+preces transcribed and translated under Advent I above. The fifth antiphon here reads *In
+excelsis*, where the psalter's Tuesday Lauds has *In ecclesiis laudate Deum*; this may be
+a misprint or a variant, and the scan is not clear enough to settle it.
+
+---
+
+## Septuagesima Sunday (scan p. 313)
+
+From Septuagesima the *Te Deum* is dropped and Sunday Lauds changes to its penitential
+form. Psalm 50 *Miserere* and Psalm 117 *Confitemini Domino* replace Psalms 92 and 99,
+and the antiphons are new.
+
+**Latin**
+
+> *[End of Matins:] Non dicitur* Te Deum, *sed reiteratur* ℟. Ubi est Abel. ℣.
+> *Sacerdotalis* Fiat misericordia.
+>
+> In laudibus. *Antiphona.* Miserere mei, Deus, et a delicto meo munda me, quia tibi soli
+> peccavi. *Psalmus* Miserere mei.
+>
+> *Antiphona.* Confitebor tibi, Domine, quoniam exaudisti me. *Psalmus* Confitemini Domino.
+>
+> *Antiphona.* Deus, deus meus, ad te de luce vigilo, quia factus es adiutor meus.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Benedictus es in firmamento celi, et laudabilis [et gloriosus] in secula,
+> Deus noster. *Psalmus* Benedicite.
+>
+> *Antiphona.* Laudate Dominum de celis. *Psalmus* Ipsum.
+>
+> *Capitulum* Benedictio et claritas. *Hymnus* Eterne rerum conditor. ℣. Domine, refugium
+> factus es nobis. ℟. A generatione in generationem.
+>
+> *Ad* Benedictus *antiphona.* Simile est regnum celorum homini patrifamilias, qui exiit
+> primo mane conducere operarios in vineam suam, dicit Dominus.
+>
+> *Oratio* Preces populi *[tui] [cued]*.
+>
+> *Ad primam hymnus* Iam lucis. *Antiphona.* Conventione autem facta cum operariis ex
+> denario diurno, misit eos in vineam suam. …
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum* is not said; instead the responsory *Where is Abel* is
+> repeated. *The priest's versicle* Let thy mercy [, O Lord, be upon us].
+>
+> **At Lauds.** *Antiphon:* Have mercy on me, O God, and cleanse me from my sin, for against
+> thee only have I sinned. *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* I will give thanks to thee, O Lord, for thou hast heard me. *Psalm 117* Give
+> praise to the Lord.
+>
+> *Antiphon:* O God, my God, to thee do I watch at break of day, for thou hast been my
+> helper. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Blessed art thou in the firmament of heaven, and worthy of praise [and
+> glorious] for ever, O our God. (Dan 3:56) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Praise the Lord from the heavens. *Psalm 148*, the same.
+>
+> *Chapter* Blessing and glory. *Hymn* Eternal maker of all things. ℣. Lord, thou hast been
+> our refuge. ℟. From generation to generation.
+>
+> *Antiphon at the Benedictus:* The kingdom of heaven is like a householder who went out
+> early in the morning to hire labourers into his vineyard, says the Lord. (Mt 20:1)
+>
+> *Collect* [Mercifully hear,] we beseech thee, [O Lord,] the prayers of thy people *[cued]*.
+>
+> *At Prime, the hymn* Now that the daylight. *Antiphon:* Having agreed with the labourers for
+> a penny a day, he sent them into his vineyard. (Mt 20:2) …
+
+*Note.* The "penitential" Sunday Lauds introduced here — Pss 50, 117, 62, the *Benedicite*
+and 148 — is the form used on Sundays from Septuagesima to Lent and through Lent.

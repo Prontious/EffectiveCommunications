@@ -86,3 +86,5 @@
 - 294: SUNDAY WITHIN EPIPHANY OCTAVE LAUDS (memorial Fili quid fecisti; collect Vota quesumus) → done
 - 295–297: OCTAVE OF EPIPHANY (13 Jan) LAUDS → done (baptism antiphons Veterem hominem etc.)
 - 298–301: FIRST SUNDAY AFTER EPIPHANY OCTAVE LAUDS (psalter Sunday ants; Bened. Nuptie facte sunt; collect Omnipotens…qui celestia cued) → done
+- 302–303: WEEKDAYS AFTER EPIPHANY → psalter weekday Lauds + Advent I preces 'until Septuagesima' (note: Tue 5th ant 'In excelsis' vs psalter 'In ecclesiis') → done
+- 313: SEPTUAGESIMA SUNDAY LAUDS → done (penitential Sunday Lauds: Pss 50,117,62,Bened.,148; no Te Deum)
