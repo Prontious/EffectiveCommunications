@@ -76,3 +76,5 @@
 - 269–272: ST THOMAS BECKET (29 Dec); collect p.269; LAUDS 271b–272a → done. 272b: Sunday within Christmas octave ('Infra octa. nati.') begins
 - 273: 30 DEC (within octave) LAUDS → done; then St Sylvester 1st Vespers (cap. Ecce vir prudens; ut in communi confessoris); rubric for Sunday within octave
 - 274b–275a: SUNDAY WITHIN CHRISTMAS OCTAVE LAUDS → done (memorial of Sunday, collect Omnipotens…dirige actus). 275: St Sylvester (31 Dec) Matins 'ut in communi unius episcopi et confessoris'
+- 276: ST SYLVESTER LAUDS (cues to Common of bishop-confessor) → done. 276b: 1st Vespers of Circumcision (double)
+- 277–280: CIRCUMCISION; LAUDS p.280 → done (O admirabile commercium set; collect cued only — full text at 1st Vespers ~p.277 not checked)

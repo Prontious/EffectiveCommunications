@@ -1824,3 +1824,146 @@ its own Benedictus antiphon and collect, and makes a memorial of the Sunday itse
 *Note.* The rubric reads *et cetere ad ceteros* ("and the other [antiphons] to the other
 [psalms]"), so on this Sunday all five Christmas antiphons are sung, unlike the single
 antiphon used on 30 December.
+
+---
+
+## St Sylvester, Pope and Confessor — 31 December (scan p. 276)
+
+Sylvester's office is "as in the Common of one bishop and confessor", with lessons from
+his life. At Lauds the book gives only the cues and the Christmastide memorials.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum.
+>
+> In laudibus. *Antiphona* Ecce sacerdos magnus. *Psalmus* Dominus regnavit, *et cetere
+> [antiphone] ad ceteros.*
+>
+> *Capitulum* Benedictionem *[omnium gentium dedit illi]*. *Hymnus* Iesu redemptor. ℣.
+> Iustus germinabit, *cum* alleluia.
+>
+> *Ad* Benedictus *antiphona* Euge *[serve bone]*.
+>
+> *Oratio* Da, quesumus *[cued]*.
+>
+> *Memoria de nativitate. Antiphona* Virgo hodie *etc. Memoria de sancto Stephano.
+> Antiphona* Domine virtus *[?]*. *Memoria de sancto Iohanne. Antiphona* Apparuit caro suo.
+> *Memoria de sanctis innocentibus. Antiphona* Erigitur itaque *[?] etc., ut supra.*
+>
+> *Ad primam antiphona* Ecce sacerdos; *psalmus* Deus in nomine, *et ceteri ut in festis
+> duplicibus. Ad tertiam, sextam et nonam, capitulum etc. ut in communi unius episcopi et
+> confessoris. Responsoria brevia dicuntur cum duplici* alleluia.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*.
+>
+> **At Lauds.** *Antiphon* Behold a great priest; *Psalm 92* The Lord hath reigned, *and the
+> other antiphons [of the Common] to the other psalms.*
+>
+> *Chapter* [He gave him] the blessing [of all nations] (Sir 44:25). *Hymn* Jesus,
+> Redeemer. ℣. The just shall flourish [like the palm tree], *with* alleluia.
+>
+> *Antiphon at the Benedictus* Well done [, good and faithful servant] (Mt 25:21).
+>
+> *Collect* Grant, we beseech thee *[cued]*.
+>
+> *Memorial of the Nativity:* the antiphon *The Virgin today*, etc. *Memorial of St
+> Stephen:* the antiphon *O Lord, the strength [?]*. *Memorial of St John:* the antiphon
+> *He appeared to his own [?]*. *Memorial of the Holy Innocents:* the antiphon *It is raised
+> up, therefore [?]*, etc., *as above.*
+>
+> *At Prime, the antiphon* Behold a great priest; *Psalm 53* Save me, O God, by thy name,
+> *and the others as on double feasts. At Terce, Sext and None, the chapter etc. as in the
+> Common of one bishop and confessor. The short responsories are said with a double*
+> alleluia.
+
+*Note.* All the proper elements here are cues into the Common of a bishop-confessor,
+which is translated in full later (see the Commons section). The memorial antiphons of
+Stephen, John and the Innocents are again very compressed in the print.
+
+---
+
+## The Circumcision of the Lord — 1 January (scan p. 280)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *Sacerdotalis.* Verbum caro factum est,
+> alleluia. ℟. Et habitavit [in nobis, alleluia].
+>
+> In laudibus. *Antiphona.* O admirabile commercium: creator generis humani, animatum corpus
+> sumens, de virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis
+> suam deitatem. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Quando natus es ineffabiliter ex virgine, tunc implete sunt scripture: sicut
+> pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster.
+> *Psalmus* Iubilate.
+>
+> *Antiphona.* Rubum quem viderat Moyses incombustum conservatam agnovimus tuam laudabilem
+> virginitatem: Dei genitrix, intercede pro nobis. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Germinavit radix Iesse; orta est stella ex Iacob; virgo peperit salvatorem:
+> te laudamus, Deus noster. *Psalmus* Benedicite.
+>
+> *Antiphona.* Ecce Maria genuit nobis salvatorem, quem Iohannes videns exclamavit dicens:
+> Ecce agnus Dei, ecce qui tollit peccata mundi, alleluia. *Psalmus* Laudate Dominum de
+> celis.
+>
+> *Capitulum* Populus gentium. *Hymnus* A solis ortus cardine. ℣. Verbum caro.
+>
+> *Ad* Benedictus *antiphona.* Mirabile mysterium declaratur hodie: innovantur nature,
+> Deus homo factus est; id quod fuit permansit, et quod non erat assumpsit, non
+> commixtionem passus neque divisionem.
+>
+> *Oratio* Deus, qui nobis nati salvatoris *[cued]*. *Si dominica fuerit, fiat memoria.
+> Antiphona* Dum medium [silentium], *ut supra.*
+>
+> *Ad primam antiphona* O admirabile commercium; *omnia ut in festis duplicibus. Ad
+> tertiam antiphona* Quando natus es ineffabiliter; *capitulum, responsorium, versus ut in
+> nativitate, cum sequenti oratione* Deus qui nobis nati. *Ad sextam antiphona* Rubum quem
+> viderat, *ut supra in nativitate, cum precedente oratione. Ad nonam antiphona* Ecce
+> Maria, *etc., ut supra in nativitate, cum dicta oratione.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* The Word was made flesh,
+> alleluia. ℟. And dwelt [among us, alleluia].
+>
+> **At Lauds.** *Antiphon:* O wonderful exchange! The Creator of mankind, taking a living
+> body, deigned to be born of a virgin; and, coming forth as man without seed, he has
+> bestowed on us his Godhead. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* When thou wast born in a manner beyond words of a virgin, then the scriptures
+> were fulfilled: thou camest down like rain upon the fleece, to save mankind: we praise
+> thee, our God. (cf. Judg 6:37; Ps 71:6) *Psalm 99* Shout with joy.
+>
+> *Antiphon:* In the bush that Moses saw unburnt we recognise thy praiseworthy virginity
+> preserved: Mother of God, intercede for us. (cf. Ex 3:2) *Psalm 62* O God, my God.
+>
+> *Antiphon:* The root of Jesse has budded; a star has risen out of Jacob; a virgin has
+> borne the Saviour: we praise thee, our God. (cf. Is 11:1; Num 24:17) *Canticle* Bless
+> [the Lord].
+>
+> *Antiphon:* Behold, Mary has borne us the Saviour, whom John saw and cried out, saying:
+> Behold the Lamb of God, behold him who takes away the sins of the world, alleluia.
+> (cf. Jn 1:29) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter* The people [that walked in darkness]. *Hymn* From the sun's rising-point. ℣.
+> The Word was made flesh.
+>
+> *Antiphon at the Benedictus:* A wonderful mystery is made known today: natures are made
+> new; God has become man; what he was he remained, and what he was not he took on,
+> suffering neither mixture nor division.
+>
+> *Collect* O God, who [grantest] us [to keep the octave day] of the Saviour's birth
+> *[cued]*. *If it is a Sunday, a memorial is made [of the Sunday], with the antiphon* While
+> all things were in quiet silence, *as above.*
+>
+> *At Prime, the antiphon* O wonderful exchange; *all as on double feasts. At Terce, the
+> antiphon* When thou wast born beyond words; *chapter, responsory and versicle as on the
+> Nativity, with the collect* O God, who [grantest] us. *At Sext, the antiphon* The bush
+> that [Moses] saw, *as above on the Nativity, with the same collect. At None, the antiphon*
+> Behold, Mary, *etc., as above on the Nativity, with the said collect.*
+
+*Note.* The collect is cued only by its first words here; its full text would be at first
+Vespers (scan p. 277), which has not been transcribed for this section.
