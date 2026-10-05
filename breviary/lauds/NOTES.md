@@ -154,3 +154,4 @@
 - 433–434: PENTECOST EMBER WED (single ant; Bened. Amen amen…qui credit in me; collect Mentes nostras) + THU (Convocatis Iesus duodecim; collect Concede…solemnitatem spiritus sancti) → done
 - 435: PENTECOST EMBER FRI (Bened. Factum est in una dierum; collect Da quesumus ecclesie tue…spiritu sancto congregata) → done
 - 436: PENTECOST EMBER SAT (Bened. Vespere autem facto; collect Mentibus nostris) → done; 1st Vespers TRINITY (double; ants Gloria tibi trinitas…; hymn O lux beata trinitas — Vespers)
+- 437–439: TRINITY SUNDAY LAUDS → done (5 ants O beata…/O vera…/Te iure with attached ℣ Tibi laus / Miserere; cap Benedictio et claritas; hymn Ecce iam noctis; Bened. Benedicta sit creatrix; collect Omnipotens…qui dedisti cued; no memorial)

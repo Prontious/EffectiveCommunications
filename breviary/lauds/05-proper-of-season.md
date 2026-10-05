@@ -5876,3 +5876,90 @@ and so through the rest of the octave.
 > *Collect:* Graciously pour the Holy Spirit into our minds, we beseech thee, O Lord, by whose
 > wisdom we were created and by whose providence we are governed. Through [our] Lord … [in
 > the unity] of the same [Holy Spirit].
+
+---
+
+## Trinity Sunday — *In festo trinitatis* (scan p. 439)
+
+Trinity Sunday is a double. Its Lauds antiphons are unusual: each is printed with a short
+verse (℣.) attached — alternately *Tibi laus, tibi gloria* and *Miserere, miserere* — so
+the antiphon is extended with an acclamation when it is repeated.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Sit nomen Domini benedictum,
+> alleluia. ℟. Ex hoc nunc *[et usque in seculum]*.
+>
+> In laudibus. *Antiphona.* O beata et benedicta et gloriosa trinitas, pater et filius et
+> spiritus sanctus. ℣. Tibi laus, tibi gloria, tibi gratiarum actio. *Psalmus* Dominus
+> regnavit.
+>
+> *Antiphona.* O beata et benedicta et gloriosa trinitas, pater et filius et spiritus
+> sanctus. ℣. Miserere, miserere, miserere nobis. *Psalmus* Iubilate.
+>
+> *Antiphona.* O vera, summa, sempiterna trinitas, pater et filius et spiritus sanctus. ℣.
+> Tibi laus, tibi gloria, tibi gratiarum actio. *Psalmus* Deus deus.
+>
+> *Antiphona.* O vera, summa, sempiterna trinitas, pater et filius et spiritus sanctus. ℣.
+> Miserere, miserere, miserere nobis. *Psalmus* Benedicite.
+>
+> *Antiphona.* Te iure laudant, te adorant, te glorificant omnes creature tue, o beata
+> trinitas. ℣. Tibi laus, tibi gloria, tibi gratiarum actio. *Psalmus* Laudate Dominum de
+> celis.
+>
+> *Capitulum.* Benedictio et claritas et sapientia et gratiarum actio, honor, virtus et
+> fortitudo Deo nostro in secula seculorum. Amen.
+>
+> *Hymnus* Ecce iam noctis *[as on Sundays after Trinity; see section 2]*. ℣. Sit nomen
+> Domini *[benedictum]*.
+>
+> *Ad* Benedictus *antiphona.* Benedicta sit creatrix et gubernatrix omnium, sancta et
+> individua trinitas, et nunc et semper et per infinita seculorum secula.
+>
+> *Oratio* Omnipotens sempiterne Deus, qui dedisti *[famulis tuis in confessione vere fidei
+> eterne trinitatis gloriam agnoscere …] [cued]*.
+>
+> *Nulla fit alia memoria de dominica, nec de octava.*
+>
+> *Ad primam antiphona* O beata *…; cetera ut in festis duplicibus.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Blessed be the name of the Lord,
+> alleluia. ℟. From this time forth [for evermore]. (Ps 112:2)
+>
+> **At Lauds.** *Antiphon:* O blessed and praised and glorious Trinity, Father and Son and
+> Holy Spirit. ℣. To thee be praise, to thee be glory, to thee be thanksgiving. *Psalm 92*
+> The Lord hath reigned.
+>
+> *Antiphon:* O blessed and praised and glorious Trinity, Father and Son and Holy Spirit.
+> ℣. Have mercy, have mercy, have mercy on us. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* O true, supreme, everlasting Trinity, Father and Son and Holy Spirit. ℣. To
+> thee be praise, to thee be glory, to thee be thanksgiving. *Psalm 62* O God, my God.
+>
+> *Antiphon:* O true, supreme, everlasting Trinity, Father and Son and Holy Spirit. ℣. Have
+> mercy, have mercy, have mercy on us. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Rightly do all thy creatures praise thee, adore thee, glorify thee, O blessed
+> Trinity. ℣. To thee be praise, to thee be glory, to thee be thanksgiving. *Psalm 148*
+> Praise the Lord from the heavens.
+>
+> *Chapter:* Blessing and glory and wisdom and thanksgiving, honour, power and strength be to
+> our God for ever and ever. Amen. (Rev 7:12)
+>
+> *Hymn* See, the shadow of night *[as on Sundays after Trinity; see section 2]*. ℣. Blessed
+> be the name of the Lord.
+>
+> *Antiphon at the Benedictus:* Blessed be the creator and ruler of all things, the holy and
+> undivided Trinity, now and for ever and through endless ages of ages.
+>
+> *Collect* Almighty and everlasting God, who hast granted [to thy servants, in the
+> confession of the true faith, to acknowledge the glory of the eternal Trinity …] *[cued]*.
+>
+> *No other memorial is made — neither of the Sunday nor of the octave [of Pentecost].*
+>
+> *At Prime, the antiphon* O blessed …; *the rest as on double feasts.*
+
+*Note.* The Sunday chapter and hymn of the psalter (see [section 2](02-psalter-sunday.md))
+are used, which suits a feast of God himself.
