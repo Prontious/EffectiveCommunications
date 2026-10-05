@@ -2230,7 +2230,9 @@ outside the Latin Gate of Rome and came out unharmed. Lauds is kept as on the fe
 > Iohannis apostoli tui et evangeliste intercessio gloriosa nos protegat. Per Dominum.
 >
 > *Ad matutinas invitatorium, hymni, antiphone, psalmi, versus, responsoria ut in festo sancti
-> Marci* — *and so Lauds also.*
+> Marci.* In laudibus *et ad horas ut in festo sancti Marci. Ad* Benedictus *antiphona (p. 631).*
+> Occurrit beato Iohanni ab exilio revertenti omnis populus virorum ac mulierum, clamantium et
+> dicentium: Benedictus qui venit in nomine Domini. *Oratio ut supra.*
 
 > *St John before the Latin Gate, apostle and evangelist: semidouble.* … *Magnificat antiphon:*
 > Thrown into a cauldron of boiling oil, John the apostle, protected by divine grace, came out
@@ -2241,5 +2243,42 @@ outside the Latin Gate of Rome and came out unharmed. Lauds is kept as on the fe
 > Through [our] Lord.
 >
 > *At Matins the invitatory, hymns, antiphons, psalms, versicles and responsories are as on the feast
-> of St Mark* — and so Lauds also (the Eastertide antiphons *In celestibus regnis*, the hymn *Claro
-> paschali gaudio*, the Benedictus antiphon *Lux perpetua*).
+> of St Mark.* At Lauds and the hours as on the feast of St Mark (the Eastertide antiphons *In
+> celestibus regnis*, the hymn *Claro paschali gaudio*), *but with its own antiphon at the
+> Benedictus:* All the people, men and women, ran out to meet blessed John as he returned from
+> exile, crying out and saying: Blessed is he that comes in the name of the Lord. *The collect as
+> above.*
+
+### The Translation of St Nicholas — 9 May (scan pp. 631–632)
+
+> *Translatio sancti Nicholai episcopi et confessoris, ix lectiones; omnia ut in communi unius
+> episcopi et confessoris, preter antiphonas de* Benedictus *et de* Magnificat, *que dicuntur ut in
+> festo alio sancti Nicholai in mense decembri.*
+>
+> *Oratio.* Deus, bonitatis auctor et bonorum omnium dispensator, concede propitius ut qui beati
+> Nicholai confessoris tui atque pontificis translationis diem veneramur, eius patrocinio atque
+> suffragio maiestatis tue propitiationem consequamur. Per Dominum.
+
+> *The Translation of St Nicholas, bishop and confessor: nine lessons; everything as in the Common of
+> one bishop and confessor, except the antiphons at the* Benedictus *and* Magnificat, *which are said
+> as on his other feast in December* (so the Benedictus antiphon is *Copiose charitatis*).
+>
+> *Collect:* O God, author of goodness and giver of all good things: mercifully grant that we who
+> honour the day of the translation of blessed Nicholas, thy confessor and bishop, may by his
+> patronage and prayers obtain the favour of thy majesty. Through [our] Lord.
+
+*Note.* The lessons tell how merchants of Bari took his body from Myra and brought it to Bari on 9
+May 1087.
+
+### SS Gordian and Epimachus, Martyrs — 10 May (scan p. 632)
+
+> *Sanctorum Gordiani et Epimachi martyrum, ix lectiones; omnia ut in communi plurimorum
+> martyrum.*
+>
+> *Oratio.* Da, quesumus, omnipotens Deus, ut qui beatorum martyrum tuorum Gordiani atque Epimachi
+> solemnia colimus, eorum apud te intercessionibus adiuvemur. Per Dominum.
+
+> *SS Gordian and Epimachus, martyrs: nine lessons; everything as in the Common of several martyrs.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of thy blessed
+> martyrs Gordian and Epimachus may be helped by their intercession with thee. Through [our] Lord.

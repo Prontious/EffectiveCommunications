@@ -222,3 +222,4 @@
 - 628: ST CYRIACUS (Judas) bishop of Jerusalem 4 May (Common martyr-bishop; collect Da quesumus…Quiriaci; Rogation rule) → done
 - 629: ST ANGELUS (Carmelite) 5 May (Common one martyr; collect Deus fidelium remunerator) → done
 - 630: ST JOHN BEFORE THE LATIN GATE 6 May (semidouble; as St Mark; collect Deus qui conspicis quia nos undique) → done
+- 631–632: St John Latin Gate Bened. (Occurrit beato Iohanni) added; TRANSLATION OF ST NICHOLAS 9 May (Bened. as December; collect Deus bonitatis auctor); SS GORDIAN & EPIMACHUS 10 May → done
