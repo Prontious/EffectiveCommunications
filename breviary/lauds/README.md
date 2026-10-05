@@ -26,3 +26,15 @@ rite that the Knights Hospitaller inherited from the Latin Kingdom.
 ## Contents
 
 1. [Rubrics: the general order of Lauds](01-rubrics.md)
+2. [Psalter: Sunday Lauds](02-psalter-sunday.md)
+
+## About the book
+
+A decree printed before the psalter (scan p. 42) explains its origin. On 1 February
+1509, Grand Master **Emery d'Amboise** and the General Chapter of the Order, meeting at
+**Rhodes**, found that the old breviary of the conventual church of St John at Rhodes was
+"confused in many things and defective in many". At the request of the chapter's
+priest-brethren, they had a new breviary drawn from that church's own ordinal, prepared
+by **Brother Anthony Beriat, priest**, and printed. They ordered every church of the Order
+to celebrate the office according to this "Jerusalem breviary" (*breviarium
+hierosolymitanum*).

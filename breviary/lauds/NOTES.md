@@ -12,3 +12,8 @@
 - 30: end Rubric 12 (octave day), Rubric 13 (common octaves) → done; Rubric 14 (list of solemn octaves) begins
 - 31–40: Rubric 14 (octave lists), Rubric 15 (Advent tables, 7 year-types) → summarised with Lauds cue table
 - 40: Rubric 16 (lessons/scripture schedule) begins — check 41–45 for any Lauds clause, then psalter
+- 41: end of Ordinarium ("Ultima rubrica" on weekday memorials — no Lauds) 
+- 42: 1509 Rhodes chapter decree (Emery d'Amboise; compiled by Anthony Beriat) → README
+- 43: PSALTER begins: Sunday Matins (hymns Primo dierum, Nocte surgentes; Ps 1–2)
+- 54–55: SUNDAY LAUDS → 02-psalter-sunday.md (done). 55 col.b: Prime begins (Ps 21)
+- hist OCR: model download failed, fell back to 'lat' — no better; locate by reading images
