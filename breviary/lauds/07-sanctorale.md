@@ -1087,3 +1087,97 @@ of several places where the calendar of the Holy Sepulchre shows through.
 *Note.* His first lesson repeats the tradition (from the *Historia tripartita*) that Ignatius
 heard angels singing antiphons and so introduced antiphonal psalmody into the Church — a fitting
 detail for a breviary.
+
+### The Purification of the Blessed Virgin Mary (Candlemas) — 2 February (scan pp. 570, 574)
+
+A double. First Vespers use the five antiphons of the Circumcision (*O admirabile commercium*
+and the rest), with the chapter *Ecce ego mitto angelum meum* and the hymn *Quod chorus
+vatum*. The candles are blessed after Terce (the rite is printed at the end of the book).
+
+**Latin**
+
+> *[End of Matins: after the prose* Inviolata*] Psalmus* Te Deum. ℣. *sacerdotalis.* Accipiens
+> Symeon puerum in manibus. ℟. Gratias agens benedixit Dominum.
+>
+> In laudibus. *Antiphona.* Responsum accepit Symeon a spiritu sancto non visurum se mortem nisi
+> videret Dominum. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Accipiens Symeon puerum in manibus, gratias agens benedixit Dominum. *Psalmus*
+> Iubilate.
+>
+> *Antiphona.* Symeon iustus et timoratus expectabat redemptionem Israel, et spiritus sanctus
+> erat in eo. *Psalmus* Deus deus.
+>
+> *Antiphona.* Revertere in terram Iude; defuncti sunt enim qui querebant animam pueri.
+> *Psalmus* Benedicite.
+>
+> *Antiphona.* Obtulerunt pro eo Domino par turturum, aut duos pullos columbarum. *Psalmus*
+> Laudate.
+>
+> *Capitulum.* Symeon iustus et timoratus expectabat redemptionem Israel, et spiritus sanctus
+> erat in eo.
+>
+> *Hymnus.* O gloriosa domina, / excelsa super sydera, / qui te creavit provide / lactasti sacro
+> ubere. / Quod Eva tristis abstulit, / tu reddis almo germine; / intrent ut astra flebiles, /
+> celi fenestra facta es. / Tu regis alti ianua, / et porta lucis fulgida; / vitam datam per
+> virginem, / gentes redempte, plaudite. / Maria, plena gratie … Gloria tibi *[cued]*.
+>
+> ℣. Elegit eam Deus et preelegit eam.
+>
+> *Ad* Benedictus *antiphona.* Senex puerum portabat, puer autem senem regebat; quem virgo
+> peperit, et post partum virgo permansit, ipsum quem genuit adoravit.
+>
+> *Oratio.* Omnipotens sempiterne Deus, maiestatem tuam supplices exoramus, ut sicut
+> unigenitus tuus hodierna die cum nostre carnis substantia in templo est presentatus, ita nos
+> facias purificatis tibi mentibus presentari. Per Dominum.
+>
+> *Ad primam et ad alias horas antiphone de laudibus. … Dicta tertia antiphona, magna missa:
+> benedicuntur candele. Quere in fine libri post commune sanctorum.*
+
+**Translation**
+
+> *[End of Matins: after the prose* Inviolate*]* The *Te Deum*. *The priest's versicle:* Simeon
+> took the child into his arms. ℟. And giving thanks he blessed the Lord. (cf. Lk 2:28)
+>
+> **At Lauds.** *Antiphon:* Simeon had received an answer from the Holy Spirit that he should
+> not see death until he had seen the Lord. (Lk 2:26) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Simeon, taking the child into his arms, gave thanks and blessed the Lord. *Psalm
+> 99* Shout with joy.
+>
+> *Antiphon:* Simeon, a just and devout man, was waiting for the redemption of Israel, and the
+> Holy Spirit was in him. (cf. Lk 2:25) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Return into the land of Judah, for they are dead who sought the life of the child.
+> (cf. Mt 2:20) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* They offered for him to the Lord a pair of turtle-doves or two young pigeons.
+> (Lk 2:24) *Psalm 148* Praise.
+>
+> *Chapter:* Simeon, a just and devout man, was waiting for the redemption of Israel, and the
+> Holy Spirit was in him.
+>
+> *Hymn (Venantius Fortunatus):* O glorious Lady, exalted above the stars, thou didst nourish at
+> thy holy breast him who made thee with foresight. What sorrowful Eve took away, thou givest
+> back through thy gracious offspring; that those who weep may enter the stars, thou hast become
+> heaven's window. Thou art the gate of the high King, and the shining door of light; ye
+> redeemed nations, applaud the life given through the Virgin. *[The stanzas]* Mary, full of
+> grace … Glory to thee *[are cued].*
+>
+> ℣. God has chosen her, and forechosen her.
+>
+> *Antiphon at the Benedictus:* The old man carried the child, but the child guided the old
+> man; she whom a virgin bore, and after childbirth remained a virgin, adored the very one she
+> had borne.
+>
+> *Collect:* Almighty and everlasting God, we humbly beseech thy majesty that, as thine
+> only-begotten Son was this day presented in the temple in the substance of our flesh, so thou
+> wouldst grant us to be presented to thee with purified minds. Through [our] Lord.
+>
+> *At Prime and the other hours, the antiphons of Lauds. … When Terce has been said, at the High
+> Mass the candles are blessed: look for it at the end of the book, after the Common of the
+> Saints.*
+
+*Note.* The Benedictus antiphon is the well-known *Senex puerum portabat*. The phrasing printed
+here is slightly compressed ("she whom a virgin bore … adored the one she had borne" — it is the
+virgin who adores the child she bore).

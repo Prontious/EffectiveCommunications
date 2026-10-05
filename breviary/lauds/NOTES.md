@@ -200,3 +200,4 @@
 - 567: ST JULIAN of Le Mans 27 Jan (Common bishop-confessor; collect Deus qui ecclesie tue beatum Iulianum) → done
 - 568: ST AGNES SECUNDO 28 Jan (all as feast; collect Deus qui nos annua…Agnetis) → done
 - 569: SS PAPIAS & MAURUS 29 Jan (Common several martyrs); ST MATTHIAS BISHOP OF JERUSALEM 30 Jan ('Hierusalem' heading; collect Deus qui nos beati Mathie); ST IGNATIUS 1 Feb (collect Presta…Ignatii) → done
+- 570–574: PURIFICATION (Candlemas) 2 Feb (double) LAUDS → done (ants Responsum accepit…; hymn O gloriosa domina; Bened. Senex puerum portabat; collect Omnipotens…maiestatem tuam supplices)
