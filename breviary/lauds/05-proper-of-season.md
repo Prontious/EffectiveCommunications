@@ -2897,3 +2897,113 @@ litany and their preces and collects are added — as Rubric 1 announced ([secti
 > the chapters above. Here the altars are prepared, as is the custom in Lent, and the
 > crosses and images of the saints are covered; and from this Saturday, and thereafter
 > through the whole of Lent, Vespers are said each day before the meal, except on Sundays.*
+
+---
+
+## First Sunday of Lent (scan pp. 329–330)
+
+The Lenten Sundays keep the penitential psalm scheme of Septuagesima (Pss 50, 117, 62,
+the *Benedicite*, 148), with new antiphons, a Lenten chapter, and the Lenten hymn *Audi
+benigne conditor*.
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Ductus est Iesus. ℣. *Sacerdotalis* Dicet Domino. ℟.
+> Susceptor meus es tu.
+>
+> In laudibus. *Antiphona.* Cor mundum crea in me, Deus, et spiritum rectum innova in
+> visceribus meis. *Psalmus* Miserere mei.
+>
+> *Antiphona.* O Domine, salvum me fac; o Domine, bene prosperare. *Psalmus* Confitemini.
+>
+> *Antiphona.* Sic benedicam te in vita mea, Domine, et in nomine tuo levabo manus meas.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* In spiritu humilitatis et in animo contrito suscipiamur, Domine, a te; et sic
+> fiat sacrificium nostrum, ut a te suscipiatur hodie, et placeat tibi, Domine Deus.
+> *Psalmus* Benedicite.
+>
+> *Antiphona.* Laudate Deum celi celorum, et aque omnes *[que super celos sunt]*. *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum.* Ecce nunc tempus acceptabile, ecce nunc dies salutis; nemini dantes ullam
+> offensionem, ut non vituperetur ministerium nostrum.
+>
+> *Hymnus.* Audi, benigne conditor, / nostras preces cum fletibus / in hoc sacro ieiunio /
+> fusas quadragenario.
+> Scrutator alme cordium, / infirma tu scis virium; / ad te reversis exhibe / remissionis
+> gratiam.
+> Multum quidem peccavimus, / sed parce confitentibus; / ad laudem tui nominis / confer
+> medelam languidis.
+> Sic corpus extra conteri / dona per abstinentiam, / ieiunet ut mens sobria / a labe
+> prorsus criminum.
+> Presta, beata trinitas, / concede, simplex unitas, / ut fructuosa sint tuis / ieiuniorum
+> munera. Amen.
+>
+> ℣. Scuto circumdabit te veritas eius. ℟. Non timebis a timore nocturno.
+>
+> *Ad* Benedictus *antiphona.* Ductus est Iesus in desertum a spiritu, ut tentaretur a
+> diabolo; et cum ieiunasset quadraginta diebus et quadraginta noctibus, postea esuriit.
+>
+> *Oratio.* Deus, qui ecclesiam tuam annua quadragesimali observatione purificas, presta
+> familie tue, ut quod a te obtinere abstinendo nititur, hoc bonis operibus exequatur. Per
+> Dominum.
+>
+> *Ad primam antiphona.* Iesus autem cum ieiunasset quadraginta diebus et quadraginta
+> noctibus, postea esuriit. … *Ad tertiam antiphona.* Non in solo pane vivit homo, sed in
+> omni verbo quod procedit de ore Dei. … *Ad sextam antiphona.* Vade, Sathana; non tentabis
+> Dominum Deum tuum. … *Ad nonam antiphona.* Dominum Deum tuum adorabis, et illi soli
+> servies.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Jesus was led* is repeated. *The priest's versicle:*
+> He shall say to the Lord: ℟. Thou art my protector. (Ps 90:2)
+>
+> **At Lauds.** *Antiphon:* Create a clean heart in me, O God, and renew a right spirit
+> within me. (Ps 50:12) *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* O Lord, save me; O Lord, give good success. (Ps 117:25) *Psalm 117* Give
+> praise.
+>
+> *Antiphon:* Thus will I bless thee all my life, O Lord, and in thy name I will lift up my
+> hands. (Ps 62:5) *Psalm 62* O God, my God.
+>
+> *Antiphon:* In a humble spirit and a contrite heart may we be received by thee, O Lord;
+> and so let our sacrifice be made, that it may be received by thee this day and be
+> pleasing to thee, O Lord God. (Dan 3:39–40) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Praise God, ye heavens of heavens, and all ye waters [that are above the
+> heavens]. (cf. Ps 148:4) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* Behold, now is the acceptable time; behold, now is the day of salvation; giving
+> no offence to anyone, that our ministry be not blamed. (2 Cor 6:2–3)
+>
+> *Hymn (attributed to Gregory the Great):*
+> Hear, kind Creator, our prayers poured out with weeping in this holy forty days' fast.
+> Gracious searcher of hearts, thou knowest the weakness of our strength; show the grace of
+> forgiveness to those who return to thee.
+> We have sinned much indeed, but spare those who confess; for the praise of thy name, give
+> healing to the sick.
+> Grant that the body may be outwardly subdued by abstinence, so that the sober mind may
+> fast wholly from the stain of sin.
+> Grant, O blessed Trinity, give, O simple Unity, that the gifts of our fasting may bear
+> fruit for thee. Amen.
+>
+> ℣. His truth shall compass thee with a shield. ℟. Thou shalt not be afraid of the terror
+> of the night. (Ps 90:5)
+>
+> *Antiphon at the Benedictus:* Jesus was led by the Spirit into the desert, to be tempted
+> by the devil; and when he had fasted forty days and forty nights, afterwards he was
+> hungry. (Mt 4:1–2)
+>
+> *Collect:* O God, who purifiest thy Church by the yearly observance of Lent, grant to thy
+> household that what it strives to obtain from thee by abstaining, it may carry out by
+> good works. Through [our] Lord.
+>
+> *At Prime, the antiphon:* And when Jesus had fasted forty days and forty nights,
+> afterwards he was hungry. … *At Terce, the antiphon:* Not by bread alone does man live,
+> but by every word that proceeds from the mouth of God. (Mt 4:4) … *At Sext, the
+> antiphon:* Begone, Satan; thou shalt not tempt the Lord thy God. (cf. Mt 4:7, 10) … *At
+> None, the antiphon:* The Lord thy God shalt thou adore, and him only shalt thou serve.
+> (Mt 4:10)
