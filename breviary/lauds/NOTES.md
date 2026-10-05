@@ -246,3 +246,8 @@
 - 696: DONATUS; CYRIACUS etc 8 Aug; VIGIL OF LAWRENCE → done
 - 696–700: ST LAWRENCE 10 Aug (semidouble; proper Lauds; collect Da nobis…flammas) + octave memorial; Tiburtius → done
 - 700–705: HOLY CROWN OF THE LORD 11 Aug (semidouble; rhymed Lauds; hymn Deus tuorum militum adapted; collect Presta…coronam spineam); Hippolytus memorial → done
+- 706–708: SS HIPPOLYTUS etc 13 Aug (proper narrative Lauds); EUSEBIUS memorial; VIGIL OF ASSUMPTION → done
+- 708–716: ASSUMPTION 15 Aug (double; ants Assumpta est…; Bened. Que est ista; collect Veneranda) + within-octave rubric; AGAPITUS; ROCH → done
+- 716–721: BERNARD 20 Aug; OCTAVE OF ASSUMPTION 22 Aug (all ants; collect Concede); ZACCHAEUS BP OF JERUSALEM 23 Aug; BARTHOLOMEW 24 Aug; LOUIS 25 Aug → done
+- 723–727: ST AUGUSTINE 28 Aug (rhymed narrative Lauds; Bened. In diebus eius; collect Adesto) + octave; HERMES → done
+- 727–730: DECOLLATION OF ST JOHN BAPTIST 29 Aug (double with octave; proper Lauds) → done

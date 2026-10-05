@@ -3723,3 +3723,491 @@ The Hospitallers at Rhodes venerated a Holy Thorn of their own, and pilgrims rep
 flowered on Good Friday. The breviary does not say this, though, so the link is only a likely
 reading. SS Hippolytus and companions (13 August) have three lessons, the rest from the Common of
 many martyrs.
+
+---
+
+## 13 August — SS Hippolytus and Companions (proper Lauds)
+
+*Scan pp. 706–707. The Matins lessons and responsories follow the Lawrence story. Lauds has its own
+narrative antiphons, although the rubric on p. 705 had given the feast only three lessons.*
+
+**Latin**
+
+> *In laudibus an.* Cesar dixit ad Hyppolytum: Factus es insipiens, ut nuditatem tuam non
+> erubescas. *ps.* Dominus regnavit.
+>
+> *an.* Dixit Cesar ad Hyppolytum: Tu magus factus es? Respondens Hyppolytus dixit ad Decium: Non
+> sum ego magus, sed servus Domini mei Iesu Christi. *ps.* Jubilate.
+>
+> *an.* Decius dixit ad Hyppolytum: Sacrifica et vives, ne pereas per tormenta sicut Laurentius.
+> *ps.* Deus deus.
+>
+> *an.* Exemplum merear fieri Laurentii beatissimi martyris. *ps.* Benedicite.
+>
+> *an.* Tunc Valerianus in conspectu Hyppoliti famulos eius martyrizari precepit. *ps.* Laudate.
+>
+> *Capitulum, hymnus, ℣ ut in communi plurimorum martyrum.*
+>
+> *Ad Benedictus an.* Oravit sanctus Hyppolitus voce magna et dixit: Gratias tibi ago, Domine meus
+> Iesu Christe, quia famulos tuos in conspectu meo pati video.
+>
+> *Oratio ut supra* [Da quesumus omnipotens Deus, ut beati Hyppoliti]. *Memoria de sancto
+> Laurentio. Ad horas an. de laudibus; cetera de communi plurimorum martyrum cum oratione
+> propria.*
+
+**Translation**
+
+> *At Lauds, antiphon:* Caesar said to Hippolytus: Thou art become a fool, that thou art not
+> ashamed of thy nakedness. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Caesar said to Hippolytus: Art thou become a sorcerer? Hippolytus answered and said
+> to Decius: I am no sorcerer, but the servant of my Lord Jesus Christ. *Psalm 99* Make a joyful
+> noise.
+>
+> *Antiphon:* Decius said to Hippolytus: Sacrifice and live, lest thou perish under torment like
+> Lawrence. *Psalm 62* O God, my God.
+>
+> *Antiphon:* May I be found worthy to follow the example of Lawrence, the most blessed martyr.
+> *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Then Valerian commanded Hippolytus' household to be martyred before his eyes.
+> *Psalm 148* Praise the Lord.
+>
+> *Chapter, hymn and versicle as in the Common of many martyrs.*
+>
+> *Antiphon at the Benedictus:* Holy Hippolytus prayed with a loud voice and said: I give thee
+> thanks, my Lord Jesus Christ, that I see thy servants suffer before my eyes.
+>
+> *Collect as above* [Grant…that the venerable feast of blessed Hippolytus]. *A memorial of St
+> Lawrence. At the Hours, the antiphons of Lauds; the rest from the Common of many martyrs with
+> the proper collect.*
+
+*Memorial of St Eusebius* (14 August; p. 707): antiphon *Iustum deduxit*, ℣ *Amavit eum
+Dominus*, collect *Deus qui nos beati Eusebii confessoris tui annua solennitate letificas:
+concede propitius, ut cuius natalicia colimus, per eius ad te exempla gradiamur* ("O God, who
+gladdenest us by the yearly feast of blessed Eusebius thy confessor: mercifully grant that we who
+keep his heavenly birthday may walk towards thee by his example"). If St Hippolytus falls on a
+Sunday, his office has nine lessons.
+
+**The Vigil of the Assumption** (pp. 707–708): it is a solemn vigil, and Matins are of the
+Sunday [*sic:* of the feria?]. The office is of the feria, with three lessons from the Gospel
+*Loquente Iesu ad turbas*, responsories from the *historia* In principio, and the collect *Deus
+qui virginalem*. Memorials of St Eusebius and St Lawrence are made. If the vigil falls on a
+Sunday, its Gospel is read on the Saturday before and the rest is of St Hippolytus. On the Sunday
+only a memorial of St Eusebius is made.
+
+---
+
+## 15 August — The Assumption of the Blessed Virgin Mary (double)
+
+*Scan pp. 708–712. First Vespers are as on the Annunciation. The hymn is* O quam glorifica
+*and the Magnificat antiphon* Paradisi porta per Evam cunctis clausa est, et per Mariam virginem
+iterum patefacta est, alleluia. *The Vespers collect is* Deus qui virginalem aulam beate Marie,
+in qua habitares, eligere dignatus es: da quesumus, ut sua nos defensione munitos iocundos
+faciat sue interesse festivitati.*
+
+**Latin**
+
+> *In laudibus an.* Assumpta est Maria in celum; gaudent angeli, laudantes benedicunt Dominum.
+> *ps.* Dominus regnavit.
+>
+> *an.* Maria virgo assumpta est ad ethereum thalamum, in quo rex regum stellato sedet solio.
+> *ps.* Jubilate.
+>
+> *an.* In odore unguentorum tuorum currimus; adolescentule dilexerunt te nimis. *ps.* Deus deus.
+>
+> *an.* Benedicta filia tu a Domino, quia per te fructum vite communicavimus. *ps.* Benedicite.
+>
+> *an.* Pulchra es et decora, filia Ierusalem, terribilis ut castrorum acies ordinata.
+> *ps.* Laudate.
+>
+> *Capitulum.* Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et
+> honestatis. Ego mater pulchre dilectionis, et timoris, et magnitudinis, et sancte spei.
+>
+> *Hymnus* O gloriosa domina. *℣.* Elegit eam.
+>
+> *Ad Benedictus an.* Que est ista que ascendit sicut aurora consurgens, pulchra ut luna, electa
+> ut sol, terribilis ut castrorum acies ordinata?
+>
+> *Oratio.* Veneranda nobis, Domine, huius diei festivitas opem conferat salutarem, in qua sancta
+> Dei genitrix mortem subiit temporalem, nec tamen mortis nexibus deprimi potuit, que Filium tuum
+> Dominum nostrum de se genuit incarnatum. Qui tecum.
+>
+> *Ad primam et ad alias horas an. de laudibus.*
+
+**Translation**
+
+> *At Lauds, antiphon:* Mary is taken up into heaven; the angels rejoice, and praising they bless
+> the Lord. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The Virgin Mary is taken up into the heavenly bridal chamber, where the King of
+> kings sits on his starry throne. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* We run after the odour of thy ointments; the maidens have loved thee exceedingly.
+> (Cant 1:3) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Blessed art thou, daughter, of the Lord, for through thee we have partaken of the
+> fruit of life. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Thou art beautiful and comely, daughter of Jerusalem, terrible as an army set in
+> array. (Cant 6:3) *Psalm 148* Praise the Lord.
+>
+> *Chapter:* As the vine I have brought forth a pleasant odour, and my flowers are the fruit of
+> honour and riches. I am the mother of fair love, and of fear, and of knowledge, and of holy
+> hope. (Ecclus 24:23–24)
+>
+> *Hymn* O glorious Lady. *℣.* [God] hath chosen her.
+>
+> *Antiphon at the Benedictus:* Who is she that cometh up as the morning rising, fair as the moon,
+> bright as the sun, terrible as an army set in array? (Cant 6:9)
+>
+> *Collect:* May the venerable festival of this day, O Lord, bring us saving help, on which the
+> holy Mother of God underwent temporal death, and yet could not be held down by the bonds of
+> death, she who bore of herself thy Son our Lord incarnate. Who with thee.
+>
+> *At Prime and the other Hours, the antiphons of Lauds.*
+
+**Within the octave** (pp. 712–713). The octave is solemn. Matins have nine psalms of the Virgin
+with one antiphon, *Exaltata es*, and lessons from the Song of Songs.
+
+> *In laudibus an.* Assumpta est. *ps.* Dominus regnavit *et cetera, cum hac sola. Capitulum,
+> hymnus, ℣ ut in die. Ad Benedictus et ad Magnificat dicuntur antiphone nocturnorum alternatim
+> per octavas. Oratio ut in die, que dicitur ad omnes horas. Memoria de sancto Laurentio ad
+> matutinum et ad vesperas. Ad omnes horas ut in die.*
+>
+> *At Lauds, the antiphon* Mary is taken up, *Psalm 92 and the rest, under this one antiphon.
+> Chapter, hymn and versicle as on the feast. At the Benedictus and Magnificat the Matins
+> antiphons are sung in turn through the octave. The collect of the feast is said at all the
+> Hours. A memorial of St Lawrence at Lauds and Vespers. All the Hours as on the feast.*
+
+*Memorial of St Agapitus* (18 August, within the octave; p. 716): a memorial only, at Lauds and
+Vespers. The collect is *Letetur ecclesia tua, Deus, beati Agapiti martyris tui confisa
+suffragiis, atque eius precibus gloriosis et devota permaneat et secura consistat* ("Let thy
+Church, O God, rejoice, trusting in the prayers of blessed Agapitus thy martyr; and by his
+glorious intercession may she remain devout and stand secure").
+
+*St Roch* (16 August, p. 721) falls within the octave. It "is transferred to the first free day
+after the feast of St Louis", with nine lessons from the Common of a confessor not a bishop.
+
+---
+
+## 20 August — St Bernard, Abbot
+
+*Scan p. 721.*
+
+**Latin**
+
+> *Sancti Bernardi confessoris. ix lectiones. Oratio.* Perfice in nobis, quesumus Domine, pium
+> sancte religionis effectum, et ad obtinendam gratie tue largitatem beatus Bernardus abbas et
+> doctor egregius suis apud te semper pro nobis meritis et precibus intercedat. Per Dominum
+> nostrum. *Cetera ut unius confessoris non episcopi.*
+
+**Translation**
+
+> *St Bernard, confessor. Nine lessons. Collect:* Perfect in us, we beseech thee, O Lord, the
+> loving effect of holy religion; and may blessed Bernard, abbot and illustrious doctor, always
+> intercede for us with thee by his merits and prayers, that we may obtain the bounty of thy
+> grace. *The rest as for one confessor not a bishop.*
+
+---
+
+## 22 August — Octave of the Assumption
+
+*Scan pp. 716–717. Nine lessons. The Vespers collect is proper, with a memorial of SS Timothy and
+Symphorian.*
+
+**Latin**
+
+> *In laudibus omnes antiphone dicuntur. Capitulum* In omnibus [requiem quesivi]. *Hymnus* O
+> gloriosa. *℣.* Elegit eam. *Ad Benedictus an.* Que est ista.
+>
+> *Oratio.* Concede quesumus omnipotens Deus, ad beate Marie semper virginis gaudia eterna
+> pertingere, de cuius nos veneranda assumptione tribuis annua solennitate gaudere. Per.
+>
+> *Memoria sanctorum [Timothei et Symphoriani], an.* Fulgebunt. *℣.* Mirabilis. *Oratio.* Auxilium
+> tuum nobis, Domine quesumus, placatus impende, et intercedentibus sanctis martyribus tuis
+> Timotheo atque Symphoriano, dexteram super nos tue propitiationis extende. Per Dominum.
+>
+> *Ad horas ut in die cum oratione propria.*
+
+**Translation**
+
+> *At Lauds all [five] antiphons are said. Chapter* In all these I sought rest. (Ecclus 24:11)
+> *Hymn* O glorious Lady. *℣.* [God] hath chosen her. *Antiphon at the Benedictus* Who is she.
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we may come to the eternal joys of blessed
+> Mary ever virgin, in whose venerable Assumption thou grantest us to rejoice with yearly
+> solemnity.
+>
+> *A memorial of the saints [Timothy and Symphorian], antiphon* The just shall shine. *℣.*
+> Wonderful. *Collect:* Be appeased, O Lord, we beseech thee, and grant us thy help; and at the
+> intercession of thy holy martyrs Timothy and Symphorian stretch forth over us the right hand of
+> thy mercy.
+>
+> *At the Hours as on the feast, with the proper collect.*
+
+*Note.* The octave day returns to all five Lauds antiphons, where within the octave only the
+first was used.
+
+---
+
+## 23 August — St Zacchaeus, Bishop of Jerusalem
+
+*Scan pp. 717–718.*
+
+**Latin**
+
+> *Memoria sancti Zachei episcopi Hierusalem, an.* Confessor Domini. *℣.* Amavit eum. *Oratio.*
+> Tribue quesumus Domine infirmitati nostre spirituale subsidium, ut qui beati Zachei confessoris
+> tui atque pontificis memoriam veneramur, ipsius meritis ab omnibus liberemur offensis. Per.
+>
+> *Sancti Zacheii episcopi Hierusalem. ix lectiones. vii lectio erit de evangelio vigilie sancti
+> Bartholomei, ut in vigiliis apostolorum. Cetera erunt de sancto Zacheo ut in communi unius
+> episcopi et confessoris. … Memoria de sancto Zacheo, propter quod nullas habuit vesperas, fit
+> memoria ut in rubrica nova.*
+
+**Translation**
+
+> *A memorial of St Zacchaeus, bishop of Jerusalem, antiphon* Confessor of the Lord. *℣.* [The
+> Lord] loved him. *Collect:* Grant, we beseech thee, O Lord, spiritual help to our weakness,
+> that we who venerate the memory of blessed Zacchaeus thy confessor and bishop may by his merits
+> be freed from all offences.
+>
+> *St Zacchaeus, bishop of Jerusalem. Nine lessons; the seventh is the Gospel of the vigil of St
+> Bartholomew, as on the vigils of apostles. The rest of St Zacchaeus as in the Common of one
+> bishop and confessor. [At Bartholomew's first Vespers] a memorial of St Zacchaeus is made,
+> because he had no [second] Vespers, as in the new rubric.*
+
+*Note.* Zacchaeus, a second-century bishop of Jerusalem, is one more of the Jerusalem bishops in
+this calendar, alongside Cyriacus, Alexander and Matthias. They reflect the book's Holy Sepulchre
+inheritance (see README). The reference to a *rubrica nova* shows that the compilers of 1509
+were adjusting older rubrics.
+
+---
+
+## 24 August — St Bartholomew, Apostle (semidouble)
+
+*Scan pp. 717–719. Proper first Vespers hymn,* Bartholomee celi sydus.
+
+**Latin**
+
+> *Ad matutinum invitatorium, hymnus, antiphone, psalmi, versus, responsoria etc. ut in communi
+> apostolorum. … Cetera omnia ut in communi apostolorum cum oratione propria.*
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui huius diei venerandam sanctamque letitiam in beati
+> apostoli tui Bartholomei festivitate tribuisti: da ecclesie tue quesumus, et amare quod credidit,
+> et predicare quod docuit. Per Dominum.
+
+**Translation**
+
+> *At Matins the invitatory, hymn, antiphons, psalms, versicles and responsories as in the Common
+> of Apostles. … All else as in the Common of Apostles with the proper collect.*
+>
+> *Collect:* Almighty everlasting God, who hast given us the venerable and holy joy of this day in
+> the feast of blessed Bartholomew thy apostle: grant to thy Church, we beseech thee, both to love
+> what he believed and to preach what he taught.
+
+---
+
+## 25 August — St Louis, King of France
+
+*Scan p. 719. At Vespers of St Bartholomew, a memorial: antiphon* Similabo eum, *℣* Amavit eum.
+
+**Latin**
+
+> *Oratio.* Deus qui beatum Ludovicum confessorem tuum de temporali ac terreno ad eterni et
+> celestis regni gloriam transtulisti: eius quesumus meritis et intercessione regis regum Iesu
+> Christi Filii tui coheredes nos efficias, et eiusdem regni tribuas esse consortes. Per eundem.
+>
+> *Sancti Ludovici regis Francorum. ix lectiones; omnia fiant ut unius confessoris non episcopi.*
+
+**Translation**
+
+> *Collect:* O God, who didst bring blessed Louis thy confessor from a temporal and earthly kingdom
+> to the glory of the eternal and heavenly kingdom: by his merits and intercession, we beseech
+> thee, make us co-heirs of the King of kings, Jesus Christ thy Son, and grant us to share in the
+> same kingdom.
+>
+> *St Louis, King of the Franks. Nine lessons; everything as for one confessor not a bishop.*
+
+*Note.* The lessons dwell on Louis's crusade: "hearing of the ruin of the Holy Land, like another
+Mattathias … he resolved to cross the sea". For an Order of the Hospital that reading fits well.
+
+---
+
+## 28 August — St Augustine, Bishop and Doctor
+
+*Scan pp. 723–727. The office is wholly proper and rhymed, with narrative antiphons from Possidius'
+Life. It is ranked as a feast with an octave. The Vespers hymn is* Celi cives applaudite.
+
+**Latin**
+
+> *℣.* Ora pro nobis beate Augustine.
+>
+> *In laudibus an.* Post mortem matris eversus est Augustinus ad agros proprios, ubi cum amicis
+> ieiuniis et orationibus vacans scribebat libros et docebat indoctos. *ps.* Dominus regnavit.
+>
+> *an.* Comperta autem eius fama, beatus Valerius Yponensis episcopus ad se accersiri fecit, et
+> licet invitum presbyterum ordinavit. *ps.* Jubilate.
+>
+> *an.* Factus ergo presbyter monasterium clericorum mox instituit, et cepit vivere secundum
+> regulam sub sanctis apostolis constitutam. *ps.* Deus deus.
+>
+> *an.* Sanctus autem Valerius, ordinator eius, exultabat uberius, hominem sibi talem datum
+> divinitus, qui in doctrina sana edificaret ecclesiam. *ps.* Benedicite.
+>
+> *an.* Eodem tempore Fortunatus, presbyter Manicheorum, versutia plurimos seducebat, quem sanctus
+> Augustinus in conventu omnium disputans publice superavit. *ps.* Laudate Dominum.
+>
+> *Capitulum* Benedictionem [omnium gentium]. *Hymnus* Iesu redemptor. *℣.* Iustus germinabit.
+>
+> *Ad Benedictus an.* In diebus eius obsessa est civitas Yponensis ab exercitu barbarorum, iterque
+> mala fuerunt Augustino lacryme sue panes die ac nocte; atque sub hoc eventu ad extremam horam
+> veniens obdormivit in pace.
+>
+> *Oratio.* Adesto supplicationibus nostris, omnipotens Deus, et quibus fiduciam sperande pietatis
+> indulges, intercedente beato Augustino confessore tuo atque pontifice, consuete misericordie
+> tribue benignus effectum. Per Dominum.
+>
+> *Memoria de sancto Hermete martyre, an.* Nisi granum frumenti. *℣.* Magna [est gloria]. *Oratio*
+> (*ut in primis vesperis*): Deus qui beatum Hermetem martyrem tuum virtute constantie in passione
+> roborasti: ex eius nobis imitatione tribue, pro amore tuo prospera mundi despicere, et nulla eius
+> adversa formidare. Per Dominum.
+>
+> *Ad horas an. de laudibus; capitula, responsoria, versus ut in communi unius episcopi et
+> confessoris, cum oratione supradicta.*
+
+**Translation**
+
+> *℣.* Pray for us, blessed Augustine.
+>
+> *At Lauds, antiphon:* After his mother's death Augustine went back to his own lands, where with
+> his friends, giving himself to fasting and prayer, he wrote books and taught the unlearned.
+> *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* When his fame was known, blessed Valerius, bishop of Hippo, had him summoned, and
+> ordained him priest, though against his will. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Made priest, he at once founded a monastery of clerics, and began to live according
+> to the rule established under the holy apostles. *Psalm 62* O God, my God.
+>
+> *Antiphon:* And holy Valerius, who ordained him, rejoiced the more that such a man had been
+> given him by God, to build up the Church in sound doctrine. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* At that time Fortunatus, a Manichaean priest, was leading many astray by his
+> cunning; holy Augustine disputed with him publicly before an assembly of all, and overcame him.
+> *Psalm 148* Praise the Lord.
+>
+> *Chapter* The blessing of all nations. (Ecclus 44:25) *Hymn* Jesu, Redeemer. *℣.* The just
+> shall spring up.
+>
+> *Antiphon at the Benedictus:* In his days the city of Hippo was besieged by an army of
+> barbarians, and in these evils his tears were Augustine's bread day and night; and amid this,
+> coming to his last hour, he fell asleep in peace.
+>
+> *Collect:* Be present at our supplications, almighty God; and to us whom thou permittest to
+> trust in hope of thy loving-kindness, grant in thy goodness, at the intercession of blessed
+> Augustine thy confessor and bishop, the effect of thy accustomed mercy.
+>
+> *A memorial of St Hermes, martyr, antiphon* Unless the grain of wheat. *℣.* Great [is his
+> glory]. *Collect* (as at first Vespers): O God, who didst strengthen blessed Hermes thy martyr
+> in his passion with the power of constancy: grant us by imitating him to despise the prosperity
+> of the world for love of thee, and to fear none of its adversities.
+>
+> *At the Hours, the antiphons of Lauds; chapters, responsories and versicles as in the Common of
+> one bishop and confessor, with the collect above.*
+
+*Note.* Augustine's feast is unusually full for a non-Augustinian house, with a proper rhymed
+office and an octave. The Order of St John followed the Rule of St Augustine (it is named in the
+1509 statutes), and that probably explains the honour. The fifth antiphon's "monastery of clerics
+living under the apostolic rule" describes canons regular, which the Holy Sepulchre canons were.
+
+**Within the octave** (p. 730): *Per octavas sancti Augustini de eo fit memoria tantum ad
+matutinum et vesperas, et dicuntur antiphone nocturnorum consecutive; in dominica infra octavas
+et in octava antiphone de Magnificat et Benedictus ut in die.* "Throughout the octave of St
+Augustine a memorial of him is made only at Lauds and Vespers, with the Matins antiphons in turn.
+On the Sunday within the octave and on the octave day, the Magnificat and Benedictus antiphons are
+as on the feast." At second Vespers a memorial is made with the collect *Deus qui beatum
+Augustinum ecclesie tue in exponendis sacre scripture misteriis doctorem optimum et electum
+antistitem providisti: da nobis quesumus, ut eius semper et doctrina instruamur et oratione
+fulciamur* ("O God, who didst provide blessed Augustine for thy Church as the best of doctors in
+expounding the mysteries of holy Scripture and as a chosen bishop: grant us, we beseech thee,
+ever to be taught by his doctrine and upheld by his prayer"). A memorial of St Sabina follows.
+
+---
+
+## 29 August — The Beheading of St John the Baptist (double, with octave)
+
+*Scan pp. 727–730. This is the second great feast of the Order's patron. First Vespers collect:*
+Sancti Iohannis Baptiste et martyris tui, Domine quesumus, veneranda solennitas salutaris auxilii
+nobis prestet effectum. *Magnificat antiphon:* Arguebat Herodem Iohannes propter Herodiadem quam
+tulerat fratri suo Philippo uxorem. *Matins invitatory* Justus florebit.
+
+**Latin**
+
+> *In laudibus an.* Herodes enim tenuit et ligavit Iohannem, et posuit in carcerem propter
+> Herodiadem. *ps.* Dominus regnavit.
+>
+> *an.* Puelle saltanti imperavit mater: Nihil aliud petas nisi caput Iohannis. *ps.* Jubilate.
+>
+> *an.* Domine mi rex, da mihi in disco caput Iohannis Baptiste. *ps.* Deus deus.
+>
+> *an.* Da mihi in disco caput Iohannis Baptiste; et contristatus est rex propter iusiurandum.
+> *ps.* Benedicite.
+>
+> *an.* Misit rex incredulus ministrum detestabilem, et amputari iussit caput Iohannis Baptiste.
+> *ps.* Laudate Dominum.
+>
+> *Capitulum.* Misit Herodes rex manus, ac tenuit Iohannem, et vinxit eum in carcere, quia
+> metuebat eum propter Herodiadem, quam tulerat fratri suo Philippo uxorem.
+>
+> *Hymnus* Martyr Dei qui unicum. *℣.* Magna est gloria.
+>
+> *Ad Benedictus an.* Misso Herodes spiculatore precepit amputari caput Iohannis in carcere; quo
+> audito discipuli eius venerunt et tulerunt corpus eius, et posuerunt illud in monumento.
+>
+> *Oratio ut supra* [Sancti Iohannis Baptiste et martyris tui]. *Memoria sancte Sabine. Memoria
+> sancti Augustini, an.* Aperuit. *Oratio ut in die.*
+>
+> *Ad primam et ad omnes horas an. de laudibus. Cetera omnia alia ut in nativitate eiusdem, cum
+> oratione propria.*
+
+**Translation**
+
+> *At Lauds, antiphon:* For Herod had laid hold on John and bound him, and put him in prison for
+> Herodias' sake. (Mk 6:17) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Her mother commanded the dancing girl: Ask nothing else but the head of John.
+> *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* My lord king, give me in a dish the head of John the Baptist. *Psalm 62* O God, my
+> God.
+>
+> *Antiphon:* Give me in a dish the head of John the Baptist; and the king was struck sad, because
+> of his oath. (Mt 14:8–9) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* The faithless king sent a hateful executioner and commanded the head of John the
+> Baptist to be cut off. *Psalm 148* Praise the Lord.
+>
+> *Chapter:* Herod the king laid hands on John and bound him in prison, because he feared him on
+> account of Herodias, whom he had taken from his brother Philip as wife. (after Mk 6:17–20)
+>
+> *Hymn* Martyr of God, who [following] the only [Son]. *℣.* Great is [his] glory.
+>
+> *Antiphon at the Benedictus:* Herod sent an executioner and commanded John's head to be cut off
+> in the prison; and when his disciples heard of it, they came and took his body and laid it in a
+> tomb. (Mk 6:27–29)
+>
+> *Collect as above:* May the venerable feast of St John the Baptist, thy martyr, O Lord, we
+> beseech thee, bring us the effect of saving help. *A memorial of St Sabina. A memorial of St
+> Augustine, antiphon* He opened. *Collect as on the feast.*
+>
+> *At Prime and all the Hours, the antiphons of Lauds. All else as on his Nativity, with the proper
+> collect.*
+
+**Within the octave** (p. 730): *Per octavas sancti Iohannis fit ut moris est per alias octavas
+facere, ut in rubrica xiii.* "Throughout the octave of St John it is done as is the custom in
+other octaves, as in Rubric 13."
+
+*Note.* Most uses keep the Decollation as a simple feast. Here it is a double with a full octave,
+because John the Baptist is the patron of the Hospital.
