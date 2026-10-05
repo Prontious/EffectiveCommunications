@@ -1496,3 +1496,44 @@ antiphon.
 > *Collect:* Grant, we beseech thee, almighty God, that through the intercession of blessed
 > Albinus, thy confessor and bishop, we may by his merits obtain pardon and peace. Through [our]
 > Lord.
+
+### St Cyril of Mount Carmel, Confessor — 6 March (scan pp. 595–596)
+
+> *Sancti Cirilli confessoris, ix lectiones; omnia ut in communi unius confessoris non episcopi.*
+>
+> *Oratio.* Deus, immense sapientie doctor et abyssalis iudicii revelator, presta, quesumus, ut
+> qui beati Cyrilli sacri presbyteri missarum solemniis angelico aspectu sic et affatu futuri
+> status docuisti, corda nostra gratia tua illustrare digneris, ut presentis seculi contagiis
+> expurgati, viam vite eterne sine erroris devio in celestibus consummare valeamus. Per Dominum.
+
+> *St Cyril, confessor: nine lessons; everything as in the Common of one confessor not a bishop.*
+>
+> *Collect:* O God, teacher of boundless wisdom and revealer of judgement unfathomable, grant, we
+> beseech thee, that as thou didst teach blessed Cyril, thy holy priest, at the solemn rites of
+> Mass by the sight and speech of an angel concerning the state to come, so thou wouldst deign to
+> enlighten our hearts by thy grace, that, cleansed from the defilements of this present world, we
+> may complete without straying the way of eternal life in heaven. Through [our] Lord.
+
+*Note.* His lessons describe him as a learned Greek priest who lived as a hermit on **Mount
+Carmel** among the brethren there, and was shown silver tablets by an angel while saying Mass.
+His name is printed *Cirinus* in the running head and *Cirillus* / *Cyrillus* in the text. The
+collect is long and clumsy in the print; my reading follows its sense.
+
+### SS Perpetua and Felicity, Martyrs — 7 March (scan p. 596)
+
+> *Sanctarum Perpetue et Felicitatis, ix lectiones; omnia ut in communi martyrum, mutatis
+> mutandis.*
+>
+> *Oratio.* Da nobis, quesumus, Domine Deus noster, sanctarum martyrum tuarum Perpetue et
+> Felicitatis palmas incessabili devotione venerari, ut quas digna mente non possumus celebrare,
+> humilibus saltem frequentemus obsequiis. Per Dominum.
+
+> *SS Perpetua and Felicity: nine lessons; everything as in the Common of martyrs, with the
+> necessary changes [for women].*
+>
+> *Collect:* Grant us, O Lord our God, we beseech thee, to venerate with unceasing devotion the
+> palms of thy holy martyrs Perpetua and Felicity, that, though we cannot celebrate them as their
+> worth deserves, we may at least honour them with humble service. Through [our] Lord.
+
+*Note.* The lessons that follow tell of a different Felicity: the Roman mother of seven martyred
+sons. Medieval books often merged the two.

@@ -207,3 +207,4 @@
 - 588: ST VALENTINE 14 Feb (Common; collect Presta…Valentini) + SS FAUSTINUS & JOVITA 15 Feb (Common several martyrs) → done
 - 589: ST JULIANA 16 Feb (Common virgin-martyr; collect Omnipotens…qui infirma mundi eligis — full text) → done
 - 590–594: CHAIR OF ST PETER 22 Feb (semidouble no alleluia; Bened. Quodcunque ligaveris; collect cued) + ST MATTHIAS AP 24 Feb (semidouble; ant Hoc est preceptum; collect Deus qui beatum Mathiam) + ST ALBINUS 1 Mar → done
+- 595–596: ST CYRIL of Carmel 6 Mar (Common conf. non-bishop; long collect) + SS PERPETUA & FELICITY 7 Mar (Common martyrs mutatis mutandis; collect Da nobis…palmas) → done
