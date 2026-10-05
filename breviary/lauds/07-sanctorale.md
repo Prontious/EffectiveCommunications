@@ -1366,3 +1366,46 @@ martyrdom, so she was invoked against toothache, as the collect shows.
 *Note.* The collect recalls the story in St Gregory's *Dialogues*: Scholastica prayed for a storm
 so that her brother St Benedict could not leave their last conversation and return to his
 monastery.
+
+### St Valentine, Priest and Martyr — 14 February (scan p. 588)
+
+> *Sancti Valentini presbyteri et martyris, ix lectiones: vi de vita eius, et tres de evangelio*
+> Si quis vult venire *[post me]*; *cetera ut in communi [unius martyris].*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui beati Valentini martyris tui natalicia
+> colimus, a cunctis malis imminentibus eius intercessione liberemur. Per Dominum.
+
+> *St Valentine, priest and martyr: nine lessons — six from his life, and three on the gospel* If
+> any man will come [after me]; *the rest as in the Common [of one martyr].*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the heavenly birthday of
+> blessed Valentine thy martyr may by his intercession be delivered from all the evils that
+> threaten us. Through [our] Lord.
+
+### SS Faustinus and Jovita, Martyrs — 15 February (scan p. 588)
+
+> *Sanctorum Faustini et Iovite martyrum, ix lectiones; omnia de communi plurimorum martyrum, sed
+> pro vii, viii et ix lectionibus leguntur sequentes lectiones* [*from their Passion*].
+
+> *SS Faustinus and Jovita, martyrs: nine lessons; everything from the Common of several martyrs,
+> but for the seventh, eighth and ninth lessons the following lessons [from their Passion] are
+> read.*
+
+### St Juliana, Virgin and Martyr — 16 February (scan p. 589)
+
+> *Sancte Iuliane virginis et martyris, ix lectiones: viii de vita ipsius, et ix de evangelio*
+> Simile est regnum celorum thesauro; *cetera ut in communi unius virginis et martyris.*
+>
+> *Oratio.* Omnipotens sempiterne Deus, qui infirma mundi eligis ut fortia queque confundas, da
+> nobis in festivitate sancte martyris tue Iuliane congrua devotione gaudere, ut et potentiam
+> tuam in eius passione laudemus, et provisum nobis percipiamus auxilium. Per Dominum.
+
+> *St Juliana, virgin and martyr: nine lessons — eight from her life, and the ninth on the gospel*
+> The kingdom of heaven is like a treasure; *the rest as in the Common of one virgin and martyr.*
+>
+> *Collect:* Almighty and everlasting God, who choosest the weak things of the world to confound
+> the strong: grant us to rejoice with fitting devotion on the feast of thy holy martyr Juliana,
+> that we may both praise thy power in her passion and receive the help provided for us. Through
+> [our] Lord.
+
+*Note.* This is the collect cued for St Agnes (21 January) above; here it is printed in full.

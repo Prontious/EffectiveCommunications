@@ -204,3 +204,5 @@
 - 575–576: ST BLAISE 3 Feb (Vespers in St Blaise chapel 'ob reverentiam reliquiarum'; collect Omnipotens…qui sanctum Blasium; Common martyr-bishop) + PURIFICATION OCTAVE rubric (single ant at Lauds) → done
 - 577–583: ST AGATHA 5 Feb LAUDS → done (ants Quis es tu…; Bened. Paganorum multitudo); SS VEDAST & AMANDUS 6 Feb (Common several confessors; collect Exaudi Domine populum tuum) → done
 - 585–586: ST APOLLONIA 9 Feb (Common virgin-martyr; collect Deus qui beatam Apolloniam…dolorem dentium) + ST SCHOLASTICA 10 Feb (Common virgin non-martyr; collect Familiam tuam…Scholastice) → done
+- 588: ST VALENTINE 14 Feb (Common; collect Presta…Valentini) + SS FAUSTINUS & JOVITA 15 Feb (Common several martyrs) → done
+- 589: ST JULIANA 16 Feb (Common virgin-martyr; collect Omnipotens…qui infirma mundi eligis — full text) → done
