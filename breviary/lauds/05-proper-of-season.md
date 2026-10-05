@@ -5780,3 +5780,99 @@ with the chapter *Apparuerunt* in place of the Sunday's *Factus est repente*.
 > *Collect:* May the power of the Holy Spirit be with us, O Lord, we beseech thee, both to
 > cleanse our hearts mercifully and to guard us from all adversity. Through [our] Lord … in
 > the unity of the same [Holy Spirit].
+
+### Ember Wednesday and Thursday of Pentecost week (scan pp. 433–434)
+
+From Wednesday the Pentecost antiphons are sung as a single antiphon over all the psalms,
+and so through the rest of the octave.
+
+**Latin**
+
+> *Feria iiii quatuor temporum.* … *Psalmus* Te Deum. ℣. *sacerdotalis* Emitte spiritum.
+>
+> In laudibus *antiphona* Dum complerentur dies. *Psalmus* Dominus regnavit, *et ceteri
+> psalmi cum hac sola; et sic per octavam. Hymnus,* ℣. *versus.*
+>
+> *Ad* Benedictus *antiphona.* Amen, amen dico vobis, qui credit in me habet vitam eternam,
+> alleluia, alleluia.
+>
+> *Oratio.* Mentes nostras, quesumus, Domine, paraclitus qui a te procedit illuminet, et
+> inducat in omnem, sicut tuus promisit filius, veritatem, Iesus Christus Dominus noster.
+> Qui tecum …
+>
+> *Feria v.* … In laudibus *ut hesterna die. Ad* Benedictus *antiphona.* Convocatis Iesus
+> duodecim discipulis, dedit illis virtutem et potestatem super omnia demonia, et ut
+> languores curarent; et misit illos predicare regnum Dei et sanare infirmos, alleluia,
+> alleluia.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut qui solemnitatem spiritus sancti colimus,
+> celestibus desideriis accensi fontem vite sitiamus, Dominum nostrum Iesum Christum … in
+> unitate eiusdem.
+
+**Translation**
+
+> *Ember Wednesday.* … The *Te Deum*. *The priest's versicle* Send forth thy Spirit.
+>
+> **At Lauds,** the antiphon *When the days were accomplished*; *Psalm 92* The Lord hath
+> reigned, *and the other psalms under this one antiphon; and so through the octave. The
+> hymn and versicle as above.*
+>
+> *Antiphon at the Benedictus:* Amen, amen I say to you, he that believes in me has
+> everlasting life, alleluia, alleluia. (Jn 6:47)
+>
+> *Collect:* May the Paraclete who proceeds from thee, O Lord, we beseech thee, enlighten our
+> minds, and lead them into all truth, as thy Son promised, Jesus Christ our Lord. Who with
+> thee …
+>
+> *Thursday.* … At Lauds as yesterday. *Antiphon at the Benedictus:* Jesus, calling together
+> the twelve disciples, gave them power and authority over all devils and to cure diseases;
+> and he sent them to preach the kingdom of God and to heal the sick, alleluia, alleluia.
+> (Lk 9:1–2)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of the Holy
+> Spirit may, kindled with heavenly longings, thirst for the fountain of life, our Lord Jesus
+> Christ … in the unity of the same [Holy Spirit].
+
+### Ember Friday of Pentecost week (scan p. 435)
+
+**Latin**
+
+> *Feria vi.* … *Psalmus* Te Deum. *[In laudibus ut supra.] Ad* Benedictus *antiphona.*
+> Factum est in una dierum, et Iesus sedebat docens; et erant pharisei sedentes et legis
+> doctores, qui venerant ex omni castello Galilee et Iudee et Hierusalem; et virtus erat
+> Domini ad sanandum eos, alleluia, alleluia.
+>
+> *Oratio.* Da, quesumus, ecclesie tue, misericors Deus, ut spiritu sancto congregata,
+> hostili nullatenus incursione turbetur. Per Dominum … in unitate eiusdem.
+
+**Translation**
+
+> *Friday.* … The *Te Deum*. *[At Lauds as above.] Antiphon at the Benedictus:* It came to
+> pass on a certain day that Jesus sat teaching; and there were Pharisees and doctors of the
+> law sitting by, who had come out of every town of Galilee and Judaea and Jerusalem; and the
+> power of the Lord was present to heal them, alleluia, alleluia. (Lk 5:17)
+>
+> *Collect:* Grant, we beseech thee, merciful God, that thy Church, gathered together by the
+> Holy Spirit, may in no way be troubled by the attack of the enemy. Through [our] Lord … in
+> the unity of the same [Holy Spirit].
+
+### Ember Saturday of Pentecost week (scan p. 436)
+
+**Latin**
+
+> *Sabbato.* … *Psalmus* Te Deum. *[In laudibus ut supra.] Ad* Benedictus *antiphona.*
+> Vespere autem facto egressus ibat Iesus in desertum locum, et turbe requirebant eum, ne
+> discederet ab eis, alleluia.
+>
+> *Oratio.* Mentibus nostris, quesumus, Domine, spiritum sanctum benignus infunde, cuius et
+> sapientia conditi sumus, et providentia gubernamur. Per Dominum … eiusdem.
+
+**Translation**
+
+> *Saturday.* … The *Te Deum*. *[At Lauds as above.] Antiphon at the Benedictus:* When
+> evening was come, Jesus went out into a desert place, and the crowds sought him, that he
+> should not depart from them, alleluia. (cf. Lk 4:42)
+>
+> *Collect:* Graciously pour the Holy Spirit into our minds, we beseech thee, O Lord, by whose
+> wisdom we were created and by whose providence we are governed. Through [our] Lord … [in
+> the unity] of the same [Holy Spirit].

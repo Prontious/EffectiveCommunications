@@ -151,3 +151,6 @@
 - 427–428: PENTECOST LAUDS → done (ants Dum complerentur…; cap Factus est repente; hymn Impleta gaudent viscera; Bened. Accipite spiritum sanctum; collect Deus qui hodierna die corda fidelium)
 - 429: Pentecost Prime/Terce (Veni creator at Terce; Terce cap. Apparuerunt). 430–431: PENTECOST MONDAY LAUDS (double; cap Apparuerunt; Bened. Sic Deus dilexit mundum; collect Deus qui apostolis tuis) → done
 - 432: PENTECOST TUESDAY LAUDS (Bened. Amen amen…qui non intrat per ostium; collect Adsit nobis Domine) → done
+- 433–434: PENTECOST EMBER WED (single ant; Bened. Amen amen…qui credit in me; collect Mentes nostras) + THU (Convocatis Iesus duodecim; collect Concede…solemnitatem spiritus sancti) → done
+- 435: PENTECOST EMBER FRI (Bened. Factum est in una dierum; collect Da quesumus ecclesie tue…spiritu sancto congregata) → done
+- 436: PENTECOST EMBER SAT (Bened. Vespere autem facto; collect Mentibus nostris) → done; 1st Vespers TRINITY (double; ants Gloria tibi trinitas…; hymn O lux beata trinitas — Vespers)
