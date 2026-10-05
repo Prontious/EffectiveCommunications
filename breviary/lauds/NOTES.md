@@ -128,3 +128,4 @@
 - 372–375: MAUNDY THURSDAY TENEBRAE LAUDS → done (ants Iustificeris…; Bened. Traditor autem; Kyrie/Christe ceremony w/ boys & cantors behind altar; Christus factus est; Miserere; Respice w/o conclusion; strepitus & hidden light)
 - 376–379: GOOD FRIDAY TENEBRAE LAUDS → done (ants Proprio filio…; Bened. Posuerunt super caput; rest as Maundy Thu)
 - 380–382: HOLY SATURDAY TENEBRAE LAUDS → done (ants O mors ero mors tua…; Bened. Mulieres sedentes; 'Et dr bis/hic Kyrieleyson' — uncertain)
+- 383–385: EASTER SUNDAY LAUDS → done (5 Mt 28 ants; no cap/hymn/℣; Bened. Et valde mane ×3; collect Deus qui hodierna die per unigenitum)

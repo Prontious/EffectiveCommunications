@@ -4576,3 +4576,86 @@ medieval uses. Collects normally end "Through our Lord …"; here the collect st
 *Note.* The final rubric is abbreviated (*Et dr bis Kyrieleyson τc. vts.*). The word read
 here as *hic* ("here") might be *bis* ("twice"); either way it refers back to the
 Maundy Thursday ceremony.
+
+---
+
+## Easter Sunday — *In sancto pasche* (scan p. 385)
+
+Like the Triduum, Easter Lauds has no chapter, hymn or versicle; the Benedictus antiphon
+follows straight on from the psalms and is sung three times. The five antiphons tell the
+Gospel of the empty tomb in order (Mt 28:2–5).
+
+**Latin**
+
+> *[End of Matins:]* ℟. Dum transisset sabbatum … ℣. Et valde mane una sabbatorum … Gloria
+> patri … *Et reiteratur* ℟. Dum transisset. *Psalmus* Te Deum laudamus. ℣. *sacerdotalis.*
+> In resurrectione tua, Christe, alleluia. ℟. Celi et terra letentur, alleluia. ℣. Deus in
+> adiutorium *etc.*
+>
+> In laudibus. *Antiphona.* Angelus autem Domini descendit de celo, et accedens revolvit
+> lapidem, et sedebat super eum, alleluia, alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Et ecce terremotus factus est magnus; angelus autem Domini descendit de celo,
+> alleluia. *Psalmus* Iubilate Deo.
+>
+> *Antiphona.* Erat autem aspectus eius sicut fulgur, vestimenta eius sicut nix, alleluia,
+> alleluia. *Psalmus* Deus deus.
+>
+> *Antiphona.* Pre timore autem eius exterriti sunt custodes, et facti sunt velut mortui,
+> alleluia. *Psalmus* Benedicite omnia opera.
+>
+> *Antiphona.* Respondens autem angelus dixit mulieribus: Nolite timere; scio enim quod
+> Iesum queritis, alleluia. *Psalmus* Laudate Dominum.
+>
+> *Capitulum, hymnus et* ℣. *non dicuntur, sed immediate dicitur antiphona.* Et valde mane
+> una sabbatorum veniunt ad monumentum, orto iam sole, alleluia. *Psalmus* Benedictus
+> Dominus. *Predicta antiphona dicitur ter.*
+>
+> *Oratio.* Deus, qui hodierna die per unigenitum tuum eternitatis nobis aditum, devicta
+> morte, reserasti, vota nostra, que preveniendo aspiras, etiam adiuvando prosequere. Per
+> eundem.
+>
+> ℣. Benedicamus Domino, alleluia, alleluia.
+>
+> *Ad primam non dicitur* Deus in adiutorium, *neque ad aliquam horam preterquam ad
+> matutinas et laudes et ad* Preciosa, *usque ad feriam v ad vesperas* …
+
+**Translation**
+
+> *[End of Matins:]* ℟. When the sabbath was past … ℣. And very early on the first day of
+> the week … Glory be to the Father … *And the responsory* When the sabbath was past *is
+> repeated. The* Te Deum. *The priest's versicle:* In thy resurrection, O Christ, alleluia.
+> ℟. Let heaven and earth rejoice, alleluia. ℣. O God, come to my assistance, *etc.*
+>
+> **At Lauds.** *Antiphon:* And an angel of the Lord came down from heaven, and coming,
+> rolled back the stone, and sat upon it, alleluia, alleluia. (Mt 28:2) *Psalm 92* The Lord
+> hath reigned.
+>
+> *Antiphon:* And behold, there was a great earthquake; for an angel of the Lord came down
+> from heaven, alleluia. (Mt 28:2) *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* And his countenance was as lightning, and his raiment as snow, alleluia,
+> alleluia. (Mt 28:3) *Psalm 62* O God, my God.
+>
+> *Antiphon:* And for fear of him the guards were struck with terror, and became as dead men,
+> alleluia. (Mt 28:4) *Canticle* Bless [the Lord], all ye works.
+>
+> *Antiphon:* And the angel answering said to the women: Fear not; for I know that you seek
+> Jesus, alleluia. (Mt 28:5) *Psalm 148* Praise the Lord.
+>
+> *No chapter, hymn or versicle is said; at once the antiphon is said:* And very early in the
+> morning, on the first day of the week, they come to the tomb, the sun being now risen,
+> alleluia. (Mk 16:2) *The canticle* Blessed be the Lord. *This antiphon is said three times.*
+>
+> *Collect:* O God, who on this day, through thine only-begotten Son, didst conquer death and
+> open to us the gate of eternity: as thou dost inspire our prayers by going before us, so
+> also further them by thy help. Through the same [Christ our Lord].
+>
+> ℣. Let us bless the Lord, alleluia, alleluia.
+>
+> *At Prime* O God, come to my assistance *is not said, nor at any hour except Matins and
+> Lauds and at* Pretiosa, *until Thursday at Vespers* …
+
+*Notes.* Some uses sang the *Visitatio sepulchri* (a short drama of the women at the tomb)
+on Easter morning, but this breviary does not mention it. The opening versicle *Deus in
+adiutorium* is kept at Lauds although it is dropped from the other hours of Easter week.
