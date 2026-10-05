@@ -127,3 +127,4 @@
 - 370b–371: HOLY WEDNESDAY LAUDS → done (ants Libera me de sanguinibus…; Bened. Simon dormis; collect Presta…nostris excessibus); TRIDUUM RUBRIC (Tenebrae: 15 candles, omissions) → done. Maundy Thu Matins begins 371b (ant. Zelus domus tue)
 - 372–375: MAUNDY THURSDAY TENEBRAE LAUDS → done (ants Iustificeris…; Bened. Traditor autem; Kyrie/Christe ceremony w/ boys & cantors behind altar; Christus factus est; Miserere; Respice w/o conclusion; strepitus & hidden light)
 - 376–379: GOOD FRIDAY TENEBRAE LAUDS → done (ants Proprio filio…; Bened. Posuerunt super caput; rest as Maundy Thu)
+- 380–382: HOLY SATURDAY TENEBRAE LAUDS → done (ants O mors ero mors tua…; Bened. Mulieres sedentes; 'Et dr bis/hic Kyrieleyson' — uncertain)

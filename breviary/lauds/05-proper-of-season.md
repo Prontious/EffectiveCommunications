@@ -4523,3 +4523,56 @@ medieval uses. Collects normally end "Through our Lord …"; here the collect st
 > King of the Jews. (cf. Mt 27:37; Jn 19:19)
 >
 > *Kyrie eleison, and all the rest in the same way as described above for Maundy Thursday.*
+
+---
+
+## Holy Saturday — *Sabbato sancto* (Tenebrae Lauds, scan p. 382)
+
+**Latin**
+
+> *[End of Matins:] Et reiteratur* ℟. Sicut ovis.
+>
+> In laudibus. *Antiphona.* O mors, ero mors tua; morsus tuus ero, inferne. *Psalmus*
+> Miserere.
+>
+> *Antiphona.* Plangent eum quasi unigenitum, quia innocens Dominus occisus est. *Psalmus*
+> Iudica me, Deus.
+>
+> *Antiphona.* Attendite, universi populi, et videte dolorem meum. *Psalmus* Deus deus.
+>
+> *Antiphona.* A porta inferi erue, Domine, animam meam. *Psalmus* Ego dixi.
+>
+> *Antiphona.* O vos omnes qui transitis per viam, attendite et videte si est dolor sicut
+> dolor meus. *Psalmus* Laudate.
+>
+> *Ad* Benedictus *antiphona.* Mulieres sedentes ad monumentum lamentabantur, flentes
+> Dominum.
+>
+> *Et dicitur hic [?]* Kyrieleyson, *etc., versus [ut supra].*
+
+**Translation**
+
+> *[End of Matins:]* And the responsory *As a sheep* is repeated.
+>
+> **At Lauds.** *Antiphon:* O death, I will be thy death; O hell, I will be thy bite.
+> (Hos 13:14) *Psalm 50* Have mercy.
+>
+> *Antiphon:* They shall mourn for him as for an only son, for the innocent Lord has been
+> slain. (cf. Zech 12:10) *Psalm 42* Judge me, O God.
+>
+> *Antiphon:* Hear, all ye peoples, and behold my sorrow. (Lam 1:18) *Psalm 62* O God, my
+> God.
+>
+> *Antiphon:* From the gate of hell deliver my soul, O Lord. *Canticle of Hezekiah* I said.
+>
+> *Antiphon:* O all ye that pass by the way, attend and see if there be any sorrow like to my
+> sorrow. (Lam 1:12) *Psalm 148* Praise.
+>
+> *Antiphon at the Benedictus:* The women, sitting at the tomb, lamented, weeping for the Lord.
+>
+> *And here [?] the* Kyrie eleison, *etc., with the versicles, is said [as above on Maundy
+> Thursday].*
+
+*Note.* The final rubric is abbreviated (*Et dr bis Kyrieleyson τc. vts.*). The word read
+here as *hic* ("here") might be *bis* ("twice"); either way it refers back to the
+Maundy Thursday ceremony.
