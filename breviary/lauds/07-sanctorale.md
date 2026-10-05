@@ -2282,3 +2282,76 @@ May 1087.
 >
 > *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of thy blessed
 > martyrs Gordian and Epimachus may be helped by their intercession with thee. Through [our] Lord.
+
+### SS Nereus, Achilleus and Pancras, Martyrs — 12 May (scan p. 633)
+
+> *Sanctorum Nerei, Achillei atque Pancratii martyrum, ix lectiones; omnia ut in communi plurimorum
+> martyrum.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui beatorum martyrum tuorum Nerei, Achillei atque
+> Pancratii natalitia colimus, a cunctis malis imminentibus eorum intercessionibus liberemur. Per
+> Dominum.
+
+> *SS Nereus, Achilleus and Pancras, martyrs: nine lessons; everything as in the Common of several
+> martyrs.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the heavenly birthday of thy
+> blessed martyrs Nereus, Achilleus and Pancras may by their intercession be delivered from all the
+> evils that threaten us. Through [our] Lord.
+
+### St Bernardine of Siena, Confessor — 20 May (scan p. 633)
+
+> *Sancti Bernardini confessoris non episcopi, ix lectiones; omnia ut in communi ipsius.*
+
+> *St Bernardine, confessor not a bishop: nine lessons; everything as in his Common.*
+
+*Note.* Bernardine of Siena (d. 1444, canonised 1450) was one of the newest saints in the book.
+
+### St Urban, Pope and Martyr — 25 May (scan p. 633)
+
+> *Sancti Urbani martyris, ix lectiones.*
+>
+> *Oratio.* Da, quesumus, omnipotens Deus, ut qui beati Urbani martyris tui atque pontificis
+> solemnia colimus, eius apud te intercessionibus adiuvemur. Per Dominum. *Cetera ut in communi unius
+> martyris et episcopi.*
+
+> *St Urban, martyr: nine lessons.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of blessed Urban,
+> thy martyr and bishop, may be helped by his intercession with thee. Through [our] Lord. *The rest
+> as in the Common of one martyr and bishop.*
+
+### St Nicomedes, Martyr — 1 June (scan p. 633)
+
+> *Sancti Nicomedis martyris, ix lectiones; omnia ut in communi unius martyris.*
+
+> *St Nicomedes, martyr: nine lessons; everything as in the Common of one martyr.*
+
+---
+
+## June
+
+### SS Marcellinus and Peter, Martyrs — 2 June (scan p. 633)
+
+> *Sanctorum Marcellini et Petri, ix lectiones.*
+>
+> *Oratio.* Deus, qui nos annua beatorum martyrum tuorum Marcellini et Petri solemnitate letificas,
+> presta, quesumus, ut quorum gaudemus meritis, instruamur exemplis. Per Dominum. *Cetera ut in
+> communi plurimorum martyrum.*
+
+> *SS Marcellinus and Peter: nine lessons.*
+>
+> *Collect:* O God, who gladdenest us with the yearly solemnity of thy blessed martyrs Marcellinus
+> and Peter: grant, we beseech thee, that we may be taught by the example of those in whose merits we
+> rejoice. Through [our] Lord. *The rest as in the Common of several martyrs.*
+
+### St Claudius, Bishop and Confessor — 6 June (scan p. 633)
+
+> *Sancti Claudii episcopi et confessoris, ix lectiones; omnia ut in communi unius episcopi et
+> confessoris.*
+
+> *St Claudius, bishop and confessor: nine lessons; everything as in the Common of one bishop and
+> confessor.*
+
+*Note.* This is Claudius of Besançon, abbot of Condat in the Jura, whose shrine at Saint-Claude was a
+major pilgrimage in the later Middle Ages.
