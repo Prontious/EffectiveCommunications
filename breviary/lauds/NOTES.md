@@ -111,3 +111,4 @@
 - 347: LENT III WED (Audite et intelligite traditiones; Presta nobis…salutaribus ieiuniis) + THU (Operamini non cibum; Concede…ieiuniorum sancta devotio) → done; Fri begins 347b
 - 348: LENT III FRI (Aqua quam ego dedero; Ieiunia nostra…benigno favore) → done; Sat Matins begins (Perrexit Iesus in montem Oliveti)
 - 349: LENT III SAT (Inclinavit se Iesus; Presta…qui se affligendo carne) → done; 1st Vespers Lent IV (Magnif. Nemo te condemnavit; collect Pretende Domine); Lent IV Matins begins (inv. Hodie si vocem)
+- 350–351: LENT IV (LAETARE) SUNDAY LAUDS → done (ants Tunc acceptabis…; Bened. Cum sublevasset; collect Concede…ex merito nostre actionis). Mon Lent IV begins 351b

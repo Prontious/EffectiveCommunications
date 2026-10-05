@@ -3524,3 +3524,78 @@ antiphon and collect are proper.
 *Note.* This collect is almost the same as Monday's in the second week (*Presta …
 ut familia tua que se affligendo*); here it speaks of "those who" (*qui*) rather than
 "thy household" (*familia tua*).
+
+---
+
+## Fourth Sunday of Lent — *Laetare* (scan p. 351)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Audi, Israel. ℣. *Sacerdotalis* Dicet Domino.
+>
+> In laudibus. *Antiphona.* Tunc acceptabis sacrificium iustitie, si averteris faciem tuam
+> a peccatis meis. *Psalmus* Miserere.
+>
+> *Antiphona.* Bonum est sperare in Domino quam sperare in principibus. *Psalmus*
+> Confitemini.
+>
+> *Antiphona.* Benedicat nos Deus, Deus noster; benedicat nos Deus. *Psalmus* Deus deus.
+>
+> *Antiphona.* Potens es, Domine, eripere nos de manu forti; libera nos, Deus noster.
+> *Psalmus* Benedicite.
+>
+> *Antiphona.* Reges terre et omnes populi, laudate Deum. *Psalmus* Laudate Dominum.
+>
+> *Cetera [capitulum, hymnus,* ℣.*] ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Cum sublevasset oculos Iesus, et vidisset maximam
+> multitudinem venientem ad se, dixit ad Philippum: Unde ememus panes ut manducent hi? Hoc
+> autem dicebat tentans eum; ipse enim sciebat quid esset facturus.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut qui ex merito nostre actionis
+> affligimur, tue gratie consolatione respiremus. Per Dominum.
+>
+> *Ad primam antiphona.* De quinque panibus et duobus piscibus satiavit Dominus quinque
+> milia hominum. … *Ad tertiam antiphona.* Satiavit Dominus quinque milia hominum de
+> quinque panibus et duobus piscibus. *Capitulum, versus, responsoria ad omnes horas ut in
+> precedenti dominica, cum oratione dominicali. Ad sextam antiphona.* Illi homines cum
+> vidissent quod fecerat Iesus signum, dicebant: Quia hic est vere propheta qui venturus
+> est in mundum. *Ad nonam antiphona.* Cum vidissent turbe signum quod fecerat Iesus,
+> dicebant: Vere hic est propheta qui venturus est in mundum.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Hear, O Israel* is repeated. *The priest's versicle* He
+> shall say to the Lord.
+>
+> **At Lauds.** *Antiphon:* Then shalt thou accept the sacrifice of justice, if thou turn
+> away thy face from my sins. (cf. Ps 50:11, 21) *Psalm 50* Have mercy.
+>
+> *Antiphon:* It is good to trust in the Lord rather than to trust in princes. (Ps 117:9)
+> *Psalm 117* Give praise.
+>
+> *Antiphon:* May God, our God, bless us; may God bless us. (Ps 66:7–8) *Psalm 62* O God, my
+> God [with Ps 66].
+>
+> *Antiphon:* Thou art mighty, O Lord, to rescue us from the strong hand; deliver us, O our
+> God. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Kings of the earth and all peoples, praise God. (cf. Ps 148:11) *Psalm 148*
+> Praise the Lord.
+>
+> *The rest [chapter, hymn and versicle] as above.*
+>
+> *Antiphon at the Benedictus:* When Jesus had lifted up his eyes and seen a very great
+> multitude coming to him, he said to Philip: Whence shall we buy bread, that these may eat?
+> And this he said to try him; for he himself knew what he would do. (Jn 6:5–6)
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we, who are justly afflicted for our
+> deeds, may find relief in the consolation of thy grace. Through [our] Lord.
+>
+> *At Prime, the antiphon:* With five loaves and two fishes the Lord fed five thousand men.
+> … *At Terce, the antiphon:* The Lord fed five thousand men with five loaves and two fishes.
+> *The chapter, versicles and responsories at all the hours as on the preceding Sunday, with
+> the Sunday collect. At Sext, the antiphon:* Those men, when they had seen the sign that
+> Jesus had done, said: This is truly the prophet who is to come into the world. *At None,
+> the antiphon:* When the crowds had seen the sign that Jesus had done, they said: Truly
+> this is the prophet who is to come into the world. (Jn 6:14)
