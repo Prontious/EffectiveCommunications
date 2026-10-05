@@ -5601,3 +5601,101 @@ the Apocalypse until Saturday. The Benedictus antiphons are proper:
 
 *Note.* The full text of *Non vos relinquam* is given as the Magnificat antiphon of the
 Monday after the Ascension octave (scan p. 423).
+
+---
+
+## Pentecost — *In die penthecostes* (scan p. 428)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Emitte spiritum tuum, et
+> creabuntur, alleluia. ℟. Et renovabis faciem terre, alleluia.
+>
+> In laudibus. *Antiphona.* Dum complerentur dies penthecostes, erant omnes pariter
+> dicentes, alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Spiritus Domini replevit orbem terrarum, alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Repleti sunt omnes spiritu sancto, et ceperunt loqui, alleluia, alleluia.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Fontes et omnia que moventur in aquis, hymnum dicite Deo, alleluia.
+> *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Loquebantur variis linguis apostoli magnalia Dei, alleluia, alleluia,
+> alleluia. *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum.* Factus est repente de celo sonus advenientis spiritus vehementis, et replevit
+> totam domum ubi erant apostoli sedentes.
+>
+> *Hymnus.* Impleta gaudent viscera, / afflata sancto spiritu, / voces diversas intonant, /
+> fantur Dei magnalia.
+> Ex omni gente cogniti, / Grecis, Latinis, barbaris; / cunctisque admirantibus, / linguis
+> loquuntur omnium.
+> Iudea tunc incredula, / vesana torvo spiritu, / ructare musti crapulam / alumnos Christi
+> concrepat.
+> Sed signis et virtutibus / occurrit et docet Petrus / falsos probari perfidos, / Iohelis
+> testimonio.
+> Dudum sacrata … Sit laus *[patri cum filio …] [cued]*.
+>
+> ℣. Emitte spiritum tuum *[et creabuntur, alleluia]*.
+>
+> *Ad* Benedictus *antiphona.* Accipite spiritum sanctum; quorum remiseritis peccata,
+> remittuntur eis, alleluia.
+>
+> *Oratio.* Deus, qui hodierna die corda fidelium sancti spiritus illustratione docuisti, da
+> nobis in eodem spiritu recta sapere, et de eius semper consolatione gaudere. Per Dominum …
+> in unitate eiusdem.
+>
+> *Ad primam antiphona* Dum complerentur …
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Send forth thy Spirit, and they
+> shall be created, alleluia. ℟. And thou shalt renew the face of the earth, alleluia.
+> (Ps 103:30)
+>
+> **At Lauds.** *Antiphon:* When the days of Pentecost were accomplished, they were all
+> together, saying, alleluia. (cf. Acts 2:1) *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* The Spirit of the Lord has filled the whole world, alleluia. (Wis 1:7)
+> *Psalm 99* Shout with joy.
+>
+> *Antiphon:* They were all filled with the Holy Spirit, and began to speak, alleluia,
+> alleluia. (Acts 2:4) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Ye fountains, and all things that move in the waters, sing a hymn to God,
+> alleluia. (cf. Dan 3:77, 79) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* The apostles spoke in divers tongues the wonderful works of God, alleluia,
+> alleluia, alleluia. (cf. Acts 2:4, 11) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* And suddenly there came a sound from heaven, as of a mighty wind coming, and it
+> filled the whole house where the apostles were sitting. (Acts 2:2)
+>
+> *Hymn:*
+> Their hearts rejoice, filled and breathed upon by the Holy Spirit; they sound forth in
+> different tongues, they tell the wonderful works of God.
+> Understood by every nation — Greeks, Latins and barbarians — while all marvel, they speak
+> in the tongues of all.
+> Then unbelieving Judaea, raving in a fierce spirit, loudly charges the disciples of Christ
+> with belching the drunkenness of new wine.
+> But Peter meets them with signs and mighty works, and teaches that the faithless are
+> proved false, by the testimony of Joel.
+> *[The stanzas]* Long since hallowed … Praise be [to the Father with the Son …] *[are cued].*
+>
+> ℣. Send forth thy Spirit *[and they shall be created, alleluia]*.
+>
+> *Antiphon at the Benedictus:* Receive the Holy Spirit; whose sins you shall forgive, they
+> are forgiven them, alleluia. (Jn 20:22–23)
+>
+> *Collect:* O God, who on this day didst teach the hearts of the faithful by the light of
+> the Holy Spirit: grant us by the same Spirit to have a right judgement in all things, and
+> ever to rejoice in his consolation. Through [our] Lord … in the unity of the same [Holy
+> Spirit].
+>
+> *At Prime, the antiphon* When the days [of Pentecost] were accomplished …
+
+*Note.* The hymn is the second part of the Pentecost hymn *Beata nobis gaudia* (printed at
+first Vespers, scan p. 426); its last two stanzas, *Dudum sacrata pectora* and the
+doxology, are cued only. *Dudum sacrata* is also printed in full at that Vespers.
