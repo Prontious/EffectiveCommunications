@@ -350,3 +350,85 @@ Mary as the house that God built for himself.
 unclear in the print; my readings are marked [?]. The added words about the "son's coat" look
 like part of a different chant that has run on in the print, and may not belong to this
 antiphon at all.
+
+### Within the octave of the Conception (scan p. 539)
+
+> *Per octavam conceptionis: invitatorium, hymni ut in die. … In laudibus sola antiphona
+> dicitur super omnes psalmos laudum; capitulum, hymnus,* ℣.*, versus. Ad* Benedictus *et*
+> Magnificat *antiphone nocturnorum, et fit semper memoria de adventu. Cetera omnia ut in die.*
+
+> Through the octave of the Conception: the invitatory and hymns as on the feast. … At
+> **Lauds** a single antiphon is said over all the psalms of Lauds; chapter, hymn and
+> versicle as above. At the *Benedictus* and the *Magnificat*, the antiphons of the
+> nocturns [in turn], and a **memorial of Advent** is always made. Everything else as on
+> the feast.
+
+---
+
+## St Lucy, Virgin and Martyr — 13 December (scan pp. 542–543)
+
+Nine lessons, with proper antiphons drawn from her *Passion*.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Ora pro nobis, beata Lucia.
+>
+> In laudibus. *Antiphona.* Orante sancta Lucia apparuit ei beata Agatha, et consolabatur
+> ancillam Christi. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Lucia virgo, quid a me petis, quod ipsa poteris prestare continuo matri tue?
+> *Psalmus* Iubilate.
+>
+> *Antiphona.* Soror mea Lucia, virgo Deo devota, quid a me petis, quod ipsa poteris prestare
+> continuo matri tue? *Psalmus* Deus deus.
+>
+> *Antiphona.* Benedico te, pater Domini mei Iesu Christi, quia per filium tuum ignis
+> extinctus est a latere meo. *Psalmus* Benedicite.
+>
+> *Antiphona.* Per te, Lucia virgo, civitas Syracusana decorabitur a Domino Iesu Christo.
+> *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum* Emulor enim vos *[Dei emulatione …]*. *Hymnus* Iesu corona virginum. ℣. Elegit
+> eam *[Deus et preelegit eam]*.
+>
+> *Ad* Benedictus *antiphona.* Columna es immobilis, Lucia, sponsa Christi, quia omnis plebs te
+> expectat, ut accipias coronam regni, alleluia.
+>
+> *Oratio.* Exaudi nos, Deus salutaris noster, ut sicut de beate Lucie virginis et martyris tue
+> festivitate gaudemus, ita pie devotionis erudiamur affectu. Per Dominum.
+>
+> *Ad horas antiphone de laudibus; cetera ut in communi, cum oratione predicta.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Pray for us, blessed Lucy.
+>
+> **At Lauds.** *Antiphon:* As holy Lucy prayed, blessed Agatha appeared to her and comforted
+> the handmaid of Christ. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Lucy, virgin, why dost thou ask of me what thou thyself canst at once obtain for
+> thy mother? *Psalm 99* Shout with joy.
+>
+> *Antiphon:* Lucy my sister, virgin devoted to God, why dost thou ask of me what thou thyself
+> canst at once obtain for thy mother? *Psalm 62* O God, my God.
+>
+> *Antiphon:* I bless thee, Father of my Lord Jesus Christ, for through thy Son the fire has
+> been put out at my side. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Through thee, virgin Lucy, the city of Syracuse shall be adorned by the Lord
+> Jesus Christ. *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter* For I am jealous of you [with the jealousy of God …] (2 Cor 11:2). *Hymn* Jesus,
+> crown of virgins. ℣. God has chosen her [and forechosen her].
+>
+> *Antiphon at the Benedictus:* Thou art an unshakeable pillar, Lucy, bride of Christ, for all
+> the people await thee, that thou mayest receive the crown of the kingdom, alleluia.
+>
+> *Collect:* Hear us, O God our Saviour, that as we rejoice in the feast of blessed Lucy, thy
+> virgin and martyr, so we may be taught the spirit of loving devotion. Through [our] Lord.
+>
+> *At the hours, the antiphons of Lauds; the rest as in the Common, with the collect above.*
+
+*Note.* The antiphons follow her legend: at the tomb of St Agatha in Catania, Agatha appeared
+to Lucy in a vision and told her that her own faith had already healed her mother; later, at
+her martyrdom in Syracuse, the fire lit around her did not harm her.

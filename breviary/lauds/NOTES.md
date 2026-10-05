@@ -184,3 +184,5 @@
 - 529–531: Andrew octave memorial; ST BARBARA 4 Dec (Common virgin-martyr; collect Indulgentiam nobis); ST SABBAS 5 Dec (Common confessor non-bishop; memorials) → done
 - 532–534: ST NICHOLAS 6 Dec (semidouble) LAUDS → done (5 rhymed ants Beatus Nicholaus adhuc puerulus…; Bened. Copiose charitatis; collect Deus qui beatum Nicholaum)
 - 535–538: St Andrew octave (collect Protegat nos); CONCEPTION BVM 8 Dec (double, solemn octave) LAUDS → done (ants from Dedication adapted; Bened. Quam pulchra es [+odd tail]; collect Deus ineffabilis misericordie)
+- 539: CONCEPTION OCTAVE days (single ant; Bened./Magnif. from nocturn ants; memorial of Advent) → done
+- 540–543: ST LUCY 13 Dec LAUDS → done (ants Orante sancta Lucia…; Bened. Columna es immobilis; collect Exaudi nos Deus salutaris)
