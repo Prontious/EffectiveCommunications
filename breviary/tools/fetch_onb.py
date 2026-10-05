@@ -74,21 +74,38 @@ def main():
     os.makedirs("/tmp/img", exist_ok=True)
     os.makedirs(f"{OUT}/ocr", exist_ok=True)
 
+    with open(f"{OUT}/pages.tsv", "w") as f:
+        for i, c in enumerate(canvases, 1):
+            f.write(f"{i}\t{c.get('label','')}\t{c['images'][0]['resource']['service']['@id']}\n")
+
     def work(args):
         i, c = args
+        if os.path.exists(f"{OUT}/ocr/{i:04d}.txt"):
+            return  # resume: already done in an earlier run
         svc = c["images"][0]["resource"]["service"]["@id"].rstrip("/")
         img = f"/tmp/img/{i:04d}.jpg"
         if not get(f"{svc}/full/1600,/0/default.jpg", img):
             return
         subprocess.run(["tesseract", img, f"{OUT}/ocr/{i:04d}", "-l", "lat", "--psm", "4"],
                        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        time.sleep(0.3)
+        os.remove(img)
 
-    with ThreadPoolExecutor(4) as ex:
-        list(ex.map(work, enumerate(canvases, 1)))
-    with open(f"{OUT}/pages.tsv", "w") as f:
-        for i, c in enumerate(canvases, 1):
-            f.write(f"{i}\t{c.get('label','')}\t{c['images'][0]['resource']['service']['@id']}\n")
+    def commit(msg):
+        subprocess.run(["git", "add", OUT])
+        if subprocess.run(["git", "commit", "-qm", msg]).returncode == 0:
+            subprocess.run(["git", "push", "-q"])
+
+    items = list(enumerate(canvases, 1))
+    deadline = time.time() + 75 * 60
+    with ThreadPoolExecutor(os.cpu_count() or 4) as ex:
+        for b in range(0, len(items), 100):
+            if time.time() > deadline:
+                print("Stopping before job timeout; rerun to resume")
+                break
+            list(ex.map(work, items[b:b + 100]))
+            done = len(os.listdir(f"{OUT}/ocr"))
+            print(f"{done}/{len(items)} pages OCRed")
+            commit(f"Breviary OCR progress: {done}/{len(items)} pages")
 
 
 main()

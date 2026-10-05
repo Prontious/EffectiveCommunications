@@ -14,11 +14,15 @@ jobs:
       - name: Install OCR
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-lat >/dev/null
       - name: Fetch from ONB IIIF and OCR
-        run: python3 breviary/tools/fetch_onb.py
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          OMP_THREAD_LIMIT=1 PYTHONUNBUFFERED=1 python3 breviary/tools/fetch_onb.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git pull -q --rebase || true
           git add breviary/source
           git commit -m "Fetch ONB scan and OCR of 1517 Hospitaller breviary" || exit 0
           git push
