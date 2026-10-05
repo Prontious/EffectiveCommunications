@@ -268,3 +268,85 @@ offices of the Middle Ages.
 > *Collect:* O God, who didst adorn blessed Nicholas, thy confessor and bishop, with countless
 > miracles: grant us, we beseech thee, that by his merits and prayers we may be delivered from
 > the fires of hell. Through [our] Lord. *[At all the hours.]*
+
+---
+
+## The Conception of the Blessed Virgin Mary — 8 December (scan p. 538; collect from p. 535)
+
+A double, with a solemn octave; the octave of St Andrew yields to it with only a memorial
+(7 December, collect *Protegat nos, Domine, quesumus, sepius beati Andree apostoli tui
+repetita solemnitas …*). The Lauds texts are those of the Dedication of a Church, applied to
+Mary as the house that God built for himself.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* Ora pro nobis, sancta Dei
+> genitrix, alleluia.
+>
+> In laudibus. *Antiphona.* Domum tuam decet sanctitudo, Domine, in longitudine dierum,
+> alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Hec est domus Domini firmiter edificata; bene fundata est supra firmam petram,
+> alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Fundavit eam altissimus, quia super maria fundavit eam, et super flumina
+> preparavit illam, alleluia. *Psalmus* Deus deus.
+>
+> *Antiphona.* Dominus custodit te ab omni malo, Maria; custodiat animam tuam [?], introitum
+> tuum et exitum tuum in seculum, alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Fluminis impetus letificat civitatem Dei; sanctificavit tabernaculum suum
+> altissimus. *Psalmus* Laudate.
+>
+> *Capitulum* Ego quasi vitis *[fructificavi suavitatem odoris …]*. *Hymnus* O gloriosa domina.
+> ℣. Elegit eam Deus et preelegit eam, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Quam pulchra es, amica columba mea, immaculata mea; et odor
+> vestimentorum tuorum super omnia aromata, alleluia. *[The print continues:* Quam cum
+> cognovisset pater, ait: Tunica filii mei est *[?]].*
+>
+> *Oratio.* Deus ineffabilis misericordie, qui prime piacula mulieris per virginem expianda
+> sanxisti, da nobis, quesumus, conceptionis eius solemnia celebrare, que unigenitum tuum
+> virgo concepit et virgo peperit, Iesum Christum filium tuum Dominum nostrum. Qui tecum.
+>
+> *Ad primam et ad alias horas antiphone de laudibus; cetera ut in festis duplicibus.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* Pray for us, holy Mother of God,
+> alleluia.
+>
+> **At Lauds.** *Antiphon:* Holiness becomes thy house, O Lord, unto length of days,
+> alleluia. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* This is the house of the Lord, firmly built; it is well founded upon a firm
+> rock, alleluia. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* The Most High has founded her, for he founded her upon the seas, and prepared
+> her upon the rivers, alleluia. (cf. Ps 23:2; 86:5) *Psalm 62* O God, my God.
+>
+> *Antiphon:* The Lord keeps thee from all evil, O Mary; may he keep thy soul [?], thy going
+> in and thy coming out, for ever, alleluia. (cf. Ps 120:7–8) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* The stream of the river makes the city of God joyful; the Most High has
+> sanctified his own tabernacle. (Ps 45:5) *Psalm 148* Praise.
+>
+> *Chapter* As the vine [I have brought forth a pleasant odour …] (Sir 24:23). *Hymn* O
+> glorious Lady. ℣. God has chosen her, and forechosen her, alleluia.
+>
+> *Antiphon at the Benedictus:* How beautiful thou art, my love, my dove, my undefiled; and
+> the fragrance of thy garments is above all spices, alleluia. (cf. Song 4:1, 10–11; 5:2)
+> *[The print continues: "When the father recognised it, he said: It is my son's coat" [?] —
+> cf. Gen 37:33.]*
+>
+> *Collect:* O God of mercy beyond words, who didst ordain that the guilt of the first woman
+> should be expiated through a virgin: grant us, we beseech thee, to celebrate the solemnity
+> of the conception of her who, a virgin, conceived thine only-begotten Son, and, a virgin,
+> brought him forth, Jesus Christ thy Son our Lord. Who with thee …
+>
+> *At Prime and the other hours, the antiphons of Lauds; the rest as on double feasts.*
+
+*Notes.* The fourth antiphon and the tail of the Benedictus antiphon are crowded and partly
+unclear in the print; my readings are marked [?]. The added words about the "son's coat" look
+like part of a different chant that has run on in the print, and may not belong to this
+antiphon at all.
