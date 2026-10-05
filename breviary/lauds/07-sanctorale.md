@@ -4735,8 +4735,8 @@ taken from Easter Monday.
 
 ## The Holy Patriarchs Abraham, Isaac and Jacob (October; nine lessons)
 
-*Scan pp. 767–770. This is a rare feast. In the Latin rite it is characteristic of the Holy
-Sepulchre and Jerusalem tradition, and the Carmelites kept it too. The office is wholly proper. The
+*Scan pp. 767–770. This is a rare feast in the Latin rite, and its presence fits the
+book's Jerusalem inheritance. The office is wholly proper. The
 first Vespers chapter is* Scriptum est quoniam Abraham duos filios habuit *(Gal 4:22), the hymn*
 Annue Christe, *the Magnificat antiphon* Abraham pater vester exultavit ut videret diem meum;
 vidit et gavisus est *(Jn 8:56).
@@ -4797,7 +4797,7 @@ vidit et gavisus est *(Jn 8:56).
 *Note.* The Matins lessons are Genesis 11–12, with responsories from the Abraham cycle of the
 temporale (*Tentavit Deus Abraham*, *Dum staret Abraham ad radicem Mambre*). The Lauds antiphons
 come from the Common of martyrs, adapted here for the patriarchs as "the souls of the just". The
-feast is one of this breviary's clearest marks of the Jerusalem tradition.
+feast is probably another mark of the book's eastern, Jerusalem-facing calendar.
 
 ---
 
