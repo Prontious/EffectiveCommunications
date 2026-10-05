@@ -23,7 +23,8 @@ def get(url, dest=None, tries=3):
 
 
 def candidates():
-    found = set()
+    # Known from ONB Primo record ONB_alma21289534790003338 (linktorsrc data.onb.ac.at/ABO/%2BZ221667307)
+    found = {"+Z221667307"}
     sru = "https://obv-at-oenb.alma.exlibrisgroup.com/view/sru/43ACC_ONB?version=1.2&operation=searchRetrieve&maximumRecords=50&query="
     queries = ['alma.title="Breviarium secundum usum ordinis"',
                'alma.all_for_ui="Breviarium Hierosolymitani 1517"',
@@ -31,7 +32,7 @@ def candidates():
                'alma.all_for_ui="Hochperg 1517"']
     for n, q in enumerate(queries):
         d = get(sru + urllib.parse.quote(q), f"{OUT}/discovery/sru_{n}.xml").decode("utf-8", "replace")
-        found |= set(re.findall(r"\+Z\d{6,}", d))
+        found |= set(re.findall(r"\+Z\d{6,}", d.replace("%2B", "+")))
     # Primo guest search
     tok = get("https://search.onb.ac.at/primo_library/libweb/webservices/rest/v1/guestJwt/ONB?isGuest=true&lang=de_DE&viewId=ONB")
     tok = tok.decode().strip('"') if tok else ""
@@ -42,7 +43,7 @@ def candidates():
             req = urllib.request.Request(url, headers={**UA, "Authorization": "Bearer " + tok})
             d = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
             open(f"{OUT}/discovery/primo.json", "w").write(d)
-            found |= set(re.findall(r"\+Z\d{6,}", d))
+            found |= set(re.findall(r"\+Z\d{6,}", d.replace("%2B", "+")))
         except Exception as e:
             print("primo failed", e)
     return sorted(found)
