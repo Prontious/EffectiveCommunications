@@ -82,3 +82,4 @@
 - 282: OCTAVE OF ST JOHN (3 Jan) → done (all as on feast)
 - 283: end of St John octave; OCTAVE OF INNOCENTS (4 Jan) → done (Te Deum/Gloria/alleluia restored; Lauds as feast)
 - 284–290: EPIPHANY; LAUDS p.290 → done (hymn Hostis Herodes cued; no memorial)
+- 291–293: EPIPHANY OCTAVE days LAUDS (single ant.; rotating Bened./Magnif. ants list p.291) → done. 293b: Sunday within Epiphany octave Matins begins

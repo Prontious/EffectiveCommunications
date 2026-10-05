@@ -2163,3 +2163,89 @@ that the Western Church celebrated on this feast: the Magi, Christ's baptism in 
 Jordan, and the wedding at Cana. The Lauds hymn is cued only by its first words; it is
 Sedulius's *Hostis Herodes impie*, a continuation of the Christmas hymn *A solis ortus
 cardine*.
+
+---
+
+## Within the octave of the Epiphany (scan pp. 291, 293)
+
+On the days within the octave the office of Our Lady is resumed. Lauds keeps the
+Epiphany texts under a single antiphon, and the Benedictus takes in turn one of a series
+of antiphons printed for the purpose.
+
+**Latin**
+
+> *[End of Matins:]* Te Deum. ℣. *Sacerdotalis* Omnes de Saba venient.
+>
+> In laudibus. *Antiphona* Ante luciferum. *Psalmus* Dominus regnavit decorem, *et ceteri
+> cum hac sola. Capitulum* Surge illuminare. *Hymnus* Hostis Herodes. ℣. Adorate Dominum.
+> *Ad* Benedictus *antiphona* Magi videntes. *Oratio* Deus qui hodierna die, *que dicitur
+> per octavam.*
+>
+> *Ad primam dicitur psalmus* Quicunque vult, *et preces ut in festis ix lectionum ad*
+> Preciosa. *Ad tertiam, sextam et nonam ut in die, et sic per totam octavam cum oratione
+> supradicta.* … *Ad* Magnificat *dicitur una de supradictis antiphonis, que dicuntur
+> consecutive.*
+>
+> *Hec sequentes antiphone dicuntur per octavam epiphanie ad* Magnificat *et ad*
+> Benedictus *(scan p. 291):*
+> 1. Magi videntes stellam dixerunt ad invicem: Hoc signum magni regis est; eamus et
+> inquiramus eum, et offeramus ei munera: aurum, thus et myrrham.
+> 2. Stella ista sicut flamma coruscat, et regem regum Deum demonstrat; magi eam viderunt,
+> et Christo regi [munera] obtulerunt.
+> 3. Celi aperti sunt super eum, et vox facta est de celo dicens: Hic est filius meus
+> dilectus, in quo mihi complacui.
+> 4. Lux de luce apparuisti, Christe, cui magi munera offerunt, alleluia, alleluia,
+> alleluia.
+> 5. Vidimus stellam eius in oriente, et venimus cum muneribus adorare Dominum.
+> 6. Descendit spiritus sanctus corporali specie sicut columba in ipsum, et vox de celo
+> facta est: Hic est filius meus dilectus, alleluia.
+> 7. Ordines angelorum, videntes invisibilem venientem in aquas, timore perterriti
+> cogitabant quomodo invisibilis Deus formam servi accepit, et apparens mundum illuminavit:
+> benedictus es, Domine Deus Israel.
+> 8. Ammoniti magi in somnis ab angelo, per aliam viam reversi sunt in regionem suam.
+> 9. Omnes nationes venient de longe, portantes munera sua, alleluia.
+> 10. Venient ad te qui detrahebant tibi, et adorabunt vestigia pedum tuorum.
+> 11. Omnes de Saba venient, aurum et thus deferentes, alleluia.
+
+**Translation**
+
+> *[End of Matins:]* *Te Deum*. *The priest's versicle* All they from Saba shall come.
+>
+> **At Lauds.** *The antiphon* Begotten before the day-star; *Psalm 92* The Lord hath
+> reigned, *and the others under this one antiphon. Chapter* Arise, be enlightened. *Hymn*
+> Herod, impious foe. ℣. Adore the Lord. *At the Benedictus, the antiphon* The Magi, seeing
+> [the star]. *The collect* O God, who on this day, *which is said through the octave.*
+>
+> *At Prime the psalm* Quicunque vult *[the Athanasian Creed] is said, and the preces, as
+> on feasts of nine lessons, at* Pretiosa. *At Terce, Sext and None as on the feast day, and
+> so through the whole octave with the collect above.* … *At the Magnificat one of the
+> antiphons above is said, taking them in order.*
+>
+> *These antiphons are said through the octave of the Epiphany at the Magnificat and the
+> Benedictus:*
+> 1. The Magi, seeing the star, said to one another: This is the sign of a great king; let
+> us go and seek him, and offer him gifts — gold, frankincense and myrrh.
+> 2. That star blazes like a flame and shows forth God, the King of kings; the Magi saw it,
+> and offered [gifts] to Christ the King.
+> 3. The heavens were opened above him, and a voice came from heaven, saying: This is my
+> beloved Son, in whom I am well pleased. (Mt 3:16–17)
+> 4. Light from light, thou hast appeared, O Christ, to whom the Magi offer gifts,
+> alleluia, alleluia, alleluia.
+> 5. We have seen his star in the east, and we have come with gifts to adore the Lord.
+> (cf. Mt 2:2)
+> 6. The Holy Spirit came down upon him in bodily form like a dove, and a voice came from
+> heaven: This is my beloved Son, alleluia. (cf. Lk 3:22)
+> 7. The ranks of angels, seeing the Invisible One come into the waters, were struck with
+> fear and pondered how the invisible God had taken the form of a servant and, appearing,
+> had enlightened the world: blessed art thou, O Lord God of Israel.
+> 8. Warned by an angel in a dream, the Magi returned to their own country by another way.
+> (cf. Mt 2:12)
+> 9. All nations shall come from afar, bringing their gifts, alleluia.
+> 10. They that slandered thee shall come to thee, and shall worship the steps of thy feet.
+> (Is 60:14)
+> 11. All they from Saba shall come, bringing gold and frankincense, alleluia. (Is 60:6)
+
+*Note.* Lauds and Vespers take these antiphons in a single running order through the
+octave ("consecutive"), as in the rubric for solemn octaves (see Rubric 12 in
+[section 1](01-rubrics.md)). So on each day Lauds and Vespers use the next two in the
+list.
