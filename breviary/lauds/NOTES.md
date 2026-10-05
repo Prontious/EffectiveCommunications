@@ -181,3 +181,5 @@
 - 515–519: DEDICATION OF A CHURCH (double) LAUDS → 06-dedication.md (ants Domum tuam…; cap Vidi civitatem; hymn Hoc in templo; Bened. Mane surgens Iacob; collect Deus qui invisibiliter)
 - 520: end Dedication; 521: blank leaf w/ later German MS notes (not printed); 523: SANCTORALE begins — opening rubric (St John Baptist weekday office 'de precepto ordinis nostri') + St Saturninus 29 Nov (Common of one martyr; collect) → 07
 - 525–528: ST ANDREW LAUDS (Salve crux speciosa…; Bened. Cum pervenisset; collect Maiestatem tuam) → done; ST ELIGIUS 1 Dec (Common confessor-bishop; collect Deus qui pio pontifici) → done
+- 529–531: Andrew octave memorial; ST BARBARA 4 Dec (Common virgin-martyr; collect Indulgentiam nobis); ST SABBAS 5 Dec (Common confessor non-bishop; memorials) → done
+- 532–534: ST NICHOLAS 6 Dec (semidouble) LAUDS → done (5 rhymed ants Beatus Nicholaus adhuc puerulus…; Bened. Copiose charitatis; collect Deus qui beatum Nicholaum)

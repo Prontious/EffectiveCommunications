@@ -156,3 +156,115 @@ crucifixion at Patras and his burial by the noblewoman Maximilla.
 > of healing the diseases of the peoples: grant, we beseech thee, that his glorious
 > intercession may cleanse from vice us who seek his help, and give a healing remedy to the
 > bodies of the sick. Through [our Lord].
+
+---
+
+## The octave of St Andrew (scan p. 530)
+
+> *Per octavam sancti Andree fit memoria tantum: ad matutinas antiphona* Andreas Christi
+> famulus; *ad vesperas antiphona* Maximilla Christo amabilis; ℣. *ad utrasque* Dilexit
+> Andream Dominus. ℟. In odorem suavitatis. *Oratio* Maiestatem.
+
+> Through the octave of St Andrew only a memorial is made: at Matins [Lauds] the antiphon
+> *Andrew, the servant of Christ*; at Vespers the antiphon *Maximilla, beloved of Christ*;
+> ℣. at both, The Lord loved Andrew. ℟. For an odour of sweetness. *Collect* We humbly
+> beseech thy majesty [as on the feast].
+
+---
+
+## St Barbara, Virgin and Martyr — 4 December (scan pp. 530–531)
+
+> *Sancte Barbare virginis et martyris, ix lectiones; omnia ut in communi unius virginis et
+> martyris, cum oratione predicta.*
+>
+> *Oratio.* Indulgentiam nobis, Domine, beata Barbara virgo et martyr imploret, que tibi grata
+> semper extitit, et merito castitatis et tue professione virtutis. Per Dominum.
+
+> *St Barbara, virgin and martyr: nine lessons; everything as in the Common of one virgin and
+> martyr, with the collect given.*
+>
+> *Collect:* May blessed Barbara, virgin and martyr, implore pardon for us, O Lord — she who
+> was ever pleasing to thee, both by the merit of her chastity and by her confession of thy
+> power. Through [our] Lord.
+
+---
+
+## St Sabbas, Abbot — 5 December (scan p. 531)
+
+> *Sancti Sabbe abbatis, ix lectiones; omnia de communi unius confessoris non episcopi;
+> lectiones de vita ipsius.* … *Oratio* Intercessio nos *[cued]*. *Memoria de sancta Barbara,
+> et de sancto Andrea, et de adventu.*
+
+> *St Sabbas, abbot: nine lessons; everything from the Common of one confessor not a bishop;
+> the lessons from his life.* … *Collect* May the intercession [of blessed Sabbas the abbot]
+> commend us *[cued]*. *A memorial of St Barbara, of St Andrew, and of Advent.*
+
+*Note.* St Sabbas (d. 532) founded the great monastery of Mar Saba near Jerusalem, a
+fitting saint for a calendar inherited from the Holy Land.
+
+---
+
+## St Nicholas, Bishop and Confessor — 6 December (scan pp. 532–534)
+
+A semidouble, with the proper rhymed *historia* of St Nicholas, one of the most popular
+offices of the Middle Ages.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Ora pro nobis *[, beate Nicholae]*.
+>
+> In laudibus. *Antiphona.* Beatus Nicholaus adhuc puerulus multo ieiunio macerabat corpus.
+> *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Ecclesie sancte frequentans limina, sacra pectori condebat mandata. *Psalmus*
+> Iubilate.
+>
+> *Antiphona.* Iuste et sancte vivendo, ad honorem sacerdotii meruit promoveri divinitus.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Amicus Dei Nicholaus, pontificali decoratus infula, omnibus se amabilem
+> exhibuit. *Psalmus* Benedicite.
+>
+> *Antiphona.* O per omnia laudabilem virum, cuius meritis ab omni clade liberantur qui ex toto
+> corde querunt illum. *Psalmus* Laudate Dominum.
+>
+> *Capitulum* Benedictionem omnium *[gentium dedit illi Dominus]*. *Hymnus* Iesu redemptor.
+> ℣. Iustus germinabit.
+>
+> *Ad* Benedictus *antiphona.* Copiose charitatis, Nicholae pontifex, qui cum Deo gloriaris in
+> celi palatio, condescende supplicantibus ad te suspirantibus, ut exutos gravi carne
+> pertrahas ad superos.
+>
+> *Oratio.* Deus, qui beatum Nicholaum confessorem tuum atque pontificem innumeris decorasti
+> miraculis, tribue nobis, quesumus, ut eius meritis et precibus a gehenne incendiis
+> liberemur. Per Dominum. *[Ad omnes horas.]*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Pray for us [, blessed Nicholas].
+>
+> **At Lauds.** *Antiphon:* Blessed Nicholas, while still a little boy, subdued his body with
+> much fasting. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Often at the threshold of holy Church, he stored her sacred commandments in his
+> heart. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* By living justly and holily, he was found worthy to be raised by God to the
+> honour of the priesthood. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Nicholas, the friend of God, adorned with the bishop's mitre, showed himself
+> lovable to all. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* O man praiseworthy in all things, by whose merits those who seek him with their
+> whole heart are freed from every disaster! *Psalm 148* Praise the Lord.
+>
+> *Chapter* [The Lord gave him] the blessing of all [nations] (Sir 44:25). *Hymn* Jesus,
+> Redeemer. ℣. The just shall flourish.
+>
+> *Antiphon at the Benedictus:* Nicholas, bishop of abundant charity, who rejoicest with God in
+> the palace of heaven: stoop down to us who pray and sigh to thee, that, once we have put off
+> the heavy flesh, thou mayest draw us up to the heavens.
+>
+> *Collect:* O God, who didst adorn blessed Nicholas, thy confessor and bishop, with countless
+> miracles: grant us, we beseech thee, that by his merits and prayers we may be delivered from
+> the fires of hell. Through [our] Lord. *[At all the hours.]*
