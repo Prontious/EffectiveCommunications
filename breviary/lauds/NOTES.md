@@ -81,3 +81,4 @@
 - 281: OCTAVE OF ST STEPHEN (2 Jan) → done (Lauds as feast, no alleluia/duplication)
 - 282: OCTAVE OF ST JOHN (3 Jan) → done (all as on feast)
 - 283: end of St John octave; OCTAVE OF INNOCENTS (4 Jan) → done (Te Deum/Gloria/alleluia restored; Lauds as feast)
+- 284–290: EPIPHANY; LAUDS p.290 → done (hymn Hostis Herodes cued; no memorial)

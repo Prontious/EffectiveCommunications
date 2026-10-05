@@ -2058,3 +2058,108 @@ dropped from the versicles.
 
 *Note.* On the octave the signs of mourning are lifted: the *Te Deum*, *Gloria* and
 *alleluia*, omitted on the feast of the Innocents (unless it fell on a Sunday), return.
+
+---
+
+## The Epiphany of the Lord — 6 January (scan pp. 289–290)
+
+As at Christmas, a genealogy is sung at the end of Matins: here Luke's (Lk 3:21–38),
+beginning with the baptism of Christ. Then comes the *Te Deum*, and Lauds follows directly.
+
+**Latin**
+
+> *[End of Matins: the genealogy according to Luke; then] immediate incipitur psalmus* Te
+> Deum laudamus. ℣. *Sacerdotalis.* Omnes de Saba venient, aurum et thus deferentes,
+> alleluia. ℟. Et laudem Domino annunciantes, alleluia.
+>
+> In laudibus. *Antiphona.* Ante luciferum genitus et ante secula, Dominus salvator noster
+> hodie mundo apparuit. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Tria sunt munera que obtulerunt magi Domino: aurum, thus et myrrham, filio
+> Dei, regi magno, alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Apertis thesauris suis, obtulerunt magi Domino aurum, thus et myrrham,
+> alleluia. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Maria et flumina, benedicite Dominum; hymnum dicite, fontes, Domino,
+> alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Videntes stellam magi gavisi sunt gaudio magno, et intrantes domum
+> obtulerunt Domino aurum, thus et myrrham. *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum.* Surge, illuminare, Hierusalem, quia venit lumen tuum, et gloria Domini super
+> te orta est.
+>
+> *Hymnus* Hostis Herodes [impie] *[cued]*. ℣. Adorate Dominum, alleluia. ℟. In aula
+> sancta eius, alleluia.
+>
+> *Ad* Benedictus *antiphona.* Hodie celesti sponso iuncta est ecclesia, quoniam in
+> Iordane lavit Christus eius crimina; currunt cum muneribus magi ad regales nuptias, et ex
+> aqua facto vino letantur convive, alleluia.
+>
+> *Oratio.* Deus, qui hodierna die unigenitum tuum gentibus stella duce revelasti, concede
+> propicius ut qui iam te ex fide cognovimus, usque ad contemplandam speciem tue
+> celsitudinis perducamur. Per eundem.
+>
+> *Nulla fit memoria.*
+>
+> *Ad primam hymnus* Iam lucis, *cum hoc ultimo versu* Gloria tibi, Domine, qui apparuisti
+> hodie. *Antiphona* Ante luciferum. … ℟. *breve* Iesu Christe, fili [Dei vivi], alleluia,
+> alleluia. ℣. Qui apparuisti hodie, miserere nobis, alleluia; *et cetera ut in festis
+> duplicibus; et dicitur dictum* ℟. *per totam octavam. Ad tertiam hymnus* Nunc sancte,
+> *cum hoc ultimo versu* Gloria tibi, Domine, qui apparuisti hodie; *et dicitur ad omnes
+> horas per octavam. Antiphona* Tria sunt munera. … *Ad sextam antiphona* Apertis. *Ad
+> nonam antiphona* Videntes stellam.
+
+**Translation**
+
+> *[End of Matins: the genealogy according to Luke; then] the* Te Deum *is begun at once.*
+> *The priest's versicle:* All they from Saba shall come, bringing gold and frankincense,
+> alleluia. ℟. And showing forth praise to the Lord, alleluia. (Is 60:6)
+>
+> **At Lauds.** *Antiphon:* Begotten before the day-star and before the ages, the Lord our
+> Saviour has today appeared to the world. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Three are the gifts the Magi offered to the Lord — gold, frankincense and
+> myrrh — to the Son of God, the great King, alleluia. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* Opening their treasures, the Magi offered the Lord gold, frankincense and
+> myrrh, alleluia. (cf. Mt 2:11) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Seas and rivers, bless the Lord; ye fountains, sing a hymn to the Lord,
+> alleluia. (cf. Dan 3:77–78) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Seeing the star, the Magi rejoiced with exceeding great joy, and entering the
+> house they offered the Lord gold, frankincense and myrrh. (cf. Mt 2:10–11) *Psalm 148*
+> Praise the Lord from the heavens.
+>
+> *Chapter:* Arise, be enlightened, O Jerusalem, for thy light is come, and the glory of the
+> Lord is risen upon thee. (Is 60:1)
+>
+> *Hymn* Herod, impious foe *[cued]*. ℣. Adore the Lord, alleluia. ℟. In his holy court,
+> alleluia. (cf. Ps 95:9)
+>
+> *Antiphon at the Benedictus:* Today the Church is joined to her heavenly Bridegroom, for
+> in the Jordan Christ has washed away her sins; the Magi hasten with gifts to the royal
+> wedding, and the guests rejoice in water made wine, alleluia.
+>
+> *Collect:* O God, who on this day didst reveal thine only-begotten Son to the nations by
+> the leading of a star: mercifully grant that we, who now know thee by faith, may be led
+> on to behold the beauty of thy majesty. Through the same [Christ our Lord].
+>
+> *No memorial is made.*
+>
+> *At Prime, the hymn* Now that the daylight *with this last verse:* Glory to thee, O Lord,
+> who hast appeared today. *Antiphon* Begotten before the day-star. … *Short responsory:*
+> Jesus Christ, Son [of the living God], alleluia, alleluia. ℣. Who hast appeared today,
+> have mercy on us, alleluia; *the rest as on double feasts; this responsory is said through
+> the whole octave. At Terce, the hymn* Come, Holy Spirit, *with the same last verse, Glory
+> to thee, O Lord, who hast appeared today, which is said at all the hours through the
+> octave. Antiphon* Three are the gifts. … *At Sext, the antiphon* Opening their treasures.
+> *At None, the antiphon* Seeing the star.
+
+*Note.* The Benedictus antiphon *Hodie celesti sponso* joins the three manifestations
+that the Western Church celebrated on this feast: the Magi, Christ's baptism in the
+Jordan, and the wedding at Cana. The Lauds hymn is cued only by its first words; it is
+Sedulius's *Hostis Herodes impie*, a continuation of the Christmas hymn *A solis ortus
+cardine*.
