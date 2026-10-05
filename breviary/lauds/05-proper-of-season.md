@@ -3843,3 +3843,72 @@ gloriosi proelium certaminis*) and the versicle *Eripe me, Domine*.
 Vespers"). But it comes between the Lauds versicle and the Lauds collect, exactly where the
 Benedictus antiphon belongs, so it is very probably *Ad bñs.* (Benedictus), misprinted or
 misread.
+
+---
+
+## Weekdays of Passion week
+
+**Rubric (scan p. 360)**
+
+> *Nota quod hymnus, capitulum et* ℣. *supradicti dicuntur usque ad cenam Domini quando de
+> tempore agitur.*
+
+> Note that the hymn [*Lustra sex*], chapter [*Confundantur*] and versicle [*Eripe me*]
+> given above are said until the Lord's Supper [Maundy Thursday] whenever the office is of
+> the season.
+
+### Monday (scan p. 361)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Doceam iniquos. ℣. *Sacerdotalis* Deus meus, eripe me.
+> ℟. De manu peccatoris.
+>
+> In laudibus. *Antiphona* Miserere. *Psalmus* Ipsum, *et cetere ad ceteros. Capitulum*
+> Confundantur qui me persequuntur *[ut in dominica]*. *Hymnus* Lustra sex. ℣. Eripe me,
+> Domine, ab homine malo. ℟. A viro iniquo eripe me.
+>
+> *Ad* Benedictus *antiphona.* In die magno festivitatis stabat Iesus et clamabat dicens:
+> Si quis sitit, veniat ad me et bibat.
+>
+> *Oratio.* Sanctifica, quesumus, Domine, nostra ieiunia, et cunctarum nobis indulgentiam
+> propicius largire culparum. Per Dominum.
+>
+> *Nota quod hodie dimittuntur suffragia sanctorum, et non fiunt usque post octavam pasche;
+> de sancto Iohanne tamen fit memoria in matutinis et vesperis beate Marie.*
+>
+> *Ad primam antiphona.* Appropinquabat autem dies festus, et querebant principes
+> sacerdotum quomodo Iesum interficerent, sed timebant plebem. *Ad tertiam antiphona*
+> Iudicasti, Domine. *Capitulum, responsoria et* ℣. *ad tertiam, sextam et nonam, et preces
+> dominicales, et sic per ebdomadam. Ad sextam antiphona* Popule meus. *Ad nonam
+> antiphona* Numquid redditur pro bono malum.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *I will teach the unjust* is repeated. *The priest's
+> versicle:* My God, deliver me. ℟. Out of the hand of the sinner. (Ps 70:4)
+>
+> **At Lauds.** *The antiphon* Have mercy; *Psalm 50*, the same, *and the other antiphons to
+> the other psalms [of Monday]. Chapter* Let them be confounded that persecute me *[as on
+> Sunday]*. *Hymn* Thirty years now fully spent. ℣. Deliver me, O Lord, from the evil man.
+> ℟. From the unjust man deliver me.
+>
+> *Antiphon at the Benedictus:* On the great day of the feast Jesus stood and cried out,
+> saying: If any man thirst, let him come to me and drink. (Jn 7:37)
+>
+> *Collect:* Sanctify our fasts, we beseech thee, O Lord, and graciously grant us pardon for
+> all our faults. Through [our] Lord.
+>
+> *Note that from today the suffrages of the saints are dropped, and they are not said until
+> after the octave of Easter; but the memorial of St John [the Baptist] is still made at
+> Matins and Vespers of the Blessed Mary.*
+>
+> *At Prime, the antiphon:* The festival day drew near, and the chief priests sought how
+> they might put Jesus to death, but they feared the people. (cf. Lk 22:1–2) *At Terce, the
+> antiphon* Thou hast judged, O Lord. *The chapters, responsories and versicles at Terce,
+> Sext and None, with the Sunday preces, and so through the week. At Sext, the antiphon* O
+> my people. *At None, the antiphon* Shall evil be rendered for good.
+
+*Note.* Even through Passiontide, when all other suffrages are dropped, the memorial of
+St John the Baptist, the Order's patron, is kept — as Rubric 1 required
+([section 1](01-rubrics.md)).
