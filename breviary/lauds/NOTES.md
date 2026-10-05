@@ -219,3 +219,4 @@
 - 615–618: ST MARK 25 Apr (semidouble; Eastertide Common; hymn Claro paschali gaudio; collect cued) + ST CLETUS 26 Apr + ST VITALIS 28 Apr (Eastertide Common; collects) → done
 - 619–622: SS PHILIP & JAMES 1 May (semidouble; 5 Jn 14 ants Domine ostende nobis patrem…; Bened. Non turbetur cor vestrum; collect Deus qui nos annua apostolorum) + ST ATHANASIUS 2 May (collect) → done
 - 623–627: FINDING OF THE HOLY CROSS 3 May (double) LAUDS → done (5 Helena/Judas ants; cap Mihi autem absit; hymn Signum crucis; Bened. O crux benedicta; collect Deus qui in preclara; memorial Alexander etc.)
+- 628: ST CYRIACUS (Judas) bishop of Jerusalem 4 May (Common martyr-bishop; collect Da quesumus…Quiriaci; Rogation rule) → done

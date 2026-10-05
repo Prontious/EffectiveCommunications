@@ -2166,3 +2166,34 @@ and versicles at the hours.)
 finding he was baptised and became bishop of Jerusalem under the name Cyriacus — as the lessons
 here say (*Iudam vero baptizatum Hierosolyme civitatis episcopum fecit ordinari*). The memorial
 of the martyrs Alexander, Eventius and Theodulus (also 3 May) is the usual one for this day.
+
+### St Cyriacus (Judas), Bishop of Jerusalem and Martyr — 4 May (scan p. 628)
+
+The day after the Finding of the Cross, the book keeps the man the legend says found it: Judas,
+baptised as Cyriacus and made bishop of Jerusalem.
+
+> *[At second Vespers of the Holy Cross: Magnificat antiphon* O crux splendidior cunctis astris
+> *…; memorial of St Cyriacus:] Antiphona* Filie Hierusalem. ℣. Gloria et honore.
+>
+> *Oratio.* Da, quesumus, omnipotens Deus, ut qui beati Quiriaci martyris tui atque pontificis
+> solemnia colimus, eius apud te intercessionibus adiuvemur. Per Dominum.
+>
+> *Sancti Quiriaci episcopi et martyris, ix lectiones; omnia ut in communi unius martyris et
+> episcopi. Si dictum festum vel aliud quodcunque fit [et] celebratur in feria ii vel iii
+> rogationum, pronunciatur evangelium de dictis feriis, et etiam fit memoria de ieiunio.*
+
+> *[At second Vespers of the Holy Cross the Magnificat antiphon is* O cross, more splendid than
+> all the stars *…; then the memorial of St Cyriacus:] the antiphon* Daughters of Jerusalem; ℣.
+> With glory and honour.
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the solemnity of blessed
+> Cyriacus, thy martyr and bishop, may be helped by his intercession with thee. Through [our] Lord.
+>
+> *St Cyriacus, bishop and martyr: nine lessons; everything as in the Common of one martyr and
+> bishop. If this feast, or any other, falls on the Monday or Tuesday of the Rogations, the gospel
+> of those days is announced, and a memorial of the fast is made.*
+
+*Note.* His lessons call him "bishop of the city of Jerusalem" (*Hierosolyme civitatis
+episcopus*), martyred under Julian the Apostate, and have him say: "From my parents I received the
+name Judas; but after I showed Helena the precious wood of the Lord … she ordered me to be called
+Cyriacus."
