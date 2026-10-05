@@ -5303,8 +5303,8 @@ On St Brice's day (13 Nov, p. 801), Lauds take the antiphon *Dixerunt discipuli*
 "with this one; chapter, hymn and versicle as on the feast; at the Benedictus the antiphon of the
 nocturn". On the octave day (18 Nov, p. 806) everything is as on the feast.
 
-*Note.* Martin's feast has a full Tours office and its own octave. The Order had grown out of a
-largely French milieu, and that likely explains the weight given to him.
+*Note.* Martin's feast has a full Tours office and its own octave. Martin was one of the most widely venerated saints
+in the Latin West, so the weight given to him is not surprising.
 
 ---
 
@@ -5336,8 +5336,8 @@ largely French milieu, and that likely explains the weight given to him.
 > ancient foe. *The rest as for one martyr.*
 
 *Note.* Edmund, the East Anglian king killed by the Danes in 869, is an unexpected English saint
-in a Rhodian book. The *Langue d'Angleterre* was one of the Order's eight langues. The collect's
-*huic familie* ("this household") may reflect that.
+in a Rhodian book. The Order had an English langue, which may explain
+his presence.
 
 ---
 
@@ -5407,8 +5407,8 @@ virginum.
 
 *Note.* A Latin breviary of 1517 with a full double office for the Presentation is notable. The
 feast was granted to the papal court at Avignon in 1372 at the urging of Philippe de Mézières,
-chancellor of Cyprus, and spread from there. A Levantine order would have met it early. A
-manuscript note at the foot of p. 809 records the feast in a contemporary hand.
+chancellor of Cyprus, and spread from there. A Levantine order would have met it early. There is an
+early manuscript annotation at the foot of p. 809, which I could not read with confidence.
 
 ---
 
