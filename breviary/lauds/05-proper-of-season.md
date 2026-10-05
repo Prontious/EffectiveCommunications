@@ -4999,6 +4999,63 @@ the two Eastertide doxology stanzas.
 > Ascension, whenever the office is of the weekday, in the whole nocturn only one antiphon
 > is said, which is* alleluia *alone.*
 
-*Note.* Ferial Lauds in Eastertide presumably follows the same simplified pattern, a
-single *alleluia* antiphon over the psalms with the day's Benedictus antiphon from this
-list. The rubric states this only for the nocturn.
+### Ferial Lauds in Eastertide — Monday after Low Sunday (scan p. 399)
+
+This page confirms the pattern for weekday Lauds from Low Sunday to the Ascension.
+
+**Latin**
+
+> *[End of Matins:] Non dicitur psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione tua,
+> Christe, alleluia. ℟. Celi et terra *[letentur, alleluia]*.
+>
+> In laudibus *antiphona* Alleluia, alleluia *[, alleluia]*. *Tamen psalmus* Dominus
+> regnavit decorem, *et ceteri cum hac sola, qui quotidie dicuntur [cum duplici [?]]*
+> alleluia *ferialibus diebus.*
+>
+> *Capitulum* Omne quod natum est: *quere in precedenti dominica. Hymnus* Sermone blando
+> angelus. ℣. Gavisi sunt discipuli, alleluia. ℟. Viso Domino, alleluia.
+>
+> *Ad* Benedictus *antiphona* Thoma infer, *etc., versus, in supradictis que dicuntur per
+> ebdomadam consecutive ad* Benedictus *et ad* Magnificat *ferialibus diebus. Preces non
+> dicuntur usque post octavam corporis Christi.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui paschalia festa peregimus, hec te
+> largiente moribus et vita teneamus. Per Dominum.
+>
+> *Hic recuperantur memorie seu suffragia sanctorum ad matutinas et vesperas, ut
+> continentur ad longum post psalterium ante letaniam.*
+>
+> *Nota quod hymnus* Aurora lucis *dicitur ad matutinas usque ad ascensionem quando fit de
+> tempore, et etiam hymnus* Sermone blando *dicitur in laudibus.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum* is not said. *The priest's versicle:* In thy
+> resurrection, O Christ, alleluia. ℟. Let heaven and earth *[rejoice, alleluia]*.
+>
+> **At Lauds,** the antiphon *Alleluia, alleluia [, alleluia]*. *Yet the psalms are* The
+> Lord hath reigned, he is clothed with beauty *[Ps 92] and the others [of Sunday], under
+> this one antiphon; they are said every weekday with [a double [?]]* alleluia.
+>
+> *The chapter* Whatsoever is born of God: *look for it on the preceding Sunday. Hymn* With
+> gentle words the angel. ℣. The disciples rejoiced, alleluia. ℟. When they saw the Lord,
+> alleluia.
+>
+> *At the Benedictus, the antiphon* Thomas, put in [thy finger], *etc., with the versicles,
+> from those given above, which are said in turn through the week at the* Benedictus *and*
+> Magnificat *on weekdays. The preces are not said until after the octave of Corpus
+> Christi.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who have completed the paschal
+> feasts may, by thy bounty, hold fast to them in our conduct and life. Through [our] Lord.
+>
+> *Here the memorials, or suffrages, of the saints are resumed at Matins [Lauds] and
+> Vespers, as they are given in full after the psalter, before the litany.*
+>
+> *Note that the hymn* The dawn of light *is said at Matins until the Ascension when the
+> office is of the season, and the hymn* With gentle words *is said at Lauds.*
+
+*Note.* In Eastertide, then, weekday Lauds does not use the weekday psalter: it takes the
+Sunday psalms (Pss 92, 99, 62, the *Benedicite*, 148) under a single *alleluia* antiphon,
+with the Low Sunday chapter and hymn. The phrase about the doubled *alleluia* is
+abbreviated in the print and only partly legible.
