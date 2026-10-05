@@ -3968,3 +3968,38 @@ St John the Baptist, the Order's patron, is kept — as Rubric 1 required
 >
 > *Collect:* Grant, we beseech thee, almighty God, that the dignity of human nature, wounded
 > by excess, may be restored by the zeal of healing frugality. Through [our] Lord.
+
+### Friday and Saturday (scan p. 364)
+
+**Latin**
+
+> *Feria vi.* … *Ad* Benedictus *antiphona.* Quid molesti estis huic mulieri? Opus enim
+> bonum operata est in me.
+>
+> *Oratio.* Cordibus nostris, quesumus, Domine, gratiam tuam benignus infunde, ut peccata
+> nostra castigatione voluntaria cohibentes, temporaliter potius maceremur quam suppliciis
+> deputemur eternis. Per Dominum.
+>
+> *Sabbato.* … *Ad* Benedictus *antiphona.* Nemo tollit a me animam meam, sed ego pono eam,
+> et iterum sumo eam.
+>
+> *Oratio.* Da nobis, Domine, observantiam legitima devotione perfectam, ut cum
+> refrenatione carnalis alimonie sancta tibi conversatione placeamus. Per Dominum.
+
+**Translation**
+
+> *Friday.* … *Antiphon at the Benedictus:* Why do you trouble this woman? For she has
+> wrought a good work upon me. (Mt 26:10)
+>
+> *Collect:* Graciously pour thy grace into our hearts, we beseech thee, O Lord, that,
+> restraining our sins by willing chastisement, we may suffer for a time rather than be
+> condemned to eternal punishments. Through [our] Lord.
+>
+> *Saturday.* … *Antiphon at the Benedictus:* No man takes my life from me, but I lay it
+> down, and I take it up again. (cf. Jn 10:18)
+>
+> *Collect:* Grant us, O Lord, an observance made perfect by rightful devotion, that, as we
+> curb the body's nourishment, we may please thee by a holy way of life. Through [our] Lord.
+
+*Note.* The Saturday antiphon is printed *Ne tollet* in the scan, very likely a misprint
+for *Nemo tollit* (John 10:18), which the rest of the sentence requires.

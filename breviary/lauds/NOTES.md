@@ -120,3 +120,4 @@
 - 360–361: PASSION MON LAUDS (In die magno festivitatis; Sanctifica…nostra ieiunia) → done; rubrics: hymn/cap/℣ until Maundy Thu; suffrages dropped until after Easter octave EXCEPT memorial of St John (Baptist) at BVM Matins/Vespers
 - 362: PASSION TUE (Tempus meum nondum advenit; Nostra tibi…sint accepta ieiunia) → done; Wed Matins begins (Facta sunt encenia)
 - 363: PASSION WED (Oves mee vocem meam; Sanctificato hoc ieiunio) + THU (Magister dicit: Tempus meum; Presta…dignitas conditionis humane) → done; Fri begins 363b
+- 364: PASSION FRI (Quid molesti estis; Cordibus nostris…castigatione voluntaria) + SAT (Nemo tollit [printed 'Ne tollet']; Da nobis…observantiam legitima) → done; 1st Vespers Palm Sunday (cap. Hoc sentite; Magnif. Clarifica me pater)
