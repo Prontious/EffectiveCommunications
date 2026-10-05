@@ -2809,3 +2809,91 @@ uses. The Ash Wednesday collect's military language — *presidia christiane mil
 "the campaigns of Christian warfare" — is the ordinary Roman collect, not something
 added for the Order. The direction to say the penitential psalms after Lauds matches
 Rubric 1 ([section 1](01-rubrics.md)).
+
+### Thursday and Friday after Ash Wednesday (scan pp. 323–324)
+
+**Latin**
+
+> *Feria v.* … In laudibus *secundum ferias; capitulum* Convertimini ad me; *cetera
+> secundum ferias. Ad* Benedictus *antiphona.* Me etenim de die in diem querunt, et scire
+> vias meas volunt.
+>
+> *Oratio.* Deus, qui culpa offenderis, penitentia placaris, preces populi tui supplicantis
+> propicius respice, et flagella tue iracundie, que pro peccatis nostris meremur, averte.
+> Per Dominum.
+>
+> *Post primam memoriam dicuntur septem psalmi penitentiales, et dicitur* Gloria patri
+> *ad unumquemque psalmum; antiphona* Ne reminiscaris. *Deinde dicuntur letanie et preces
+> et orationes sequentes, ut continentur omnia post psalterium. Et istud observandum est
+> post matutinas per totam quadragesimam ferialibus diebus usque ad feriam iiii ebdomade
+> sancte.*
+>
+> *Feria vi.* … In laudibus *secundum ferias; capitulum* Convertimini ad me, *etc., versus.
+> Ad* Benedictus *antiphona.* Cum facis elemosynam, nesciat sinistra tua quid faciat
+> dextera tua.
+>
+> *Oratio.* Inchoata ieiunia, quesumus, Domine, benigno favore prosequere, ut observantiam
+> quam corporaliter exhibemus, mentibus etiam sinceris exercere valeamus. Per [Dominum].
+> *Ad omnes horas versus cum oratione* Inchoata.
+
+**Translation**
+
+> *Thursday.* … At Lauds, according to the weekday; the chapter *Be converted to me*; the
+> rest according to the weekday. *Antiphon at the Benedictus:* For they seek me from day to
+> day, and desire to know my ways. (Is 58:2)
+>
+> *Collect:* O God, who art offended by sin and appeased by penance, look mercifully upon
+> the prayers of thy people as they make supplication, and turn away the scourges of thy
+> anger, which we deserve for our sins. Through [our] Lord.
+>
+> *After the first memorial the seven penitential psalms are said, with* Glory be to the
+> Father *after each psalm, and the antiphon* Remember not. *Then the litanies, and the
+> preces and collects that follow, are said, as they are all given after the psalter. And
+> this is to be kept after Matins [and Lauds] throughout Lent on weekdays, until the
+> Wednesday of Holy Week.*
+>
+> *Friday.* … At Lauds, according to the weekday; the chapter *Be converted to me*, etc.,
+> with versicles. *Antiphon at the Benedictus:* When thou givest alms, let not thy left hand
+> know what thy right hand does. (Mt 6:3)
+>
+> *Collect:* Follow with thy gracious favour, we beseech thee, O Lord, the fasts we have
+> begun, that the observance we keep in the body we may also perform with sincere minds.
+> Through [our Lord]. *At all the hours, the versicles with the collect* Follow [the fasts]
+> we have begun.
+
+*Note.* The rubric under Thursday applies from here to the Wednesday of Holy Week. On
+every Lenten weekday, after Lauds (and its memorials), the seven penitential psalms, the
+litany and their preces and collects are added — as Rubric 1 announced ([section
+1](01-rubrics.md)).
+
+### Saturday after Ash Wednesday (scan p. 325)
+
+**Latin**
+
+> In laudibus *ut in feria continetur. Capitulum* Convertimini ad me, *etc., versus. Ad*
+> Benedictus *antiphona.* Tunc invocabis, et Dominus exaudiet; clamabis, et dicet: Ecce
+> assum.
+>
+> *Oratio.* Omnipotens sempiterne Deus, observationis huius annua celebritate letantes,
+> quesumus, ut paschalibus actionibus inherentes, plenis eius effectibus gaudeamus. Per
+> Dominum.
+>
+> *Hore secundum feriam, cum oratione* Omnipotens sempiterne, *cum capitulis supradictis.
+> Hic parantur altaria ut moris est in quadragesima, et cooperiuntur cruces et imagines
+> sanctorum; et ab hac die sabbati, et deinceps per totam quadragesimam, quotidie
+> dicantur vespere ante prandium, exceptis diebus dominicis.*
+
+**Translation**
+
+> **At Lauds,** as given for the weekday. *The chapter* Be converted to me, *etc., with
+> versicles. Antiphon at the Benedictus:* Then shalt thou call, and the Lord shall hear;
+> thou shalt cry, and he shall say: Here I am. (Is 58:9)
+>
+> *Collect:* Almighty and everlasting God, as we rejoice in the yearly celebration of this
+> observance, grant, we beseech thee, that, holding fast to the paschal works, we may
+> rejoice in their full effect. Through [our] Lord.
+>
+> *The hours according to the weekday, with the collect* Almighty and everlasting, *and with
+> the chapters above. Here the altars are prepared, as is the custom in Lent, and the
+> crosses and images of the saints are covered; and from this Saturday, and thereafter
+> through the whole of Lent, Vespers are said each day before the meal, except on Sundays.*

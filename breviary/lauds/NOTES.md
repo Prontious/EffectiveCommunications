@@ -93,3 +93,5 @@
 - 318–320: QUINQUAGESIMA SUNDAY LAUDS → done. 320b: Monday Matins (lessons from Exodus)
 - 321: QUINQUAGESIMA MON + TUE Bened. ants → done; Ash Wednesday Matins begins 321b ('omnia de feria sicut est in psalterio')
 - 322: ASH WEDNESDAY LAUDS → done (4 Lenten preces added; collect Concede nobis presidia; penitential psalms after Prime)
+- 323–324: THU (Me etenim; Deus qui culpa) + FRI (Cum facis elemosynam; Inchoata ieiunia) after Ash Wed → done; Lenten weekday rubric: penitential psalms+litany after Lauds until Wed of Holy Week
+- 325: SAT AFTER ASH WED LAUDS (Tunc invocabis; collect Omnipotens…observationis) → done; Lenten veiling rubric; Lent I 1st Vespers (hymn Ex more docti)
