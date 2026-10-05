@@ -1139,3 +1139,169 @@ Magnificat cue *O qualis evenerit* used on the Advent IV weekdays. From the feas
 St Lazarus (17 December) the antiphons beginning *O* are sung at the Magnificat, one each
 day in order until the vigil of the Nativity, tripled (sung before, during and after the
 canticle) as on double feasts; the preces and suffrages are omitted at that Vespers.
+
+---
+
+## The Nativity of the Lord — Christmas Day (scan pp. 249–250)
+
+In this rite, the Lauds of Christmas are sung **within the Midnight Mass**: Matins ends
+with the *Te Deum* and the priest's versicle; the Mass of the night follows; and after
+the communion antiphon Lauds begins "absolutely" (without the usual opening), and the
+deacon's *Ite missa est* dismisses both. The book also gives the form to be used when
+Matins is said **without** the Mass in between.
+
+**Latin**
+
+> *[End of Matins: the genealogy (Mt 1:1–16) is read.] Postea dicitur psalmus* Te Deum
+> laudamus. ℣. *sacerdotalis.* Verbum caro factum est, alleluia. ℟. Et habitavit in
+> nobis, alleluia.
+>
+> *Postea dicitur missa in media nocte. Officium* Dominus dixit ad me: Filius meus es tu,
+> ego [hodie genui te] *etc. Finita communione* In splendoribus sanctorum, ex utero ante
+> luciferum genui te, *mox incipiantur laudes sic absolute, et duplicantur ut in rubrica
+> undecima.*
+>
+> *Antiphona.* Quem vidistis, pastores? Dicite: annunciate nobis, in terris quis
+> apparuit? Natum vidimus in choro angelorum salvatorem Dominum, alleluia, alleluia.
+> *Psalmus* Dominus regnavit, decorem indutus.
+>
+> *Antiphona.* Genuit puerpera regem cui nomen eternum, et gaudium matris habens cum
+> virginitatis honore: nec primam similem visa est, nec habere sequentem, alleluia.
+> *Psalmus* Iubilate Deo, omnis terra; servite Domino in leticia.
+>
+> *Antiphona.* Angelus ad pastores ait: Annuncio vobis gaudium magnum, quia natus est
+> nobis salvator mundi, alleluia. *Psalmus* Deus deus.
+>
+> *Antiphona.* Facta est cum angelo multitudo celestis [exercitus] laudantium et
+> dicentium: Gloria in excelsis Deo, et in terra pax hominibus bone voluntatis, alleluia,
+> alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Parvulus filius hodie natus est nobis, et vocabitur Deus, fortis, alleluia,
+> alleluia. *Psalmus* Laudate Dominum.
+>
+> *Capitulum nec hymni non dicuntur, sed mox incipitur antiphona* Gloria in excelsis Deo,
+> et in terra pax hominibus bone voluntatis, alleluia, alleluia, *que triplicatur, et
+> precantetur ante psalmum* Benedictus. *Et finito psalmo et antiphona, celebrans vertat
+> se ad populum dicendo* Dominus vobiscum.
+>
+> *Oratio.* Da nobis, quesumus, Domine Deus noster, ut qui nativitatem Domini nostri Iesu
+> Christi mysteriis nos frequentare gaudemus, dignis conversationibus ad eius mereamur
+> pertingere consortium. Per eundem Dominum.
+>
+> *Deinde dicat dyaconus:* Ite, missa est, alleluia, alleluia.
+>
+> *Dum vero dicuntur matutine sine missa inter medium, finitis antiphonis de laudibus,
+> dicitur sequens capitulum.* Populus gentium qui ambulabat in tenebris vidit lucem
+> magnam; habitantibus in regione umbre mortis lux orta est eis. ℟. Deo gratias.
+>
+> *Hymnus.* A solis ortus cardine / et usque terre limitem / Christum canamus principem, /
+> natum Maria virgine.
+> Beatus auctor seculi / servile corpus induit, / ut carne carnem liberans / ne perderet
+> quos condidit.
+> Caste parentis viscera / celestis intrat gratia; / venter puelle baiulat / secreta que
+> non noverat.
+> Domus pudici pectoris / templum repente fit Dei; / intacta, nesciens virum, / verbo
+> concepit filium.
+> Enixa est puerpera / quem Gabriel predixerat, / quem matris alvo gestiens / clausus
+> Iohannes senserat.
+> Feno iacere pertulit, / presepe non abhorruit, / parvoque lacte pastus est / per quem nec
+> ales esurit.
+> Gaudet chorus celestium, / et angeli canunt Deo, / palamque fit pastoribus / pastor,
+> creator omnium.
+> Gloria tibi, Domine, / qui natus es de virgine, / cum patre et sancto spiritu, / in
+> sempiterna secula. Amen.
+>
+> ℣. Benedictus qui venit in nomine Domini, alleluia. ℟. Deus Dominus et illuxit nobis,
+> alleluia.
+>
+> *Ad* Benedictus *antiphona.* Gloria in excelsis Deo, et in terra pax hominibus bone
+> voluntatis, alleluia, alleluia.
+>
+> *Oratio.* Concede, quesumus, omnipotens Deus, ut nos unigeniti tui nova per carnem
+> nativitas liberet, quos sub peccati iugo vetusta servitus tenet. Per eundem Dominum.
+>
+> Benedicamus Domino *cum duplici* alleluia.
+
+**Translation**
+
+> *[End of Matins: the genealogy is read.]* Then the *Te Deum* is said. *The priest's
+> versicle:* The Word was made flesh, alleluia. ℟. And dwelt among us, alleluia.
+>
+> *Then the Mass at midnight is said. Introit:* The Lord said to me: Thou art my Son, this
+> day [have I begotten thee] (Ps 2:7), etc. *When the communion antiphon* In the
+> brightness of the saints, from the womb before the day-star I begot thee (Ps 109:3) *is
+> finished, Lauds begins at once, without its usual opening, and the antiphons are doubled
+> as in the eleventh rubric.*
+>
+> *Antiphon:* "Whom did you see, shepherds? Tell us: proclaim to us who has appeared on
+> earth." "We saw the new-born Saviour, the Lord, amid the choir of angels," alleluia,
+> alleluia. *Psalm 92* The Lord hath reigned, he is clothed with beauty.
+>
+> *Antiphon:* The mother has borne a king whose name is eternal; she has a mother's joy
+> together with the honour of virginity: none like her was ever seen before, nor shall be
+> after, alleluia. *Psalm 99* Shout with joy to God, all the earth; serve the Lord with
+> gladness.
+>
+> *Antiphon:* The angel said to the shepherds: I bring you tidings of great joy, for there
+> is born to us the Saviour of the world, alleluia. (cf. Lk 2:10–11) *Psalm 62* O God, my
+> God.
+>
+> *Antiphon:* There was with the angel a multitude of the heavenly host, praising and
+> saying: Glory to God in the highest, and on earth peace to men of good will, alleluia,
+> alleluia. (Lk 2:13–14) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* A little child, a Son, is born to us today, and he shall be called God, the
+> Mighty One, alleluia, alleluia. (cf. Is 9:6) *Psalm 148* Praise the Lord.
+>
+> *No chapter or hymn is said; at once the antiphon* Glory to God in the highest, and on
+> earth peace to men of good will, alleluia, alleluia *is begun. It is tripled, and sung
+> before the canticle* Benedictus. *When the canticle and antiphon are finished, the
+> celebrant turns to the people, saying* The Lord be with you.
+>
+> *Collect:* Grant us, we beseech thee, O Lord our God, that we who rejoice to celebrate
+> by these mysteries the Nativity of our Lord Jesus Christ may, by worthy lives, come to
+> share his company. Through the same Lord.
+>
+> *Then the deacon says:* Go, it is the dismissal, alleluia, alleluia.
+>
+> *But when Matins is said without the Mass in between, after the antiphons of Lauds the
+> following chapter is said:* The people that walked in darkness have seen a great light;
+> to those who dwelt in the region of the shadow of death a light has risen. (Is 9:2)
+> ℟. Thanks be to God.
+>
+> *Hymn (Sedulius):*
+> From the sun's rising-point to the farthest bounds of the earth, let us sing of Christ
+> the Prince, born of the Virgin Mary.
+> The blessed Maker of the world put on a servant's body, that, freeing flesh by flesh, he
+> might not lose those whom he had made.
+> Heavenly grace enters the womb of the chaste mother; a maiden's womb bears secrets she
+> had not known.
+> The house of a modest heart becomes suddenly the temple of God; untouched, knowing no
+> man, she conceived a Son by a word.
+> The mother brought forth him whom Gabriel had foretold, whom John, leaping in his
+> mother's womb, had sensed while still enclosed there.
+> He endured to lie on hay, he did not shrink from the manger, and he who keeps even the
+> birds from hunger was fed with a little milk.
+> The choir of heaven rejoices, and the angels sing to God, and to the shepherds the
+> Shepherd, the Creator of all, is made known.
+> Glory to thee, O Lord, who wast born of the Virgin, with the Father and the Holy Spirit,
+> for ever and ever. Amen.
+>
+> ℣. Blessed is he that comes in the name of the Lord, alleluia. ℟. The Lord is God, and he
+> has shone upon us, alleluia. (Ps 117:26–27)
+>
+> *Antiphon at the Benedictus:* Glory to God in the highest, and on earth peace to men of
+> good will, alleluia, alleluia.
+>
+> *Collect:* Grant, we beseech thee, almighty God, that the new birth of thine
+> only-begotten Son in the flesh may set us free, whom the old slavery holds under the yoke
+> of sin. Through the same Lord.
+>
+> *Let us bless the Lord,* with a double *alleluia*.
+
+*Notes.* Inserting Lauds into the Midnight Mass, after the communion and in place of the
+post-communion, was also done in some other medieval uses. The two forms here differ:
+inside the Mass there is no chapter, hymn or versicle, and the collect is the Midnight
+Mass's own post-communion (*Da nobis … mysteriis … frequentare*); said apart from the
+Mass, Lauds has the chapter *Populus gentium*, the hymn *A solis ortus cardine*, and the
+collect *Concede … nova per carnem nativitas*.

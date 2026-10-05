@@ -68,3 +68,5 @@
 - 240: O-antiphons rubric (from St Lazarus 17 Dec) + Christmas Eve Matins begins (inv. Prestolantes redemptorem? / Hodie scietis)
 - 241–242: CHRISTMAS EVE LAUDS → done. TODO verify collect 'Deus qui nos redemptionis' full text at 1st Vespers (p.~240?) 
 - NEXT: Christmas (243+) — need images 243–400 are present
+- 243–249: Christmas Matins (genealogy read at end, Te Deum)
+- 249–250: CHRISTMAS LAUDS (within Midnight Mass + alternative form without Mass) → done. 250b: Prime begins
