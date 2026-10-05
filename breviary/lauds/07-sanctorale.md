@@ -4470,9 +4470,9 @@ votive office of the Holy Cross appears in `04-weekday-votive-offices.md`.
 > intercession of thy holy martyrs and bishops Cornelius and Cyprian turn away from us all the
 > evils we justly deserve.
 
-*Note.* The rubric about the "greater church" (*ecclesia maior*) is precious local evidence. The
-conventual church of St John at Rhodes claimed the body of St Euphemia of Chalcedon, and she is
-given a special second Vespers there because of it.
+*Note.* The rubric about the "greater church" (*ecclesia maior*) is good local evidence. The book
+states that a body of St Euphemia was kept in that church, and the saint is given a special
+second Vespers there because of it. The breviary does not say which church this was.
 
 ---
 
