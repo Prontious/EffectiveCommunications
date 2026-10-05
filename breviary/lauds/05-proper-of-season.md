@@ -1967,3 +1967,94 @@ Stephen, John and the Innocents are again very compressed in the print.
 
 *Note.* The collect is cued only by its first words here; its full text would be at first
 Vespers (scan p. 277), which has not been transcribed for this section.
+
+---
+
+## Octave of St Stephen — 2 January (scan p. 281)
+
+From here the octave days of the three Christmas saints are kept as simple feasts of nine
+lessons: the office of Our Lady is resumed, nothing is "doubled", and *alleluia* is
+dropped from the versicles.
+
+**Latin**
+
+> *In crastinum octava sancti Stephani. Fiunt novem lectiones, et recuperatur officium
+> beate Marie; et non dicitur* alleluia *in versibus matutinarum, nec vesperarum nec
+> completorii. Et dicuntur invitatorium, hymni, antiphone, psalmi, versus ut in festo
+> eiusdem sancti Stephani, et nihil duplicatur.* …
+>
+> *Psalmus* Te Deum. In laudibus *versus [et] antiphone* Lapidaverunt; *psalmus* Dominus
+> regnavit, *etc., versus.*
+>
+> *Nota quod si dicta octava fuerit die dominica, vii lectio erit de evangelio dicte
+> dominice, et octava lectio de evangelio festi, etc.; et fit memoria de dominica.
+> Antiphona* Dum medium. ℣. Dominus regnavit. *Oratio* Omnipotens sempiterne.
+>
+> *Memoria de sancto Iohanne. Antiphona* Expandens *[?],* ℣. *et oratio. Memoria de
+> innocentibus. Antiphona* Dignus a dignis *[?] etc.*
+>
+> *Ad omnes horas dicuntur antiphone de laudibus, et ad primam psalmus* Quicunque; *et
+> etiam dicuntur preces, ut in festis ix lectionum.*
+
+**Translation**
+
+> *On the next day, the octave of St Stephen.* Nine lessons are read, and the office of
+> the Blessed Mary is resumed; *alleluia* is not added to the versicles at Matins, Vespers
+> or Compline. The invitatory, hymns, antiphons, psalms and versicles are said as on the
+> feast of St Stephen itself, and nothing is doubled. …
+>
+> *The* Te Deum. **At Lauds**, the versicles and the antiphons *They stoned [Stephen]*,
+> with *Psalm 92* The Lord hath reigned, etc. — all as on the feast (26 December, above).
+>
+> *Note that if the octave falls on a Sunday, the seventh lesson is from the Sunday gospel
+> and the eighth from the gospel of the feast, etc.; and a memorial of the Sunday is made,
+> with the antiphon* While all things were in quiet silence; ℣. The Lord hath reigned;
+> *collect* Almighty and everlasting [God, direct our actions].
+>
+> *Memorial of St John:* the antiphon *Spreading out [?]*, with versicle and collect.
+> *Memorial of the Innocents:* the antiphon *Worthy among the worthy [?] etc.*
+>
+> *At all the hours the antiphons of Lauds are said; at Prime the psalm* Quicunque
+> *[the Athanasian Creed]; and the preces are also said, as on feasts of nine lessons.*
+
+---
+
+## Octave of St John — 3 January (scan p. 282)
+
+**Latin**
+
+> *In octava sancti Iohannis, ix lectiones. Ad matutinas vi lectiones de sermone* Audi
+> fabulam, *et tres lectiones de evangelio festi; et cetera omnia ad matutinas et horas
+> sicut in die festi.*
+
+**Translation**
+
+> *On the octave of St John, nine lessons. At Matins, six lessons from the sermon* Hear a
+> story *[Eusebius's tale of St John and the young robber], and three lessons from the
+> gospel of the feast; and everything else at Matins [and Lauds] and at the hours as on the
+> feast day itself* (27 December, above).
+>
+> *At the end of Matins (scan p. 283):* Everything else as above; if it is a Sunday, a
+> memorial of the Sunday is made as above. *Memorial of the Innocents*, with its antiphon.
+> At the hours as on the feast.
+
+---
+
+## Octave of the Holy Innocents — 4 January (scan p. 283)
+
+**Latin**
+
+> *In octava sanctorum innocentium, ix lectiones. Ad matutinas invitatorium, hymnus,
+> antiphone, psalmi, versus, responsoria ut in die* … *In quacunque [die] evenerit, dicitur
+> psalmus* Te Deum, *et ad missam dicitur* Gloria in excelsis *et* alleluia. *Cetera omnia
+> ut in festo.*
+
+**Translation**
+
+> *On the octave of the Holy Innocents, nine lessons. At Matins the invitatory, hymn,
+> antiphons, psalms, versicles and responsories as on the feast day* … *On whatever day it
+> falls, the* Te Deum *is said, and at Mass the* Gloria in excelsis *and the* alleluia *are
+> said. Everything else as on the feast* — so Lauds is that of 28 December, above.
+
+*Note.* On the octave the signs of mourning are lifted: the *Te Deum*, *Gloria* and
+*alleluia*, omitted on the feast of the Innocents (unless it fell on a Sunday), return.

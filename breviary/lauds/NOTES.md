@@ -78,3 +78,6 @@
 - 274b–275a: SUNDAY WITHIN CHRISTMAS OCTAVE LAUDS → done (memorial of Sunday, collect Omnipotens…dirige actus). 275: St Sylvester (31 Dec) Matins 'ut in communi unius episcopi et confessoris'
 - 276: ST SYLVESTER LAUDS (cues to Common of bishop-confessor) → done. 276b: 1st Vespers of Circumcision (double)
 - 277–280: CIRCUMCISION; LAUDS p.280 → done (O admirabile commercium set; collect cued only — full text at 1st Vespers ~p.277 not checked)
+- 281: OCTAVE OF ST STEPHEN (2 Jan) → done (Lauds as feast, no alleluia/duplication)
+- 282: OCTAVE OF ST JOHN (3 Jan) → done (all as on feast)
+- 283: end of St John octave; OCTAVE OF INNOCENTS (4 Jan) → done (Te Deum/Gloria/alleluia restored; Lauds as feast)
