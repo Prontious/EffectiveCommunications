@@ -60,3 +60,5 @@
 - 228: EMBER WEDNESDAY LAUDS (Prophete set; collect Festina; no preces/suffrages at Lauds) → done
 - 229: Ember Wed Vespers (Magnificat Ecce ancilla; collect Gratie tue); Thursday Matins. 230: THURSDAY 'DE SYON' LAUDS → done; Fri Matins begins
 - 231: EMBER FRIDAY 'CONSTANTES' LAUDS → done (collect Excita…ut hi qui; closing rubric partly unclear)
+- 232–233: EMBER SATURDAY 'INTUEMINI' LAUDS → done; 1st Vespers Advent IV (collect Excita…et magna nobis virtute), Advent IV Matins (inv. Ecce venit plenitudo temporis)
+- 236: ADVENT IV LAUDS → done (chapter = Gaudete, same as Advent III). Monday Advent IV Matins begins 236b

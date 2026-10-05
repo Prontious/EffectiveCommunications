@@ -737,3 +737,149 @@ sung on the same weekday a week earlier.
 printed in red in the original and is ambiguous: it may mean the following *Friday*, by
 analogy with the Thursday rubric. The last sentence of the rubric is cramped and partly
 illegible in the scan; the words read are given and the doubt marked.
+
+### Ember Saturday — the *Intuemini* Lauds (scan pp. 232–233)
+
+**Latin**
+
+> *[End of Matins:] Sacerdotalis* ℣. Emitte agnum, Domine.
+>
+> In laudibus. *Antiphona.* Intuemini quantus sit gloriosus iste, qui ingreditur ad
+> salvandum populos. *Psalmus* Miserere.
+>
+> *Antiphona.* Vigilate animo: in proximo est Dominus Deus noster. *Psalmus* Bonum est.
+>
+> *Antiphona.* Paratus esto, Israel, in occursum Domini, quoniam venit. *Psalmus* Deus
+> deus.
+>
+> *Antiphona.* Expectetur sicut pluvia eloquium Domini, et descendet sicut ros super nos
+> Deus noster. *Psalmus* Audite celi.
+>
+> *Antiphona.* Ecce ancilla Domini: fiat mihi secundum verbum tuum. *Psalmus* Laudate
+> Dominum de celis.
+>
+> *Capitulum, hymnus et* ℣. *ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Ioseph, fili David, noli timere accipere Mariam coniugem
+> tuam: quod enim in ea natum est de spiritu sancto est, alleluia.
+>
+> *Oratio.* Deus, qui conspicis quia ex nostra pravitate affligimur, concede propicius ut
+> ex tua visitatione consolemur. Qui vivis …
+>
+> *Hore ut supra, cum antiphonis de laudibus, et dicitur oratio dominicalis.*
+
+**Translation**
+
+> *[End of Matins:] The priest's versicle:* Send forth the Lamb, O Lord.
+>
+> **At Lauds.** *Antiphon:* Behold how glorious is he who comes in to save the peoples.
+> *Psalm 50* Have mercy.
+>
+> *Antiphon:* Keep watch in spirit: the Lord our God is near at hand. *Psalm 91* It is
+> good.
+>
+> *Antiphon:* Be ready, O Israel, to meet the Lord, for he is coming. (cf. Amos 4:12)
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* Let the word of the Lord be awaited like the rain, and our God shall come
+> down upon us like the dew. (cf. Deut 32:2) *Canticle of Moses* Hear, O heavens.
+>
+> *Antiphon:* Behold the handmaid of the Lord: be it done to me according to thy word.
+> (Lk 1:38) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter, hymn and versicle as above.*
+>
+> *Antiphon at the Benedictus:* Joseph, son of David, fear not to take Mary thy wife: for
+> that which is born in her is of the Holy Spirit, alleluia. (Mt 1:20)
+>
+> *Collect:* O God, who seest that we are afflicted by our own wickedness, mercifully grant
+> that we may be comforted by thy visitation. Who livest …
+>
+> *At the hours, as above, with the antiphons of Lauds, and the Sunday collect is said.*
+
+*Note.* The fourth antiphon, *Expectetur sicut pluvia*, is cued in Rubric 15 as
+*Expectetur*, and like the others it fits the canticle of its day: Saturday's canticle is
+the Song of Moses, which begins "Let my teaching gather like the rain … like the dew".
+
+---
+
+## Fourth Sunday of Advent (scan p. 236; collect from p. 233)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. Nascetur nobis parvulus. ℣. Emitte agnum, Domine, *ut
+> supra.*
+>
+> In laudibus. *Antiphona.* Canite tuba in Syon, quia prope est dies Domini: ecce veniet
+> ad salvandum nos, alleluia, alleluia. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Ecce veniet desideratus cunctis gentibus, et replebitur gloria domus Domini,
+> alleluia. *Psalmus* Iubilate Deo.
+>
+> *Antiphona.* Erunt prava in directa, et aspera in vias planas: veni, Domine, et noli
+> tardare, alleluia. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Dominus veniet; occurrite illi dicentes: Magnum principium, et regni eius
+> non erit finis: Deus, fortis, dominator, princeps pacis, alleluia, alleluia. *Psalmus*
+> Benedicite omnia.
+>
+> *Antiphona.* Omnipotens sermo tuus, Domine, a regalibus sedibus veniet, alleluia.
+> *Psalmus* Laudate Dominum.
+>
+> *Capitulum.* Gaudete in Domino semper; iterum dico, gaudete; modestia vestra nota sit
+> omnibus hominibus: Dominus prope est. ℟. Deo gratias.
+>
+> *Hymnus,* ℣. *ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Quomodo fiet istud, angele Dei, quia virum in concipiendo
+> non pertuli? Audi, Maria virgo: spiritus sanctus superveniet in te, et virtus altissimi
+> obumbrabit tibi.
+>
+> *Oratio.* Excita, Domine, potentiam tuam et veni, et magna nobis virtute succurre, ut per
+> auxilium gratie tue, quod nostra peccata prepediunt, indulgentia tue propitiationis
+> acceleret. Qui vivis …
+>
+> *Hore ut supra, cum antiphona de laudibus et oratione predicta. Ad vesperas antiphona*
+> Canite tuba; *psalmus* Dixit Dominus, *et ceteri psalmi cum hac sola.*
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Unto us a child shall be born* is repeated. ℣. Send
+> forth the Lamb, O Lord, *as above.*
+>
+> **At Lauds.** *Antiphon:* Blow the trumpet in Sion, for the day of the Lord is near:
+> behold, he shall come to save us, alleluia, alleluia. (cf. Joel 2:1) *Psalm 92* The Lord
+> hath reigned.
+>
+> *Antiphon:* Behold, the one desired by all nations shall come, and the house of the Lord
+> shall be filled with glory, alleluia. (cf. Hag 2:8) *Psalm 99* Shout with joy to God.
+>
+> *Antiphon:* The crooked shall be made straight, and the rough ways plain: come, O Lord,
+> and do not delay, alleluia. *Psalm 62* O God, my God.
+>
+> *Antiphon:* The Lord shall come; go out to meet him, saying: Great is his dominion, and
+> of his kingdom there shall be no end: God, the Mighty One, the Ruler, the Prince of
+> Peace, alleluia, alleluia. (cf. Is 9:6–7) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* Thy almighty word, O Lord, shall come down from thy royal throne, alleluia.
+> (cf. Wis 18:15) *Psalm 148* Praise the Lord.
+>
+> *Chapter:* Rejoice in the Lord always; again I say, rejoice; let your moderation be known
+> to all men: the Lord is near. (Phil 4:4–5) ℟. Thanks be to God.
+>
+> *Hymn and versicle as above.*
+>
+> *Antiphon at the Benedictus:* "How shall this be, angel of God, since I have not known a
+> man?" "Hear, Virgin Mary: the Holy Spirit shall come upon thee, and the power of the
+> Most High shall overshadow thee." (cf. Lk 1:34–35)
+>
+> *Collect:* Stir up thy power, O Lord, and come, and succour us with great might, that by
+> the help of thy grace the pardon of thy mercy may hasten what our sins delay. Who
+> livest …
+>
+> *The hours as above, with the antiphon of Lauds and the collect just given. At Vespers,
+> the antiphon* Blow the trumpet, *with Psalm 109* The Lord said *and the other psalms,
+> under this one antiphon.*
+
+*Note.* Advent IV repeats the chapter of Advent III (*Gaudete*, Phil 4:4–5) rather than
+having its own.
