@@ -220,3 +220,5 @@
 - 619–622: SS PHILIP & JAMES 1 May (semidouble; 5 Jn 14 ants Domine ostende nobis patrem…; Bened. Non turbetur cor vestrum; collect Deus qui nos annua apostolorum) + ST ATHANASIUS 2 May (collect) → done
 - 623–627: FINDING OF THE HOLY CROSS 3 May (double) LAUDS → done (5 Helena/Judas ants; cap Mihi autem absit; hymn Signum crucis; Bened. O crux benedicta; collect Deus qui in preclara; memorial Alexander etc.)
 - 628: ST CYRIACUS (Judas) bishop of Jerusalem 4 May (Common martyr-bishop; collect Da quesumus…Quiriaci; Rogation rule) → done
+- 629: ST ANGELUS (Carmelite) 5 May (Common one martyr; collect Deus fidelium remunerator) → done
+- 630: ST JOHN BEFORE THE LATIN GATE 6 May (semidouble; as St Mark; collect Deus qui conspicis quia nos undique) → done

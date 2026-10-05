@@ -2197,3 +2197,49 @@ baptised as Cyriacus and made bishop of Jerusalem.
 episcopus*), martyred under Julian the Apostate, and have him say: "From my parents I received the
 name Judas; but after I showed Helena the precious wood of the Lord … she ordered me to be called
 Cyriacus."
+
+### St Angelus, Priest and Martyr — 5 May (scan p. 629)
+
+> *Sancti Angeli martyris, ix lectiones; omnia in communi unius martyris.*
+>
+> *Oratio.* Deus, fidelium remunerator animarum, qui hunc diem beati Angeli sacerdotis tui martyrio
+> consecrasti, tribue, quesumus, nobis famulis tuis, ut cuius veneramur festivitatem, eius precibus
+> consequamur. Per Dominum.
+
+> *St Angelus, martyr: nine lessons; everything in the Common of one martyr.*
+>
+> *Collect:* O God, who rewardest faithful souls, and didst consecrate this day by the martyrdom of
+> blessed Angelus thy priest: grant, we beseech thee, to us thy servants, that we may obtain by his
+> prayers [the help of him] whose feast we honour. Through [our] Lord.
+
+*Note.* Angelus of Sicily (d. 1220) was a Carmelite from the hermits of **Mount Carmel**; his
+lessons record that he preached in the presence of St Dominic and St Francis, who knelt before
+him. With St Cyril of Carmel (6 March), he is one of the Carmelite saints in this calendar.
+
+### St John before the Latin Gate — 6 May (scan p. 630)
+
+A semidouble, recalling the legend that St John was thrown into a cauldron of boiling oil
+outside the Latin Gate of Rome and came out unharmed. Lauds is kept as on the feast of St Mark
+(the Eastertide Common of an apostle).
+
+> *Sancti Iohannis ante portam Latinam, apostoli et evangeliste, semiduplex.* … *Ad* Magnificat
+> *antiphona.* In ferventis olei dolium missus Iohannes apostolus, divina se protegente gratia,
+> illesus exivit.
+>
+> *Oratio.* Deus, qui conspicis quia nos undique mala nostra perturbant, presta, quesumus, ut beati
+> Iohannis apostoli tui et evangeliste intercessio gloriosa nos protegat. Per Dominum.
+>
+> *Ad matutinas invitatorium, hymni, antiphone, psalmi, versus, responsoria ut in festo sancti
+> Marci* — *and so Lauds also.*
+
+> *St John before the Latin Gate, apostle and evangelist: semidouble.* … *Magnificat antiphon:*
+> Thrown into a cauldron of boiling oil, John the apostle, protected by divine grace, came out
+> unharmed.
+>
+> *Collect:* O God, who seest that our troubles beset us on every side: grant, we beseech thee,
+> that the glorious intercession of blessed John, thy apostle and evangelist, may protect us.
+> Through [our] Lord.
+>
+> *At Matins the invitatory, hymns, antiphons, psalms, versicles and responsories are as on the feast
+> of St Mark* — and so Lauds also (the Eastertide antiphons *In celestibus regnis*, the hymn *Claro
+> paschali gaudio*, the Benedictus antiphon *Lux perpetua*).
