@@ -2405,3 +2405,95 @@ major pilgrimage in the later Middle Ages.
 
 *Note.* His lessons call him "a Cypriot by birth" (*Cyprius genere*); Cyprus was the Order's
 headquarters before it moved to Rhodes in 1310.
+
+### SS Basilides, Cyrinus, Nabor and Nazarius, Martyrs — 12 June (scan p. 636)
+
+> *Sanctorum Basilidis, Cyrini, Naboris, Nazarii et Celsi martyrum, ix lectiones; omnia ut in
+> communi plurimorum martyrum.*
+>
+> *Oratio.* Sanctorum martyrum tuorum Basilidis, Cyrini, Naboris, Nazarii et Celsi, quesumus,
+> Domine, ut natalicia nobis votiva resplendeant, et quod illis contulit excellentia sempiterna,
+> fructibus nostre devotionis accrescat. Per Christum.
+
+> *SS Basilides, Cyrinus, Nabor, Nazarius and Celsus, martyrs: nine lessons; everything as in the
+> Common of several martyrs.*
+>
+> *Collect:* May the heavenly birthday of thy holy martyrs Basilides, Cyrinus, Nabor, Nazarius and
+> Celsus, we beseech thee, O Lord, shine upon us as we long for it, and may the eternal glory it
+> brought them increase in the fruits of our devotion. Through Christ.
+
+### St Anthony of Padua, Confessor — 13 June (scan p. 636)
+
+> *Sancti Anthonii de Padua; omnia ut in communi unius confessoris non episcopi, ix lectiones.*
+
+> *St Anthony of Padua: everything as in the Common of one confessor not a bishop; nine lessons.*
+
+### St Elisha the Prophet — 14 June (scan p. 636)
+
+> *Sancti Helisei prophete, ix lectiones; omnia ut [in communi] unius confessoris non episcopi.*
+>
+> *Oratio.* Deus, qui beatum Heliseum prophetam, montis Carmeli incolam, altis mirificasti
+> prodigiis et illustrasti doctrinis, tribue, quesumus, nobis ut eius exempla sequentes ad te
+> pervenire mereamur. Per Dominum.
+
+> *St Elisha the prophet: nine lessons; everything as [in the Common] of one confessor not a bishop.*
+>
+> *Collect:* O God, who didst make blessed Elisha the prophet, dweller on Mount Carmel, wonderful by
+> high marvels and glorious by his teaching: grant us, we beseech thee, that following his example we
+> may be worthy to come to thee. Through [our] Lord.
+
+*Note.* An Old Testament prophet kept as a saint, and described as a "dweller on Mount Carmel"
+(cf. 2 Kgs 2:25; 4:25): another feast from the Holy Land and Carmelite tradition in this calendar.
+
+### SS Vitus, Modestus and Crescentia, Martyrs — 15 June (scan p. 636)
+
+> *Sanctorum Viti, Modesti atque Crescentie martyrum, ix lectiones; omnia ut in communi plurimorum
+> martyrum.*
+>
+> *Oratio.* Da ecclesie tue, quesumus, Domine, sanctis martyribus tuis Vito, Modesto et Crescentia
+> intercedentibus, superba non sapere, sed humilitate placita proficere, ut prava despiciens,
+> quecunque matura sunt libera exerceat charitate. Per Dominum.
+
+> *SS Vitus, Modestus and Crescentia, martyrs: nine lessons; everything as in the Common of several
+> martyrs.*
+>
+> *Collect:* Grant to thy Church, we beseech thee, O Lord, through the intercession of thy holy
+> martyrs Vitus, Modestus and Crescentia, not to think proud thoughts, but to advance in the humility
+> that pleases thee, so that, despising what is wrong, she may do whatever is right with free and
+> loving heart. Through [our] Lord.
+
+### SS Cyricus and Julitta, Martyrs — 16 June (scan p. 636)
+
+> *Sanctorum Cirici et Iulitte matris eius martyrum, ix lectiones; omnia de communi martyrum.*
+>
+> *Oratio.* Exaudi nos, Domine Deus noster, cum sanctorum martyrum tuorum Cirici et Iulitte matris
+> eius tibi patrocinia supplicantes, da ut quorum celebramus triumphos possimus retinere constantiam.
+> Per Dominum.
+
+> *SS Cyricus and Julitta his mother, martyrs: nine lessons; everything from the Common of martyrs.*
+>
+> *Collect:* Hear us, O Lord our God, as we plead with thee the patronage of thy holy martyrs Cyricus
+> and Julitta his mother: grant that we may hold fast the constancy of those whose triumphs we
+> celebrate. Through [our] Lord.
+
+### SS Mark and Marcellian, Martyrs — 18 June (scan p. 636)
+
+> *Sanctorum Marci et Marcelliani martyrum, ix lectiones; omnia ut in communi plurimorum martyrum.
+> Oratio* Presta, quesumus, omnipotens Deus, ut qui glorio[sos martyres …] *[cued]*.
+
+> *SS Mark and Marcellian, martyrs: nine lessons; everything as in the Common of several martyrs.
+> Collect* Grant, we beseech thee, almighty God, that we who [celebrate] the glorious [martyrs …]
+> *[cued]*.
+
+### SS Gervase and Protase, Martyrs — 19 June (scan p. 636)
+
+> *Sanctorum Gervasii et Prothasii martyrum, ix lectiones; omnia ut in communi plurimorum martyrum.*
+>
+> *Oratio.* Deus, qui nos annua sanctorum martyrum tuorum Gervasii et Prothasii solemnitate
+> letificas, concede propitius ut quorum gaudemus meritis, accendamur exemplis. Per Dominum.
+
+> *SS Gervase and Protase, martyrs: nine lessons; everything as in the Common of several martyrs.*
+>
+> *Collect:* O God, who gladdenest us with the yearly solemnity of thy holy martyrs Gervase and
+> Protase: mercifully grant that we may be kindled by the example of those in whose merits we
+> rejoice. Through [our] Lord.
