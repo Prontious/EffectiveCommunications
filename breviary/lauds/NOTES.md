@@ -48,3 +48,15 @@
 - 211–212: ADVENT I MONDAY LAUDS + FULL FERIAL PRECES → 05 (done). 212b: Tuesday hours, Vespers
 - NEXT: 213 Tuesday...
 - 213: Tue Vespers end, Tue Matins. 214: TUE + WED LAUDS (Bened. ant only). 215: THU + FRI LAUDS → 05 (done)
+- 216: SAT ADVENT I LAUDS (Bened. ant. Syon noli timere) → done. Then 1st Vespers Advent II (collect Excita Domine corda nostra), Advent II Matins (inv. Rex noster adveniet)
+- 217–218: Advent II Matins. 219: ADVENT II LAUDS → 05 (done); Mon of Advent II Matins begins 219b
+- 220: ADVENT II MON + TUE Bened. ants → 05 (done); Wed Matins begins
+- 221: ADVENT II WED + THU Bened. ants → done; Fri Matins begins
+- 222: ADVENT II FRI Bened. ant → done; Sat Matins begins
+- 223: ADVENT II SAT Bened. ant → done; 1st Vespers Advent III (collect Aurem tuam), Advent III Matins (inv. Surgite vigilemus)
+- 224–225: Advent III Matins. 225b–226: ADVENT III LAUDS → done. 226b: Advent III Monday Bened. ant → done
+- NOTE: from Advent III week the Ember days & O-antiphon ferias (Rubric 15 cues: Ecce veniet, Rorate, Prophete, De Syon, Constantes, Intuemini) should appear
+- 227: ADVENT III TUE Bened. ant → done; EMBER WEDNESDAY Matins begins (no BVM office; inv. Prope est iam Dominus; gospel Missus est)
+- 228: EMBER WEDNESDAY LAUDS (Prophete set; collect Festina; no preces/suffrages at Lauds) → done
+- 229: Ember Wed Vespers (Magnificat Ecce ancilla; collect Gratie tue); Thursday Matins. 230: THURSDAY 'DE SYON' LAUDS → done; Fri Matins begins
+- 231: EMBER FRIDAY 'CONSTANTES' LAUDS → done (collect Excita…ut hi qui; closing rubric partly unclear)

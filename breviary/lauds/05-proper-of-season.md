@@ -276,3 +276,464 @@ and the memorials follow "as above".
 > *Friday.* Lauds according to the weekday. *Antiphon at the Benedictus:* Behold, the Lord
 > shall come, and a man of the house of David, to sit upon the throne, alleluia. The
 > preces and collect as above.
+
+**Saturday (scan p. 216)**
+
+> *Sabbato. … Versus ut supra. Laudes de feria. Ad* Benedictus *antiphona.* Syon, noli
+> timere: ecce Deus tuus veniet, alleluia.
+
+> *Saturday.* … Versicle as above. Lauds of the weekday. *Antiphon at the Benedictus:* Fear
+> not, O Sion: behold, thy God will come, alleluia. (cf. Zeph 3:16; Is 40:9)
+
+---
+
+## Second Sunday of Advent (scan p. 219; collect from p. 216)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* Rex noster adveniet. *Sacerdotalis* ℣. Emitte agnum,
+> Domine.
+>
+> In laudibus. *Antiphona.* Ecce in nubibus celi Dominus veniet cum potestate magna,
+> alleluia. *Psalmus* Dominus regnavit decorem.
+>
+> *Antiphona.* Urbs fortitudinis nostre Syon; salvator ponetur in ea murus et antemurale:
+> aperite portas, quia nobiscum Deus, alleluia. *Psalmus* Iubilate.
+>
+> *Antiphona.* Ecce apparebit Dominus, et non mentietur; si moram fecerit, expecta eum,
+> quia veniet et non tardabit, alleluia. *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Montes et colles cantabunt coram Deo laudes, et omnia ligna silvarum
+> plaudent manibus, quoniam veniet Dominus dominator in regnum eternum, alleluia,
+> alleluia. *Psalmus* Benedicite.
+>
+> *Antiphona.* Ecce Dominus cum virtute veniet, et illuminabit oculos servorum suorum,
+> alleluia. *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum.* Quecunque scripta sunt, ad nostram doctrinam scripta sunt, ut per
+> patientiam et consolationem scripturarum spem habeamus. ℟. Deo gratias.
+>
+> *Hymnus* Vox clara ecce. ℣. *ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Super solium David et super regnum eius sedebit in eternum,
+> alleluia.
+>
+> *Oratio.* Excita, quesumus, Domine, corda nostra ad preparandas unigeniti tui vias, ut
+> per eius adventum purificatis tibi mentibus servire mereamur. Qui tecum vivit et
+> regnat …
+>
+> *Ad primam antiphona* Ecce in nubibus … *Ad tertiam, sextam, nonam antiphone de
+> laudibus; capitula, ℟. et ℣. ut in prima dominica, cum oratione* Excita quesumus Domine
+> corda. *Ad vesperas antiphona* Ecce in nubibus; *psalmus* Dixit Dominus, *et ceteri
+> psalmi cum hac sola antiphona.*
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Our King will come* is repeated. *The priest's
+> versicle:* Send forth the Lamb, O Lord.
+>
+> **At Lauds.** *Antiphon:* Behold, the Lord shall come on the clouds of heaven with great
+> power, alleluia. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Sion is the city of our strength; a saviour shall be set in it as a wall and
+> a bulwark: open the gates, for God is with us, alleluia. (cf. Is 26:1–2) *Psalm 99*
+> Shout with joy.
+>
+> *Antiphon:* Behold, the Lord shall appear, and shall not lie; if he tarry, wait for him,
+> for he will surely come and will not delay, alleluia. (cf. Hab 2:3) *Psalm 62* O God, my
+> God.
+>
+> *Antiphon:* The mountains and the hills shall sing praises before God, and all the trees
+> of the forest shall clap their hands; for the Lord the ruler shall come into his
+> everlasting kingdom, alleluia, alleluia. (cf. Is 55:12) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Behold, the Lord shall come with power, and shall enlighten the eyes of his
+> servants, alleluia. *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* Whatsoever things were written were written for our learning, that through
+> patience and the comfort of the scriptures we might have hope. (Rom 15:4) ℟. Thanks be to
+> God.
+>
+> *Hymn* Hark, a clear voice sounds forth. *The versicle as above.*
+>
+> *Antiphon at the Benedictus:* Upon the throne of David and upon his kingdom he shall sit
+> for ever, alleluia. (cf. Is 9:7)
+>
+> *Collect:* Stir up our hearts, we beseech thee, O Lord, to prepare the ways of thine
+> only-begotten Son, that through his coming we may be worthy to serve thee with purified
+> minds. Who lives and reigns with thee …
+>
+> *At Prime the antiphon* Behold, on the clouds … *At Terce, Sext and None, the antiphons of
+> Lauds; the chapters, responsories and versicles as on the first Sunday, with the collect*
+> Stir up our hearts. *At Vespers, the antiphon* Behold, on the clouds, *with Psalm 109* The
+> Lord said, *and the other psalms, all under this one antiphon.*
+
+---
+
+## Weekdays of the second week of Advent (scan pp. 220–)
+
+Ferial Lauds as in the first week, with the Sunday collect *Excita, quesumus, Domine,
+corda nostra*. Only the Benedictus antiphons are proper.
+
+**Latin**
+
+> *Feria ii. Ad* Benedictus *antiphona.* De celo veniet dominator Dominus, et in manu eius
+> honor et imperium. *Oratio dominicalis.*
+>
+> *Feria iii. Ad* Benedictus *antiphona.* Super te, Hierusalem, orietur Dominus, et gloria
+> eius in te videbitur.
+>
+> *Feria iiii. Ad* Benedictus *antiphona.* Ecce mitto angelum meum, qui preparabit viam
+> ante faciem tuam.
+>
+> *Feria v. Ad* Benedictus *antiphona.* Tu es qui venturus es, Domine, quem expectamus, ut
+> salvum facias populum tuum.
+>
+> *Feria vi. Ad* Benedictus *antiphona.* Dicite, pusillanimes: Confortamini; ecce Dominus
+> noster veniet.
+>
+> *Sabbato. Ad* Benedictus *antiphona.* Levabit Dominus signum in nationibus, et
+> congregabit dispersos Israel.
+
+**Translation**
+
+> *Monday.* *Antiphon at the Benedictus:* The Lord, the ruler, shall come from heaven, and
+> in his hand are honour and dominion. The Sunday collect.
+>
+> *Tuesday.* *Antiphon at the Benedictus:* Upon thee, O Jerusalem, the Lord shall rise, and
+> his glory shall be seen in thee. (cf. Is 60:2)
+>
+> *Wednesday.* *Antiphon at the Benedictus:* Behold, I send my angel, who shall prepare the
+> way before thy face. (Mal 3:1; Mt 11:10)
+>
+> *Thursday.* *Antiphon at the Benedictus:* Thou art he that is to come, O Lord, for whom
+> we wait, that thou mayest save thy people. (cf. Mt 11:3)
+>
+> *Friday.* *Antiphon at the Benedictus:* Say to the faint-hearted: Take courage; behold,
+> our Lord will come. (cf. Is 35:4)
+>
+> *Saturday.* *Antiphon at the Benedictus:* The Lord shall set up a standard among the
+> nations, and shall gather together the dispersed of Israel. (cf. Is 11:12)
+
+---
+
+## Third Sunday of Advent (scan pp. 225–226; collect from p. 223)
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* Ecce radix Iesse. ℣. Emitte agnum *ut supra.*
+>
+> In laudibus. *Antiphona.* Veniet Dominus et non tardabit, et illuminabit abscondita
+> tenebrarum, et manifestabit se ad omnes gentes, alleluia. *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Hierusalem, gaude gaudio magno, quia veniet tibi salvator, alleluia.
+> *Psalmus* Iubilate.
+>
+> *Antiphona.* Dabo in Syon salutem, et in Hierusalem gloriam meam, alleluia. *Psalmus*
+> Deus deus.
+>
+> *Antiphona.* Montes et omnes colles humiliabuntur, et erunt prava in directa, et aspera
+> in vias planas: veni, Domine, et noli tardare, alleluia. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Iuste et pie vivamus, expectantes beatam spem et adventum Domini. *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum.* Gaudete in Domino semper; iterum dico, gaudete. Modestia vestra nota sit
+> omnibus hominibus: Dominus prope est.
+>
+> *Hymnus,* ℣. *[ut supra].*
+>
+> *Ad* Benedictus *antiphona.* Iohannes autem, cum audisset in vinculis opera Christi,
+> mittens duos de discipulis suis, ait illi: Tu es qui venturus es, an alium expectamus?
+>
+> *Oratio.* Aurem tuam, quesumus, Domine, precibus nostris accommoda, et mentis nostre
+> tenebras gratia tue visitationis illustra. Qui vivis et regnas …
+>
+> *Ad primam antiphona* Veniet Dominus, *ut in laudibus. Ad ceteras horas antiphone de
+> laudibus; capitulum et versus cum oratione* Aurem. *Ad vesperas antiphona* Veniet
+> Dominus et non tardabit; *psalmus* Dixit Dominus, *et ceteri cum hac sola.*
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Behold, the root of Jesse* is repeated. ℣. Send forth
+> the Lamb, *as above*.
+>
+> **At Lauds.** *Antiphon:* The Lord shall come and shall not delay; he shall bring to
+> light the hidden things of darkness, and shall make himself known to all the nations,
+> alleluia. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* O Jerusalem, rejoice with great joy, for thy saviour shall come to thee,
+> alleluia. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* I will give salvation in Sion, and my glory in Jerusalem, alleluia.
+> (Is 46:13) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Every mountain and hill shall be made low, the crooked shall become
+> straight, and the rough ways plain: come, O Lord, and do not delay, alleluia. (cf. Is
+> 40:4) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* Let us live justly and devoutly, awaiting the blessed hope and the coming of
+> the Lord. (cf. Tit 2:12–13) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* Rejoice in the Lord always; again I say, rejoice. Let your moderation be known
+> to all men: the Lord is near. (Phil 4:4–5)
+>
+> *Hymn and versicle [as above].*
+>
+> *Antiphon at the Benedictus:* Now when John had heard in prison the works of Christ, he
+> sent two of his disciples and said to him: Art thou he that is to come, or do we look for
+> another? (Mt 11:2–3)
+>
+> *Collect:* Incline thine ear, we beseech thee, O Lord, to our prayers, and lighten the
+> darkness of our minds by the grace of thy visitation. Who livest and reignest …
+>
+> *At Prime, the antiphon* The Lord shall come, *as at Lauds. At the other hours, the
+> antiphons of Lauds; chapter and versicle, with the collect* Incline thine ear. *At
+> Vespers, the antiphon* The Lord shall come and shall not delay, *with Psalm 109* The Lord
+> said, *and the other psalms under this one antiphon.*
+
+---
+
+## Weekdays of the third week of Advent (scan pp. 226–)
+
+**Latin**
+
+> *Feria ii. Ad* Benedictus *antiphona.* Dicit Dominus: Penitentiam agite;
+> appropinquabit enim regnum celorum, alleluia. *Oratio dominicalis.*
+>
+> *Feria iii. Ad* Benedictus *antiphona.* Consurge, consurge, induere fortitudine, brachium
+> Domini.
+
+**Translation**
+
+> *Monday.* *Antiphon at the Benedictus:* The Lord says: Do penance, for the kingdom of
+> heaven is at hand, alleluia. (cf. Mt 4:17) The Sunday collect.
+>
+> *Tuesday.* *Antiphon at the Benedictus:* Arise, arise, put on strength, O arm of the
+> Lord. (Is 51:9)
+
+### Ember Wednesday of Advent (scan p. 228)
+
+This is the first of the **proper ferial Lauds of late Advent** that Rubric 15 refers to
+by their first antiphon (here *Prophete*, assigned to Wednesday). Unlike ordinary
+weekdays, they replace all five psalter antiphons; the psalms stay those of the day.
+
+**Latin**
+
+> *Feria iiii quatuor temporum. Ad matutinas non dicuntur matutine de beata Maria nec alie
+> hore.* …
+>
+> In laudibus. *Antiphona.* Prophete predicaverunt nasci salvatorem de virgine Maria.
+> *Psalmus* Miserere mei.
+>
+> *Antiphona.* Spiritus Domini super me: evangelizare pauperibus misit me. *Psalmus* Te
+> decet.
+>
+> *Antiphona.* Propter Syon non tacebo, donec egrediatur ut splendor iustus eius. *Psalmus*
+> Deus deus meus.
+>
+> *Antiphona.* Ecce veniet Dominus, ut sedeat cum principibus et solium glorie teneat.
+> *Psalmus* Exultavit cor meum.
+>
+> *Antiphona.* Annunciate populis et dicite: Ecce salvator noster veniet. *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum, hymnus et* ℣. *ut in aliis feriis.*
+>
+> *Ad* Benedictus *antiphona.* Missus est Gabriel angelus ad Mariam virginem desponsatam
+> Ioseph.
+>
+> *Preces non dicuntur, sed immediate dicitur oratio.* Festina, quesumus, Domine, ne
+> tardaveris, et auxilium nobis superne virtutis impende, ut adventus tui consolationibus
+> subleventur qui in tua pietate confidunt. Qui vivis et regnas Deus, per omnia secula
+> seculorum.
+>
+> *Nota quod non dicuntur suffragia sanctorum ob reverentiam evangelii* Missus est Gabriel
+> angelus. *In aliis vero horis, ut supra, cum antiphonis de laudibus et cum oratione
+> dominicali; et etiam dicuntur preces, ut in aliis feriis.*
+
+**Translation**
+
+> *Ember Wednesday.* At Matins the Matins of the Blessed Mary are not said, nor her other
+> hours. …
+>
+> **At Lauds.** *Antiphon:* The prophets foretold that the Saviour would be born of the
+> Virgin Mary. *Psalm 50* Have mercy on me.
+>
+> *Antiphon:* The Spirit of the Lord is upon me: he has sent me to bring good news to the
+> poor. (Is 61:1; Lk 4:18) *Psalm 64* A hymn becometh thee.
+>
+> *Antiphon:* For Sion's sake I will not hold my peace, until her Just One goes forth as
+> brightness. (Is 62:1) *Psalm 62* O God, my God.
+>
+> *Antiphon:* Behold, the Lord shall come, to sit with princes and hold the throne of
+> glory. (cf. 1 Sam 2:8) *Canticle of Hannah* My heart hath rejoiced.
+>
+> *Antiphon:* Announce to the peoples and say: Behold, our Saviour shall come. *Psalm 148*
+> Praise the Lord from the heavens.
+>
+> *Chapter, hymn and versicle as on the other weekdays.*
+>
+> *Antiphon at the Benedictus:* The angel Gabriel was sent to the Virgin Mary, espoused to
+> Joseph. (cf. Lk 1:26–27)
+>
+> *The preces are not said; the collect follows at once:* Make haste, we beseech thee, O
+> Lord, do not delay, and grant us the help of thy power from on high, that those who
+> trust in thy loving kindness may be lifted up by the consolations of thy coming. Who
+> livest and reignest, God, for ever and ever.
+>
+> *Note that the suffrages of the saints are not said, out of reverence for the gospel*
+> The angel Gabriel was sent. *At the other hours, as above, with the antiphons of Lauds
+> and the Sunday collect; and the preces are said there, as on other weekdays.*
+
+*Note.* The fourth antiphon is sung over the canticle of the day, not the *Benedicite*,
+because a ferial Lauds keeps the psalter's psalms; Wednesday's canticle is Hannah's
+(1 Sam 2), and the antiphon *Ecce veniet … solium glorie teneat* quotes that very
+canticle.
+
+### Thursday of the third week — the *De Syon* Lauds (scan p. 230)
+
+**Latin**
+
+> *Nota quod si in sequenti feria v fuerit festum vel vigilia nativitatis Domini, tunc isto
+> die sequentes laudes, videlicet:*
+>
+> *Antiphona.* De Syon veniet Dominus omnipotens, ut salvum faciat populum suum. *Psalmus*
+> Miserere mei.
+>
+> *Antiphona.* Converte, Domine, aliquantulum, et ne tardes venire ad servos tuos.
+> *Psalmus* Domine refugium.
+>
+> *Antiphona.* De Syon veniet qui regnaturus est, Dominus Emanuel, magnum nomen eius.
+> *Psalmus* Deus deus meus.
+>
+> *Antiphona.* Ecce Deus meus, et honorificabo eum; Deus patris mei, et exaltabo eum.
+> *Psalmus* Cantemus Domino.
+>
+> *Antiphona.* Dominus legifer noster, Dominus rex noster; ipse veniet et salvabit nos.
+> *Psalmus* Laudate Dominum de celis.
+>
+> *Capitulum, hymnus et* ℣. *ut supra.*
+>
+> *Ad* Benedictus *antiphona.* Bethleem, non es minima in principibus Iuda: ex te enim
+> exiet dux qui regat populum meum Israel; ipse enim salvum faciet populum suum a peccatis
+> eorum.
+>
+> *Oratio dominicalis. Hore, versus cum antiphonis de laudibus, cum oratione dominicali.*
+>
+> *Et nota quod si in sequenti feria v fiat de ipsa feria, tunc non dicuntur antiphone
+> predicte isto die, usque ad dictam v feriam sequentem. Et scias quod totiens quotiens
+> dicuntur ferialibus diebus antiphone proprie in laudibus, ipse dicte antiphone etiam
+> dicuntur ad horas, videlicet ad primam, tertiam, sextam et nonam, cum oratione
+> dominicali, nisi fuerit expresse oratio propria.*
+
+**Translation**
+
+> Note that if on the following Thursday there is a feast or the vigil of the Lord's
+> Nativity, then on this day the following Lauds are said:
+>
+> *Antiphon:* Out of Sion shall come the Lord Almighty, to save his people. *Psalm 50*
+> Have mercy on me.
+>
+> *Antiphon:* Turn, O Lord, a little, and delay not to come to thy servants. (cf. Ps 89:13)
+> *Psalm 89* Lord, thou hast been our refuge.
+>
+> *Antiphon:* Out of Sion shall come he who is to reign, the Lord Emmanuel; great is his
+> name. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Behold my God, and I will honour him; the God of my father, and I will exalt
+> him. (Ex 15:2) *Canticle of Moses* Let us sing to the Lord.
+>
+> *Antiphon:* The Lord is our lawgiver, the Lord is our king; he will come and save us.
+> (cf. Is 33:22) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter, hymn and versicle as above.*
+>
+> *Antiphon at the Benedictus:* Bethlehem, thou art not the least among the princes of
+> Judah: for out of thee shall come forth a leader who shall rule my people Israel; for he
+> shall save his people from their sins. (cf. Mt 2:6; 1:21)
+>
+> *The Sunday collect. At the hours, the versicles with the antiphons of Lauds, and the
+> Sunday collect.*
+>
+> And note that if the office of the following Thursday is of the weekday itself, then
+> these antiphons are not said on this day, but kept until that following Thursday. And
+> know that whenever proper antiphons are said at Lauds on weekdays, those same antiphons
+> are also said at the hours — that is, at Prime, Terce, Sext and None — with the Sunday
+> collect, unless a proper collect is expressly given.
+
+*Note.* This is the mechanism behind the Advent tables of Rubric 15 (see
+[section 1](01-rubrics.md)): each weekday of the last week of Advent has its own set of
+Lauds antiphons, and when a feast (or Christmas Eve) would take that weekday, the set is
+sung on the same weekday a week earlier.
+
+### Ember Friday — the *Constantes* Lauds (scan p. 231)
+
+**Latin**
+
+> *[End of Matins:]* ℣. Emitte agnum, *ut supra.*
+>
+> *Laudes que sequuntur dicuntur si sequenti die fit vigilia nativitatis Domini.*
+>
+> *Antiphona.* Constantes estote: videbitis auxilium Domini super vos. *Psalmus*
+> Miserere.
+>
+> *Antiphona.* Ad te, Domine, levavi animam meam: veni et eripe me, Domine; ad te confugi.
+> *Psalmus* Domine, exaudi orationem meam, auribus.
+>
+> *Antiphona.* Veni, Domine, et noli tardare; relaxa facinora plebis tue Israel. *Psalmus*
+> Deus deus meus.
+>
+> *Antiphona.* Deus a Libano veniet, et splendor eius sicut lumen erit. *Psalmus* Domine
+> audivi.
+>
+> *Antiphona.* Ego autem ad Dominum aspiciam, et prestolabor Deum salvatorem meum.
+> *Psalmus* Laudate.
+>
+> *Capitulum, hymnus et* ℣. *[ut supra].*
+>
+> *Ad* Benedictus *antiphona.* Ex quo facta est vox salutationis tue in auribus meis,
+> exultavit in gaudio infans in utero meo, alleluia.
+>
+> *Oratio.* Excita, quesumus, Domine, potentiam tuam et veni, ut hi qui in pietate tua
+> confidunt ab omni citius adversitate liberentur. Qui vivis …
+>
+> *Hec oratio dicitur ad vesperas et ad horas; … antiphone de laudibus cum oratione [?].*
+
+**Translation**
+
+> *[End of Matins:]* ℣. Send forth the Lamb, *as above.*
+>
+> The Lauds that follow are said if the vigil of the Lord's Nativity falls on the following
+> day.
+>
+> *Antiphon:* Be steadfast: you shall see the help of the Lord upon you. (cf. 2 Chr 20:17)
+> *Psalm 50* Have mercy.
+>
+> *Antiphon:* To thee, O Lord, have I lifted up my soul: come and deliver me, O Lord; to
+> thee have I fled. *Psalm 142* Hear, O Lord, my prayer; give ear.
+>
+> *Antiphon:* Come, O Lord, and do not delay; forgive the misdeeds of thy people Israel.
+> *Psalm 62* O God, my God.
+>
+> *Antiphon:* God shall come from Lebanon, and his brightness shall be as the light.
+> (cf. Hab 3:3–4) *Canticle of Habakkuk* Lord, I have heard.
+>
+> *Antiphon:* But I will look to the Lord, and wait for God my Saviour. (Mic 7:7) *Psalm
+> 148* Praise.
+>
+> *Chapter, hymn and versicle [as above].*
+>
+> *Antiphon at the Benedictus:* As soon as the voice of thy greeting sounded in my ears,
+> the infant in my womb leapt for joy, alleluia. (Lk 1:44)
+>
+> *Collect:* Stir up thy power, we beseech thee, O Lord, and come, that those who trust in
+> thy loving kindness may be the more speedily delivered from all adversity. Who livest …
+>
+> *This collect is said at Vespers and at the hours; … the antiphons of Lauds with the
+> collect [?].*
+
+*Notes.* The condition "if the vigil of the Nativity falls on the following day" is
+printed in red in the original and is ambiguous: it may mean the following *Friday*, by
+analogy with the Thursday rubric. The last sentence of the rubric is cramped and partly
+illegible in the scan; the words read are given and the doubt marked.
