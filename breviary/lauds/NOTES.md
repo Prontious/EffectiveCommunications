@@ -83,3 +83,5 @@
 - 283: end of St John octave; OCTAVE OF INNOCENTS (4 Jan) → done (Te Deum/Gloria/alleluia restored; Lauds as feast)
 - 284–290: EPIPHANY; LAUDS p.290 → done (hymn Hostis Herodes cued; no memorial)
 - 291–293: EPIPHANY OCTAVE days LAUDS (single ant.; rotating Bened./Magnif. ants list p.291) → done. 293b: Sunday within Epiphany octave Matins begins
+- 294: SUNDAY WITHIN EPIPHANY OCTAVE LAUDS (memorial Fili quid fecisti; collect Vota quesumus) → done
+- 295–297: OCTAVE OF EPIPHANY (13 Jan) LAUDS → done (baptism antiphons Veterem hominem etc.)

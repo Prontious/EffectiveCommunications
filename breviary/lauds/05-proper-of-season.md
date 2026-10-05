@@ -2249,3 +2249,131 @@ of antiphons printed for the purpose.
 octave ("consecutive"), as in the rubric for solemn octaves (see Rubric 12 in
 [section 1](01-rubrics.md)). So on each day Lauds and Vespers use the next two in the
 list.
+
+---
+
+## Sunday within the octave of the Epiphany (scan p. 294)
+
+The octave takes precedence, so Lauds is of the Epiphany. The Sunday — whose gospel is
+the finding of the boy Jesus in the Temple (Lk 2:42–52) — gets a memorial.
+
+**Latin**
+
+> In laudibus. *Antiphona* Ante luciferum. *Psalmus* Dominus regnavit decorem, *et ceteri
+> cum hac sola.* *[Capitulum, hymnus,* ℣. *ut in epiphania.]*
+>
+> *[Ad* Benedictus*] antiphona* Descendit spiritus *[sanctus]*. *Psalmus* Benedictus.
+>
+> *Memoria de dominica. Antiphona.* Fili, quid fecisti nobis sic? Ego et pater tuus
+> dolentes querebamus te. Et quid est quod me querebatis? Nesciebatis quia in his que
+> patris mei sunt oportet me esse? ℣. Dominus regnavit. ℟. Decorem induit.
+>
+> *Oratio.* Vota, quesumus, Domine, supplicantis populi celesti pietate prosequere, ut et
+> que agenda sunt videant, et ad implenda que viderint convalescant. Per Dominum.
+>
+> *Ad horas diei omnia ut in epiphania.*
+
+**Translation**
+
+> **At Lauds.** *The antiphon* Begotten before the day-star; *Psalm 92* The Lord hath
+> reigned, *and the others under this one antiphon.* *[Chapter, hymn and versicle as on the
+> Epiphany.]*
+>
+> *[At the Benedictus] the antiphon* The Holy Spirit came down *[no. 6 in the octave
+> series]*; *the canticle* Benedictus.
+>
+> *Memorial of the Sunday. Antiphon:* "Son, why hast thou done so to us? Thy father and I
+> have sought thee sorrowing." "How is it that you sought me? Did you not know that I must
+> be about my Father's business?" (Lk 2:48–49) ℣. The Lord hath reigned. ℟. He is clothed
+> with beauty.
+>
+> *Collect:* We beseech thee, O Lord, in thy heavenly goodness, attend to the prayers of thy
+> people who call upon thee, that they may both see what they ought to do and have strength
+> to fulfil what they have seen. Through [our] Lord.
+>
+> *At the hours of the day, all as on the Epiphany.*
+
+---
+
+## Octave of the Epiphany — 13 January (scan p. 297)
+
+The octave day has a new set of Lauds antiphons, centred on Christ's baptism in the
+Jordan, which was the Gospel of this day.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *Sacerdotalis* Omnes de Saba.
+>
+> In laudibus. *Antiphona.* Veterem hominem renovans, salvator venit ad baptismum, ut
+> naturam que corrupta est per aquam recuperaret, incorruptibili veste circumamictans nos.
+> *Psalmus* Dominus regnavit.
+>
+> *Antiphona.* Te, qui in spiritu et igne purificas humana contagia, Deum et redemptorem
+> omnes glorificamus. *Psalmus* Iubilate.
+>
+> *Antiphona.* Baptista contremuit, et non audet tangere sanctum Dei verticem, sed clamat
+> cum tremore: Sanctifica me, salvator. *Psalmus* Deus deus.
+>
+> *Antiphona.* Caput draconis salvator contrivit in Iordane flumine; ab eius potestate
+> omnes eripuit. *Psalmus* Benedicite omnia.
+>
+> *Antiphona.* Magnum mysterium declaratur hodie, quia creator omnium in Iordane expurgat
+> nostra facinora. *Psalmus* Laudate Dominum.
+>
+> *Capitulum.* Omnes de Saba venient, aurum et thus deferentes, et laudem Domino
+> annunciantes.
+>
+> *Hymnus* Hostis Herodes. ℣. Adorate Deum.
+>
+> *Ad* Benedictus *antiphona.* Precursor Iohannes exultat cum Iordane, baptizato Domino:
+> facta est orbis terrarum exultatio, facta est peccatorum nostrorum remissio;
+> sanctificans aquas, ipsi omnes clamemus: Miserere nobis.
+>
+> *Oratio* Deus, cuius unigenitus *[cued]*.
+>
+> *Memoria de sanctis. Antiphona* Sint lumbi vestri *[precincti]*. *Oratio* Presta, quesumus
+> *[cued]*.
+>
+> *Ad primam antiphona* Veterem; *cetera ut per octavam. Ad horas antiphone de laudibus;
+> capitulum, responsorium et versus, cum oratione* Deus cuius.
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* All they from Saba.
+>
+> **At Lauds.** *Antiphon:* Renewing the old man, the Saviour comes to baptism, so that by
+> water he might restore the nature that had been corrupted, clothing us round with an
+> incorruptible garment. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* Thee, who in spirit and fire dost cleanse the defilements of mankind, we all
+> glorify as God and Redeemer. *Psalm 99* Shout with joy.
+>
+> *Antiphon:* The Baptist trembled, and dared not touch the holy head of God, but cried out
+> with trembling: Sanctify me, O Saviour. *Psalm 62* O God, my God.
+>
+> *Antiphon:* In the river Jordan the Saviour crushed the dragon's head; he snatched all men
+> from its power. (cf. Ps 73:13–14) *Canticle* Bless [the Lord], all [ye works].
+>
+> *Antiphon:* A great mystery is made known today: the Creator of all things washes away our
+> sins in the Jordan. *Psalm 148* Praise the Lord.
+>
+> *Chapter:* All they from Saba shall come, bringing gold and frankincense, and showing
+> forth praise to the Lord. (Is 60:6)
+>
+> *Hymn* Herod, impious foe. ℣. Adore God.
+>
+> *Antiphon at the Benedictus:* John the Forerunner exults together with the Jordan, now
+> that the Lord is baptised: the whole world rejoices, our sins are forgiven; as he
+> sanctifies the waters, let us all cry to him: Have mercy on us.
+>
+> *Collect* O God, whose only-begotten [Son] *[cued]*.
+>
+> *Memorial of the saints* [of the day]: *the antiphon* Let your loins be girt *(Lk 12:35)*;
+> *the collect* Grant, we beseech thee *[cued]*.
+>
+> *At Prime, the antiphon* Renewing; *the rest as through the octave. At the hours, the
+> antiphons of Lauds; chapter, responsory and versicle, with the collect* O God, whose.
+
+*Note.* The memorial "of the saints" is probably of the confessor kept on 13 January
+(St Hilary in many calendars); the antiphon *Sint lumbi vestri* comes from the Common of
+Confessors.
