@@ -31,6 +31,7 @@ rite that the Knights Hospitaller inherited from the Latin Kingdom.
 4. [Weekday votive offices: St John the Baptist, Holy Cross, Our Lady](04-weekday-votive-offices.md)
 5. [Proper of the Season](05-proper-of-season.md) — complete: Advent to the Commemoration of the Resurrection
 6. [The Dedication of a Church](06-dedication.md)
+7. [Proper of the Saints](07-sanctorale.md)
 
 ## About the book
 

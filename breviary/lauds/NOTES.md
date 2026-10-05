@@ -179,3 +179,5 @@
 - 512–513: COMMEMORATION OF RESURRECTION LAUDS → done (Easter ants; cap Christus resurgens; hymn Sermone blando; Bened. Sedit angelus ad sepulchrum; collect Deus qui per unigenitum)
 - 514: end of Commemoration hours; memorials of Resurrection until Advent; EXPLICIT TEMPORALE. PROPER OF SEASON COMPLETE. NEXT: sanctorale from p.515
 - 515–519: DEDICATION OF A CHURCH (double) LAUDS → 06-dedication.md (ants Domum tuam…; cap Vidi civitatem; hymn Hoc in templo; Bened. Mane surgens Iacob; collect Deus qui invisibiliter)
+- 520: end Dedication; 521: blank leaf w/ later German MS notes (not printed); 523: SANCTORALE begins — opening rubric (St John Baptist weekday office 'de precepto ordinis nostri') + St Saturninus 29 Nov (Common of one martyr; collect) → 07
+- 525–528: ST ANDREW LAUDS (Salve crux speciosa…; Bened. Cum pervenisset; collect Maiestatem tuam) → done; ST ELIGIUS 1 Dec (Common confessor-bishop; collect Deus qui pio pontifici) → done
