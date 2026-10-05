@@ -3720,3 +3720,126 @@ ut familia tua que se affligendo*); here it speaks of "those who" (*qui*) rather
 *Note.* The red rubric before the Benedictus antiphon is compressed and partly unclear in
 the scan. It seems to say that if a nine-lesson feast displaces this week's ferial office,
 the proper antiphons are still to be used within the week.
+
+---
+
+## Passion Sunday — *Dominica de passione* (scan pp. 358–359)
+
+From Passion Sunday the Lenten hymn and versicle give way to Passiontide texts: the hymn
+*Lustra sex qui iam peregit* (the second part of Venantius Fortunatus's *Pange lingua
+gloriosi proelium certaminis*) and the versicle *Eripe me, Domine*.
+
+**Latin**
+
+> *[End of Matins:] Reiteratur* ℟. In te iactatus. ℣. *Sacerdotalis* De ore leonis. ℟.
+> Libera me, Domine.
+>
+> In laudibus. *Antiphona.* Vide, Domine, afflictionem meam, quoniam erectus est inimicus
+> meus. *Psalmus* Miserere.
+>
+> *Antiphona.* In tribulatione invocavi Dominum, et exaudivit me in latitudine. *Psalmus*
+> Confitemini.
+>
+> *Antiphona.* Iudicasti, Domine, causam anime mee, defensor vite mee, Domine Deus meus.
+> *Psalmus* Deus deus.
+>
+> *Antiphona.* Popule meus, quid feci tibi, aut quid molestus fui? Responde mihi.
+> *Psalmus* Benedicite.
+>
+> *Antiphona.* Numquid redditur pro bono malum, quia foderunt foveam anime mee? *Psalmus*
+> Laudate Dominum de celis.
+>
+> *Capitulum.* Confundantur qui me persequuntur, et non confundar ego; paveant illi, et non
+> paveam ego; induc super eos diem afflictionis, et duplici contritione contere eos, Domine
+> Deus noster. ℟. Deo gratias.
+>
+> *Hymnus.* Lustra sex qui iam peregit, / tempus implens corporis, / se volente natus ad hoc,
+> / passioni deditus, / agnus in crucis levatur / immolandus stipite.
+> Hic acetum, fel, arundo, / sputa, clavi, lancea; / mite corpus perforatur, / sanguis, unda
+> profluit: / terra, pontus, astra, mundus / quo lavantur flumine.
+> Crux fidelis, inter omnes / arbor una nobilis: / nulla silva talem profert / fronde, flore,
+> germine; / dulce lignum, dulces clavos, / dulce pondus sustinet.
+> Flecte ramos, arbor alta, / tensa laxa viscera, / et rigor lentescat ille / quem dedit
+> nativitas, / ut superni membra regis / miti tendas stipite.
+> Sola digna tu fuisti / ferre pretium seculi, / atque portum preparare / nauta mundo
+> naufrago, / quem sacer cruor perunxit / fusus agni corpore.
+> Gloria et honor Deo / usquequo altissimo, / una patri filioque, / inclyto paraclito, / cui
+> laus est et potestas / per eterna secula. Amen.
+>
+> ℣. Eripe me, Domine, ab homine malo. ℟. A viro iniquo eripe me.
+>
+> *Ad* Benedictus *[?] antiphona.* Anime impiorum fremebant adversum me, et gravatum est cor
+> meum super eos.
+>
+> *Oratio.* Quesumus, omnipotens Deus, familiam tuam propicius respice, ut te largiente
+> regatur in corpore, et te servante custodiatur in mente. Per Dominum.
+>
+> *Ad primam antiphona.* Ego demonium non habeo, sed honorifico patrem meum, dicit Dominus.
+> … *Nota quod in ultimo versu hymnorum ad primam, tertiam, sextam et nonam, loco de*
+> Gloria, *dicitur* Presta beata trinitas, *usque ad cenam Domini; et* Te summa Deus *[in
+> hymno]* Vexilla regis. *Ad tertiam antiphona.* Ego gloriam meam non quero; est qui querat
+> et iudicet. … *Ad sextam antiphona.* Quinquaginta annos nondum habes, et Abraham vidisti?
+> Amen dico vobis, antequam Abraham fieret, ego sum.
+
+**Translation**
+
+> *[End of Matins:]* The responsory *Upon thee have I been cast* is repeated. *The priest's
+> versicle:* From the lion's mouth. ℟. Deliver me, O Lord. (cf. Ps 21:22)
+>
+> **At Lauds.** *Antiphon:* Behold, O Lord, my affliction, for my enemy is lifted up.
+> (Lam 1:9) *Psalm 50* Have mercy.
+>
+> *Antiphon:* In my trouble I called upon the Lord, and he heard me and set me in a large
+> place. (Ps 117:5) *Psalm 117* Give praise.
+>
+> *Antiphon:* Thou hast judged, O Lord, the cause of my soul, thou defender of my life, O
+> Lord my God. (Lam 3:58) *Psalm 62* O God, my God.
+>
+> *Antiphon:* O my people, what have I done to thee, or in what have I grieved thee? Answer
+> me. (Mic 6:3) *Canticle* Bless [the Lord].
+>
+> *Antiphon:* Shall evil be rendered for good, since they have dug a pit for my soul?
+> (Jer 18:20) *Psalm 148* Praise the Lord from the heavens.
+>
+> *Chapter:* Let them be confounded that persecute me, and let not me be confounded; let them
+> be afraid, and let not me be afraid; bring upon them the day of affliction, and with a
+> double destruction destroy them, O Lord our God. (Jer 17:18) ℟. Thanks be to God.
+>
+> *Hymn (Venantius Fortunatus):*
+> Thirty years now fully spent, the time of his bodily life complete, born for this by his
+> own will and given up to his Passion, the Lamb is lifted up on the cross, to be sacrificed
+> upon the tree.
+> Here are the vinegar, the gall, the reed, the spittle, the nails, the lance; the gentle
+> body is pierced; blood and water flow out — a stream in which earth, sea, stars and the
+> whole world are washed.
+> Faithful Cross, among all trees the one noble tree: no forest brings forth its like in
+> leaf, in flower, in fruit. Sweet the wood, sweet the nails, sweet the weight it bears.
+> Bend thy branches, lofty tree; relax thy taut fibres, and let the hardness that nature gave
+> thee soften, so that thou mayest stretch the limbs of the King on high upon a gentle trunk.
+> Thou alone wast found worthy to bear the ransom of the world, and, as a sailor, to make
+> ready a harbour for a shipwrecked world — thou whom the sacred blood anointed, poured from
+> the body of the Lamb.
+> Glory and honour to God most high for ever — to the Father and the Son together, and to the
+> glorious Paraclete — whose is the praise and the power through endless ages. Amen.
+>
+> ℣. Deliver me, O Lord, from the evil man. ℟. From the unjust man deliver me. (Ps 139:2)
+>
+> *Antiphon at the Benedictus [?]:* The souls of the wicked raged against me, and my heart
+> was heavy over them.
+>
+> *Collect:* We beseech thee, almighty God, look graciously upon thy household, that by thy
+> bounty it may be governed in body, and by thy keeping be guarded in mind. Through [our]
+> Lord.
+>
+> *At Prime, the antiphon:* I have no devil, but I honour my Father, says the Lord. (Jn
+> 8:49) … *Note that in the last verse of the hymns at Prime, Terce, Sext and None, instead of
+> the* Gloria *verse,* Grant, O blessed Trinity *is said, until the Lord's Supper [Maundy
+> Thursday]; and* Thee, highest God *[in the hymn]* The royal banners. *At Terce, the
+> antiphon:* I seek not my own glory; there is one that seeks and judges. (Jn 8:50) … *At
+> Sext, the antiphon:* Thou art not yet fifty years old, and hast thou seen Abraham? Amen I
+> say to you, before Abraham was made, I am. (Jn 8:57–58)
+
+*Note.* The red label before *Anime impiorum* looks in the scan like *Ad ves.* ("at
+Vespers"). But it comes between the Lauds versicle and the Lauds collect, exactly where the
+Benedictus antiphon belongs, so it is very probably *Ad bñs.* (Benedictus), misprinted or
+misread.

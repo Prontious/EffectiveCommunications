@@ -116,3 +116,4 @@
 - 353: LENT IV WED (Rabbi quis peccavit; Deus qui et iustis premia) + THU (Sicut pater suscitat; Presta…quos ieiunia votiva) → done; Fri begins 353b
 - 354: LENT IV FRI (Lazarus amicus noster; Deus qui ineffabilibus) → done; Sat Matins begins (Ego sum lux mundi)
 - 355: LENT IV SAT (Ego sum lux mundi; Fiat Domine…fructuosus) → done; 1st Vespers Passion Sunday (cap. Faciem meam; hymn Vexilla regis — Vespers, not Lauds)
+- 356–359: PASSION SUNDAY LAUDS → done (ants Vide Domine afflictionem…; hymn Lustra sex full; ℣ Eripe me; Bened.[?] Anime impiorum — label looks 'Ad ves.'; collect Quesumus…familiam tuam propicius)
