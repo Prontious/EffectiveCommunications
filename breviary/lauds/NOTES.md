@@ -129,3 +129,5 @@
 - 376–379: GOOD FRIDAY TENEBRAE LAUDS → done (ants Proprio filio…; Bened. Posuerunt super caput; rest as Maundy Thu)
 - 380–382: HOLY SATURDAY TENEBRAE LAUDS → done (ants O mors ero mors tua…; Bened. Mulieres sedentes; 'Et dr bis/hic Kyrieleyson' — uncertain)
 - 383–385: EASTER SUNDAY LAUDS → done (5 Mt 28 ants; no cap/hymn/℣; Bened. Et valde mane ×3; collect Deus qui hodierna die per unigenitum)
+- 388–389: EASTER MONDAY LAUDS (double) → done (single ant. Alleluia; no cap/hymn/℣ all week; Bened. Qui sunt hi sermones; collect Deus qui solemnitate paschali)
+- 390: EASTER TUESDAY LAUDS (Bened. Stetit Iesus in medio; collect Deus qui ecclesiam tuam novo semper fetu) → done

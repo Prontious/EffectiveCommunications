@@ -4659,3 +4659,91 @@ Gospel of the empty tomb in order (Mt 28:2–5).
 *Notes.* Some uses sang the *Visitatio sepulchri* (a short drama of the women at the tomb)
 on Easter morning, but this breviary does not mention it. The opening versicle *Deus in
 adiutorium* is kept at Lauds although it is dropped from the other hours of Easter week.
+
+---
+
+## Easter week
+
+### Monday of Easter week (scan pp. 388–389)
+
+Easter Monday is a double. Its rubric sets the pattern of Lauds for the whole of Easter
+week: a single *Alleluia* antiphon over all the psalms, no chapter, hymn or versicle, and a
+proper Benedictus antiphon from the day's resurrection gospel.
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis.* In resurrectione tua, Christe,
+> alleluia. ℟. Celi et terra letentur, alleluia.
+>
+> In laudibus. *Antiphona.* Alleluia, alleluia. *Psalmus* Dominus regnavit, *et ceteri
+> psalmi cum hac sola; quibus finitis iteratur antiphona. Statim dicitur antiphona sequens,
+> et non dicitur capitulum, nec hymnus, nec* ℣.; *et sic observandum est ad laudes usque ad
+> dominicam proximam.*
+>
+> *[Ad* Benedictus*] antiphona.* Qui sunt hi sermones quos confertis ad invicem ambulantes,
+> et estis tristes? alleluia. Respondens unus, cui nomen Cleophas, dixit ei: Tu solus
+> peregrinus es in Hierusalem, et non cognovisti que facta sunt in illa his diebus?
+> alleluia. Quibus ipse dixit: Que? Et dixerunt de Iesu Nazareno, qui fuit vir propheta,
+> potens in opere et sermone coram Deo et omni populo, alleluia. *Psalmus* Benedictus.
+>
+> *Oratio.* Deus, qui solemnitate paschali mundo remedia contulisti, populum tuum,
+> quesumus, celesti dono prosequere, ut et perfectam libertatem consequi mereatur, et ad
+> vitam proficiat sempiternam. Per Dominum.
+>
+> *Ad primam, tertiam, sextam et nonam omnia ut in die sancto pasche, et sic per octavam
+> usque ad feriam vi.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle:* In thy resurrection, O Christ,
+> alleluia. ℟. Let heaven and earth rejoice, alleluia.
+>
+> **At Lauds.** *Antiphon:* Alleluia, alleluia. *Psalm 92* The Lord hath reigned, *and the
+> other psalms under this one antiphon; when they are finished the antiphon is repeated.
+> The following antiphon is said at once, and no chapter, hymn or versicle is said; and so
+> it is to be kept at Lauds until the following Sunday.*
+>
+> *Antiphon [at the Benedictus]:* "What are these words that you exchange with one another
+> as you walk, and are sad?" alleluia. And one of them, whose name was Cleophas, answering,
+> said to him: "Art thou the only stranger in Jerusalem, and hast not known the things that
+> have been done there in these days?" alleluia. And he said to them: "What things?" And
+> they said: "Concerning Jesus of Nazareth, who was a prophet, mighty in deed and word
+> before God and all the people," alleluia. (Lk 24:17–19) *The canticle* Benedictus.
+>
+> *Collect:* O God, who by the paschal feast hast given remedies to the world, follow thy
+> people, we beseech thee, with thy heavenly gift, that they may be worthy to attain perfect
+> freedom and may advance to eternal life. Through [our] Lord.
+>
+> *At Prime, Terce, Sext and None, everything as on the holy day of Easter, and so through
+> the octave until Friday.*
+
+### Tuesday of Easter week (scan p. 390)
+
+**Latin**
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* In resurrectione, *etc.*
+>
+> In laudibus *ut hesterna die omnia dicuntur, et sic per totam ebdomadam.*
+>
+> *Ad* Benedictus *antiphona.* Stetit Iesus in medio discipulorum suorum, et dixit eis: Pax
+> vobis, alleluia, alleluia.
+>
+> *Oratio.* Deus, qui ecclesiam tuam novo semper fetu multiplicas, concede famulis tuis, ut
+> sacramentum vivendo teneant quod fide perceperunt. Per Dominum.
+>
+> *Ad primam, tertiam, sextam et nonam omnia ut in die sancto pasche.*
+
+**Translation**
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* In thy resurrection, *etc.*
+>
+> **At Lauds,** everything is said as yesterday, *and so through the whole week.*
+>
+> *Antiphon at the Benedictus:* Jesus stood in the midst of his disciples, and said to them:
+> Peace be to you, alleluia, alleluia. (Lk 24:36)
+>
+> *Collect:* O God, who ever increasest thy Church with new offspring, grant to thy servants
+> that they may hold fast in their lives to the sacrament they have received by faith.
+> Through [our] Lord.
+>
+> *At Prime, Terce, Sext and None, everything as on the holy day of Easter.*
