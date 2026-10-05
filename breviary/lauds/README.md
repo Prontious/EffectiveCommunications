@@ -31,7 +31,8 @@ rite that the Knights Hospitaller inherited from the Latin Kingdom.
 4. [Weekday votive offices: St John the Baptist, Holy Cross, Our Lady](04-weekday-votive-offices.md)
 5. [Proper of the Season](05-proper-of-season.md) — complete: Advent to the Commemoration of the Resurrection
 6. [The Dedication of a Church](06-dedication.md)
-7. [Proper of the Saints](07-sanctorale.md)
+7. [Proper of the Saints](07-sanctorale.md) — complete: St Saturninus (29 Nov) to St Linus (26 Nov)
+8. [The Commons of the Saints, Lauds of the Dead, and the end of the book](08-commons.md)
 
 ## About the book
 

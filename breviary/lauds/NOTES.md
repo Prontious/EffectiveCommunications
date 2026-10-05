@@ -275,3 +275,7 @@
 - 819–823: CATHERINE 25 Nov (rhymed Lauds; hymn Presens dies expendatur) → done
 - 824: LINUS 26 Nov; FINIS of sanctorale → done
 - NEXT: Commons from p. 825 ("Incipit commune sanctorum extra tempus paschale")
+- 825–865: COMMONS → 08 (done): vigil of apostle, apostles, evangelists, one martyr, many martyrs, confessor bishop, confessor not bishop/abbot, many confessors, virgin martyr, virgin not martyr, matron, many virgins
+- 195–196: LAUDS OF THE DEAD → 08 (done)
+- 866–871: blessings, reception of habit, Pantaleon absolution, preces contra paganos, earthquake procession, COLOPHON (15 Dec 1517) → summarised in 08
+- TRANSLATION COMPLETE.

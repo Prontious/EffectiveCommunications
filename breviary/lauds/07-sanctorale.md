@@ -3030,7 +3030,7 @@ only from the chapter" (p. 674). That is the Grand Master's palace at Rhodes.*
 > *an.* Maria ergo unxit pedes Iesu et extersit capillis suis, et domus impleta est ex odore
 > unguenti. *ps.* Laudate Dominum.
 >
-> *Capitulum.* Domine Deus meus, exul[tabo?]… *(cue only)*
+> *Capitulum.* Domine Deus meus, exal[tasti super terram habitationem meam].
 >
 > *Hymnus.*
 > Sermone blando angelus / predixit mulieribus: / In Galilea Dominus / videndus est quantocius.
@@ -3073,7 +3073,7 @@ only from the chapter" (p. 674). That is the Grand Master's palace at Rhodes.*
 > *Antiphon:* Mary therefore anointed the feet of Jesus and wiped them with her hair, and the
 > house was filled with the odour of the ointment. (Jn 12:3) *Psalm 148* Praise the Lord.
 >
-> *Chapter:* O Lord my God… *(cue)*
+> *Chapter:* O Lord my God, thou hast exalted [my dwelling place upon the earth]. (Ecclus 51:13)
 >
 > *Hymn.*
 > With gentle words the angel / foretold to the women: / In Galilee the Lord / is to be seen
@@ -3317,8 +3317,9 @@ Joachim, so it is probably a misprint for *Hic*.
 > beseech thee, that by the merits of her who gladly received him into her house we may in thy
 > mercy be received as guests in the heavens.
 
-*Note.* Pantaleon is kept as a double, a rank unusual for him. This suggests a particular local
-cult, but the book gives no reason for it.
+*Note.* Pantaleon is kept as a double, a rank unusual for him. The end of the book explains why: it
+gives a "form of absolution used on the feast of St Pantaleon on account of the indulgences of
+that day" (p. 870; see `08-commons.md`).
 
 ---
 
@@ -4796,7 +4797,8 @@ vidit et gavisus est *(Jn 8:56).
 
 *Note.* The Matins lessons are Genesis 11–12, with responsories from the Abraham cycle of the
 temporale (*Tentavit Deus Abraham*, *Dum staret Abraham ad radicem Mambre*). The Lauds antiphons
-come from the Common of martyrs, adapted here for the patriarchs as "the souls of the just". The
+are those of the Common of many confessors, with *Cum palma* from the Common of many martyrs as
+the second. The hymn *Vos secli iusti* is the second stanza of the apostles' hymn *Exultet celum*. The
 feast is probably another mark of the book's eastern, Jerusalem-facing calendar.
 
 ---
