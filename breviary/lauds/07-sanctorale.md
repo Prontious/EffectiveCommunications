@@ -1017,3 +1017,73 @@ Common of Apostles.
 
 *Note.* This is St Julian, first bishop of Le Mans; his lessons call him "apostle of the city of
 Le Mans" (*Cenomanice urbis*).
+
+### St Agnes "the second time" — 28 January (scan p. 568)
+
+> *Sancte Agnetis secundo, ix lectiones. Et dicitur officium tam ad vesperas quam ad matutinas
+> et alias horas ut in predicto festo sancte Agnetis; lectiones viii de miraculis ipsius, et ix
+> de evangelio* Simile est regnum celorum decem virginibus.
+>
+> *Oratio.* Deus, qui nos annua beate Agnetis virginis et martyris tue solemnitate letificas, da
+> ut quam veneramur officio, etiam pie conversationis sequamur exemplo. Per Dominum.
+
+> *St Agnes for the second time: nine lessons. The office at Vespers, at Matins [and Lauds] and
+> at the other hours is said as on the feast of St Agnes above; eight lessons from her
+> miracles, and the ninth on the gospel* The kingdom of heaven is like ten virgins.
+>
+> *Collect:* O God, who gladdenest us by the yearly solemnity of blessed Agnes, thy virgin and
+> martyr: grant that we may follow the example of her holy life, as we honour her in this
+> office. Through [our] Lord.
+
+*Note.* "St Agnes the second time" (*Agnetis secundo*) is the old octave-day commemoration of
+the saint; its lessons tell of her appearing to her parents at her tomb, and the healing of the
+princess Constantia.
+
+### SS Papias and Maurus, Martyrs — 29 January (scan p. 569)
+
+> *Sanctorum Papie et Mauri martyrum, ix lectiones; omnia de communi plurimorum martyrum.*
+
+> *SS Papias and Maurus, martyrs: nine lessons; everything from the Common of several martyrs.*
+
+### St Matthias, Bishop of Jerusalem — 30 January (scan p. 569)
+
+> *Hierusalem: sancti Mathie episcopi et confessoris, ix lectiones; omnia de communi unius
+> confessoris et episcopi, cum oratione propria.*
+>
+> *Oratio.* Deus, qui nos beati Mathie confessoris tui atque pontificis annua solemnitate
+> letificas, concede propitius ut cuius natalitia colimus, de eiusdem etiam protectione
+> gaudeamus. Per Dominum.
+
+> *Jerusalem: St Matthias, bishop and confessor: nine lessons; everything from the Common of
+> one confessor and bishop, with the proper collect.*
+>
+> *Collect:* O God, who gladdenest us by the yearly solemnity of blessed Matthias, thy confessor
+> and bishop: mercifully grant that we who keep his heavenly birthday may also rejoice in his
+> protection. Through [our] Lord.
+
+*Note.* The heading *Hierusalem* marks this as a local saint of the Jerusalem church: an early
+bishop of Jerusalem, listed in the ancient episcopal succession of the Holy City. This is one
+of several places where the calendar of the Holy Sepulchre shows through.
+
+---
+
+## February
+
+### St Ignatius of Antioch, Bishop and Martyr — 1 February (scan p. 569)
+
+> *Sancti Ignatii episcopi et martyris, ix lectiones; omnia de communi unius martyris et
+> episcopi; lectiones de vita eius, et oratio propria.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut qui beati Ignatii martyris tui atque
+> pontificis natalicia colimus, intercessione eius in tui nominis amore roboremur. Per Dominum.
+
+> *St Ignatius, bishop and martyr: nine lessons; everything from the Common of one martyr and
+> bishop; the lessons from his life; and the proper collect.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that we who keep the heavenly birthday of
+> blessed Ignatius, thy martyr and bishop, may by his intercession be strengthened in the love
+> of thy name. Through [our] Lord.
+
+*Note.* His first lesson repeats the tradition (from the *Historia tripartita*) that Ignatius
+heard angels singing antiphons and so introduced antiphonal psalmody into the Church — a fitting
+detail for a breviary.

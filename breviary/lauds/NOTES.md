@@ -198,3 +198,5 @@
 - 562–565: ST TIMOTHY 24 Jan (Common; collect Infirmitatem nostram…Thimothei) + CONVERSION OF ST PAUL 25 Jan (semidouble) LAUDS → done (5 ants w/ attached ℣; Bened. Vos qui secuti estis; collect Deus qui universum mundum; memorial St Praejectus)
 - 566: ST POLYCARP 26 Jan (Common martyr-bishop; collect Da nobis…Polycarpi) → done
 - 567: ST JULIAN of Le Mans 27 Jan (Common bishop-confessor; collect Deus qui ecclesie tue beatum Iulianum) → done
+- 568: ST AGNES SECUNDO 28 Jan (all as feast; collect Deus qui nos annua…Agnetis) → done
+- 569: SS PAPIAS & MAURUS 29 Jan (Common several martyrs); ST MATTHIAS BISHOP OF JERUSALEM 30 Jan ('Hierusalem' heading; collect Deus qui nos beati Mathie); ST IGNATIUS 1 Feb (collect Presta…Ignatii) → done
