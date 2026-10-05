@@ -17,3 +17,12 @@
 - 43: PSALTER begins: Sunday Matins (hymns Primo dierum, Nocte surgentes; Ps 1–2)
 - 54–55: SUNDAY LAUDS → 02-psalter-sunday.md (done). 55 col.b: Prime begins (Ps 21)
 - hist OCR: model download failed, fell back to 'lat' — no better; locate by reading images
+- 64: Monday (Feria ii) Matins, Ps 36
+- 65–66: MONDAY LAUDS → 03-psalter-weekdays.md (done); 66 col.b: Tuesday Matins begins (hymn Consors paterni, Ps 38)
+- 66b–72: Tuesday Matins (Pss 38–51)
+- 73–74: TUESDAY LAUDS → done. 74 col.b: Wednesday Matins begins (inv. In manu tua; hymn Rerum creator optime)
+- DECISION: psalms are cued; translate each Lauds psalm once in an appendix (04-...): Pss 5,42,50,62,66,64,89,91,92,99,142,148,149,150, Benedicite, Benedictus (+ check which day psalms)
+- 75–80: Wednesday Matins
+- 81–82: WEDNESDAY LAUDS → done. 82 col.b: Thursday Matins (inv. Adoremus dominum; hymn Nox atra rerum; Ps 68)
+- 82b–90: Thursday Matins (Pss 68–79)
+- 91–93: THURSDAY LAUDS → done. 93 col.b: Friday Matins (inv. Dominum qui fecit nos; hymn Tu trinitatis unitas; Ps 80)
