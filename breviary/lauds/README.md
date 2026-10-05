@@ -28,6 +28,7 @@ rite that the Knights Hospitaller inherited from the Latin Kingdom.
 1. [Rubrics: the general order of Lauds](01-rubrics.md)
 2. [Psalter: Sunday Lauds](02-psalter-sunday.md)
 3. [Psalter: weekday Lauds](03-psalter-weekdays.md)
+4. [Weekday votive offices: St John the Baptist, Holy Cross, Our Lady](04-weekday-votive-offices.md)
 
 ## About the book
 

@@ -31,3 +31,12 @@
 - 103–111: Saturday Matins (Pss 97–108)
 - 112–114: SATURDAY LAUDS → done. 114 col.b: PSALTER VESPERS begins (Sunday Vespers, Ps 109) — psalter Lauds COMPLETE
 - NEXT: canticles section (Benedictus/Benedicite/Te Deum texts printed after psalter?), preces, suffrages; then Proper of Season
+- 115–158: psalter Vespers, Compline, litany etc. (not Lauds) — skim later for preces/suffrages at Lauds
+- 159: votive offices begin (St John Baptist; rubric) — 164: JOHN BAPTIST LAUDS → 04 (done). collect verified on p.160
+- 165–175: rest of St John office (alt. lessons), Vespers etc.
+- 176: Holy Cross office 1st Vespers/Compline/Matins begin (hymn Signum crucis mirabile; collect Deus qui unigeniti)
+- 179: HOLY CROSS LAUDS → 04 (done). Then "Alio die quando agitur de cruce" alt lessons
+- NEXT: BVM Saturday office (~p.180–192?)
+- 180–183: BVM Saturday office 1st Vespers (collect Concede nos, p.181), Matins
+- 184–185: BVM LAUDS → 04 (done). 185: Marian memorial antiphons (Alma redemptoris etc.) — not Lauds-specific
+- Votive offices section COMPLETE. NEXT: find start of Proper of Season (Advent I) — scan ~186+
