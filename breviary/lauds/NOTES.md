@@ -229,3 +229,8 @@
 - 637–644: NATIVITY OF ST JOHN BAPTIST 24 Jun (double, solemn octave) LAUDS → done (ants Elisabeth Zacharie…; cap Audite insule; hymn O nimis felix; Bened. Apertum est os Zacharie; collect Deus qui presentem diem)
 - 644–645: ST JOHN BAPTIST octave (solemn); SS JOHN & PAUL 26 Jun transferred after octave of Visitation (collect Quesumus…geminata leticia; Common several martyrs) → done
 - 646–652: SS PETER & PAUL 29 Jun (double) LAUDS → done (5 Acts ants Petrus et Iohannes…; cap Dixit Dominus Petro; hymn Exultet celum; Bened. Quodcunque ligaveris; collect Deus qui hodiernam diem; memorial St John Baptist)
+- 653–656: COMMEMORATION OF ST PAUL 30 Jun (semidouble; versicle after each psalm) → done
+- 656–657: OCTAVE ST JOHN BAPTIST 1 Jul → done
+- 657–663: VISITATION 2 Jul (double; ants Ut vox Marie…; Bened. Surge propera; collect Deus cuius unigenitus) + within-octave rubric → done
+- 666–668: OCTAVE SS PETER & PAUL (collect Deus cuius dextera); octave of Visitation → done
+- 668–671: ST LEO (II) PM; TRANSLATION OF ST MARTIN 4 Jul; ST MARTIAL; SEVEN BROTHERS 10 Jul (collects) → done

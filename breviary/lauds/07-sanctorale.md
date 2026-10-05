@@ -2689,3 +2689,285 @@ Temple gate, his release from prison, and Christ's promise to him.
 
 *Note.* The memorial of St John is required because SS Peter and Paul fall within the solemn octave
 of the Order's patron.
+
+---
+
+## 30 June — Commemoration of St Paul, Apostle (semidouble)
+
+*Scan pp. 653–656. The office opens "In commemoratione sancti Pauli apostoli semiduplex". The
+rubric at p. 653 notes that in this office "where versicles are said after the psalm, they come
+before the antiphon is repeated". At Lauds each psalm therefore carries its own versicle.*
+
+**Latin**
+
+> *In laudibus an.* Ego plantavi, Apollo rigavit, Deus autem incrementum dedit, alleluia.
+> *ps.* Dominus regnavit. *℣.* Unusquisque propriam mercedem accipiet secundum suum laborem.
+> *an.* Ego.
+>
+> *an.* Libenter gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.
+> *ps.* Jubilate. *℣.* Cum enim infirmor, tunc fortior sum et potens. *an.* Libenter.
+>
+> *an.* Sancte Paule apostole, predicator veritatis et doctor gentium, intercede pro nobis ad
+> Dominum qui te elegit. *ps.* Deus deus. *℣.* Ut digni efficiamur gratia Dei. *an.* Sancte.
+>
+> *an.* Gratia Dei in me vacua non fuit, sed gratia eius semper in me manet. *ps.* Benedicite.
+> *℣.* Gratia Dei sum id quod sum. *an.* Gratia Dei in me.
+>
+> *an.* Damasci prepositus gentis Arethe regis voluit me comprehendere; a fratribus per murum sum
+> missus in sporta, et sic evasi manus eius in nomine Domini. *ps.* Laudate Dominum.
+> *℣.* Deus et Pater Domini nostri Iesu Christi scit quia non mentior. *an.* Damasci.
+>
+> *Capitulum.* Estote prudentes sicut serpentes et simplices sicut columbe, et invenietis requiem
+> animabus vestris.
+>
+> *Hymnus* Exultet celum. *℣.* Annunciaverunt opera.
+>
+> *Ad Benedictus an.* Vos qui secuti estis me sedebitis super sedes iudicantes duodecim tribus
+> Israel, dicit Dominus. *ps.* Benedictus Dominus. *℣.* In regeneratione cum sederit Filius
+> hominis in sede maiestatis sue. *an.* Vos qui.
+>
+> *Oratio.* Deus qui multitudinem gentium beati Pauli apostoli predicatione docuisti: da nobis
+> quesumus ut cuius natalicia colimus, eius apud te patrocinia sentiamus. Per Dominum.
+>
+> *Memoria de sancto Iohanne, oratio* Beati Iohannis Baptiste. *Memoria de sancto Petro, an.* Dixit
+> angelus ad Petrum. *℣.* In omnem terram. *Oratio* Protege Domine.
+>
+> *Ad horas antiphone de laudibus sine ℣. Cetera ut in communi apostolorum cum oratione propria.*
+
+**Translation**
+
+> *At Lauds, antiphon:* I have planted, Apollo watered, but God gave the increase, alleluia.
+> (1 Cor 3:6) *Psalm 92* The Lord hath reigned. *℣.* Every man shall receive his own reward
+> according to his own labour. (1 Cor 3:8) *Antiphon* I have planted.
+>
+> *Antiphon:* Gladly will I glory in my infirmities, that the power of Christ may dwell in me.
+> (2 Cor 12:9) *Psalm 99* Make a joyful noise. *℣.* For when I am weak, then am I stronger and
+> mighty. (2 Cor 12:10) *Antiphon* Gladly.
+>
+> *Antiphon:* Holy Paul the apostle, preacher of truth and teacher of the Gentiles, intercede for
+> us with the Lord who chose thee. *Psalm 62* O God, my God. *℣.* That we may be made worthy of
+> the grace of God. *Antiphon* Holy Paul.
+>
+> *Antiphon:* The grace of God in me hath not been void, but his grace abideth in me always.
+> (1 Cor 15:10) *Canticle* Bless [the Lord]. *℣.* By the grace of God I am what I am. *Antiphon*
+> The grace of God in me.
+>
+> *Antiphon:* At Damascus the governor of the nation under King Aretas would have apprehended me;
+> by the brethren I was let down in a basket over the wall, and so I escaped his hands, in the
+> name of the Lord. (2 Cor 11:32–33) *Psalm 148* Praise the Lord. *℣.* The God and Father of our
+> Lord Jesus Christ knoweth that I lie not. (2 Cor 11:31) *Antiphon* At Damascus.
+>
+> *Chapter:* Be ye wise as serpents and simple as doves, and ye shall find rest for your souls.
+> (Mt 10:16 with 11:29)
+>
+> *Hymn* Let heaven exult. *℣.* They declared the works [of God].
+>
+> *Antiphon at the Benedictus:* You who have followed me shall sit upon seats, judging the twelve
+> tribes of Israel, says the Lord. *Canticle* Blessed be the Lord. *℣.* In the regeneration, when
+> the Son of man shall sit on the seat of his majesty. (Mt 19:28) *Antiphon* You who.
+>
+> *Collect:* O God, who didst teach a multitude of the Gentiles by the preaching of blessed Paul
+> the apostle: grant us, we beseech thee, that we who keep his heavenly birthday may feel his
+> patronage with thee. Through our Lord.
+>
+> *A memorial of St John [the Baptist], collect* Of blessed John the Baptist. *A memorial of St
+> Peter, antiphon* The angel said to Peter. *℣.* Into all the earth. *Collect* Protect, O Lord.
+>
+> *At the Hours, the antiphons of Lauds without versicles. The rest as in the Common of Apostles,
+> with the proper collect.*
+
+*Note.* The single versicle after each psalm (before the antiphon is repeated) is an unusual,
+archaic feature, found in a few local uses for the Pauline office. Two memorials follow at
+Lauds: St John Baptist (still in his octave) and St Peter (so that the two apostles are not
+separated).
+
+---
+
+## 1 July — Octave of St John the Baptist
+
+*Scan pp. 656–657.* The octave day is kept as a solemn octave: Matins of nine lessons, and all
+else as on the feast.
+
+**Latin**
+
+> *In laudibus et cetera ut in die. Memoria de apostolis, an.* Isti sunt due olive, *ut supra in
+> festis Iohannis et Pauli. ℣.* Annunciaverunt. *Oratio.* Deus qui nos annua. *Quere in communi
+> apostolorum. Ad horas ut in die. Ad vesperas omnia fiant de Visitatione ut sequitur.*
+
+**Translation**
+
+> *At Lauds and the rest, as on the feast. A memorial of the apostles [Peter and Paul], antiphon*
+> These are the two olive trees, *as above on the feast of SS John and Paul. ℣.* They declared.
+> *Collect* O God, who [gladden] us yearly; *look for it in the Common of Apostles. At the Hours,
+> as on the feast. At Vespers everything is of the Visitation, as follows.*
+
+---
+
+## 2 July — The Visitation of the Blessed Virgin Mary (double)
+
+*Scan pp. 657–661. First Vespers: chapter* Ego quasi terebinthus, *hymn* Ave maris stella,
+*Magnificat antiphon* Hodie Iohannes Spiritu sancto repletus. *The feast of SS Processus and
+Martinian is transferred to after the octave of the Visitation (p. 658).*
+
+**Latin**
+
+> *In laudibus an.* Ut vox Marie Elisabeth pulsavit auditum, ultra legem nascentium Baptista
+> Domini nativitatem suam gaudio et exultatione prevenit. *ps.* Dominus regnavit.
+>
+> *an.* Nativitatem suam prophetando prevenit, presentia Domini sanctificatus antequam natus.
+> *ps.* Jubilate.
+>
+> *an.* Nondum senserat spiritum vite, et loquente Maria datus est illi spiritus gratie.
+> *ps.* Deus deus.
+>
+> *an.* Insinuavit illi gratia que natura nequivit attingere, et latentem in utero regem parentis
+> evangelizavit eloquio. *ps.* Benedicite.
+>
+> *an.* In secreto maternorum viscerum duo parvuli totius mundi gaudia perludunt futura.
+> *ps.* Laudate.
+>
+> *Capitulum* Ego quasi vitis. *Hymnus* O gloriosa domina. *℣.* Elegit eam.
+>
+> *Ad Benedictus an.* Surge, propera, amica mea, columba mea, formosa mea, et veni; sonet vox tua
+> in auribus meis: vox enim tua dulcis, que dum aures mei corporis tetigit, latenti intra viscera
+> puero Spiritum sanctificationis infudit.
+>
+> *Oratio.* Deus cuius unigenitus, utero adhuc virginis clausus, Iohannem Baptistam Maria salutante
+> Spiritu sancto priusquam nasceretur implevit: da ecclesie tue, ut quos spirituali regeneratione
+> concepit, purificatos tibi filios pariat adoptionis. Per eundem.
+>
+> *Memoria de apostolis, an.* Petrus apostolus. *℣.* Annunciaverunt opera. *Oratio* Deus qui nos
+> annua. *Ad omnes horas antiphone de laudibus.*
+
+**Translation**
+
+> *At Lauds, antiphon:* When the voice of Mary struck the hearing of Elizabeth, the Baptist of
+> the Lord, beyond the law of those that are born, went before his own birth with gladness and
+> exultation. *Psalm 92* The Lord hath reigned.
+>
+> *Antiphon:* By prophesying he went before his own birth, sanctified by the presence of the Lord
+> before he was born. *Psalm 99* Make a joyful noise.
+>
+> *Antiphon:* Not yet had he felt the spirit of life, and as Mary spoke the spirit of grace was
+> given him. *Psalm 62* O God, my God.
+>
+> *Antiphon:* Grace made known to him what nature could not attain, and by his mother's speech he
+> proclaimed the King hidden in the womb. *Canticle* Bless [the Lord].
+>
+> *Antiphon:* In the secret places of their mothers' wombs, two little ones rehearse in play the
+> joys of the whole world to come. *Psalm 148* Praise the Lord.
+>
+> *Chapter* As the vine [I have brought forth]. (Ecclus 24:23) *Hymn* O glorious Lady. *℣.* [God]
+> hath chosen her.
+>
+> *Antiphon at the Benedictus:* Arise, make haste, my love, my dove, my beautiful one, and come;
+> let thy voice sound in my ears: for thy voice is sweet, which, when it touched the ears of my
+> body, poured the Spirit of sanctification into the child hidden within the womb. (after Cant
+> 2:10, 14)
+>
+> *Collect:* O God, whose only-begotten Son, while still enclosed in the Virgin's womb, filled
+> John the Baptist with the Holy Spirit before his birth, at Mary's greeting: grant to thy Church
+> that those whom she has conceived by spiritual regeneration she may bring forth to thee as
+> purified sons of adoption. Through the same.
+>
+> *A memorial of the apostles, antiphon* Peter the apostle. *℣.* They declared the works.
+> *Collect* O God, who [gladden] us yearly. *At all the Hours, the antiphons of Lauds.*
+
+*Note.* The Visitation was extended to the whole Church by Urban VI (1389) and confirmed by
+Sixtus IV, whose indulgences for the feast and octave are recited in the lessons (pp. 662–663).
+The office here is the widespread one with the antiphon *Ut vox Marie*, centred on John's
+sanctification in the womb, which suits the Order's patron. The collect is not the later Roman
+*Famulis tuis* but the older *Deus cuius unigenitus*.
+
+**Within the octave** (p. 662): *In laudibus etc. ut in rubrica xiii. Fiat memoria de apostolis.*
+"At Lauds and the rest, as in Rubric 13; a memorial of the apostles is made." This holds until
+the octave of the apostles. On the Sunday within the octave, Vespers are of the feast.
+
+---
+
+## 6 July — Octave of SS Peter and Paul
+
+*Scan pp. 666–668. On the fourth day within the Visitation octave "the octave of the apostles
+Peter and Paul is kept, as will be seen after these octaves, and a memorial of the Visitation is
+made at Vespers and Matins [Lauds]". Matins from the Common of Apostles with a sermon of St
+Maximus.*
+
+**Latin**
+
+> *In laudibus an.* Hoc est preceptum. *ps.* Dominus regnavit. *Et cetera ad cetera ut in communi.
+> Ad Benedictus an.* Isti sunt due olive, *quere in festo sanctorum Iohannis et Pauli.*
+>
+> *Oratio.* Deus cuius dextera beatum Petrum apostolum ambulantem in fluctibus ne mergeretur
+> erexit, et coapostolum eius Paulum tertio naufragantem de profundo pelagi liberavit: exaudi nos
+> propitius, et concede ut amborum meritis eternitatis gloriam consequamur. Qui vivis.
+>
+> *Memoria de visitatione. Ad horas ut in communi apostolorum cum oratione predicta.*
+
+**Translation**
+
+> *At Lauds, antiphon* This is my commandment. *Psalm 92* The Lord hath reigned. *And the rest to
+> the rest as in the Common. Antiphon at the Benedictus* These are the two olive trees; *look for
+> it on the feast of SS John and Paul.*
+>
+> *Collect:* O God, whose right hand raised up blessed Peter the apostle as he walked upon the
+> waves, lest he should sink, and delivered his fellow apostle Paul from the depth of the sea when
+> he was shipwrecked a third time: mercifully hear us, and grant that by the merits of both we may
+> attain the glory of eternity. Who livest.
+>
+> *A memorial of the Visitation. At the Hours as in the Common of Apostles, with the collect
+> above.*
+
+**Octave of the Visitation** (p. 668): Vespers chapter etc. of the octave of the Visitation, with
+a memorial of the apostles (antiphon *Gloriosi*). *Lauds and the rest as on the feast.*
+
+---
+
+## St Leo, Pope and Martyr; Translation of St Martin (4 July); St Martial; Seven Holy Brothers (10 July)
+
+*Scan pp. 668–671. Each is kept with nine lessons; Lauds from the Common, with these collects.*
+
+**Latin**
+
+> *Sancti Leonis pape et martyris. ix lectiones, omnia ut in communi unius martyris et episcopi.
+> Oratio.* Deus qui beatum Leonem pontificem sanctorum tuorum meritis coequasti: concede
+> propitius, ut qui commemorationis ipsius festa percolimus, vite quoque imitemur exempla. Per.
+>
+> *In translatione sancti Martini ix lectiones, omnia ut in alio festo preter orationem et
+> lectiones. Oratio.* Deus qui populo tuo salutis eterne beatum Martinum ministrum concessisti:
+> presta quesumus, ut quem doctorem [*sic:* rectorem?] vite habuimus in terris, intercessorem
+> semper habere mereamur in celis. Per Dominum.
+>
+> *Marcialis discipuli Domini. ix lectiones, omnia ut in communi apostolorum. Oratio.*
+> Omnipotens sempiterne Deus, qui beatum Marcialem discipulum tuum ecclesie tue sancte preesse
+> voluisti: eius quesumus suffragantibus meritis pietatis tue gratiam largiaris. Per.
+>
+> *Sanctorum septem fratrum martyrum. ix lectiones, omnia ut in communi plurimorum martyrum.
+> Oratio.* Presta quesumus omnipotens Deus, ut qui gloriosos martyres Ianuarium, Felicem,
+> Philippum, Alexandrum, Vitalem, Silvanum atque Marcialem fortes in sua confessione cognovimus,
+> pios apud te in nostra intercessione sentiamus. Per Dominum.
+
+**Translation**
+
+> *St Leo, pope and martyr. Nine lessons, all as in the Common of one martyr and bishop.
+> Collect:* O God, who didst make blessed Leo the pontiff equal in merit to thy saints: mercifully
+> grant that we who keep the feast of his commemoration may also imitate the example of his life.
+>
+> *Translation of St Martin. Nine lessons, all as on his other feast [11 November] except the
+> collect and lessons. Collect:* O God, who didst give blessed Martin to thy people as a minister
+> of eternal salvation: grant, we beseech thee, that we who had him as guide of life on earth may
+> deserve to have him always as intercessor in heaven.
+>
+> *St Martial, disciple of the Lord. Nine lessons, all as in the Common of Apostles. Collect:*
+> Almighty everlasting God, who didst will that blessed Martial thy disciple should preside over
+> thy holy Church: by the help of his merits, we beseech thee, bestow on us the grace of thy
+> loving-kindness.
+>
+> *The Seven Brothers, martyrs. Nine lessons, all as in the Common of many martyrs. Collect:*
+> Grant, we beseech thee, almighty God, that we who know the glorious martyrs Januarius, Felix,
+> Philip, Alexander, Vitalis, Silvanus and Martial to have been strong in their confession may
+> feel them gracious in their intercession for us with thee.
+
+*Note.* Martial of Limoges is ranked here with the apostles, following the Limousin legend
+(read in the lessons) that he was one of the Seventy, baptised by Peter and sent to Gaul. That
+legend was hotly promoted in the eleventh century. The Leo is Leo II (the lessons describe the
+Sixth Council, held in the Trullo palace), though he is styled "martyr".
