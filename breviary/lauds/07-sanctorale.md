@@ -1537,3 +1537,38 @@ collect is long and clumsy in the print; my reading follows its sense.
 
 *Note.* The lessons that follow tell of a different Felicity: the Roman mother of seven martyred
 sons. Medieval books often merged the two.
+
+### The Forty Martyrs of Sebaste — 9 March (scan pp. 597–598)
+
+> *[Sanctorum quadraginta martyrum, ix lectiones; …] Cetera ut in communi, et memoria de
+> quadragesima.*
+>
+> *Oratio.* Propitiare, Domine, quesumus, famulis tuis per sanctorum quadraginta martyrum tuorum
+> merita gloriosa, ut eorum pia intercessione ab omnibus protegamur adversis. Per Dominum.
+
+> *[The Forty Martyrs: nine lessons; …] The rest as in the Common [of several martyrs], with a
+> memorial of Lent.*
+>
+> *Collect:* Be merciful, O Lord, we beseech thee, to thy servants through the glorious merits of
+> thy holy forty martyrs, that by their loving intercession we may be protected from all adversity.
+> Through [our] Lord.
+
+*Note.* The lessons tell how the forty soldiers were left to freeze on a frozen pool at Sebaste in
+Armenia; one gave up and fled to the warm bath and died, and the guard who watched over them saw
+crowns descending and took his place.
+
+### St Gregory the Great, Pope and Doctor — 12 March (scan p. 598)
+
+> *Sancti Gregorii pape et doctoris, semiduplex; omnia ut in communi unius confessoris et
+> episcopi.*
+>
+> *Oratio.* Deus, qui anime famuli tui Gregorii eterne beatitudinis premia contulisti, concede
+> propitius ut qui peccatorum nostrorum pondere premimur, eius apud te precibus sublevemur. Per
+> Dominum.
+
+> *St Gregory, pope and doctor: semidouble; everything as in the Common of one confessor and
+> bishop.*
+>
+> *Collect:* O God, who didst grant to the soul of thy servant Gregory the rewards of eternal
+> blessedness: mercifully grant that we who are weighed down by the burden of our sins may be
+> lifted up by his prayers with thee. Through [our] Lord.
