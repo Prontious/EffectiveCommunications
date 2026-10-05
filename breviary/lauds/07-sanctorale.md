@@ -432,3 +432,86 @@ Nine lessons, with proper antiphons drawn from her *Passion*.
 *Note.* The antiphons follow her legend: at the tomb of St Agatha in Catania, Agatha appeared
 to Lucy in a vision and told her that her own faith had already healed her mother; later, at
 her martyrdom in Syracuse, the fire lit around her did not harm her.
+
+---
+
+## St Lazarus, Bishop and Confessor — 17 December (scan pp. 544–545)
+
+Lazarus of Bethany is honoured here as a bishop, following the tradition that he later
+became bishop (of Kition in Cyprus, or of Marseille in the Provençal legend). His feast
+begins the great "O" antiphons at Vespers.
+
+> *Sancti Lazari episcopi et confessoris, ix lectiones. … Ad matutinas invitatorium, hymni,
+> antiphone, psalmi,* ℣. *et* ℟. *ut in communi unius episcopi et confessoris.* …
+>
+> *Ad* Benedictus *antiphona.* Domine, si hic fuisses, Lazarus non esset mortuus; ecce iam
+> fetet quatriduanus in monumento.
+>
+> *Oratio.* Deus, qui per unigenitum filium tuum Dominum nostrum Iesum Christum beatum
+> Lazarum quatriduanum de monumento suscitasti, erige nos de tumulis peccatorum, ut mereamur
+> adipisci consortia electorum tuorum. Per eundem. *Que dicitur ad omnes horas; cetera ut in
+> communi.*
+>
+> *Et nota quod ab hac die sancti Lazari incipiunt antiphone* O, *ut ordinantur in temporali,
+> et etiam in rubricis adventus.*
+
+> *St Lazarus, bishop and confessor: nine lessons. … At Matins the invitatory, hymns,
+> antiphons, psalms, versicles and responsories as in the Common of one bishop and
+> confessor.* …
+>
+> *Antiphon at the Benedictus:* Lord, if thou hadst been here, Lazarus would not have died;
+> behold, he now stinks, being four days in the tomb. (cf. Jn 11:21, 39)
+>
+> *Collect:* O God, who through thine only-begotten Son, our Lord Jesus Christ, didst raise
+> blessed Lazarus from the tomb after four days: raise us from the graves of our sins, that we
+> may be worthy to attain the company of thine elect. Through the same. *It is said at all the
+> hours; the rest as in the Common.*
+>
+> *And note that from this day of St Lazarus the "O" antiphons begin, as they are arranged in
+> the Proper of the Season and in the rubrics for Advent.*
+
+---
+
+## St Thomas, Apostle — 21 December (scan pp. 545–546)
+
+A semidouble. The office is from the Common of Apostles, with a proper hymn and Magnificat
+antiphon at Vespers, and a proper Benedictus antiphon at Lauds.
+
+> *Sancti Thome apostoli, semiduplex.* … *Ad matutinas omnia ut in communi apostolorum.* …
+>
+> *Ad* Benedictus *antiphona.* Thoma, infer digitum tuum huc, et mitte in latus meum, et noli
+> esse incredulus, sed fidelis.
+>
+> *Oratio.* Da nobis, quesumus, Domine, beati apostoli tui Thome solemnitatibus gloriari, ut
+> eius semper et patrociniis sublevemur, et fidem congrua devotione sectemur. Per Dominum.
+>
+> *Cetera ut in communi apostolorum, cum oratione propria.*
+
+> *St Thomas the Apostle, semidouble.* … *At Matins everything as in the Common of Apostles.*
+> …
+>
+> *Antiphon at the Benedictus:* Thomas, put in thy finger here, and put it into my side, and be
+> not faithless, but believing. (cf. Jn 20:27)
+>
+> *Collect:* Grant us, we beseech thee, O Lord, to glory in the solemnities of thy blessed
+> apostle Thomas, that we may ever be helped by his patronage and follow his faith with fitting
+> devotion. Through [our] Lord.
+>
+> *The rest as in the Common of Apostles, with its own collect.*
+
+*Note.* The Advent memorial on St Thomas's day is the antiphon *Nolite timere* ("Fear not:
+for on the fifth day the Lord will come to you"), given in the Proper of the Season.
+
+---
+
+## Christmastide saints (rubric, scan p. 546)
+
+> *De festis enim que occurrunt a nativitate Domini usque in crastinum octave epiphanie,
+> reperientur suo loco infra dictum tempus; excepto festo sancte Anastasie, quando est in
+> die nativitatis Domini, et festis sanctorum Hylarii et Remigii, que transferuntur [post
+> octavam].*
+
+> The feasts that occur from the Nativity of the Lord to the day after the octave of the
+> Epiphany will be found in their own places within that season [in the Proper of the
+> Season, section 5] — except the feast of St Anastasia, which falls on Christmas Day, and the
+> feasts of SS Hilary and Remigius, which are transferred [to after the octave].

@@ -186,3 +186,4 @@
 - 535–538: St Andrew octave (collect Protegat nos); CONCEPTION BVM 8 Dec (double, solemn octave) LAUDS → done (ants from Dedication adapted; Bened. Quam pulchra es [+odd tail]; collect Deus ineffabilis misericordie)
 - 539: CONCEPTION OCTAVE days (single ant; Bened./Magnif. from nocturn ants; memorial of Advent) → done
 - 540–543: ST LUCY 13 Dec LAUDS → done (ants Orante sancta Lucia…; Bened. Columna es immobilis; collect Exaudi nos Deus salutaris)
+- 544–546: ST LAZARUS 17 Dec (Common bishop-confessor; Bened. Domine si hic fuisses; collect Deus qui per unigenitum…Lazarum; O-antiphons begin) + ST THOMAS AP 21 Dec (semidouble; Bened. Thoma infer; collect Da nobis…Thome) + Christmastide rubric → done
