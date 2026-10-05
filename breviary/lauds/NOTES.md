@@ -206,3 +206,4 @@
 - 585–586: ST APOLLONIA 9 Feb (Common virgin-martyr; collect Deus qui beatam Apolloniam…dolorem dentium) + ST SCHOLASTICA 10 Feb (Common virgin non-martyr; collect Familiam tuam…Scholastice) → done
 - 588: ST VALENTINE 14 Feb (Common; collect Presta…Valentini) + SS FAUSTINUS & JOVITA 15 Feb (Common several martyrs) → done
 - 589: ST JULIANA 16 Feb (Common virgin-martyr; collect Omnipotens…qui infirma mundi eligis — full text) → done
+- 590–594: CHAIR OF ST PETER 22 Feb (semidouble no alleluia; Bened. Quodcunque ligaveris; collect cued) + ST MATTHIAS AP 24 Feb (semidouble; ant Hoc est preceptum; collect Deus qui beatum Mathiam) + ST ALBINUS 1 Mar → done

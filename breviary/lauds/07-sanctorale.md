@@ -1409,3 +1409,90 @@ monastery.
 > [our] Lord.
 
 *Note.* This is the collect cued for St Agnes (21 January) above; here it is printed in full.
+
+### The Chair of St Peter — 22 February (scan pp. 592–593)
+
+A semidouble, without *alleluia*. Lauds is from the Common of a bishop-confessor (*Ecce sacerdos
+magnus*), with a proper Benedictus antiphon.
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Exaltent eum *[in ecclesia plebis]*.
+>
+> In laudibus *antiphona* Ecce sacerdos magnus. *Psalmus* Dominus regnavit, *et cetere ad
+> ceteros. Capitulum* Benedictionem omnium *[gentium]*. *Hymnus* Iesu redemptor. ℣. Exaltent eum.
+>
+> *Ad* Benedictus *antiphona.* Quodcunque ligaveris super terram erit ligatum et in celis; et
+> quodcunque solveris super terram erit solutum et in celis, dicit Dominus Symoni Petro.
+>
+> *Oratio* Deus, qui apostolo *[tuo Petro, collatis clavibus regni celestis …] [cued]*.
+>
+> *Ad primam antiphona* Ecce sacerdos. *Cetera ut in semiduplicibus, sed non dicitur*
+> alleluia.
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Let them exalt him [in the church of
+> the people] (Ps 106:32).
+>
+> **At Lauds,** the antiphon *Behold a great priest*; *Psalm 92* The Lord hath reigned, *and the
+> other antiphons to the other psalms. Chapter* [He gave him] the blessing of all [nations]. *Hymn*
+> Jesus, Redeemer. ℣. Let them exalt him.
+>
+> *Antiphon at the Benedictus:* Whatsoever thou shalt bind upon earth shall be bound also in
+> heaven; and whatsoever thou shalt loose upon earth shall be loosed also in heaven, says the
+> Lord to Simon Peter. (Mt 16:19)
+>
+> *Collect* O God, who [didst give] to thy apostle [Peter the keys of the heavenly kingdom …]
+> *[cued]*.
+>
+> *At Prime, the antiphon* Behold a great priest. *The rest as on semidoubles, but* alleluia *is
+> not said.*
+
+### St Matthias, Apostle — 24 February (scan pp. 593–594)
+
+A semidouble, with a proper hymn at Vespers (*Mathia iuste, duodeno solio*) and a proper Lauds
+antiphon.
+
+> *[End of Matins:] Psalmus* Te Deum. ℣. *sacerdotalis* Dedisti hereditatem.
+>
+> In laudibus *antiphona.* Hoc est preceptum meum, ut diligatis invicem, sicut dilexi vos.
+> *Psalmus* Dominus regnavit, *et cetere ad ceteros. Capitulum* Iam non estis hospites *[et
+> advene …]*. *Hymnus* Exultet celum. ℣. Annunciaverunt opera *[Dei]*.
+>
+> *Ad* Benedictus *antiphona* Estote fortes *[in bello …] [cued]*.
+>
+> *Oratio.* Deus, qui beatum Mathiam apostolorum tuorum collegio sociasti, tribue, quesumus, ut
+> eius interventione tue circa nos pietatis semper viscera sentiamus. Per Dominum.
+>
+> *Ad horas ut [in festo] unius apostoli, cum oratione predicta.*
+
+> *[End of Matins:]* The *Te Deum*. *The priest's versicle* Thou hast given an inheritance.
+>
+> **At Lauds,** the antiphon: This is my commandment, that you love one another, as I have loved
+> you. (Jn 15:12) *Psalm 92* The Lord hath reigned, *and the other antiphons [of the Common of
+> Apostles] to the other psalms. Chapter* Now you are no more strangers [and foreigners …] (Eph
+> 2:19). *Hymn* Let heaven exult. ℣. They declared the works [of God].
+>
+> *Antiphon at the Benedictus* Be strong [in battle …] *[cued, from the Common]*.
+>
+> *Collect:* O God, who didst join blessed Matthias to the company of thy apostles: grant, we
+> beseech thee, that by his intercession we may always feel the tenderness of thy loving kindness
+> towards us. Through [our] Lord.
+>
+> *At the hours, as for one apostle, with the collect given.*
+
+---
+
+## March
+
+### St Albinus, Bishop and Confessor — 1 March (scan p. 594)
+
+> *Sancti Albini episcopi et confessoris, ix lectiones; omnia ut in communi unius episcopi et
+> confessoris.*
+>
+> *Oratio.* Presta, quesumus, omnipotens Deus, ut interveniente pro nobis beato Albino confessore
+> tuo atque pontifice, eius meritis consequamur veniam et pacem. Per Dominum.
+
+> *St Albinus, bishop and confessor: nine lessons; everything as in the Common of one bishop and
+> confessor.*
+>
+> *Collect:* Grant, we beseech thee, almighty God, that through the intercession of blessed
+> Albinus, thy confessor and bishop, we may by his merits obtain pardon and peace. Through [our]
+> Lord.
